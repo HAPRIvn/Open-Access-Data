@@ -21,4 +21,4 @@ There are two way to get the cleaned data
 
 If you run into any error and problem when using this data or running the Do-file, please do not hesitate to contact me via email, <DinhNX@ueh.edu.vn>.
 
-[<img src="https://static.wixstatic.com/media/742178_c1375cf8dde04d6c95b87b0112b85a59~mv2.png" alt="HAPRI Logo" width:"51.8125px" height:"84.4375px">](https://www.hapri.ueh.edu.vn/)
+[<img src="https://static.wixstatic.com/media/742178_c1375cf8dde04d6c95b87b0112b85a59~mv2.png" alt="HAPRI Logo" width:"50" height:"200"/>](https://www.hapri.ueh.edu.vn/)
