@@ -1,5 +1,4 @@
-# COVID19
-COVID-19 Cleaned Database from HAPRI
+# COVID-19 Cleaned Database from HAPRI
 
 [Định Nguyễn](https://www.hapri.ueh.edu.vn/People/Dinh-X-Nguyen), Research Associate, \
 Health and Agriculteral Policy Research Institute - Viện Nghiên cứu Chính sách Sức khỏe và Nông nghiệp \
