@@ -1,5 +1,9 @@
 # COVID-19 Cleaned Database from HAPRI
 
+<p align="center">
+   <img src="https://static.wixstatic.com/media/742178_c317772c976e4134a1ca1f068bba3c46~mv2.png" alt="HAPRI Open Access Data Banner"/>
+</p>
+
 [Định Nguyễn](https://www.hapri.ueh.edu.vn/People/Dinh-X-Nguyen), Research Associate, Email: <DinhNX@ueh.edu.vn> \
 [Health and Agricultural Policy Research Institute](https://www.hapri.ueh.edu.vn/) - Viện Nghiên cứu Chính sách Sức khỏe và Nông nghiệp 
 
