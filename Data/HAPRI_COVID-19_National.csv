@@ -1,4 +1,4 @@
-country_region,country_region_name,country_unsd,country_name,country_iso,last_update,case_confirmed,case_deaths,case_recovered
+country_region,country_region_name,country_unsd,country_name,country_iso,date,case_confirmed,case_deaths,case_recovered
 6,South Asia,4,Afghanistan,AFG,24/02/2020,13,0,0
 6,South Asia,4,Afghanistan,AFG,08/03/2020,8,0,0
 6,South Asia,4,Afghanistan,AFG,10/03/2020,5,0,0
@@ -32,6 +32,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,4,Afghanistan,AFG,12/04/2020,607,18,32
 6,South Asia,4,Afghanistan,AFG,13/04/2020,665,21,32
 6,South Asia,4,Afghanistan,AFG,14/04/2020,714,23,40
+6,South Asia,4,Afghanistan,AFG,15/04/2020,784,25,43
 2,Europe & Central Asia,8,Albania,ALB,09/03/2020,2,0,0
 2,Europe & Central Asia,8,Albania,ALB,10/03/2020,10,0,0
 2,Europe & Central Asia,8,Albania,ALB,11/03/2020,45,2,0
@@ -68,6 +69,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,8,Albania,ALB,12/04/2020,446,23,217
 2,Europe & Central Asia,8,Albania,ALB,13/04/2020,467,23,232
 2,Europe & Central Asia,8,Albania,ALB,14/04/2020,475,24,248
+2,Europe & Central Asia,8,Albania,ALB,15/04/2020,494,25,251
 4,Middle East & North Africa,12,Algeria,DZA,25/02/2020,6,0,0
 4,Middle East & North Africa,12,Algeria,DZA,02/03/2020,3,0,0
 4,Middle East & North Africa,12,Algeria,DZA,03/03/2020,5,0,0
@@ -109,6 +111,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,12,Algeria,DZA,12/04/2020,1914,293,591
 4,Middle East & North Africa,12,Algeria,DZA,13/04/2020,1983,313,601
 4,Middle East & North Africa,12,Algeria,DZA,14/04/2020,2070,326,691
+4,Middle East & North Africa,12,Algeria,DZA,15/04/2020,2160,336,708
 2,Europe & Central Asia,20,Andorra,AND,02/03/2020,10,0,0
 2,Europe & Central Asia,20,Andorra,AND,11/03/2020,1,0,0
 2,Europe & Central Asia,20,Andorra,AND,12/03/2020,1,0,1
@@ -142,6 +145,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,20,Andorra,AND,12/04/2020,638,29,128
 2,Europe & Central Asia,20,Andorra,AND,13/04/2020,646,29,128
 2,Europe & Central Asia,20,Andorra,AND,14/04/2020,659,31,128
+2,Europe & Central Asia,20,Andorra,AND,15/04/2020,673,33,169
 7,Sub-Saharan Africa,24,Angola,AGO,20/03/2020,1,0,0
 7,Sub-Saharan Africa,24,Angola,AGO,21/03/2020,2,0,0
 7,Sub-Saharan Africa,24,Angola,AGO,22/03/2020,2,0,0
@@ -168,6 +172,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,24,Angola,AGO,12/04/2020,19,2,4
 7,Sub-Saharan Africa,24,Angola,AGO,13/04/2020,19,2,4
 7,Sub-Saharan Africa,24,Angola,AGO,14/04/2020,19,2,5
+7,Sub-Saharan Africa,24,Angola,AGO,15/04/2020,19,2,5
 3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,11/03/2020,1,0,0
 3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,13/03/2020,1,0,0
 3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,15/03/2020,7,0,0
@@ -195,6 +200,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,12/04/2020,21,2,0
 3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,13/04/2020,23,2,0
 3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,14/04/2020,23,2,3
+3,Latin America & Caribbean,28,Antigua and Barbuda,ATG,15/04/2020,23,2,3
 2,Europe & Central Asia,31,Azerbaijan,AZE,28/02/2020,1,0,0
 2,Europe & Central Asia,31,Azerbaijan,AZE,01/03/2020,12,0,0
 2,Europe & Central Asia,31,Azerbaijan,AZE,05/03/2020,12,0,0
@@ -230,6 +236,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,31,Azerbaijan,AZE,12/04/2020,1098,11,250
 2,Europe & Central Asia,31,Azerbaijan,AZE,13/04/2020,1148,12,289
 2,Europe & Central Asia,31,Azerbaijan,AZE,14/04/2020,1197,13,351
+2,Europe & Central Asia,31,Azerbaijan,AZE,15/04/2020,1253,13,404
 3,Latin America & Caribbean,32,Argentina,ARG,03/03/2020,1,0,0
 3,Latin America & Caribbean,32,Argentina,ARG,04/03/2020,2,0,0
 3,Latin America & Caribbean,32,Argentina,ARG,06/03/2020,2,0,0
@@ -269,6 +276,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,32,Argentina,ARG,12/04/2020,2142,90,468
 3,Latin America & Caribbean,32,Argentina,ARG,13/04/2020,2208,97,515
 3,Latin America & Caribbean,32,Argentina,ARG,14/04/2020,2277,102,559
+3,Latin America & Caribbean,32,Argentina,ARG,15/04/2020,2443,111,596
 2,Europe & Central Asia,40,Austria,AUT,26/02/2020,2,0,0
 2,Europe & Central Asia,40,Austria,AUT,27/02/2020,6,0,0
 2,Europe & Central Asia,40,Austria,AUT,29/02/2020,9,0,0
@@ -316,6 +324,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,40,Austria,AUT,12/04/2020,13945,350,6987
 2,Europe & Central Asia,40,Austria,AUT,13/04/2020,14041,368,7343
 2,Europe & Central Asia,40,Austria,AUT,14/04/2020,14226,384,7633
+2,Europe & Central Asia,40,Austria,AUT,15/04/2020,14336,393,8098
 3,Latin America & Caribbean,44,Bahamas,BHS,16/03/2020,3,0,0
 3,Latin America & Caribbean,44,Bahamas,BHS,19/03/2020,6,0,0
 3,Latin America & Caribbean,44,Bahamas,BHS,21/03/2020,4,0,0
@@ -343,6 +352,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,44,Bahamas,BHS,12/04/2020,46,8,5
 3,Latin America & Caribbean,44,Bahamas,BHS,13/04/2020,47,8,6
 3,Latin America & Caribbean,44,Bahamas,BHS,14/04/2020,49,8,6
+3,Latin America & Caribbean,44,Bahamas,BHS,15/04/2020,49,8,6
 4,Middle East & North Africa,48,Bahrain,BHR,24/02/2020,1,0,0
 4,Middle East & North Africa,48,Bahrain,BHR,25/02/2020,23,0,0
 4,Middle East & North Africa,48,Bahrain,BHR,26/02/2020,66,0,0
@@ -388,6 +398,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,48,Bahrain,BHR,12/04/2020,1136,6,558
 4,Middle East & North Africa,48,Bahrain,BHR,13/04/2020,1361,6,591
 4,Middle East & North Africa,48,Bahrain,BHR,14/04/2020,1528,7,645
+4,Middle East & North Africa,48,Bahrain,BHR,15/04/2020,1671,7,663
 6,South Asia,50,Bangladesh,BGD,08/03/2020,6,0,0
 6,South Asia,50,Bangladesh,BGD,10/03/2020,9,0,0
 6,South Asia,50,Bangladesh,BGD,11/03/2020,3,0,0
@@ -423,6 +434,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,50,Bangladesh,BGD,12/04/2020,621,34,39
 6,South Asia,50,Bangladesh,BGD,13/04/2020,803,39,42
 6,South Asia,50,Bangladesh,BGD,14/04/2020,1012,46,42
+6,South Asia,50,Bangladesh,BGD,15/04/2020,1231,50,49
 2,Europe & Central Asia,51,Armenia,ARM,01/03/2020,11,0,0
 2,Europe & Central Asia,51,Armenia,ARM,11/03/2020,8,0,0
 2,Europe & Central Asia,51,Armenia,ARM,12/03/2020,4,0,0
@@ -458,6 +470,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,51,Armenia,ARM,12/04/2020,1013,13,197
 2,Europe & Central Asia,51,Armenia,ARM,13/04/2020,1039,14,211
 2,Europe & Central Asia,51,Armenia,ARM,14/04/2020,1067,16,265
+2,Europe & Central Asia,51,Armenia,ARM,15/04/2020,1111,17,297
 3,Latin America & Caribbean,52,Barbados,BRB,17/03/2020,2,0,0
 3,Latin America & Caribbean,52,Barbados,BRB,18/03/2020,2,0,0
 3,Latin America & Caribbean,52,Barbados,BRB,19/03/2020,10,0,0
@@ -486,6 +499,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,52,Barbados,BRB,12/04/2020,71,4,11
 3,Latin America & Caribbean,52,Barbados,BRB,13/04/2020,72,4,13
 3,Latin America & Caribbean,52,Barbados,BRB,14/04/2020,72,4,13
+3,Latin America & Caribbean,52,Barbados,BRB,15/04/2020,73,5,15
 2,Europe & Central Asia,56,Belgium,BEL,04/02/2020,13,0,0
 2,Europe & Central Asia,56,Belgium,BEL,17/02/2020,13,0,13
 2,Europe & Central Asia,56,Belgium,BEL,01/03/2020,2,0,1
@@ -531,6 +545,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,56,Belgium,BEL,12/04/2020,29647,3600,6463
 2,Europe & Central Asia,56,Belgium,BEL,13/04/2020,30589,3903,6707
 2,Europe & Central Asia,56,Belgium,BEL,14/04/2020,31119,4157,6868
+2,Europe & Central Asia,56,Belgium,BEL,15/04/2020,33573,4440,7107
 6,South Asia,64,Bhutan,BTN,06/03/2020,7,0,0
 6,South Asia,64,Bhutan,BTN,11/03/2020,1,0,0
 6,South Asia,64,Bhutan,BTN,13/03/2020,6,0,0
@@ -559,6 +574,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,64,Bhutan,BTN,12/04/2020,5,0,2
 6,South Asia,64,Bhutan,BTN,13/04/2020,5,0,2
 6,South Asia,64,Bhutan,BTN,14/04/2020,5,0,2
+6,South Asia,64,Bhutan,BTN,15/04/2020,5,0,2
 3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,11/03/2020,7,0,0
 3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,14/03/2020,20,0,0
 3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,16/03/2020,22,0,0
@@ -589,6 +605,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,12/04/2020,300,24,2
 3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,13/04/2020,330,27,2
 3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,14/04/2020,354,28,6
+3,Latin America & Caribbean,68,Bolivia (Plurinational State of),BOL,15/04/2020,397,28,7
 2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,05/03/2020,4,0,0
 2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,07/03/2020,9,0,0
 2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,10/03/2020,5,0,0
@@ -626,6 +643,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,12/04/2020,1009,39,193
 2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,13/04/2020,1037,39,206
 2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,14/04/2020,1083,40,236
+2,Europe & Central Asia,70,Bosnia Herzegovina,BIH,15/04/2020,1110,41,253
 7,Sub-Saharan Africa,72,Botswana,BWA,30/03/2020,3,0,0
 7,Sub-Saharan Africa,72,Botswana,BWA,31/03/2020,4,1,0
 7,Sub-Saharan Africa,72,Botswana,BWA,01/04/2020,4,1,0
@@ -642,6 +660,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,72,Botswana,BWA,12/04/2020,13,1,0
 7,Sub-Saharan Africa,72,Botswana,BWA,13/04/2020,13,1,0
 7,Sub-Saharan Africa,72,Botswana,BWA,14/04/2020,13,1,0
+7,Sub-Saharan Africa,72,Botswana,BWA,15/04/2020,13,1,0
 3,Latin America & Caribbean,76,Brazil,BRA,26/02/2020,3,0,0
 3,Latin America & Caribbean,76,Brazil,BRA,29/02/2020,8,0,0
 3,Latin America & Caribbean,76,Brazil,BRA,04/03/2020,8,0,0
@@ -683,6 +702,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,76,Brazil,BRA,12/04/2020,22192,1223,173
 3,Latin America & Caribbean,76,Brazil,BRA,13/04/2020,23430,1328,173
 3,Latin America & Caribbean,76,Brazil,BRA,14/04/2020,25262,1532,3046
+3,Latin America & Caribbean,76,Brazil,BRA,15/04/2020,28320,1736,14026
 3,Latin America & Caribbean,84,Belize,BLZ,23/03/2020,1,0,0
 3,Latin America & Caribbean,84,Belize,BLZ,24/03/2020,1,0,0
 3,Latin America & Caribbean,84,Belize,BLZ,25/03/2020,2,0,0
@@ -706,6 +726,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,84,Belize,BLZ,12/04/2020,14,2,0
 3,Latin America & Caribbean,84,Belize,BLZ,13/04/2020,18,2,0
 3,Latin America & Caribbean,84,Belize,BLZ,14/04/2020,18,2,0
+3,Latin America & Caribbean,84,Belize,BLZ,15/04/2020,18,2,0
 1,East Asia & Pacific,96,Brunei Darussalam,BRN,09/03/2020,1,0,0
 1,East Asia & Pacific,96,Brunei Darussalam,BRN,10/03/2020,1,0,0
 1,East Asia & Pacific,96,Brunei Darussalam,BRN,11/03/2020,59,0,0
@@ -741,6 +762,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,96,Brunei Darussalam,BRN,12/04/2020,136,1,106
 1,East Asia & Pacific,96,Brunei Darussalam,BRN,13/04/2020,136,1,107
 1,East Asia & Pacific,96,Brunei Darussalam,BRN,14/04/2020,136,1,107
+1,East Asia & Pacific,96,Brunei Darussalam,BRN,15/04/2020,136,1,108
 2,Europe & Central Asia,100,Bulgaria,BGR,08/03/2020,4,0,0
 2,Europe & Central Asia,100,Bulgaria,BGR,09/03/2020,8,0,0
 2,Europe & Central Asia,100,Bulgaria,BGR,11/03/2020,37,3,0
@@ -776,6 +798,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,100,Bulgaria,BGR,12/04/2020,675,29,68
 2,Europe & Central Asia,100,Bulgaria,BGR,13/04/2020,685,32,71
 2,Europe & Central Asia,100,Bulgaria,BGR,14/04/2020,713,35,81
+2,Europe & Central Asia,100,Bulgaria,BGR,15/04/2020,747,36,105
 1,East Asia & Pacific,104,Myanmar,MMR,27/03/2020,8,0,0
 1,East Asia & Pacific,104,Myanmar,MMR,28/03/2020,8,0,0
 1,East Asia & Pacific,104,Myanmar,MMR,29/03/2020,10,0,0
@@ -795,6 +818,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,104,Myanmar,MMR,12/04/2020,41,4,2
 1,East Asia & Pacific,104,Myanmar,MMR,13/04/2020,62,4,2
 1,East Asia & Pacific,104,Myanmar,MMR,14/04/2020,63,4,2
+1,East Asia & Pacific,104,Myanmar,MMR,15/04/2020,74,4,2
 7,Sub-Saharan Africa,108,Burundi,BDI,31/03/2020,2,0,0
 7,Sub-Saharan Africa,108,Burundi,BDI,01/04/2020,2,0,0
 7,Sub-Saharan Africa,108,Burundi,BDI,02/04/2020,3,0,0
@@ -810,6 +834,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,108,Burundi,BDI,12/04/2020,5,0,0
 7,Sub-Saharan Africa,108,Burundi,BDI,13/04/2020,5,1,0
 7,Sub-Saharan Africa,108,Burundi,BDI,14/04/2020,5,1,0
+7,Sub-Saharan Africa,108,Burundi,BDI,15/04/2020,5,1,0
 2,Europe & Central Asia,112,Belarus,BLR,28/02/2020,5,0,0
 2,Europe & Central Asia,112,Belarus,BLR,04/03/2020,30,0,0
 2,Europe & Central Asia,112,Belarus,BLR,09/03/2020,6,0,1
@@ -845,6 +870,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,112,Belarus,BLR,12/04/2020,2578,26,203
 2,Europe & Central Asia,112,Belarus,BLR,13/04/2020,2919,29,203
 2,Europe & Central Asia,112,Belarus,BLR,14/04/2020,3281,33,203
+2,Europe & Central Asia,112,Belarus,BLR,15/04/2020,3728,36,203
 1,East Asia & Pacific,116,Cambodia,KHM,27/01/2020,1,0,0
 1,East Asia & Pacific,116,Cambodia,KHM,28/01/2020,1,0,0
 1,East Asia & Pacific,116,Cambodia,KHM,29/01/2020,1,0,0
@@ -883,6 +909,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,116,Cambodia,KHM,12/04/2020,122,0,77
 1,East Asia & Pacific,116,Cambodia,KHM,13/04/2020,122,0,77
 1,East Asia & Pacific,116,Cambodia,KHM,14/04/2020,122,0,91
+1,East Asia & Pacific,116,Cambodia,KHM,15/04/2020,122,0,96
 7,Sub-Saharan Africa,120,Cameroon,CMR,06/03/2020,2,0,0
 7,Sub-Saharan Africa,120,Cameroon,CMR,08/03/2020,10,0,0
 7,Sub-Saharan Africa,120,Cameroon,CMR,11/03/2020,2,0,0
@@ -916,6 +943,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,120,Cameroon,CMR,12/04/2020,820,12,98
 7,Sub-Saharan Africa,120,Cameroon,CMR,13/04/2020,820,12,98
 7,Sub-Saharan Africa,120,Cameroon,CMR,14/04/2020,848,14,130
+7,Sub-Saharan Africa,120,Cameroon,CMR,15/04/2020,848,17,165
 7,Sub-Saharan Africa,132,Cabo Verde,CPV,20/03/2020,1,0,0
 7,Sub-Saharan Africa,132,Cabo Verde,CPV,21/03/2020,4,0,0
 7,Sub-Saharan Africa,132,Cabo Verde,CPV,22/03/2020,3,0,0
@@ -942,6 +970,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,132,Cabo Verde,CPV,12/04/2020,8,1,1
 7,Sub-Saharan Africa,132,Cabo Verde,CPV,13/04/2020,10,1,1
 7,Sub-Saharan Africa,132,Cabo Verde,CPV,14/04/2020,11,1,1
+7,Sub-Saharan Africa,132,Cabo Verde,CPV,15/04/2020,56,1,1
 3,Latin America & Caribbean,136,Cayman Isds,CYM,11/03/2020,1,0,0
 3,Latin America & Caribbean,136,Cayman Isds,CYM,13/03/2020,2,0,0
 7,Sub-Saharan Africa,140,Central African Rep.,CAF,15/03/2020,1,0,0
@@ -971,6 +1000,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,140,Central African Rep.,CAF,12/04/2020,8,0,0
 7,Sub-Saharan Africa,140,Central African Rep.,CAF,13/04/2020,11,0,3
 7,Sub-Saharan Africa,140,Central African Rep.,CAF,14/04/2020,11,0,4
+7,Sub-Saharan Africa,140,Central African Rep.,CAF,15/04/2020,12,0,4
 6,South Asia,144,Sri Lanka,LKA,27/01/2020,1,0,0
 6,South Asia,144,Sri Lanka,LKA,28/01/2020,1,0,0
 6,South Asia,144,Sri Lanka,LKA,29/01/2020,1,0,0
@@ -1011,6 +1041,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,144,Sri Lanka,LKA,12/04/2020,210,7,56
 6,South Asia,144,Sri Lanka,LKA,13/04/2020,217,7,56
 6,South Asia,144,Sri Lanka,LKA,14/04/2020,233,7,61
+6,South Asia,144,Sri Lanka,LKA,15/04/2020,238,7,63
 7,Sub-Saharan Africa,148,Chad,TCD,19/03/2020,2,0,0
 7,Sub-Saharan Africa,148,Chad,TCD,21/03/2020,1,0,0
 7,Sub-Saharan Africa,148,Chad,TCD,22/03/2020,1,0,0
@@ -1037,6 +1068,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,148,Chad,TCD,12/04/2020,18,0,2
 7,Sub-Saharan Africa,148,Chad,TCD,13/04/2020,23,0,2
 7,Sub-Saharan Africa,148,Chad,TCD,14/04/2020,23,0,2
+7,Sub-Saharan Africa,148,Chad,TCD,15/04/2020,23,0,2
 3,Latin America & Caribbean,152,Chile,CHL,03/03/2020,1,0,0
 3,Latin America & Caribbean,152,Chile,CHL,04/03/2020,1,0,0
 3,Latin America & Caribbean,152,Chile,CHL,05/03/2020,12,0,0
@@ -1073,6 +1105,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,152,Chile,CHL,12/04/2020,7213,80,2059
 3,Latin America & Caribbean,152,Chile,CHL,13/04/2020,7525,82,2367
 3,Latin America & Caribbean,152,Chile,CHL,14/04/2020,7917,92,2646
+3,Latin America & Caribbean,152,Chile,CHL,15/04/2020,8273,94,2937
 3,Latin America & Caribbean,170,Colombia,COL,06/03/2020,1,0,0
 3,Latin America & Caribbean,170,Colombia,COL,07/03/2020,3,0,0
 3,Latin America & Caribbean,170,Colombia,COL,10/03/2020,3,0,0
@@ -1109,6 +1142,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,170,Colombia,COL,12/04/2020,2776,109,270
 3,Latin America & Caribbean,170,Colombia,COL,13/04/2020,2852,112,319
 3,Latin America & Caribbean,170,Colombia,COL,14/04/2020,2979,127,354
+3,Latin America & Caribbean,170,Colombia,COL,15/04/2020,3105,131,452
 3,Latin America & Caribbean,175,Mayotte,MYT,16/03/2020,2,0,0
 3,Latin America & Caribbean,175,Mayotte,MYT,18/03/2020,6,0,0
 3,Latin America & Caribbean,175,Mayotte,MYT,20/03/2020,6,0,0
@@ -1140,6 +1174,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,178,Congo,COG,12/04/2020,60,5,5
 7,Sub-Saharan Africa,178,Congo,COG,13/04/2020,60,5,5
 7,Sub-Saharan Africa,178,Congo,COG,14/04/2020,60,5,5
+7,Sub-Saharan Africa,178,Congo,COG,15/04/2020,117,5,11
 7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,11/03/2020,4,0,0
 7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,13/03/2020,6,0,0
 7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,17/03/2020,3,0,0
@@ -1171,6 +1206,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,12/04/2020,234,20,16
 7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,13/04/2020,235,20,17
 7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,14/04/2020,241,20,20
+7,Sub-Saharan Africa,180,"Congo, Dem. Rep.",COD,15/04/2020,254,21,21
 3,Latin America & Caribbean,188,Costa Rica,CRI,06/03/2020,1,0,0
 3,Latin America & Caribbean,188,Costa Rica,CRI,07/03/2020,1,0,0
 3,Latin America & Caribbean,188,Costa Rica,CRI,08/03/2020,5,0,0
@@ -1209,6 +1245,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,188,Costa Rica,CRI,12/04/2020,595,3,56
 3,Latin America & Caribbean,188,Costa Rica,CRI,13/04/2020,612,3,62
 3,Latin America & Caribbean,188,Costa Rica,CRI,14/04/2020,618,3,66
+3,Latin America & Caribbean,188,Costa Rica,CRI,15/04/2020,626,4,67
 2,Europe & Central Asia,191,Croatia,HRV,25/02/2020,1,0,0
 2,Europe & Central Asia,191,Croatia,HRV,26/02/2020,6,0,0
 2,Europe & Central Asia,191,Croatia,HRV,28/02/2020,5,0,0
@@ -1252,6 +1289,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,191,Croatia,HRV,12/04/2020,1600,23,373
 2,Europe & Central Asia,191,Croatia,HRV,13/04/2020,1650,25,400
 2,Europe & Central Asia,191,Croatia,HRV,14/04/2020,1704,31,415
+2,Europe & Central Asia,191,Croatia,HRV,15/04/2020,1741,33,473
 3,Latin America & Caribbean,192,Cuba,CUB,11/03/2020,4,0,0
 3,Latin America & Caribbean,192,Cuba,CUB,12/03/2020,3,0,0
 3,Latin America & Caribbean,192,Cuba,CUB,13/03/2020,12,0,0
@@ -1284,6 +1322,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,192,Cuba,CUB,12/04/2020,669,18,92
 3,Latin America & Caribbean,192,Cuba,CUB,13/04/2020,726,21,121
 3,Latin America & Caribbean,192,Cuba,CUB,14/04/2020,766,21,132
+3,Latin America & Caribbean,192,Cuba,CUB,15/04/2020,814,24,151
 2,Europe & Central Asia,196,Cyprus,CYP,09/03/2020,2,0,0
 2,Europe & Central Asia,196,Cyprus,CYP,10/03/2020,3,0,0
 2,Europe & Central Asia,196,Cyprus,CYP,11/03/2020,26,0,0
@@ -1317,6 +1356,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,196,Cyprus,CYP,12/04/2020,633,11,65
 2,Europe & Central Asia,196,Cyprus,CYP,13/04/2020,662,12,65
 2,Europe & Central Asia,196,Cyprus,CYP,14/04/2020,695,12,65
+2,Europe & Central Asia,196,Cyprus,CYP,15/04/2020,715,12,65
 2,Europe & Central Asia,203,Czechia,CZE,01/03/2020,3,0,0
 2,Europe & Central Asia,203,Czechia,CZE,02/03/2020,3,0,0
 2,Europe & Central Asia,203,Czechia,CZE,03/03/2020,5,0,0
@@ -1360,6 +1400,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,203,Czechia,CZE,12/04/2020,5991,138,464
 2,Europe & Central Asia,203,Czechia,CZE,13/04/2020,6059,143,519
 2,Europe & Central Asia,203,Czechia,CZE,14/04/2020,6111,161,642
+2,Europe & Central Asia,203,Czechia,CZE,15/04/2020,6216,166,819
 7,Sub-Saharan Africa,204,Benin,BEN,16/03/2020,2,0,0
 7,Sub-Saharan Africa,204,Benin,BEN,18/03/2020,8,0,0
 7,Sub-Saharan Africa,204,Benin,BEN,22/03/2020,2,0,0
@@ -1386,6 +1427,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,204,Benin,BEN,12/04/2020,35,1,5
 7,Sub-Saharan Africa,204,Benin,BEN,13/04/2020,35,1,5
 7,Sub-Saharan Africa,204,Benin,BEN,14/04/2020,35,1,18
+7,Sub-Saharan Africa,204,Benin,BEN,15/04/2020,35,1,18
 2,Europe & Central Asia,208,Denmark,DNK,27/02/2020,2,0,0
 2,Europe & Central Asia,208,Denmark,DNK,29/02/2020,3,0,0
 2,Europe & Central Asia,208,Denmark,DNK,01/03/2020,8,0,0
@@ -1429,6 +1471,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,208,Denmark,DNK,12/04/2020,6174,273,2123
 2,Europe & Central Asia,208,Denmark,DNK,13/04/2020,6318,285,2235
 2,Europe & Central Asia,208,Denmark,DNK,14/04/2020,6511,299,2515
+2,Europe & Central Asia,208,Denmark,DNK,15/04/2020,6681,309,2748
 3,Latin America & Caribbean,212,Dominica,DMA,22/03/2020,1,0,0
 3,Latin America & Caribbean,212,Dominica,DMA,23/03/2020,2,0,0
 3,Latin America & Caribbean,212,Dominica,DMA,24/03/2020,2,0,0
@@ -1453,6 +1496,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,212,Dominica,DMA,12/04/2020,16,0,8
 3,Latin America & Caribbean,212,Dominica,DMA,13/04/2020,16,0,8
 3,Latin America & Caribbean,212,Dominica,DMA,14/04/2020,16,0,8
+3,Latin America & Caribbean,212,Dominica,DMA,15/04/2020,16,0,8
 3,Latin America & Caribbean,214,Dominican Rep.,DOM,01/03/2020,1,0,0
 3,Latin America & Caribbean,214,Dominican Rep.,DOM,02/03/2020,4,0,0
 3,Latin America & Caribbean,214,Dominican Rep.,DOM,06/03/2020,4,0,0
@@ -1487,6 +1531,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,214,Dominican Rep.,DOM,12/04/2020,2967,173,131
 3,Latin America & Caribbean,214,Dominican Rep.,DOM,13/04/2020,3167,177,152
 3,Latin America & Caribbean,214,Dominican Rep.,DOM,14/04/2020,3286,183,162
+3,Latin America & Caribbean,214,Dominican Rep.,DOM,15/04/2020,3614,189,208
 3,Latin America & Caribbean,218,Ecuador,ECU,01/03/2020,12,0,0
 3,Latin America & Caribbean,218,Ecuador,ECU,03/03/2020,7,0,0
 3,Latin America & Caribbean,218,Ecuador,ECU,04/03/2020,10,0,0
@@ -1525,6 +1570,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,218,Ecuador,ECU,12/04/2020,7466,333,501
 3,Latin America & Caribbean,218,Ecuador,ECU,13/04/2020,7529,355,597
 3,Latin America & Caribbean,218,Ecuador,ECU,14/04/2020,7603,369,696
+3,Latin America & Caribbean,218,Ecuador,ECU,15/04/2020,7858,388,780
 3,Latin America & Caribbean,222,El Salvador,SLV,19/03/2020,2,0,0
 3,Latin America & Caribbean,222,El Salvador,SLV,21/03/2020,3,0,0
 3,Latin America & Caribbean,222,El Salvador,SLV,22/03/2020,3,0,0
@@ -1551,6 +1597,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,222,El Salvador,SLV,12/04/2020,125,6,21
 3,Latin America & Caribbean,222,El Salvador,SLV,13/04/2020,137,6,22
 3,Latin America & Caribbean,222,El Salvador,SLV,14/04/2020,149,6,25
+3,Latin America & Caribbean,222,El Salvador,SLV,15/04/2020,159,6,30
 7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,15/03/2020,3,0,0
 7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,18/03/2020,4,0,0
 7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,19/03/2020,18,0,0
@@ -1578,6 +1625,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,12/04/2020,21,0,3
 7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,13/04/2020,21,0,4
 7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,14/04/2020,41,0,4
+7,Sub-Saharan Africa,226,Equatorial Guinea,GNQ,15/04/2020,51,0,4
 7,Sub-Saharan Africa,231,Ethiopia,ETH,11/03/2020,1,0,0
 7,Sub-Saharan Africa,231,Ethiopia,ETH,13/03/2020,2,0,0
 7,Sub-Saharan Africa,231,Ethiopia,ETH,16/03/2020,10,0,0
@@ -1607,6 +1655,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,231,Ethiopia,ETH,12/04/2020,71,3,10
 7,Sub-Saharan Africa,231,Ethiopia,ETH,13/04/2020,74,3,14
 7,Sub-Saharan Africa,231,Ethiopia,ETH,14/04/2020,82,3,14
+7,Sub-Saharan Africa,231,Ethiopia,ETH,15/04/2020,85,3,15
 7,Sub-Saharan Africa,232,Eritrea,ERI,21/03/2020,1,0,0
 7,Sub-Saharan Africa,232,Eritrea,ERI,22/03/2020,1,0,0
 7,Sub-Saharan Africa,232,Eritrea,ERI,23/03/2020,1,0,0
@@ -1632,6 +1681,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,232,Eritrea,ERI,12/04/2020,34,0,0
 7,Sub-Saharan Africa,232,Eritrea,ERI,13/04/2020,34,0,0
 7,Sub-Saharan Africa,232,Eritrea,ERI,14/04/2020,34,0,0
+7,Sub-Saharan Africa,232,Eritrea,ERI,15/04/2020,35,0,0
 2,Europe & Central Asia,233,Estonia,EST,27/02/2020,5,0,0
 2,Europe & Central Asia,233,Estonia,EST,03/03/2020,4,0,0
 2,Europe & Central Asia,233,Estonia,EST,05/03/2020,3,0,0
@@ -1670,6 +1720,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,233,Estonia,EST,12/04/2020,1309,25,98
 2,Europe & Central Asia,233,Estonia,EST,13/04/2020,1332,28,102
 2,Europe & Central Asia,233,Estonia,EST,14/04/2020,1373,31,115
+2,Europe & Central Asia,233,Estonia,EST,15/04/2020,1400,35,117
 2,Europe & Central Asia,234,Faroe Islands,FRO,04/03/2020,4,0,0
 2,Europe & Central Asia,234,Faroe Islands,FRO,08/03/2020,6,0,0
 1,East Asia & Pacific,242,Fiji,FJI,19/03/2020,3,0,0
@@ -1697,6 +1748,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,242,Fiji,FJI,12/04/2020,16,0,0
 1,East Asia & Pacific,242,Fiji,FJI,13/04/2020,16,0,0
 1,East Asia & Pacific,242,Fiji,FJI,14/04/2020,16,0,0
+1,East Asia & Pacific,242,Fiji,FJI,15/04/2020,16,0,0
 2,Europe & Central Asia,246,Finland,FIN,29/01/2020,1,0,0
 2,Europe & Central Asia,246,Finland,FIN,30/01/2020,1,0,0
 2,Europe & Central Asia,246,Finland,FIN,31/01/2020,12,0,0
@@ -1742,6 +1794,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,246,Finland,FIN,12/04/2020,2974,56,300
 2,Europe & Central Asia,246,Finland,FIN,13/04/2020,3064,59,300
 2,Europe & Central Asia,246,Finland,FIN,14/04/2020,3161,64,300
+2,Europe & Central Asia,246,Finland,FIN,15/04/2020,3237,72,300
 2,Europe & Central Asia,251,France,FRA,24/01/2020,2,0,0
 2,Europe & Central Asia,251,France,FRA,25/01/2020,3,0,0
 2,Europe & Central Asia,251,France,FRA,26/01/2020,3,0,0
@@ -1826,6 +1879,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,262,Djibouti,DJI,12/04/2020,214,2,36
 4,Middle East & North Africa,262,Djibouti,DJI,13/04/2020,298,2,41
 4,Middle East & North Africa,262,Djibouti,DJI,14/04/2020,363,2,53
+4,Middle East & North Africa,262,Djibouti,DJI,15/04/2020,435,2,71
 7,Sub-Saharan Africa,266,Gabon,GAB,14/03/2020,6,0,0
 7,Sub-Saharan Africa,266,Gabon,GAB,20/03/2020,3,1,0
 7,Sub-Saharan Africa,266,Gabon,GAB,21/03/2020,4,1,0
@@ -1853,6 +1907,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,266,Gabon,GAB,12/04/2020,49,1,1
 7,Sub-Saharan Africa,266,Gabon,GAB,13/04/2020,57,1,1
 7,Sub-Saharan Africa,266,Gabon,GAB,14/04/2020,57,1,1
+7,Sub-Saharan Africa,266,Gabon,GAB,15/04/2020,80,1,4
 2,Europe & Central Asia,268,Georgia,GEO,26/02/2020,1,0,0
 2,Europe & Central Asia,268,Georgia,GEO,27/02/2020,3,0,0
 2,Europe & Central Asia,268,Georgia,GEO,01/03/2020,12,0,0
@@ -1891,6 +1946,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,268,Georgia,GEO,12/04/2020,257,3,67
 2,Europe & Central Asia,268,Georgia,GEO,13/04/2020,272,3,68
 2,Europe & Central Asia,268,Georgia,GEO,14/04/2020,300,3,69
+2,Europe & Central Asia,268,Georgia,GEO,15/04/2020,306,3,71
 7,Sub-Saharan Africa,270,Gambia,GMB,17/03/2020,1,0,0
 7,Sub-Saharan Africa,270,Gambia,GMB,18/03/2020,4,0,0
 7,Sub-Saharan Africa,270,Gambia,GMB,22/03/2020,1,0,0
@@ -1917,6 +1973,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,270,Gambia,GMB,12/04/2020,9,1,2
 7,Sub-Saharan Africa,270,Gambia,GMB,13/04/2020,9,1,2
 7,Sub-Saharan Africa,270,Gambia,GMB,14/04/2020,9,1,2
+7,Sub-Saharan Africa,270,Gambia,GMB,15/04/2020,9,1,2
 4,Middle East & North Africa,275,State of Palestine,PSE,05/03/2020,4,0,0
 4,Middle East & North Africa,275,State of Palestine,PSE,06/03/2020,16,0,0
 4,Middle East & North Africa,275,State of Palestine,PSE,07/03/2020,66,0,0
@@ -1941,6 +1998,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,275,State of Palestine,PSE,12/04/2020,290,2,58
 4,Middle East & North Africa,275,State of Palestine,PSE,13/04/2020,308,2,58
 4,Middle East & North Africa,275,State of Palestine,PSE,14/04/2020,308,2,62
+4,Middle East & North Africa,275,State of Palestine,PSE,15/04/2020,374,2,63
 2,Europe & Central Asia,276,Germany,DEU,01/02/2020,8,0,0
 2,Europe & Central Asia,276,Germany,DEU,02/02/2020,10,0,0
 2,Europe & Central Asia,276,Germany,DEU,03/02/2020,48,0,0
@@ -1999,6 +2057,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,276,Germany,DEU,12/04/2020,127854,3022,60300
 2,Europe & Central Asia,276,Germany,DEU,13/04/2020,130072,3194,64300
 2,Europe & Central Asia,276,Germany,DEU,14/04/2020,131359,3294,68200
+2,Europe & Central Asia,276,Germany,DEU,15/04/2020,134753,3804,72600
 7,Sub-Saharan Africa,288,Ghana,GHA,14/03/2020,3,0,0
 7,Sub-Saharan Africa,288,Ghana,GHA,15/03/2020,12,0,0
 7,Sub-Saharan Africa,288,Ghana,GHA,17/03/2020,14,0,0
@@ -2029,6 +2088,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,288,Ghana,GHA,12/04/2020,566,8,4
 7,Sub-Saharan Africa,288,Ghana,GHA,13/04/2020,566,8,4
 7,Sub-Saharan Africa,288,Ghana,GHA,14/04/2020,636,8,17
+7,Sub-Saharan Africa,288,Ghana,GHA,15/04/2020,636,8,17
 2,Europe & Central Asia,292,Gibraltar,GIB,04/03/2020,6,0,0
 2,Europe & Central Asia,292,Gibraltar,GIB,10/03/2020,1,0,1
 2,Europe & Central Asia,300,Greece,GRC,26/02/2020,1,0,0
@@ -2074,6 +2134,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,300,Greece,GRC,12/04/2020,2114,98,269
 2,Europe & Central Asia,300,Greece,GRC,13/04/2020,2145,99,269
 2,Europe & Central Asia,300,Greece,GRC,14/04/2020,2170,101,269
+2,Europe & Central Asia,300,Greece,GRC,15/04/2020,2192,102,269
 2,Europe & Central Asia,304,Greenland,GRL,16/03/2020,3,0,0
 3,Latin America & Caribbean,308,Grenada,GRD,22/03/2020,1,0,0
 3,Latin America & Caribbean,308,Grenada,GRD,23/03/2020,1,0,0
@@ -2099,6 +2160,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,308,Grenada,GRD,12/04/2020,14,0,0
 3,Latin America & Caribbean,308,Grenada,GRD,13/04/2020,14,0,0
 3,Latin America & Caribbean,308,Grenada,GRD,14/04/2020,14,0,0
+3,Latin America & Caribbean,308,Grenada,GRD,15/04/2020,14,0,0
 ,,312,Guadeloupe,GLP,11/03/2020,1,0,0
 ,,312,Guadeloupe,GLP,13/03/2020,4,0,0
 ,,312,Guadeloupe,GLP,16/03/2020,6,0,0
@@ -2138,6 +2200,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,320,Guatemala,GTM,12/04/2020,155,5,19
 3,Latin America & Caribbean,320,Guatemala,GTM,13/04/2020,156,5,19
 3,Latin America & Caribbean,320,Guatemala,GTM,14/04/2020,167,5,19
+3,Latin America & Caribbean,320,Guatemala,GTM,15/04/2020,180,5,19
 7,Sub-Saharan Africa,324,Guinea,GIN,11/03/2020,1,0,0
 7,Sub-Saharan Africa,324,Guinea,GIN,13/03/2020,1,0,0
 7,Sub-Saharan Africa,324,Guinea,GIN,15/03/2020,6,0,0
@@ -2166,6 +2229,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,324,Guinea,GIN,12/04/2020,250,0,17
 7,Sub-Saharan Africa,324,Guinea,GIN,13/04/2020,319,0,17
 7,Sub-Saharan Africa,324,Guinea,GIN,14/04/2020,363,0,31
+7,Sub-Saharan Africa,324,Guinea,GIN,15/04/2020,404,1,31
 3,Latin America & Caribbean,328,Guyana,GUY,11/03/2020,1,1,0
 3,Latin America & Caribbean,328,Guyana,GUY,12/03/2020,1,1,0
 3,Latin America & Caribbean,328,Guyana,GUY,14/03/2020,1,1,0
@@ -2195,6 +2259,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,328,Guyana,GUY,12/04/2020,45,6,8
 3,Latin America & Caribbean,328,Guyana,GUY,13/04/2020,45,6,8
 3,Latin America & Caribbean,328,Guyana,GUY,14/04/2020,47,6,8
+3,Latin America & Caribbean,328,Guyana,GUY,15/04/2020,55,6,8
 3,Latin America & Caribbean,332,Haiti,HTI,20/03/2020,2,0,0
 3,Latin America & Caribbean,332,Haiti,HTI,21/03/2020,2,0,0
 3,Latin America & Caribbean,332,Haiti,HTI,22/03/2020,2,0,0
@@ -2221,6 +2286,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,332,Haiti,HTI,12/04/2020,33,3,0
 3,Latin America & Caribbean,332,Haiti,HTI,13/04/2020,40,3,0
 3,Latin America & Caribbean,332,Haiti,HTI,14/04/2020,40,3,0
+3,Latin America & Caribbean,332,Haiti,HTI,15/04/2020,41,3,0
 2,Europe & Central Asia,336,Holy See,VAT,06/03/2020,4,0,0
 2,Europe & Central Asia,336,Holy See,VAT,10/03/2020,3,0,0
 2,Europe & Central Asia,336,Holy See,VAT,11/03/2020,1,0,0
@@ -2249,6 +2315,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,336,Holy See,VAT,12/04/2020,8,0,2
 2,Europe & Central Asia,336,Holy See,VAT,13/04/2020,8,0,2
 2,Europe & Central Asia,336,Holy See,VAT,14/04/2020,8,0,2
+2,Europe & Central Asia,336,Holy See,VAT,15/04/2020,8,0,2
 3,Latin America & Caribbean,340,Honduras,HND,11/03/2020,6,0,0
 3,Latin America & Caribbean,340,Honduras,HND,13/03/2020,2,0,0
 3,Latin America & Caribbean,340,Honduras,HND,15/03/2020,3,0,0
@@ -2281,6 +2348,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,340,Honduras,HND,12/04/2020,393,25,7
 3,Latin America & Caribbean,340,Honduras,HND,13/04/2020,397,25,7
 3,Latin America & Caribbean,340,Honduras,HND,14/04/2020,407,26,7
+3,Latin America & Caribbean,340,Honduras,HND,15/04/2020,419,31,9
 1,East Asia & Pacific,344,"China, Hong Kong SAR",HKG,23/01/2020,2,0,0
 1,East Asia & Pacific,344,"China, Hong Kong SAR",HKG,24/01/2020,2,0,0
 1,East Asia & Pacific,344,"China, Hong Kong SAR",HKG,25/01/2020,5,0,0
@@ -2365,6 +2433,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,348,Hungary,HUN,12/04/2020,1410,99,118
 2,Europe & Central Asia,348,Hungary,HUN,13/04/2020,1458,109,120
 2,Europe & Central Asia,348,Hungary,HUN,14/04/2020,1512,122,122
+2,Europe & Central Asia,348,Hungary,HUN,15/04/2020,1579,134,192
 2,Europe & Central Asia,352,Iceland,ISL,28/02/2020,1,0,0
 2,Europe & Central Asia,352,Iceland,ISL,29/02/2020,1,0,0
 2,Europe & Central Asia,352,Iceland,ISL,01/03/2020,3,0,0
@@ -2410,6 +2479,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,352,Iceland,ISL,12/04/2020,1701,8,889
 2,Europe & Central Asia,352,Iceland,ISL,13/04/2020,1711,8,933
 2,Europe & Central Asia,352,Iceland,ISL,14/04/2020,1720,8,989
+2,Europe & Central Asia,352,Iceland,ISL,15/04/2020,1727,8,1077
 1,East Asia & Pacific,360,Indonesia,IDN,02/03/2020,8,0,0
 1,East Asia & Pacific,360,Indonesia,IDN,06/03/2020,8,0,0
 1,East Asia & Pacific,360,Indonesia,IDN,08/03/2020,6,0,0
@@ -2448,6 +2518,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,360,Indonesia,IDN,12/04/2020,4241,373,359
 1,East Asia & Pacific,360,Indonesia,IDN,13/04/2020,4557,399,380
 1,East Asia & Pacific,360,Indonesia,IDN,14/04/2020,4839,459,426
+1,East Asia & Pacific,360,Indonesia,IDN,15/04/2020,5136,469,446
 4,Middle East & North Africa,364,Iran,IRN,19/02/2020,2,2,0
 4,Middle East & North Africa,364,Iran,IRN,20/02/2020,5,2,0
 4,Middle East & North Africa,364,Iran,IRN,21/02/2020,18,4,0
@@ -2503,6 +2574,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,364,Iran,IRN,12/04/2020,71686,4474,43894
 4,Middle East & North Africa,364,Iran,IRN,13/04/2020,73303,4585,45983
 4,Middle East & North Africa,364,Iran,IRN,14/04/2020,74877,4683,48129
+4,Middle East & North Africa,364,Iran,IRN,15/04/2020,76389,4777,49933
 4,Middle East & North Africa,368,Iraq,IRQ,24/02/2020,2,0,0
 4,Middle East & North Africa,368,Iraq,IRQ,26/02/2020,5,0,0
 4,Middle East & North Africa,368,Iraq,IRQ,27/02/2020,14,0,0
@@ -2549,6 +2621,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,368,Iraq,IRQ,12/04/2020,1352,76,640
 4,Middle East & North Africa,368,Iraq,IRQ,13/04/2020,1378,78,717
 4,Middle East & North Africa,368,Iraq,IRQ,14/04/2020,1400,78,766
+4,Middle East & North Africa,368,Iraq,IRQ,15/04/2020,1415,79,812
 2,Europe & Central Asia,372,Ireland,IRL,29/02/2020,1,0,0
 2,Europe & Central Asia,372,Ireland,IRL,01/03/2020,2,0,0
 2,Europe & Central Asia,372,Ireland,IRL,03/03/2020,2,0,0
@@ -2589,6 +2662,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,372,Ireland,IRL,12/04/2020,9655,334,25
 2,Europe & Central Asia,372,Ireland,IRL,13/04/2020,10647,365,25
 2,Europe & Central Asia,372,Ireland,IRL,14/04/2020,11479,406,25
+2,Europe & Central Asia,372,Ireland,IRL,15/04/2020,12547,444,77
 4,Middle East & North Africa,376,Israel,ISR,26/02/2020,2,0,0
 4,Middle East & North Africa,376,Israel,ISR,27/02/2020,3,0,1
 4,Middle East & North Africa,376,Israel,ISR,28/02/2020,4,0,1
@@ -2634,6 +2708,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,376,Israel,ISR,12/04/2020,11145,103,1627
 4,Middle East & North Africa,376,Israel,ISR,13/04/2020,11586,116,1855
 4,Middle East & North Africa,376,Israel,ISR,14/04/2020,12046,123,2195
+4,Middle East & North Africa,376,Israel,ISR,15/04/2020,12501,130,2563
 2,Europe & Central Asia,381,Italy,ITA,31/01/2020,14,0,0
 2,Europe & Central Asia,381,Italy,ITA,07/02/2020,42,0,0
 2,Europe & Central Asia,381,Italy,ITA,21/02/2020,20,1,0
@@ -2687,38 +2762,8 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,381,Italy,ITA,12/04/2020,156363,19899,34211
 2,Europe & Central Asia,381,Italy,ITA,13/04/2020,159516,20465,35435
 2,Europe & Central Asia,381,Italy,ITA,14/04/2020,162488,21067,37130
+2,Europe & Central Asia,381,Italy,ITA,15/04/2020,165155,21645,38092
 7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,27/01/2020,1,0,0
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,11/03/2020,2,0,0
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,12/03/2020,1,0,0
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,13/03/2020,3,0,0
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,17/03/2020,5,0,1
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,18/03/2020,6,0,1
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,19/03/2020,18,0,2
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,21/03/2020,14,0,1
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,22/03/2020,14,0,1
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,23/03/2020,25,0,2
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,24/03/2020,73,0,2
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,25/03/2020,80,0,3
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,26/03/2020,96,0,3
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,27/03/2020,101,0,3
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,28/03/2020,101,0,3
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,29/03/2020,165,1,4
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,30/03/2020,168,1,6
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,31/03/2020,179,1,7
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,01/04/2020,190,1,9
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,02/04/2020,194,1,15
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,03/04/2020,218,1,19
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,04/04/2020,245,1,25
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,05/04/2020,261,3,37
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,06/04/2020,323,3,41
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,07/04/2020,349,3,41
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,08/04/2020,384,3,48
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,09/04/2020,444,3,52
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,10/04/2020,444,3,52
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,11/04/2020,533,4,58
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,12/04/2020,574,5,85
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,13/04/2020,626,6,89
-7,Sub-Saharan Africa,384,Côte d'Ivoire,CIV,14/04/2020,638,6,114
 3,Latin America & Caribbean,388,Jamaica,JAM,11/03/2020,9,0,0
 3,Latin America & Caribbean,388,Jamaica,JAM,12/03/2020,2,0,0
 3,Latin America & Caribbean,388,Jamaica,JAM,13/03/2020,18,0,0
@@ -2751,6 +2796,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,388,Jamaica,JAM,12/04/2020,69,4,13
 3,Latin America & Caribbean,388,Jamaica,JAM,13/04/2020,73,4,19
 3,Latin America & Caribbean,388,Jamaica,JAM,14/04/2020,73,4,19
+3,Latin America & Caribbean,388,Jamaica,JAM,15/04/2020,125,5,21
 1,East Asia & Pacific,392,Japan,JPN,22/01/2020,2,0,0
 1,East Asia & Pacific,392,Japan,JPN,23/01/2020,1,0,0
 1,East Asia & Pacific,392,Japan,JPN,24/01/2020,2,0,0
@@ -2829,6 +2875,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,392,Japan,JPN,12/04/2020,6748,108,762
 1,East Asia & Pacific,392,Japan,JPN,13/04/2020,7370,123,784
 1,East Asia & Pacific,392,Japan,JPN,14/04/2020,7645,143,799
+1,East Asia & Pacific,392,Japan,JPN,15/04/2020,8100,146,853
 2,Europe & Central Asia,398,Kazakhstan,KAZ,11/03/2020,4,0,0
 2,Europe & Central Asia,398,Kazakhstan,KAZ,14/03/2020,6,0,0
 2,Europe & Central Asia,398,Kazakhstan,KAZ,15/03/2020,9,0,0
@@ -2862,6 +2909,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,398,Kazakhstan,KAZ,12/04/2020,951,10,99
 2,Europe & Central Asia,398,Kazakhstan,KAZ,13/04/2020,1091,12,138
 2,Europe & Central Asia,398,Kazakhstan,KAZ,14/04/2020,1232,14,203
+2,Europe & Central Asia,398,Kazakhstan,KAZ,15/04/2020,1295,16,240
 4,Middle East & North Africa,400,Jordan,JOR,03/03/2020,10,0,0
 4,Middle East & North Africa,400,Jordan,JOR,11/03/2020,1,0,1
 4,Middle East & North Africa,400,Jordan,JOR,14/03/2020,1,0,1
@@ -2895,6 +2943,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,400,Jordan,JOR,12/04/2020,389,7,201
 4,Middle East & North Africa,400,Jordan,JOR,13/04/2020,391,7,215
 4,Middle East & North Africa,400,Jordan,JOR,14/04/2020,397,7,235
+4,Middle East & North Africa,400,Jordan,JOR,15/04/2020,401,7,250
 7,Sub-Saharan Africa,404,Kenya,KEN,11/03/2020,1,0,0
 7,Sub-Saharan Africa,404,Kenya,KEN,13/03/2020,4,0,0
 7,Sub-Saharan Africa,404,Kenya,KEN,16/03/2020,9,0,0
@@ -2923,6 +2972,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,404,Kenya,KEN,12/04/2020,197,8,25
 7,Sub-Saharan Africa,404,Kenya,KEN,13/04/2020,208,9,40
 7,Sub-Saharan Africa,404,Kenya,KEN,14/04/2020,216,9,41
+7,Sub-Saharan Africa,404,Kenya,KEN,15/04/2020,225,10,53
 1,East Asia & Pacific,410,Rep. of Korea,KOR,22/01/2020,1,0,0
 1,East Asia & Pacific,410,Rep. of Korea,KOR,23/01/2020,1,0,0
 1,East Asia & Pacific,410,Rep. of Korea,KOR,24/01/2020,2,0,0
@@ -3001,6 +3051,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,410,Rep. of Korea,KOR,12/04/2020,10512,214,7368
 1,East Asia & Pacific,410,Rep. of Korea,KOR,13/04/2020,10537,217,7447
 1,East Asia & Pacific,410,Rep. of Korea,KOR,14/04/2020,10564,222,7534
+1,East Asia & Pacific,410,Rep. of Korea,KOR,15/04/2020,10591,225,7616
 4,Middle East & North Africa,414,Kuwait,KWT,24/02/2020,1,0,0
 4,Middle East & North Africa,414,Kuwait,KWT,25/02/2020,11,0,0
 4,Middle East & North Africa,414,Kuwait,KWT,26/02/2020,26,0,0
@@ -3045,6 +3096,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,414,Kuwait,KWT,12/04/2020,1234,1,142
 4,Middle East & North Africa,414,Kuwait,KWT,13/04/2020,1300,2,150
 4,Middle East & North Africa,414,Kuwait,KWT,14/04/2020,1355,3,176
+4,Middle East & North Africa,414,Kuwait,KWT,15/04/2020,1405,3,206
 2,Europe & Central Asia,417,Kyrgyzstan,KGZ,18/03/2020,6,0,0
 2,Europe & Central Asia,417,Kyrgyzstan,KGZ,20/03/2020,6,0,0
 2,Europe & Central Asia,417,Kyrgyzstan,KGZ,21/03/2020,14,0,0
@@ -3072,6 +3124,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,417,Kyrgyzstan,KGZ,12/04/2020,377,5,54
 2,Europe & Central Asia,417,Kyrgyzstan,KGZ,13/04/2020,419,5,67
 2,Europe & Central Asia,417,Kyrgyzstan,KGZ,14/04/2020,430,5,71
+2,Europe & Central Asia,417,Kyrgyzstan,KGZ,15/04/2020,449,5,78
 1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,24/03/2020,2,0,0
 1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,25/03/2020,3,0,0
 1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,26/03/2020,6,0,0
@@ -3094,6 +3147,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,12/04/2020,19,0,0
 1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,13/04/2020,19,0,0
 1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,14/04/2020,19,0,1
+1,East Asia & Pacific,418,Lao People's Dem. Rep.,LAO,15/04/2020,19,0,1
 4,Middle East & North Africa,422,Lebanon,LBN,22/02/2020,4,0,0
 4,Middle East & North Africa,422,Lebanon,LBN,26/02/2020,6,0,0
 4,Middle East & North Africa,422,Lebanon,LBN,29/02/2020,4,0,0
@@ -3138,6 +3192,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,422,Lebanon,LBN,12/04/2020,630,20,80
 4,Middle East & North Africa,422,Lebanon,LBN,13/04/2020,632,20,80
 4,Middle East & North Africa,422,Lebanon,LBN,14/04/2020,641,21,80
+4,Middle East & North Africa,422,Lebanon,LBN,15/04/2020,658,21,85
 2,Europe & Central Asia,428,Latvia,LVA,02/03/2020,2,0,0
 2,Europe & Central Asia,428,Latvia,LVA,04/03/2020,4,0,0
 2,Europe & Central Asia,428,Latvia,LVA,08/03/2020,2,0,0
@@ -3176,6 +3231,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,428,Latvia,LVA,12/04/2020,651,5,16
 2,Europe & Central Asia,428,Latvia,LVA,13/04/2020,655,5,16
 2,Europe & Central Asia,428,Latvia,LVA,14/04/2020,657,5,16
+2,Europe & Central Asia,428,Latvia,LVA,15/04/2020,666,5,44
 7,Sub-Saharan Africa,430,Liberia,LBR,16/03/2020,1,0,0
 7,Sub-Saharan Africa,430,Liberia,LBR,17/03/2020,1,0,0
 7,Sub-Saharan Africa,430,Liberia,LBR,18/03/2020,6,0,0
@@ -3204,6 +3260,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,430,Liberia,LBR,12/04/2020,50,5,3
 7,Sub-Saharan Africa,430,Liberia,LBR,13/04/2020,59,6,4
 7,Sub-Saharan Africa,430,Liberia,LBR,14/04/2020,59,6,4
+7,Sub-Saharan Africa,430,Liberia,LBR,15/04/2020,59,6,4
 4,Middle East & North Africa,434,Libya,LBY,24/03/2020,1,0,0
 4,Middle East & North Africa,434,Libya,LBY,25/03/2020,1,0,0
 4,Middle East & North Africa,434,Libya,LBY,26/03/2020,1,0,0
@@ -3226,6 +3283,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,434,Libya,LBY,12/04/2020,25,1,9
 4,Middle East & North Africa,434,Libya,LBY,13/04/2020,26,1,9
 4,Middle East & North Africa,434,Libya,LBY,14/04/2020,35,1,9
+4,Middle East & North Africa,434,Libya,LBY,15/04/2020,48,1,9
 2,Europe & Central Asia,438,Liechtenstein,LIE,04/03/2020,9,0,0
 2,Europe & Central Asia,438,Liechtenstein,LIE,11/03/2020,1,0,0
 2,Europe & Central Asia,438,Liechtenstein,LIE,14/03/2020,12,0,0
@@ -3256,6 +3314,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,438,Liechtenstein,LIE,12/04/2020,79,1,55
 2,Europe & Central Asia,438,Liechtenstein,LIE,13/04/2020,79,1,55
 2,Europe & Central Asia,438,Liechtenstein,LIE,14/04/2020,79,1,55
+2,Europe & Central Asia,438,Liechtenstein,LIE,15/04/2020,79,1,55
 2,Europe & Central Asia,440,Lithuania,LTU,28/02/2020,12,0,0
 2,Europe & Central Asia,440,Lithuania,LTU,11/03/2020,12,0,0
 2,Europe & Central Asia,440,Lithuania,LTU,14/03/2020,8,0,0
@@ -3290,6 +3349,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,440,Lithuania,LTU,12/04/2020,1053,23,97
 2,Europe & Central Asia,440,Lithuania,LTU,13/04/2020,1062,24,101
 2,Europe & Central Asia,440,Lithuania,LTU,14/04/2020,1070,29,101
+2,Europe & Central Asia,440,Lithuania,LTU,15/04/2020,1091,30,138
 2,Europe & Central Asia,442,Luxembourg,LUX,29/02/2020,1,0,0
 2,Europe & Central Asia,442,Luxembourg,LUX,01/03/2020,2,0,0
 2,Europe & Central Asia,442,Luxembourg,LUX,03/03/2020,3,0,0
@@ -3330,6 +3390,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,442,Luxembourg,LUX,12/04/2020,3281,66,500
 2,Europe & Central Asia,442,Luxembourg,LUX,13/04/2020,3292,69,500
 2,Europe & Central Asia,442,Luxembourg,LUX,14/04/2020,3307,67,500
+2,Europe & Central Asia,442,Luxembourg,LUX,15/04/2020,3373,69,526
 1,East Asia & Pacific,446,"China, Macao SAR",MAC,22/01/2020,1,0,0
 1,East Asia & Pacific,446,"China, Macao SAR",MAC,23/01/2020,2,0,0
 1,East Asia & Pacific,446,"China, Macao SAR",MAC,24/01/2020,2,0,0
@@ -3377,6 +3438,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,450,Madagascar,MDG,12/04/2020,106,0,20
 7,Sub-Saharan Africa,450,Madagascar,MDG,13/04/2020,106,0,21
 7,Sub-Saharan Africa,450,Madagascar,MDG,14/04/2020,108,0,23
+7,Sub-Saharan Africa,450,Madagascar,MDG,15/04/2020,110,0,29
 7,Sub-Saharan Africa,454,Malawi,MWI,02/04/2020,3,0,0
 7,Sub-Saharan Africa,454,Malawi,MWI,03/04/2020,3,0,0
 7,Sub-Saharan Africa,454,Malawi,MWI,04/04/2020,4,0,0
@@ -3390,6 +3452,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,454,Malawi,MWI,12/04/2020,13,2,0
 7,Sub-Saharan Africa,454,Malawi,MWI,13/04/2020,16,2,0
 7,Sub-Saharan Africa,454,Malawi,MWI,14/04/2020,16,2,0
+7,Sub-Saharan Africa,454,Malawi,MWI,15/04/2020,16,2,0
 1,East Asia & Pacific,458,Malaysia,MYS,25/01/2020,3,0,0
 1,East Asia & Pacific,458,Malaysia,MYS,26/01/2020,4,0,0
 1,East Asia & Pacific,458,Malaysia,MYS,27/01/2020,4,0,0
@@ -3451,6 +3514,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,458,Malaysia,MYS,12/04/2020,4683,76,2108
 1,East Asia & Pacific,458,Malaysia,MYS,13/04/2020,4817,77,2276
 1,East Asia & Pacific,458,Malaysia,MYS,14/04/2020,4987,82,2478
+1,East Asia & Pacific,458,Malaysia,MYS,15/04/2020,5072,83,2647
 6,South Asia,462,Maldives,MDV,08/03/2020,8,0,0
 6,South Asia,462,Maldives,MDV,10/03/2020,6,0,0
 6,South Asia,462,Maldives,MDV,11/03/2020,25,0,0
@@ -3480,6 +3544,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,462,Maldives,MDV,12/04/2020,20,0,14
 6,South Asia,462,Maldives,MDV,13/04/2020,20,0,14
 6,South Asia,462,Maldives,MDV,14/04/2020,20,0,16
+6,South Asia,462,Maldives,MDV,15/04/2020,22,0,16
 7,Sub-Saharan Africa,466,Mali,MLI,25/03/2020,2,0,0
 7,Sub-Saharan Africa,466,Mali,MLI,26/03/2020,4,0,0
 7,Sub-Saharan Africa,466,Mali,MLI,27/03/2020,11,0,0
@@ -3501,6 +3566,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,466,Mali,MLI,12/04/2020,105,9,22
 7,Sub-Saharan Africa,466,Mali,MLI,13/04/2020,123,10,26
 7,Sub-Saharan Africa,466,Mali,MLI,14/04/2020,144,13,34
+7,Sub-Saharan Africa,466,Mali,MLI,15/04/2020,148,13,34
 4,Middle East & North Africa,470,Malta,MLT,07/03/2020,3,0,0
 4,Middle East & North Africa,470,Malta,MLT,08/03/2020,6,0,0
 4,Middle East & North Africa,470,Malta,MLT,10/03/2020,5,0,0
@@ -3536,6 +3602,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,470,Malta,MLT,12/04/2020,378,3,44
 4,Middle East & North Africa,470,Malta,MLT,13/04/2020,384,3,44
 4,Middle East & North Africa,470,Malta,MLT,14/04/2020,393,3,44
+4,Middle East & North Africa,470,Malta,MLT,15/04/2020,399,3,44
 ,,474,Martinique,MTQ,07/03/2020,8,0,0
 ,,474,Martinique,MTQ,11/03/2020,9,0,0
 ,,474,Martinique,MTQ,14/03/2020,18,0,0
@@ -3571,6 +3638,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,478,Mauritania,MRT,12/04/2020,7,1,2
 7,Sub-Saharan Africa,478,Mauritania,MRT,13/04/2020,7,1,2
 7,Sub-Saharan Africa,478,Mauritania,MRT,14/04/2020,7,1,2
+7,Sub-Saharan Africa,478,Mauritania,MRT,15/04/2020,7,1,2
 7,Sub-Saharan Africa,480,Mauritius,MUS,18/03/2020,3,0,0
 7,Sub-Saharan Africa,480,Mauritius,MUS,19/03/2020,3,0,0
 7,Sub-Saharan Africa,480,Mauritius,MUS,20/03/2020,12,0,0
@@ -3599,6 +3667,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,480,Mauritius,MUS,12/04/2020,324,9,42
 7,Sub-Saharan Africa,480,Mauritius,MUS,13/04/2020,324,9,42
 7,Sub-Saharan Africa,480,Mauritius,MUS,14/04/2020,324,9,51
+7,Sub-Saharan Africa,480,Mauritius,MUS,15/04/2020,324,9,65
 3,Latin America & Caribbean,484,Mexico,MEX,28/02/2020,1,0,0
 3,Latin America & Caribbean,484,Mexico,MEX,29/02/2020,4,0,0
 3,Latin America & Caribbean,484,Mexico,MEX,01/03/2020,10,0,0
@@ -3640,6 +3709,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,484,Mexico,MEX,12/04/2020,4219,273,1772
 3,Latin America & Caribbean,484,Mexico,MEX,13/04/2020,4661,296,1843
 3,Latin America & Caribbean,484,Mexico,MEX,14/04/2020,5014,332,1964
+3,Latin America & Caribbean,484,Mexico,MEX,15/04/2020,5399,406,2125
 1,East Asia & Pacific,490,Taiwan,TWN,22/01/2020,1,0,0
 1,East Asia & Pacific,490,Taiwan,TWN,23/01/2020,1,0,0
 1,East Asia & Pacific,490,Taiwan,TWN,24/01/2020,3,0,0
@@ -3709,6 +3779,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,490,Taiwan,TWN,12/04/2020,388,6,109
 1,East Asia & Pacific,490,Taiwan,TWN,13/04/2020,393,6,109
 1,East Asia & Pacific,490,Taiwan,TWN,14/04/2020,393,6,124
+1,East Asia & Pacific,490,Taiwan,TWN,15/04/2020,395,6,124
 2,Europe & Central Asia,492,Monaco,MCO,29/02/2020,12,0,0
 2,Europe & Central Asia,492,Monaco,MCO,11/03/2020,2,0,0
 2,Europe & Central Asia,492,Monaco,MCO,12/03/2020,2,0,0
@@ -3740,6 +3811,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,492,Monaco,MCO,12/04/2020,93,1,6
 2,Europe & Central Asia,492,Monaco,MCO,13/04/2020,93,1,6
 2,Europe & Central Asia,492,Monaco,MCO,14/04/2020,93,1,6
+2,Europe & Central Asia,492,Monaco,MCO,15/04/2020,93,3,12
 1,East Asia & Pacific,496,Mongolia,MNG,10/03/2020,3,0,0
 1,East Asia & Pacific,496,Mongolia,MNG,11/03/2020,1,0,0
 1,East Asia & Pacific,496,Mongolia,MNG,13/03/2020,3,0,0
@@ -3770,6 +3842,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,496,Mongolia,MNG,12/04/2020,16,0,4
 1,East Asia & Pacific,496,Mongolia,MNG,13/04/2020,17,0,4
 1,East Asia & Pacific,496,Mongolia,MNG,14/04/2020,30,0,5
+1,East Asia & Pacific,496,Mongolia,MNG,15/04/2020,30,0,5
 2,Europe & Central Asia,498,Rep. of Moldova,MDA,08/03/2020,1,0,0
 2,Europe & Central Asia,498,Rep. of Moldova,MDA,09/03/2020,1,0,0
 2,Europe & Central Asia,498,Rep. of Moldova,MDA,10/03/2020,3,0,0
@@ -3805,6 +3878,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,498,Rep. of Moldova,MDA,12/04/2020,1662,31,94
 2,Europe & Central Asia,498,Rep. of Moldova,MDA,13/04/2020,1712,35,107
 2,Europe & Central Asia,498,Rep. of Moldova,MDA,14/04/2020,1934,40,134
+2,Europe & Central Asia,498,Rep. of Moldova,MDA,15/04/2020,2049,46,171
 2,Europe & Central Asia,499,Montenegro,MNE,17/03/2020,2,0,0
 2,Europe & Central Asia,499,Montenegro,MNE,18/03/2020,1,0,0
 2,Europe & Central Asia,499,Montenegro,MNE,19/03/2020,3,0,0
@@ -3833,6 +3907,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,499,Montenegro,MNE,12/04/2020,272,3,5
 2,Europe & Central Asia,499,Montenegro,MNE,13/04/2020,274,3,5
 2,Europe & Central Asia,499,Montenegro,MNE,14/04/2020,283,4,46
+2,Europe & Central Asia,499,Montenegro,MNE,15/04/2020,288,4,55
 4,Middle East & North Africa,504,Morocco,MAR,02/03/2020,1,0,0
 4,Middle East & North Africa,504,Morocco,MAR,03/03/2020,2,0,0
 4,Middle East & North Africa,504,Morocco,MAR,05/03/2020,10,0,0
@@ -3871,6 +3946,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,504,Morocco,MAR,12/04/2020,1661,118,177
 4,Middle East & North Africa,504,Morocco,MAR,13/04/2020,1763,126,203
 4,Middle East & North Africa,504,Morocco,MAR,14/04/2020,1888,126,217
+4,Middle East & North Africa,504,Morocco,MAR,15/04/2020,2024,127,229
 7,Sub-Saharan Africa,508,Mozambique,MOZ,22/03/2020,1,0,0
 7,Sub-Saharan Africa,508,Mozambique,MOZ,23/03/2020,1,0,0
 7,Sub-Saharan Africa,508,Mozambique,MOZ,24/03/2020,3,0,0
@@ -3895,6 +3971,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,508,Mozambique,MOZ,12/04/2020,21,0,2
 7,Sub-Saharan Africa,508,Mozambique,MOZ,13/04/2020,21,0,2
 7,Sub-Saharan Africa,508,Mozambique,MOZ,14/04/2020,28,0,2
+7,Sub-Saharan Africa,508,Mozambique,MOZ,15/04/2020,29,0,2
 4,Middle East & North Africa,512,Oman,OMN,24/02/2020,2,0,0
 4,Middle East & North Africa,512,Oman,OMN,25/02/2020,2,0,0
 4,Middle East & North Africa,512,Oman,OMN,26/02/2020,12,0,0
@@ -3935,6 +4012,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,512,Oman,OMN,12/04/2020,599,4,109
 4,Middle East & North Africa,512,Oman,OMN,13/04/2020,727,4,124
 4,Middle East & North Africa,512,Oman,OMN,14/04/2020,813,4,130
+4,Middle East & North Africa,512,Oman,OMN,15/04/2020,910,4,131
 7,Sub-Saharan Africa,516,Namibia,NAM,14/03/2020,10,0,0
 7,Sub-Saharan Africa,516,Namibia,NAM,19/03/2020,9,0,0
 7,Sub-Saharan Africa,516,Namibia,NAM,22/03/2020,3,0,0
@@ -3961,6 +4039,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,516,Namibia,NAM,12/04/2020,16,0,3
 7,Sub-Saharan Africa,516,Namibia,NAM,13/04/2020,16,0,3
 7,Sub-Saharan Africa,516,Namibia,NAM,14/04/2020,16,0,3
+7,Sub-Saharan Africa,516,Namibia,NAM,15/04/2020,16,0,3
 6,South Asia,524,Nepal,NPL,25/01/2020,1,0,0
 6,South Asia,524,Nepal,NPL,26/01/2020,1,0,0
 6,South Asia,524,Nepal,NPL,27/01/2020,1,0,0
@@ -3996,6 +4075,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,524,Nepal,NPL,12/04/2020,12,0,1
 6,South Asia,524,Nepal,NPL,13/04/2020,14,0,1
 6,South Asia,524,Nepal,NPL,14/04/2020,16,0,1
+6,South Asia,524,Nepal,NPL,15/04/2020,16,0,1
 2,Europe & Central Asia,528,Netherlands,NLD,27/02/2020,1,0,0
 2,Europe & Central Asia,528,Netherlands,NLD,28/02/2020,1,0,0
 2,Europe & Central Asia,528,Netherlands,NLD,29/02/2020,6,0,0
@@ -4042,6 +4122,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,528,Netherlands,NLD,12/04/2020,25587,2737,250
 2,Europe & Central Asia,528,Netherlands,NLD,13/04/2020,26551,2823,250
 2,Europe & Central Asia,528,Netherlands,NLD,14/04/2020,27419,2945,250
+2,Europe & Central Asia,528,Netherlands,NLD,15/04/2020,28153,3134,250
 3,Latin America & Caribbean,531,Curacao,CUW,14/03/2020,2,0,0
 3,Latin America & Caribbean,533,Aruba,ABW,11/03/2020,2,0,0
 3,Latin America & Caribbean,533,Aruba,ABW,13/03/2020,6,0,0
@@ -4083,6 +4164,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,554,New Zealand,NZL,12/04/2020,1330,4,471
 1,East Asia & Pacific,554,New Zealand,NZL,13/04/2020,1349,5,546
 1,East Asia & Pacific,554,New Zealand,NZL,14/04/2020,1366,9,628
+1,East Asia & Pacific,554,New Zealand,NZL,15/04/2020,1386,9,728
 3,Latin America & Caribbean,558,Nicaragua,NIC,19/03/2020,2,0,0
 3,Latin America & Caribbean,558,Nicaragua,NIC,21/03/2020,2,0,0
 3,Latin America & Caribbean,558,Nicaragua,NIC,22/03/2020,2,0,0
@@ -4109,6 +4191,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,558,Nicaragua,NIC,12/04/2020,9,1,4
 3,Latin America & Caribbean,558,Nicaragua,NIC,13/04/2020,9,1,4
 3,Latin America & Caribbean,558,Nicaragua,NIC,14/04/2020,9,1,4
+3,Latin America & Caribbean,558,Nicaragua,NIC,15/04/2020,9,1,4
 7,Sub-Saharan Africa,562,Niger,NER,20/03/2020,2,0,0
 7,Sub-Saharan Africa,562,Niger,NER,22/03/2020,2,0,0
 7,Sub-Saharan Africa,562,Niger,NER,23/03/2020,3,0,0
@@ -4134,6 +4217,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,562,Niger,NER,12/04/2020,529,12,75
 7,Sub-Saharan Africa,562,Niger,NER,13/04/2020,529,12,75
 7,Sub-Saharan Africa,562,Niger,NER,14/04/2020,570,14,90
+7,Sub-Saharan Africa,562,Niger,NER,15/04/2020,584,14,90
 7,Sub-Saharan Africa,566,Nigeria,NGA,28/02/2020,10,0,0
 7,Sub-Saharan Africa,566,Nigeria,NGA,09/03/2020,8,0,0
 7,Sub-Saharan Africa,566,Nigeria,NGA,11/03/2020,2,0,0
@@ -4166,6 +4250,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,566,Nigeria,NGA,12/04/2020,323,10,85
 7,Sub-Saharan Africa,566,Nigeria,NGA,13/04/2020,343,10,91
 7,Sub-Saharan Africa,566,Nigeria,NGA,14/04/2020,373,11,99
+7,Sub-Saharan Africa,566,Nigeria,NGA,15/04/2020,407,12,128
 2,Europe & Central Asia,579,Norway,NOR,26/02/2020,1,0,0
 2,Europe & Central Asia,579,Norway,NOR,27/02/2020,1,0,0
 2,Europe & Central Asia,579,Norway,NOR,28/02/2020,6,0,0
@@ -4214,6 +4299,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,579,Norway,NOR,12/04/2020,6525,128,32
 2,Europe & Central Asia,579,Norway,NOR,13/04/2020,6603,134,32
 2,Europe & Central Asia,579,Norway,NOR,14/04/2020,6623,139,32
+2,Europe & Central Asia,579,Norway,NOR,15/04/2020,6740,150,32
 6,South Asia,586,Pakistan,PAK,26/02/2020,6,0,0
 6,South Asia,586,Pakistan,PAK,29/02/2020,12,0,0
 6,South Asia,586,Pakistan,PAK,03/03/2020,15,0,0
@@ -4254,6 +4340,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,586,Pakistan,PAK,12/04/2020,5230,91,1028
 6,South Asia,586,Pakistan,PAK,13/04/2020,5496,93,1095
 6,South Asia,586,Pakistan,PAK,14/04/2020,5837,96,1378
+6,South Asia,586,Pakistan,PAK,15/04/2020,6383,111,1446
 3,Latin America & Caribbean,591,Panama,PAN,10/03/2020,1,0,0
 3,Latin America & Caribbean,591,Panama,PAN,11/03/2020,35,2,0
 3,Latin America & Caribbean,591,Panama,PAN,12/03/2020,11,1,0
@@ -4289,6 +4376,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,591,Panama,PAN,12/04/2020,3234,79,23
 3,Latin America & Caribbean,591,Panama,PAN,13/04/2020,3400,87,29
 3,Latin America & Caribbean,591,Panama,PAN,14/04/2020,3472,94,61
+3,Latin America & Caribbean,591,Panama,PAN,15/04/2020,3574,95,72
 1,East Asia & Pacific,598,Papua New Guinea,PNG,20/03/2020,1,0,0
 1,East Asia & Pacific,598,Papua New Guinea,PNG,21/03/2020,1,0,0
 1,East Asia & Pacific,598,Papua New Guinea,PNG,22/03/2020,1,0,0
@@ -4315,6 +4403,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,598,Papua New Guinea,PNG,12/04/2020,2,0,0
 1,East Asia & Pacific,598,Papua New Guinea,PNG,13/04/2020,2,0,0
 1,East Asia & Pacific,598,Papua New Guinea,PNG,14/04/2020,2,0,0
+1,East Asia & Pacific,598,Papua New Guinea,PNG,15/04/2020,2,0,0
 3,Latin America & Caribbean,600,Paraguay,PRY,08/03/2020,3,0,0
 3,Latin America & Caribbean,600,Paraguay,PRY,11/03/2020,16,0,0
 3,Latin America & Caribbean,600,Paraguay,PRY,13/03/2020,12,0,0
@@ -4347,6 +4436,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,600,Paraguay,PRY,12/04/2020,134,6,22
 3,Latin America & Caribbean,600,Paraguay,PRY,13/04/2020,147,6,22
 3,Latin America & Caribbean,600,Paraguay,PRY,14/04/2020,159,7,22
+3,Latin America & Caribbean,600,Paraguay,PRY,15/04/2020,161,8,23
 3,Latin America & Caribbean,604,Peru,PER,06/03/2020,2,0,0
 3,Latin America & Caribbean,604,Peru,PER,08/03/2020,6,0,0
 3,Latin America & Caribbean,604,Peru,PER,09/03/2020,7,0,0
@@ -4385,6 +4475,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,604,Peru,PER,12/04/2020,7519,193,1798
 3,Latin America & Caribbean,604,Peru,PER,13/04/2020,9784,216,2642
 3,Latin America & Caribbean,604,Peru,PER,14/04/2020,10303,230,2869
+3,Latin America & Caribbean,604,Peru,PER,15/04/2020,11475,254,3108
 1,East Asia & Pacific,608,Philippines,PHL,30/01/2020,1,0,0
 1,East Asia & Pacific,608,Philippines,PHL,31/01/2020,1,0,0
 1,East Asia & Pacific,608,Philippines,PHL,01/02/2020,1,0,0
@@ -4430,6 +4521,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,608,Philippines,PHL,12/04/2020,4648,297,197
 1,East Asia & Pacific,608,Philippines,PHL,13/04/2020,4932,315,242
 1,East Asia & Pacific,608,Philippines,PHL,14/04/2020,5223,335,295
+1,East Asia & Pacific,608,Philippines,PHL,15/04/2020,5453,349,353
 2,Europe & Central Asia,616,Poland,POL,04/03/2020,2,0,0
 2,Europe & Central Asia,616,Poland,POL,06/03/2020,10,0,0
 2,Europe & Central Asia,616,Poland,POL,08/03/2020,11,0,0
@@ -4469,6 +4561,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,616,Poland,POL,12/04/2020,6674,232,439
 2,Europe & Central Asia,616,Poland,POL,13/04/2020,6934,245,487
 2,Europe & Central Asia,616,Poland,POL,14/04/2020,7202,263,618
+2,Europe & Central Asia,616,Poland,POL,15/04/2020,7582,286,668
 2,Europe & Central Asia,620,Portugal,PRT,02/03/2020,2,0,0
 2,Europe & Central Asia,620,Portugal,PRT,03/03/2020,2,0,0
 2,Europe & Central Asia,620,Portugal,PRT,04/03/2020,5,0,0
@@ -4510,6 +4603,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,620,Portugal,PRT,12/04/2020,16585,504,277
 2,Europe & Central Asia,620,Portugal,PRT,13/04/2020,16934,535,277
 2,Europe & Central Asia,620,Portugal,PRT,14/04/2020,17448,567,347
+2,Europe & Central Asia,620,Portugal,PRT,15/04/2020,18091,599,383
 7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,25/03/2020,2,0,0
 7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,26/03/2020,2,0,0
 7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,27/03/2020,2,0,0
@@ -4531,6 +4625,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,12/04/2020,38,0,0
 7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,13/04/2020,38,0,0
 7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,14/04/2020,38,0,0
+7,Sub-Saharan Africa,624,Guinea-Bissau,GNB,15/04/2020,43,0,0
 1,East Asia & Pacific,626,Timor-Leste,TLS,21/03/2020,1,0,0
 1,East Asia & Pacific,626,Timor-Leste,TLS,22/03/2020,1,0,0
 1,East Asia & Pacific,626,Timor-Leste,TLS,23/03/2020,1,0,0
@@ -4556,6 +4651,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,626,Timor-Leste,TLS,12/04/2020,2,0,1
 1,East Asia & Pacific,626,Timor-Leste,TLS,13/04/2020,4,0,1
 1,East Asia & Pacific,626,Timor-Leste,TLS,14/04/2020,6,0,1
+1,East Asia & Pacific,626,Timor-Leste,TLS,15/04/2020,8,0,1
 3,Latin America & Caribbean,630,Puerto Rico,PRI,16/03/2020,3,0,0
 4,Middle East & North Africa,634,Qatar,QAT,29/02/2020,1,0,0
 4,Middle East & North Africa,634,Qatar,QAT,01/03/2020,6,0,0
@@ -4595,6 +4691,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,634,Qatar,QAT,12/04/2020,2979,7,275
 4,Middle East & North Africa,634,Qatar,QAT,13/04/2020,3231,7,334
 4,Middle East & North Africa,634,Qatar,QAT,14/04/2020,3428,7,373
+4,Middle East & North Africa,634,Qatar,QAT,15/04/2020,3711,7,406
 ,,638,Réunion,REU,11/03/2020,7,0,0
 ,,638,Réunion,REU,14/03/2020,6,0,0
 ,,638,Réunion,REU,15/03/2020,7,0,0
@@ -4648,6 +4745,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,642,Romania,ROU,12/04/2020,6300,316,852
 2,Europe & Central Asia,642,Romania,ROU,13/04/2020,6633,331,914
 2,Europe & Central Asia,642,Romania,ROU,14/04/2020,6879,351,1051
+2,Europe & Central Asia,642,Romania,ROU,15/04/2020,7216,372,1217
 2,Europe & Central Asia,643,Russian Federation,RUS,31/01/2020,24,0,0
 2,Europe & Central Asia,643,Russian Federation,RUS,12/02/2020,38,0,38
 2,Europe & Central Asia,643,Russian Federation,RUS,02/03/2020,9,0,6
@@ -4689,6 +4787,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,643,Russian Federation,RUS,12/04/2020,15770,130,1291
 2,Europe & Central Asia,643,Russian Federation,RUS,13/04/2020,18328,148,1470
 2,Europe & Central Asia,643,Russian Federation,RUS,14/04/2020,21102,170,1694
+2,Europe & Central Asia,643,Russian Federation,RUS,15/04/2020,24490,198,1986
 7,Sub-Saharan Africa,646,Rwanda,RWA,14/03/2020,1,0,0
 7,Sub-Saharan Africa,646,Rwanda,RWA,15/03/2020,1,0,0
 7,Sub-Saharan Africa,646,Rwanda,RWA,16/03/2020,5,0,0
@@ -4719,6 +4818,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,646,Rwanda,RWA,12/04/2020,126,0,25
 7,Sub-Saharan Africa,646,Rwanda,RWA,13/04/2020,127,0,42
 7,Sub-Saharan Africa,646,Rwanda,RWA,14/04/2020,134,0,49
+7,Sub-Saharan Africa,646,Rwanda,RWA,15/04/2020,136,0,54
 3,Latin America & Caribbean,652,Saint Barthélemy,BLM,04/03/2020,15,0,0
 3,Latin America & Caribbean,652,Saint Barthélemy,BLM,09/03/2020,2,0,0
 3,Latin America & Caribbean,659,Saint Kitts and Nevis,KNA,25/03/2020,2,0,0
@@ -4742,6 +4842,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,659,Saint Kitts and Nevis,KNA,12/04/2020,12,0,0
 3,Latin America & Caribbean,659,Saint Kitts and Nevis,KNA,13/04/2020,12,0,0
 3,Latin America & Caribbean,659,Saint Kitts and Nevis,KNA,14/04/2020,14,0,0
+3,Latin America & Caribbean,659,Saint Kitts and Nevis,KNA,15/04/2020,14,0,0
 3,Latin America & Caribbean,662,Saint Lucia,LCA,14/03/2020,3,0,0
 3,Latin America & Caribbean,662,Saint Lucia,LCA,16/03/2020,2,0,0
 3,Latin America & Caribbean,662,Saint Lucia,LCA,17/03/2020,10,0,0
@@ -4769,6 +4870,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,662,Saint Lucia,LCA,12/04/2020,15,0,4
 3,Latin America & Caribbean,662,Saint Lucia,LCA,13/04/2020,15,0,4
 3,Latin America & Caribbean,662,Saint Lucia,LCA,14/04/2020,15,0,11
+3,Latin America & Caribbean,662,Saint Lucia,LCA,15/04/2020,15,0,11
 3,Latin America & Caribbean,663,St. Martin (French part),MAF,09/03/2020,2,0,0
 3,Latin America & Caribbean,663,St. Martin (French part),MAF,10/03/2020,2,0,0
 3,Latin America & Caribbean,670,Saint Vincent and the Grenadines,VCT,14/03/2020,8,0,0
@@ -4796,6 +4898,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,670,Saint Vincent and the Grenadines,VCT,12/04/2020,12,0,1
 3,Latin America & Caribbean,670,Saint Vincent and the Grenadines,VCT,13/04/2020,12,0,1
 3,Latin America & Caribbean,670,Saint Vincent and the Grenadines,VCT,14/04/2020,12,0,1
+3,Latin America & Caribbean,670,Saint Vincent and the Grenadines,VCT,15/04/2020,12,0,1
 2,Europe & Central Asia,674,San Marino,SMR,27/02/2020,3,0,0
 2,Europe & Central Asia,674,San Marino,SMR,01/03/2020,1,0,0
 2,Europe & Central Asia,674,San Marino,SMR,02/03/2020,8,0,0
@@ -4837,6 +4940,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,674,San Marino,SMR,12/04/2020,356,35,53
 2,Europe & Central Asia,674,San Marino,SMR,13/04/2020,356,35,53
 2,Europe & Central Asia,674,San Marino,SMR,14/04/2020,371,36,53
+2,Europe & Central Asia,674,San Marino,SMR,15/04/2020,372,36,53
 7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,06/04/2020,4,0,0
 7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,07/04/2020,4,0,0
 7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,08/04/2020,4,0,0
@@ -4846,6 +4950,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,12/04/2020,4,0,0
 7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,13/04/2020,4,0,0
 7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,14/04/2020,4,0,0
+7,Sub-Saharan Africa,678,Sao Tome and Principe,STP,15/04/2020,4,0,0
 4,Middle East & North Africa,682,Saudi Arabia,SAU,02/03/2020,3,0,0
 4,Middle East & North Africa,682,Saudi Arabia,SAU,05/03/2020,15,0,0
 4,Middle East & North Africa,682,Saudi Arabia,SAU,08/03/2020,11,0,0
@@ -4883,6 +4988,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,682,Saudi Arabia,SAU,12/04/2020,4462,59,761
 4,Middle East & North Africa,682,Saudi Arabia,SAU,13/04/2020,4934,65,805
 4,Middle East & North Africa,682,Saudi Arabia,SAU,14/04/2020,5369,73,889
+4,Middle East & North Africa,682,Saudi Arabia,SAU,15/04/2020,5862,79,931
 7,Sub-Saharan Africa,686,Senegal,SEN,02/03/2020,1,0,0
 7,Sub-Saharan Africa,686,Senegal,SEN,03/03/2020,2,0,0
 7,Sub-Saharan Africa,686,Senegal,SEN,04/03/2020,16,0,0
@@ -4918,6 +5024,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,686,Senegal,SEN,12/04/2020,280,2,171
 7,Sub-Saharan Africa,686,Senegal,SEN,13/04/2020,291,2,178
 7,Sub-Saharan Africa,686,Senegal,SEN,14/04/2020,299,2,183
+7,Sub-Saharan Africa,686,Senegal,SEN,15/04/2020,314,2,190
 2,Europe & Central Asia,688,Serbia,SRB,06/03/2020,4,0,0
 2,Europe & Central Asia,688,Serbia,SRB,10/03/2020,5,0,0
 2,Europe & Central Asia,688,Serbia,SRB,11/03/2020,47,0,0
@@ -4953,6 +5060,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,688,Serbia,SRB,12/04/2020,3630,80,0
 2,Europe & Central Asia,688,Serbia,SRB,13/04/2020,4054,85,0
 2,Europe & Central Asia,688,Serbia,SRB,14/04/2020,4465,94,0
+2,Europe & Central Asia,688,Serbia,SRB,15/04/2020,4873,99,0
 7,Sub-Saharan Africa,690,Seychelles,SYC,14/03/2020,2,0,0
 7,Sub-Saharan Africa,690,Seychelles,SYC,15/03/2020,2,0,0
 7,Sub-Saharan Africa,690,Seychelles,SYC,16/03/2020,3,0,0
@@ -4983,6 +5091,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,690,Seychelles,SYC,12/04/2020,11,0,0
 7,Sub-Saharan Africa,690,Seychelles,SYC,13/04/2020,11,0,0
 7,Sub-Saharan Africa,690,Seychelles,SYC,14/04/2020,11,0,0
+7,Sub-Saharan Africa,690,Seychelles,SYC,15/04/2020,11,0,0
 7,Sub-Saharan Africa,694,Sierra Leone,SLE,31/03/2020,1,0,0
 7,Sub-Saharan Africa,694,Sierra Leone,SLE,01/04/2020,2,0,0
 7,Sub-Saharan Africa,694,Sierra Leone,SLE,02/04/2020,2,0,0
@@ -4998,6 +5107,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,694,Sierra Leone,SLE,12/04/2020,10,0,0
 7,Sub-Saharan Africa,694,Sierra Leone,SLE,13/04/2020,10,0,0
 7,Sub-Saharan Africa,694,Sierra Leone,SLE,14/04/2020,11,0,0
+7,Sub-Saharan Africa,694,Sierra Leone,SLE,15/04/2020,13,0,0
 6,South Asia,699,India,IND,30/01/2020,1,0,0
 6,South Asia,699,India,IND,31/01/2020,2,0,0
 6,South Asia,699,India,IND,02/02/2020,2,0,0
@@ -5046,6 +5156,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 6,South Asia,699,India,IND,12/04/2020,9205,331,1080
 6,South Asia,699,India,IND,13/04/2020,10453,358,1181
 6,South Asia,699,India,IND,14/04/2020,11487,393,1359
+6,South Asia,699,India,IND,15/04/2020,12322,405,1432
 1,East Asia & Pacific,702,Singapore,SGP,23/01/2020,1,0,0
 1,East Asia & Pacific,702,Singapore,SGP,24/01/2020,3,0,0
 1,East Asia & Pacific,702,Singapore,SGP,25/01/2020,3,0,0
@@ -5118,6 +5229,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,702,Singapore,SGP,12/04/2020,2532,8,560
 1,East Asia & Pacific,702,Singapore,SGP,13/04/2020,2918,9,586
 1,East Asia & Pacific,702,Singapore,SGP,14/04/2020,3252,10,611
+1,East Asia & Pacific,702,Singapore,SGP,15/04/2020,3699,10,652
 2,Europe & Central Asia,703,Slovakia,SVK,06/03/2020,2,0,0
 2,Europe & Central Asia,703,Slovakia,SVK,08/03/2020,6,0,0
 2,Europe & Central Asia,703,Slovakia,SVK,10/03/2020,7,0,0
@@ -5155,6 +5267,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,703,Slovakia,SVK,12/04/2020,742,2,23
 2,Europe & Central Asia,703,Slovakia,SVK,13/04/2020,769,2,107
 2,Europe & Central Asia,703,Slovakia,SVK,14/04/2020,835,2,113
+2,Europe & Central Asia,703,Slovakia,SVK,15/04/2020,863,6,151
 1,East Asia & Pacific,704,Viet Nam,VNM,23/01/2020,2,0,0
 1,East Asia & Pacific,704,Viet Nam,VNM,24/01/2020,2,0,0
 1,East Asia & Pacific,704,Viet Nam,VNM,25/01/2020,2,0,0
@@ -5210,6 +5323,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,704,Viet Nam,VNM,12/04/2020,262,0,144
 1,East Asia & Pacific,704,Viet Nam,VNM,13/04/2020,265,0,146
 1,East Asia & Pacific,704,Viet Nam,VNM,14/04/2020,266,0,169
+1,East Asia & Pacific,704,Viet Nam,VNM,15/04/2020,267,0,171
 2,Europe & Central Asia,705,Slovenia,SVN,05/03/2020,2,0,0
 2,Europe & Central Asia,705,Slovenia,SVN,06/03/2020,14,0,0
 2,Europe & Central Asia,705,Slovenia,SVN,08/03/2020,32,0,0
@@ -5247,6 +5361,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,705,Slovenia,SVN,12/04/2020,1205,53,150
 2,Europe & Central Asia,705,Slovenia,SVN,13/04/2020,1212,55,152
 2,Europe & Central Asia,705,Slovenia,SVN,14/04/2020,1220,56,152
+2,Europe & Central Asia,705,Slovenia,SVN,15/04/2020,1248,61,165
 7,Sub-Saharan Africa,706,Somalia,SOM,16/03/2020,2,0,0
 7,Sub-Saharan Africa,706,Somalia,SOM,18/03/2020,4,0,0
 7,Sub-Saharan Africa,706,Somalia,SOM,22/03/2020,1,0,0
@@ -5273,6 +5388,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,706,Somalia,SOM,12/04/2020,25,1,2
 7,Sub-Saharan Africa,706,Somalia,SOM,13/04/2020,60,2,2
 7,Sub-Saharan Africa,706,Somalia,SOM,14/04/2020,60,2,2
+7,Sub-Saharan Africa,706,Somalia,SOM,15/04/2020,80,5,2
 7,Sub-Saharan Africa,710,South Africa,ZAF,05/03/2020,1,0,0
 7,Sub-Saharan Africa,710,South Africa,ZAF,06/03/2020,2,0,0
 7,Sub-Saharan Africa,710,South Africa,ZAF,08/03/2020,6,0,0
@@ -5310,6 +5426,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,710,South Africa,ZAF,12/04/2020,2173,25,410
 7,Sub-Saharan Africa,710,South Africa,ZAF,13/04/2020,2272,27,410
 7,Sub-Saharan Africa,710,South Africa,ZAF,14/04/2020,2415,27,410
+7,Sub-Saharan Africa,710,South Africa,ZAF,15/04/2020,2506,34,410
 7,Sub-Saharan Africa,716,Zimbabwe,ZWE,20/03/2020,1,0,0
 7,Sub-Saharan Africa,716,Zimbabwe,ZWE,21/03/2020,3,0,0
 7,Sub-Saharan Africa,716,Zimbabwe,ZWE,22/03/2020,3,0,0
@@ -5336,6 +5453,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,716,Zimbabwe,ZWE,12/04/2020,14,3,0
 7,Sub-Saharan Africa,716,Zimbabwe,ZWE,13/04/2020,17,3,0
 7,Sub-Saharan Africa,716,Zimbabwe,ZWE,14/04/2020,17,3,0
+7,Sub-Saharan Africa,716,Zimbabwe,ZWE,15/04/2020,23,3,1
 2,Europe & Central Asia,724,Spain,ESP,01/02/2020,8,0,0
 2,Europe & Central Asia,724,Spain,ESP,09/02/2020,12,0,0
 2,Europe & Central Asia,724,Spain,ESP,15/02/2020,20,0,20
@@ -5388,6 +5506,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,724,Spain,ESP,12/04/2020,166831,17209,62391
 2,Europe & Central Asia,724,Spain,ESP,13/04/2020,170099,17756,64727
 2,Europe & Central Asia,724,Spain,ESP,14/04/2020,172541,18056,67504
+2,Europe & Central Asia,724,Spain,ESP,15/04/2020,177644,18708,70853
 7,Sub-Saharan Africa,728,South Sudan,SSD,05/04/2020,1,0,0
 7,Sub-Saharan Africa,728,South Sudan,SSD,06/04/2020,1,0,0
 7,Sub-Saharan Africa,728,South Sudan,SSD,07/04/2020,2,0,0
@@ -5398,6 +5517,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,728,South Sudan,SSD,12/04/2020,4,0,0
 7,Sub-Saharan Africa,728,South Sudan,SSD,13/04/2020,4,0,0
 7,Sub-Saharan Africa,728,South Sudan,SSD,14/04/2020,4,0,0
+7,Sub-Saharan Africa,728,South Sudan,SSD,15/04/2020,4,0,0
 7,Sub-Saharan Africa,729,Sudan,SDN,11/03/2020,1,1,0
 7,Sub-Saharan Africa,729,Sudan,SDN,14/03/2020,4,4,0
 7,Sub-Saharan Africa,729,Sudan,SDN,18/03/2020,8,4,0
@@ -5425,6 +5545,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,729,Sudan,SDN,12/04/2020,19,2,2
 7,Sub-Saharan Africa,729,Sudan,SDN,13/04/2020,29,4,4
 7,Sub-Saharan Africa,729,Sudan,SDN,14/04/2020,32,5,4
+7,Sub-Saharan Africa,729,Sudan,SDN,15/04/2020,32,5,4
 3,Latin America & Caribbean,740,Suriname,SUR,14/03/2020,6,0,0
 3,Latin America & Caribbean,740,Suriname,SUR,20/03/2020,8,0,0
 3,Latin America & Caribbean,740,Suriname,SUR,22/03/2020,5,0,0
@@ -5451,6 +5572,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,740,Suriname,SUR,12/04/2020,10,1,4
 3,Latin America & Caribbean,740,Suriname,SUR,13/04/2020,10,1,6
 3,Latin America & Caribbean,740,Suriname,SUR,14/04/2020,10,1,6
+3,Latin America & Caribbean,740,Suriname,SUR,15/04/2020,10,1,6
 7,Sub-Saharan Africa,748,Eswatini,SWZ,14/03/2020,1,0,0
 7,Sub-Saharan Africa,748,Eswatini,SWZ,15/03/2020,7,0,0
 7,Sub-Saharan Africa,748,Eswatini,SWZ,22/03/2020,4,0,0
@@ -5477,6 +5599,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,748,Eswatini,SWZ,12/04/2020,14,0,7
 7,Sub-Saharan Africa,748,Eswatini,SWZ,13/04/2020,15,0,7
 7,Sub-Saharan Africa,748,Eswatini,SWZ,14/04/2020,15,0,8
+7,Sub-Saharan Africa,748,Eswatini,SWZ,15/04/2020,15,0,8
 2,Europe & Central Asia,752,Sweden,SWE,31/01/2020,1,0,0
 2,Europe & Central Asia,752,Sweden,SWE,01/02/2020,25,0,0
 2,Europe & Central Asia,752,Sweden,SWE,26/02/2020,2,0,0
@@ -5526,6 +5649,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,752,Sweden,SWE,12/04/2020,10483,899,381
 2,Europe & Central Asia,752,Sweden,SWE,13/04/2020,10948,919,381
 2,Europe & Central Asia,752,Sweden,SWE,14/04/2020,11445,1033,381
+2,Europe & Central Asia,752,Sweden,SWE,15/04/2020,11927,1203,381
 2,Europe & Central Asia,757,Switzerland,CHE,25/02/2020,2,0,0
 2,Europe & Central Asia,757,Switzerland,CHE,27/02/2020,16,0,0
 2,Europe & Central Asia,757,Switzerland,CHE,29/02/2020,18,0,0
@@ -5571,6 +5695,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,757,Switzerland,CHE,12/04/2020,25415,1106,12700
 2,Europe & Central Asia,757,Switzerland,CHE,13/04/2020,25688,1138,13700
 2,Europe & Central Asia,757,Switzerland,CHE,14/04/2020,25936,1174,13700
+2,Europe & Central Asia,757,Switzerland,CHE,15/04/2020,26336,1239,15400
 4,Middle East & North Africa,760,Syria,SYR,22/03/2020,1,0,0
 4,Middle East & North Africa,760,Syria,SYR,23/03/2020,1,0,0
 4,Middle East & North Africa,760,Syria,SYR,24/03/2020,1,0,0
@@ -5595,6 +5720,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,760,Syria,SYR,12/04/2020,25,2,5
 4,Middle East & North Africa,760,Syria,SYR,13/04/2020,25,2,5
 4,Middle East & North Africa,760,Syria,SYR,14/04/2020,29,2,5
+4,Middle East & North Africa,760,Syria,SYR,15/04/2020,33,2,5
 1,East Asia & Pacific,764,Thailand,THA,22/01/2020,2,0,0
 1,East Asia & Pacific,764,Thailand,THA,23/01/2020,3,0,0
 1,East Asia & Pacific,764,Thailand,THA,24/01/2020,5,0,0
@@ -5657,6 +5783,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 1,East Asia & Pacific,764,Thailand,THA,12/04/2020,2551,38,1218
 1,East Asia & Pacific,764,Thailand,THA,13/04/2020,2579,40,1288
 1,East Asia & Pacific,764,Thailand,THA,14/04/2020,2613,41,1405
+1,East Asia & Pacific,764,Thailand,THA,15/04/2020,2643,43,1497
 7,Sub-Saharan Africa,768,Togo,TGO,06/03/2020,1,0,0
 7,Sub-Saharan Africa,768,Togo,TGO,07/03/2020,6,0,0
 7,Sub-Saharan Africa,768,Togo,TGO,11/03/2020,1,0,0
@@ -5687,6 +5814,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,768,Togo,TGO,12/04/2020,76,3,29
 7,Sub-Saharan Africa,768,Togo,TGO,13/04/2020,77,3,29
 7,Sub-Saharan Africa,768,Togo,TGO,14/04/2020,77,3,32
+7,Sub-Saharan Africa,768,Togo,TGO,15/04/2020,81,3,35
 3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,14/03/2020,4,0,0
 3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,16/03/2020,4,0,0
 3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,17/03/2020,5,0,0
@@ -5717,6 +5845,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,12/04/2020,113,8,16
 3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,13/04/2020,113,8,16
 3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,14/04/2020,113,8,17
+3,Latin America & Caribbean,780,Trinidad and Tobago,TTO,15/04/2020,114,8,19
 4,Middle East & North Africa,784,United Arab Emirates,ARE,29/01/2020,4,0,0
 4,Middle East & North Africa,784,United Arab Emirates,ARE,30/01/2020,4,0,0
 4,Middle East & North Africa,784,United Arab Emirates,ARE,31/01/2020,8,0,0
@@ -5766,6 +5895,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,784,United Arab Emirates,ARE,12/04/2020,4123,22,680
 4,Middle East & North Africa,784,United Arab Emirates,ARE,13/04/2020,4521,25,852
 4,Middle East & North Africa,784,United Arab Emirates,ARE,14/04/2020,4933,28,933
+4,Middle East & North Africa,784,United Arab Emirates,ARE,15/04/2020,5365,33,1034
 4,Middle East & North Africa,788,Tunisia,TUN,04/03/2020,4,0,0
 4,Middle East & North Africa,788,Tunisia,TUN,08/03/2020,4,0,0
 4,Middle East & North Africa,788,Tunisia,TUN,10/03/2020,5,0,0
@@ -5801,6 +5931,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,788,Tunisia,TUN,12/04/2020,707,31,43
 4,Middle East & North Africa,788,Tunisia,TUN,13/04/2020,726,34,43
 4,Middle East & North Africa,788,Tunisia,TUN,14/04/2020,747,34,43
+4,Middle East & North Africa,788,Tunisia,TUN,15/04/2020,780,35,43
 2,Europe & Central Asia,792,Turkey,TUR,11/03/2020,7,0,0
 2,Europe & Central Asia,792,Turkey,TUR,13/03/2020,5,0,0
 2,Europe & Central Asia,792,Turkey,TUR,15/03/2020,6,0,0
@@ -5834,6 +5965,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,792,Turkey,TUR,12/04/2020,56956,1198,3446
 2,Europe & Central Asia,792,Turkey,TUR,13/04/2020,61049,1296,3957
 2,Europe & Central Asia,792,Turkey,TUR,14/04/2020,65111,1403,4799
+2,Europe & Central Asia,792,Turkey,TUR,15/04/2020,69392,1518,5674
 7,Sub-Saharan Africa,800,Uganda,UGA,21/03/2020,1,0,0
 7,Sub-Saharan Africa,800,Uganda,UGA,22/03/2020,1,0,0
 7,Sub-Saharan Africa,800,Uganda,UGA,23/03/2020,9,0,0
@@ -5859,6 +5991,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,800,Uganda,UGA,12/04/2020,54,0,4
 7,Sub-Saharan Africa,800,Uganda,UGA,13/04/2020,54,0,7
 7,Sub-Saharan Africa,800,Uganda,UGA,14/04/2020,55,0,8
+7,Sub-Saharan Africa,800,Uganda,UGA,15/04/2020,55,0,12
 2,Europe & Central Asia,804,Ukraine,UKR,03/03/2020,10,0,0
 2,Europe & Central Asia,804,Ukraine,UKR,11/03/2020,3,1,0
 2,Europe & Central Asia,804,Ukraine,UKR,13/03/2020,6,2,0
@@ -5891,6 +6024,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,804,Ukraine,UKR,12/04/2020,2777,83,89
 2,Europe & Central Asia,804,Ukraine,UKR,13/04/2020,3102,93,97
 2,Europe & Central Asia,804,Ukraine,UKR,14/04/2020,3372,98,119
+2,Europe & Central Asia,804,Ukraine,UKR,15/04/2020,3764,108,143
 2,Europe & Central Asia,807,North Macedonia,MKD,26/02/2020,1,0,0
 2,Europe & Central Asia,807,North Macedonia,MKD,27/02/2020,8,0,0
 2,Europe & Central Asia,807,North Macedonia,MKD,06/03/2020,12,0,0
@@ -5927,6 +6061,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,807,North Macedonia,MKD,12/04/2020,828,34,41
 2,Europe & Central Asia,807,North Macedonia,MKD,13/04/2020,854,38,44
 2,Europe & Central Asia,807,North Macedonia,MKD,14/04/2020,908,44,86
+2,Europe & Central Asia,807,North Macedonia,MKD,15/04/2020,974,45,98
 4,Middle East & North Africa,818,Egypt,EGY,14/02/2020,7,0,0
 4,Middle East & North Africa,818,Egypt,EGY,21/02/2020,7,0,0
 4,Middle East & North Africa,818,Egypt,EGY,28/02/2020,2,0,2
@@ -5970,6 +6105,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 4,Middle East & North Africa,818,Egypt,EGY,12/04/2020,2065,159,589
 4,Middle East & North Africa,818,Egypt,EGY,13/04/2020,2190,164,589
 4,Middle East & North Africa,818,Egypt,EGY,14/04/2020,2350,178,589
+4,Middle East & North Africa,818,Egypt,EGY,15/04/2020,2505,183,589
 2,Europe & Central Asia,826,United Kingdom,GBR,31/01/2020,2,0,0
 2,Europe & Central Asia,826,United Kingdom,GBR,01/02/2020,12,0,0
 2,Europe & Central Asia,826,United Kingdom,GBR,07/02/2020,9,0,0
@@ -6022,6 +6158,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,826,United Kingdom,GBR,12/04/2020,84279,10612,344
 2,Europe & Central Asia,826,United Kingdom,GBR,13/04/2020,88621,11329,0
 2,Europe & Central Asia,826,United Kingdom,GBR,14/04/2020,93873,12107,0
+2,Europe & Central Asia,826,United Kingdom,GBR,15/04/2020,98476,12868,0
 2,Europe & Central Asia,830,Channel Islands,CHI,10/03/2020,1,0,0
 2,Europe & Central Asia,831,Guernsey,GGY,13/03/2020,3,0,0
 2,Europe & Central Asia,832,Jersey,JEY,14/03/2020,6,0,0
@@ -6053,6 +6190,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,834,United Rep. of Tanzania,TZA,12/04/2020,32,3,5
 7,Sub-Saharan Africa,834,United Rep. of Tanzania,TZA,13/04/2020,49,3,7
 7,Sub-Saharan Africa,834,United Rep. of Tanzania,TZA,14/04/2020,53,3,7
+7,Sub-Saharan Africa,834,United Rep. of Tanzania,TZA,15/04/2020,88,4,11
 7,Sub-Saharan Africa,854,Burkina Faso,BFA,10/03/2020,1,0,0
 7,Sub-Saharan Africa,854,Burkina Faso,BFA,11/03/2020,6,0,0
 7,Sub-Saharan Africa,854,Burkina Faso,BFA,13/03/2020,5,0,0
@@ -6085,6 +6223,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,854,Burkina Faso,BFA,12/04/2020,497,27,161
 7,Sub-Saharan Africa,854,Burkina Faso,BFA,13/04/2020,497,27,161
 7,Sub-Saharan Africa,854,Burkina Faso,BFA,14/04/2020,528,30,177
+7,Sub-Saharan Africa,854,Burkina Faso,BFA,15/04/2020,542,32,226
 3,Latin America & Caribbean,858,Uruguay,URY,14/03/2020,8,0,0
 3,Latin America & Caribbean,858,Uruguay,URY,16/03/2020,8,0,0
 3,Latin America & Caribbean,858,Uruguay,URY,17/03/2020,29,0,0
@@ -6116,6 +6255,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,858,Uruguay,URY,12/04/2020,480,7,231
 3,Latin America & Caribbean,858,Uruguay,URY,13/04/2020,480,8,231
 3,Latin America & Caribbean,858,Uruguay,URY,14/04/2020,483,8,248
+3,Latin America & Caribbean,858,Uruguay,URY,15/04/2020,492,8,260
 2,Europe & Central Asia,860,Uzbekistan,UZB,15/03/2020,1,0,0
 2,Europe & Central Asia,860,Uzbekistan,UZB,16/03/2020,6,0,0
 2,Europe & Central Asia,860,Uzbekistan,UZB,17/03/2020,10,0,0
@@ -6147,6 +6287,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 2,Europe & Central Asia,860,Uzbekistan,UZB,12/04/2020,865,4,66
 2,Europe & Central Asia,860,Uzbekistan,UZB,13/04/2020,998,4,85
 2,Europe & Central Asia,860,Uzbekistan,UZB,14/04/2020,1165,4,99
+2,Europe & Central Asia,860,Uzbekistan,UZB,15/04/2020,1302,4,107
 3,Latin America & Caribbean,862,Venezuela,VEN,14/03/2020,2,0,0
 3,Latin America & Caribbean,862,Venezuela,VEN,15/03/2020,10,0,0
 3,Latin America & Caribbean,862,Venezuela,VEN,16/03/2020,17,0,0
@@ -6178,11 +6319,13 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 3,Latin America & Caribbean,862,Venezuela,VEN,12/04/2020,181,9,93
 3,Latin America & Caribbean,862,Venezuela,VEN,13/04/2020,189,9,110
 3,Latin America & Caribbean,862,Venezuela,VEN,14/04/2020,189,9,110
+3,Latin America & Caribbean,862,Venezuela,VEN,15/04/2020,197,9,111
 4,Middle East & North Africa,887,Yemen,YEM,10/04/2020,1,0,0
 4,Middle East & North Africa,887,Yemen,YEM,11/04/2020,1,0,0
 4,Middle East & North Africa,887,Yemen,YEM,12/04/2020,1,0,0
 4,Middle East & North Africa,887,Yemen,YEM,13/04/2020,1,0,0
 4,Middle East & North Africa,887,Yemen,YEM,14/04/2020,1,0,0
+4,Middle East & North Africa,887,Yemen,YEM,15/04/2020,1,0,0
 7,Sub-Saharan Africa,894,Zambia,ZMB,18/03/2020,2,0,0
 7,Sub-Saharan Africa,894,Zambia,ZMB,19/03/2020,6,0,0
 7,Sub-Saharan Africa,894,Zambia,ZMB,22/03/2020,3,0,0
@@ -6209,3 +6352,4 @@ country_region,country_region_name,country_unsd,country_name,country_iso,last_up
 7,Sub-Saharan Africa,894,Zambia,ZMB,12/04/2020,43,2,30
 7,Sub-Saharan Africa,894,Zambia,ZMB,13/04/2020,45,2,30
 7,Sub-Saharan Africa,894,Zambia,ZMB,14/04/2020,45,2,30
+7,Sub-Saharan Africa,894,Zambia,ZMB,15/04/2020,48,2,30
