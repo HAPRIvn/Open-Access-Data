@@ -33,4 +33,6 @@ Please contact me, <DinhNX@ueh.edu.vn>, for proper citation if you are planning 
 # Mapping for COVID-19 in Vietnam
 Coming soon
 
+<center>
 [<img src="https://static.wixstatic.com/media/742178_c1375cf8dde04d6c95b87b0112b85a59~mv2.png" alt="HAPRI Logo" width="207.25px" height="337.75px" />](https://www.hapri.ueh.edu.vn/)
+</center>
