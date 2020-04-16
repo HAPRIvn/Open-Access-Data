@@ -5,11 +5,8 @@
 </p>
 
 [Định Nguyễn](https://www.hapri.ueh.edu.vn/People/Dinh-X-Nguyen), Research Associate, Email: <DinhNX@ueh.edu.vn> \
-[Health and Agricultural Policy Research Institute](https://www.hapri.ueh.edu.vn/) - Viện Nghiên cứu Chính sách Sức khỏe và Nông nghiệp 
+[Health and Agricultural Policy Research Institute](https://www.hapri.ueh.edu.vn/) - Viện Nghiên cứu Chính sách Sức khỏe và Nông nghiệp, URL: https://www.hapri.ueh.edu.vn/
 
-   
-   Health and Agricultural Policy Research Institute - https://www.hapri.ueh.edu.vn/
-        
         279 Nguyễn Tri Phương Street, Ward 5, District 10, Hồ Chí Minh City, Việt Nam
         University of Economomics Ho Chi Minh City, Vietnam
 
