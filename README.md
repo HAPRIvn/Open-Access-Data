@@ -8,6 +8,7 @@
 [Health and Agricultural Policy Research Institute](https://www.hapri.ueh.edu.vn/) - Viện Nghiên cứu Chính sách Sức khỏe và Nông nghiệp
 
         Website: https://www.hapri.ueh.edu.vn/
+        Email: HAPRI@ueh.edu.vn
         Address: 279 Nguyễn Tri Phương Street, Ward 5, District 10, Hồ Chí Minh City, Việt Nam
         University of Economomics Ho Chi Minh City, Vietnam
 
