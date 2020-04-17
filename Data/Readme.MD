@@ -1,9 +1,11 @@
 # HAPRI Open Access Database
 HAPRI's data
+
 HAPRI_COVID-19_Vietnam_Province.csv: COVID-19 panel data for 63 province in Việt Nam
 
 
 Data cleaned from John Hopkins University
+
 HAPRI_COVID-19_National.csv: COVID-19 panel data for ??? country, see here ??? for a complete list. (Exclude: China, USA, Canada)
 
 HAPRI_COVID-19_US_State.csv: COVID-19 panel data for ??? states in the U.S.
