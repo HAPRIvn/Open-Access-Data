@@ -84,6 +84,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,110000,Beijing,北京市,CHN,CHN.2_1,589,8,484
 1,East Asia & Pacific,China,156,CHN,14/04/2020,110000,Beijing,北京市,CHN,CHN.2_1,589,8,491
 1,East Asia & Pacific,China,156,CHN,15/04/2020,110000,Beijing,北京市,CHN,CHN.2_1,590,8,495
+1,East Asia & Pacific,China,156,CHN,16/04/2020,110000,Beijing,北京市,CHN,CHN.2_1,593,8,503
 1,East Asia & Pacific,China,156,CHN,22/01/2020,120000,Tianjin,天津市,CHN,CHN.27_1,4,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,120000,Tianjin,天津市,CHN,CHN.27_1,4,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,120000,Tianjin,天津市,CHN,CHN.27_1,8,0,0
@@ -169,6 +170,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,120000,Tianjin,天津市,CHN,CHN.27_1,184,3,164
 1,East Asia & Pacific,China,156,CHN,14/04/2020,120000,Tianjin,天津市,CHN,CHN.27_1,185,3,168
 1,East Asia & Pacific,China,156,CHN,15/04/2020,120000,Tianjin,天津市,CHN,CHN.27_1,185,3,171
+1,East Asia & Pacific,China,156,CHN,16/04/2020,120000,Tianjin,天津市,CHN,CHN.27_1,186,3,172
 1,East Asia & Pacific,China,156,CHN,22/01/2020,130000,Hebei,河北省,CHN,CHN.10_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,130000,Hebei,河北省,CHN,CHN.10_1,1,1,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,130000,Hebei,河北省,CHN,CHN.10_1,2,1,0
@@ -254,6 +256,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,130000,Hebei,河北省,CHN,CHN.10_1,327,6,313
 1,East Asia & Pacific,China,156,CHN,14/04/2020,130000,Hebei,河北省,CHN,CHN.10_1,327,6,314
 1,East Asia & Pacific,China,156,CHN,15/04/2020,130000,Hebei,河北省,CHN,CHN.10_1,327,6,314
+1,East Asia & Pacific,China,156,CHN,16/04/2020,130000,Hebei,河北省,CHN,CHN.10_1,328,6,315
 1,East Asia & Pacific,China,156,CHN,22/01/2020,140000,Shanxi,山西省,CHN,CHN.25_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,140000,Shanxi,山西省,CHN,CHN.25_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,140000,Shanxi,山西省,CHN,CHN.25_1,1,0,0
@@ -339,6 +342,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,140000,Shanxi,山西省,CHN,CHN.25_1,173,0,135
 1,East Asia & Pacific,China,156,CHN,14/04/2020,140000,Shanxi,山西省,CHN,CHN.25_1,173,0,135
 1,East Asia & Pacific,China,156,CHN,15/04/2020,140000,Shanxi,山西省,CHN,CHN.25_1,186,0,135
+1,East Asia & Pacific,China,156,CHN,16/04/2020,140000,Shanxi,山西省,CHN,CHN.25_1,194,0,135
 1,East Asia & Pacific,China,156,CHN,22/01/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,1,0,0
@@ -424,6 +428,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,190,1,91
 1,East Asia & Pacific,China,156,CHN,14/04/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,190,1,91
 1,East Asia & Pacific,China,156,CHN,15/04/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,190,1,94
+1,East Asia & Pacific,China,156,CHN,16/04/2020,150000,Nei Mongol,内蒙古自治区,CHN,CHN.19_1,193,1,94
 1,East Asia & Pacific,China,156,CHN,22/01/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,3,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,4,0,0
@@ -509,6 +514,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,145,2,136
 1,East Asia & Pacific,China,156,CHN,14/04/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,145,2,138
 1,East Asia & Pacific,China,156,CHN,15/04/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,145,2,138
+1,East Asia & Pacific,China,156,CHN,16/04/2020,210000,Liaoning,辽宁省,CHN,CHN.18_1,145,2,140
 1,East Asia & Pacific,China,156,CHN,22/01/2020,220000,Jilin,吉林省,CHN,CHN.17_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,220000,Jilin,吉林省,CHN,CHN.17_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,220000,Jilin,吉林省,CHN,CHN.17_1,3,0,0
@@ -594,6 +600,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,220000,Jilin,吉林省,CHN,CHN.17_1,100,1,96
 1,East Asia & Pacific,China,156,CHN,14/04/2020,220000,Jilin,吉林省,CHN,CHN.17_1,100,1,96
 1,East Asia & Pacific,China,156,CHN,15/04/2020,220000,Jilin,吉林省,CHN,CHN.17_1,102,1,96
+1,East Asia & Pacific,China,156,CHN,16/04/2020,220000,Jilin,吉林省,CHN,CHN.17_1,102,1,96
 1,East Asia & Pacific,China,156,CHN,22/01/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,4,1,0
@@ -679,6 +686,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,740,13,470
 1,East Asia & Pacific,China,156,CHN,14/04/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,819,13,470
 1,East Asia & Pacific,China,156,CHN,15/04/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,841,13,470
+1,East Asia & Pacific,China,156,CHN,16/04/2020,230000,Heilongjiang,黑龙江省,CHN,CHN.11_1,861,13,471
 1,East Asia & Pacific,China,156,CHN,22/01/2020,310000,Shanghai,上海市,CHN,CHN.24_1,9,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,310000,Shanghai,上海市,CHN,CHN.24_1,16,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,310000,Shanghai,上海市,CHN,CHN.24_1,20,0,1
@@ -764,6 +772,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,310000,Shanghai,上海市,CHN,CHN.24_1,618,7,446
 1,East Asia & Pacific,China,156,CHN,14/04/2020,310000,Shanghai,上海市,CHN,CHN.24_1,618,7,468
 1,East Asia & Pacific,China,156,CHN,15/04/2020,310000,Shanghai,上海市,CHN,CHN.24_1,622,7,485
+1,East Asia & Pacific,China,156,CHN,16/04/2020,310000,Shanghai,上海市,CHN,CHN.24_1,628,7,489
 1,East Asia & Pacific,China,156,CHN,22/01/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,9,0,0
@@ -849,6 +858,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,653,0,638
 1,East Asia & Pacific,China,156,CHN,14/04/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,653,0,641
 1,East Asia & Pacific,China,156,CHN,15/04/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,653,0,642
+1,East Asia & Pacific,China,156,CHN,16/04/2020,320000,Jiangsu,江苏省,CHN,CHN.15_1,653,0,642
 1,East Asia & Pacific,China,156,CHN,22/01/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,10,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,27,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,43,0,1
@@ -934,6 +944,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,1267,1,1239
 1,East Asia & Pacific,China,156,CHN,14/04/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,1267,1,1242
 1,East Asia & Pacific,China,156,CHN,15/04/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,1268,1,1244
+1,East Asia & Pacific,China,156,CHN,16/04/2020,330000,Zhejiang,浙江省,CHN,CHN.31_1,1268,1,1244
 1,East Asia & Pacific,China,156,CHN,22/01/2020,340000,Anhui,安徽省,CHN,CHN.1_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,340000,Anhui,安徽省,CHN,CHN.1_1,9,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,340000,Anhui,安徽省,CHN,CHN.1_1,15,0,0
@@ -1019,6 +1030,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,340000,Anhui,安徽省,CHN,CHN.1_1,991,6,984
 1,East Asia & Pacific,China,156,CHN,14/04/2020,340000,Anhui,安徽省,CHN,CHN.1_1,991,6,984
 1,East Asia & Pacific,China,156,CHN,15/04/2020,340000,Anhui,安徽省,CHN,CHN.1_1,991,6,984
+1,East Asia & Pacific,China,156,CHN,16/04/2020,340000,Anhui,安徽省,CHN,CHN.1_1,991,6,984
 1,East Asia & Pacific,China,156,CHN,22/01/2020,350000,Fujian,福建省,CHN,CHN.4_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,350000,Fujian,福建省,CHN,CHN.4_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,350000,Fujian,福建省,CHN,CHN.4_1,10,0,0
@@ -1104,6 +1116,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,350000,Fujian,福建省,CHN,CHN.4_1,352,1,325
 1,East Asia & Pacific,China,156,CHN,14/04/2020,350000,Fujian,福建省,CHN,CHN.4_1,353,1,329
 1,East Asia & Pacific,China,156,CHN,15/04/2020,350000,Fujian,福建省,CHN,CHN.4_1,353,1,331
+1,East Asia & Pacific,China,156,CHN,16/04/2020,350000,Fujian,福建省,CHN,CHN.4_1,353,1,333
 1,East Asia & Pacific,China,156,CHN,22/01/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,7,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,18,0,0
@@ -1189,6 +1202,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,937,1,936
 1,East Asia & Pacific,China,156,CHN,14/04/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,937,1,936
 1,East Asia & Pacific,China,156,CHN,15/04/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,937,1,936
+1,East Asia & Pacific,China,156,CHN,16/04/2020,360000,Jiangxi,江西省,CHN,CHN.16_1,937,1,936
 1,East Asia & Pacific,China,156,CHN,22/01/2020,370000,Shandong,山东省,CHN,CHN.23_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,370000,Shandong,山东省,CHN,CHN.23_1,6,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,370000,Shandong,山东省,CHN,CHN.23_1,15,0,0
@@ -1274,6 +1288,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,370000,Shandong,山东省,CHN,CHN.23_1,784,7,758
 1,East Asia & Pacific,China,156,CHN,14/04/2020,370000,Shandong,山东省,CHN,CHN.23_1,784,7,759
 1,East Asia & Pacific,China,156,CHN,15/04/2020,370000,Shandong,山东省,CHN,CHN.23_1,784,7,761
+1,East Asia & Pacific,China,156,CHN,16/04/2020,370000,Shandong,山东省,CHN,CHN.23_1,784,7,761
 1,East Asia & Pacific,China,156,CHN,22/01/2020,410000,Henan,河南省,CHN,CHN.12_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,410000,Henan,河南省,CHN,CHN.12_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,410000,Henan,河南省,CHN,CHN.12_1,9,0,0
@@ -1359,6 +1374,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,410000,Henan,河南省,CHN,CHN.12_1,1276,22,1253
 1,East Asia & Pacific,China,156,CHN,14/04/2020,410000,Henan,河南省,CHN,CHN.12_1,1276,22,1254
 1,East Asia & Pacific,China,156,CHN,15/04/2020,410000,Henan,河南省,CHN,CHN.12_1,1276,22,1254
+1,East Asia & Pacific,China,156,CHN,16/04/2020,410000,Henan,河南省,CHN,CHN.12_1,1276,22,1254
 1,East Asia & Pacific,China,156,CHN,22/01/2020,420000,Hubei,湖北省,CHN,CHN.13_1,444,17,28
 1,East Asia & Pacific,China,156,CHN,23/01/2020,420000,Hubei,湖北省,CHN,CHN.13_1,444,17,28
 1,East Asia & Pacific,China,156,CHN,24/01/2020,420000,Hubei,湖北省,CHN,CHN.13_1,549,24,31
@@ -1444,6 +1460,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,420000,Hubei,湖北省,CHN,CHN.13_1,67803,3221,64338
 1,East Asia & Pacific,China,156,CHN,14/04/2020,420000,Hubei,湖北省,CHN,CHN.13_1,67803,3221,64363
 1,East Asia & Pacific,China,156,CHN,15/04/2020,420000,Hubei,湖北省,CHN,CHN.13_1,67803,3222,64402
+1,East Asia & Pacific,China,156,CHN,16/04/2020,420000,Hubei,湖北省,CHN,CHN.13_1,67803,3222,64435
 1,East Asia & Pacific,China,156,CHN,22/01/2020,430000,Hunan,湖南省,CHN,CHN.14_1,4,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,430000,Hunan,湖南省,CHN,CHN.14_1,9,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,430000,Hunan,湖南省,CHN,CHN.14_1,24,0,0
@@ -1529,6 +1546,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,430000,Hunan,湖南省,CHN,CHN.14_1,1019,4,1014
 1,East Asia & Pacific,China,156,CHN,14/04/2020,430000,Hunan,湖南省,CHN,CHN.14_1,1019,4,1014
 1,East Asia & Pacific,China,156,CHN,15/04/2020,430000,Hunan,湖南省,CHN,CHN.14_1,1019,4,1014
+1,East Asia & Pacific,China,156,CHN,16/04/2020,430000,Hunan,湖南省,CHN,CHN.14_1,1019,4,1014
 1,East Asia & Pacific,China,156,CHN,22/01/2020,440000,Guangdong,广东省,CHN,CHN.6_1,26,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,440000,Guangdong,广东省,CHN,CHN.6_1,32,0,2
 1,East Asia & Pacific,China,156,CHN,24/01/2020,440000,Guangdong,广东省,CHN,CHN.6_1,53,0,2
@@ -1614,6 +1632,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,440000,Guangdong,广东省,CHN,CHN.6_1,1555,8,1454
 1,East Asia & Pacific,China,156,CHN,14/04/2020,440000,Guangdong,广东省,CHN,CHN.6_1,1564,8,1458
 1,East Asia & Pacific,China,156,CHN,15/04/2020,440000,Guangdong,广东省,CHN,CHN.6_1,1566,8,1462
+1,East Asia & Pacific,China,156,CHN,16/04/2020,440000,Guangdong,广东省,CHN,CHN.6_1,1571,8,1471
 1,East Asia & Pacific,China,156,CHN,22/01/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,23,0,0
@@ -1699,6 +1718,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,254,2,252
 1,East Asia & Pacific,China,156,CHN,14/04/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,254,2,252
 1,East Asia & Pacific,China,156,CHN,15/04/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,254,2,252
+1,East Asia & Pacific,China,156,CHN,16/04/2020,450000,Guangxi,广西壮族自治区,CHN,CHN.7_1,254,2,252
 1,East Asia & Pacific,China,156,CHN,22/01/2020,460000,Hainan,海南省,CHN,CHN.9_1,4,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,460000,Hainan,海南省,CHN,CHN.9_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,460000,Hainan,海南省,CHN,CHN.9_1,8,0,0
@@ -1784,6 +1804,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,460000,Hainan,海南省,CHN,CHN.9_1,168,6,162
 1,East Asia & Pacific,China,156,CHN,14/04/2020,460000,Hainan,海南省,CHN,CHN.9_1,168,6,162
 1,East Asia & Pacific,China,156,CHN,15/04/2020,460000,Hainan,海南省,CHN,CHN.9_1,168,6,162
+1,East Asia & Pacific,China,156,CHN,16/04/2020,460000,Hainan,海南省,CHN,CHN.9_1,168,6,162
 1,East Asia & Pacific,China,156,CHN,22/01/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,6,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,9,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,27,0,0
@@ -1869,6 +1890,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,579,6,570
 1,East Asia & Pacific,China,156,CHN,14/04/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,579,6,570
 1,East Asia & Pacific,China,156,CHN,15/04/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,579,6,570
+1,East Asia & Pacific,China,156,CHN,16/04/2020,500000,Chongqing,重庆市,CHN,CHN.3_1,579,6,570
 1,East Asia & Pacific,China,156,CHN,22/01/2020,510000,Sichuan,四川省,CHN,CHN.26_1,5,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,510000,Sichuan,四川省,CHN,CHN.26_1,8,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,510000,Sichuan,四川省,CHN,CHN.26_1,15,0,0
@@ -1954,6 +1976,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,510000,Sichuan,四川省,CHN,CHN.26_1,560,3,548
 1,East Asia & Pacific,China,156,CHN,14/04/2020,510000,Sichuan,四川省,CHN,CHN.26_1,560,3,548
 1,East Asia & Pacific,China,156,CHN,15/04/2020,510000,Sichuan,四川省,CHN,CHN.26_1,560,3,550
+1,East Asia & Pacific,China,156,CHN,16/04/2020,510000,Sichuan,四川省,CHN,CHN.26_1,560,3,552
 1,East Asia & Pacific,China,156,CHN,22/01/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,3,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,3,0,0
@@ -2039,6 +2062,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,146,2,144
 1,East Asia & Pacific,China,156,CHN,14/04/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,146,2,144
 1,East Asia & Pacific,China,156,CHN,15/04/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,146,2,144
+1,East Asia & Pacific,China,156,CHN,16/04/2020,520000,Guizhou,贵州省,CHN,CHN.8_1,146,2,144
 1,East Asia & Pacific,China,156,CHN,22/01/2020,530000,Yunnan,云南省,CHN,CHN.30_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,530000,Yunnan,云南省,CHN,CHN.30_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,530000,Yunnan,云南省,CHN,CHN.30_1,5,0,0
@@ -2124,6 +2148,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,530000,Yunnan,云南省,CHN,CHN.30_1,184,2,174
 1,East Asia & Pacific,China,156,CHN,14/04/2020,530000,Yunnan,云南省,CHN,CHN.30_1,184,2,175
 1,East Asia & Pacific,China,156,CHN,15/04/2020,530000,Yunnan,云南省,CHN,CHN.30_1,184,2,176
+1,East Asia & Pacific,China,156,CHN,16/04/2020,530000,Yunnan,云南省,CHN,CHN.30_1,184,2,176
 1,East Asia & Pacific,China,156,CHN,22/01/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,0,0,0
@@ -2209,6 +2234,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,1,0,1
 1,East Asia & Pacific,China,156,CHN,14/04/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,1,0,1
 1,East Asia & Pacific,China,156,CHN,15/04/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,1,0,1
+1,East Asia & Pacific,China,156,CHN,16/04/2020,540000,Xizang,西藏自治区,CHN,CHN.29_1,1,0,1
 1,East Asia & Pacific,China,156,CHN,22/01/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,3,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,5,0,0
@@ -2294,6 +2320,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,256,3,248
 1,East Asia & Pacific,China,156,CHN,14/04/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,256,3,248
 1,East Asia & Pacific,China,156,CHN,15/04/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,256,3,251
+1,East Asia & Pacific,China,156,CHN,16/04/2020,610000,Shaanxi,陕西省,CHN,CHN.22_1,256,3,251
 1,East Asia & Pacific,China,156,CHN,22/01/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,2,0,0
@@ -2379,6 +2406,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,139,2,135
 1,East Asia & Pacific,China,156,CHN,14/04/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,139,2,136
 1,East Asia & Pacific,China,156,CHN,15/04/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,139,2,136
+1,East Asia & Pacific,China,156,CHN,16/04/2020,620000,Gansu,甘肃省,CHN,CHN.5_1,139,2,137
 1,East Asia & Pacific,China,156,CHN,22/01/2020,630000,Qinghai,青海省,CHN,CHN.21_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,630000,Qinghai,青海省,CHN,CHN.21_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,630000,Qinghai,青海省,CHN,CHN.21_1,0,0,0
@@ -2464,6 +2492,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,630000,Qinghai,青海省,CHN,CHN.21_1,18,0,18
 1,East Asia & Pacific,China,156,CHN,14/04/2020,630000,Qinghai,青海省,CHN,CHN.21_1,18,0,18
 1,East Asia & Pacific,China,156,CHN,15/04/2020,630000,Qinghai,青海省,CHN,CHN.21_1,18,0,18
+1,East Asia & Pacific,China,156,CHN,16/04/2020,630000,Qinghai,青海省,CHN,CHN.21_1,18,0,18
 1,East Asia & Pacific,China,156,CHN,22/01/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,1,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,2,0,0
@@ -2549,6 +2578,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,75,0,75
 1,East Asia & Pacific,China,156,CHN,14/04/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,75,0,75
 1,East Asia & Pacific,China,156,CHN,15/04/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,75,0,75
+1,East Asia & Pacific,China,156,CHN,16/04/2020,640000,Ningxia Hui,宁夏回族自治区,CHN,CHN.20_1,75,0,75
 1,East Asia & Pacific,China,156,CHN,22/01/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,0,0,0
 1,East Asia & Pacific,China,156,CHN,23/01/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,2,0,0
 1,East Asia & Pacific,China,156,CHN,24/01/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,2,0,0
@@ -2634,3 +2664,4 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 1,East Asia & Pacific,China,156,CHN,13/04/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,76,3,73
 1,East Asia & Pacific,China,156,CHN,14/04/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,76,3,73
 1,East Asia & Pacific,China,156,CHN,15/04/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,76,3,73
+1,East Asia & Pacific,China,156,CHN,16/04/2020,650000,Xinjiang Uygur,新疆维吾尔自治区,CHN,CHN.28_1,76,3,73
