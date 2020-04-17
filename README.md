@@ -1,4 +1,4 @@
-# COVID-19 Cleaned Database from HAPRI
+# COVID-19 Cleaned Database from HAPRI - Work In Progress
 
 <p align="center">
    <img src="https://static.wixstatic.com/media/742178_c317772c976e4134a1ca1f068bba3c46~mv2.png" alt="HAPRI Open Access Data Banner"/>
