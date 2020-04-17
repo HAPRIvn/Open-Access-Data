@@ -1,0 +1,973 @@
+country_region,country_region_name,country_name,country_unsd,country_iso,date,province_code,province_name,gid_0,gid_1,case_confirmed,case_deaths,case_recovered,region_code
+5,North America,Canada,124,CAN,26/01/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,27/01/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,28/01/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,29/01/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,30/01/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,31/01/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,01/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,02/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,03/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,04/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,05/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,06/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,07/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,08/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,09/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,10/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,11/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,12/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,13/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,14/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,15/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,16/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,17/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,18/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,19/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,20/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,21/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,22/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,23/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,24/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,25/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,26/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,27/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,28/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,29/02/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,01/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,02/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,03/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,04/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,05/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,06/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,07/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,08/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,09/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,10/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,11/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,12/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,13/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,14/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,0,0,0,1
+5,North America,Canada,124,CAN,15/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,1,0,0,1
+5,North America,Canada,124,CAN,16/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,1,0,0,1
+5,North America,Canada,124,CAN,17/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,3,0,0,1
+5,North America,Canada,124,CAN,18/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,3,0,0,1
+5,North America,Canada,124,CAN,19/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,3,0,0,1
+5,North America,Canada,124,CAN,20/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,4,0,0,1
+5,North America,Canada,124,CAN,21/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,6,0,0,1
+5,North America,Canada,124,CAN,22/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,9,0,0,1
+5,North America,Canada,124,CAN,23/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,24,0,0,1
+5,North America,Canada,124,CAN,24/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,35,0,0,1
+5,North America,Canada,124,CAN,25/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,35,0,0,1
+5,North America,Canada,124,CAN,26/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,82,0,0,1
+5,North America,Canada,124,CAN,27/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,102,0,0,1
+5,North America,Canada,124,CAN,28/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,120,0,0,1
+5,North America,Canada,124,CAN,29/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,135,0,0,1
+5,North America,Canada,124,CAN,30/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,148,1,0,1
+5,North America,Canada,124,CAN,31/03/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,152,1,0,1
+5,North America,Canada,124,CAN,01/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,175,1,0,1
+5,North America,Canada,124,CAN,02/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,183,1,0,1
+5,North America,Canada,124,CAN,03/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,195,1,0,1
+5,North America,Canada,124,CAN,04/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,195,1,0,1
+5,North America,Canada,124,CAN,05/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,217,1,0,1
+5,North America,Canada,124,CAN,06/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,226,1,0,1
+5,North America,Canada,124,CAN,07/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,228,1,0,1
+5,North America,Canada,124,CAN,08/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,228,1,0,1
+5,North America,Canada,124,CAN,09/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,232,2,0,1
+5,North America,Canada,124,CAN,10/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,239,3,0,1
+5,North America,Canada,124,CAN,11/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,241,3,0,1
+5,North America,Canada,124,CAN,12/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,242,3,0,1
+5,North America,Canada,124,CAN,13/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,244,3,0,1
+5,North America,Canada,124,CAN,14/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,244,3,0,1
+5,North America,Canada,124,CAN,15/04/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,247,3,0,1
+5,North America,Canada,124,CAN,26/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,27/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,28/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,29/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,30/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,31/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,01/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,02/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,03/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,04/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,05/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,06/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,07/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,08/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,09/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,10/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,11/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,12/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,13/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,14/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,15/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,16/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,17/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,18/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,19/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,20/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,21/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,22/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,23/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,24/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,25/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,26/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,27/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,28/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,29/02/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,01/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,02/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,03/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,04/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,05/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,06/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,07/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,08/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,09/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,10/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,11/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,12/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,13/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,14/03/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
+5,North America,Canada,124,CAN,15/03/2020,11,Prince Edward Island,CAN,CAN.10_1,1,0,0,1
+5,North America,Canada,124,CAN,16/03/2020,11,Prince Edward Island,CAN,CAN.10_1,1,0,0,1
+5,North America,Canada,124,CAN,17/03/2020,11,Prince Edward Island,CAN,CAN.10_1,1,0,0,1
+5,North America,Canada,124,CAN,18/03/2020,11,Prince Edward Island,CAN,CAN.10_1,1,0,0,1
+5,North America,Canada,124,CAN,19/03/2020,11,Prince Edward Island,CAN,CAN.10_1,2,0,0,1
+5,North America,Canada,124,CAN,20/03/2020,11,Prince Edward Island,CAN,CAN.10_1,2,0,0,1
+5,North America,Canada,124,CAN,21/03/2020,11,Prince Edward Island,CAN,CAN.10_1,2,0,0,1
+5,North America,Canada,124,CAN,22/03/2020,11,Prince Edward Island,CAN,CAN.10_1,3,0,0,1
+5,North America,Canada,124,CAN,23/03/2020,11,Prince Edward Island,CAN,CAN.10_1,3,0,0,1
+5,North America,Canada,124,CAN,24/03/2020,11,Prince Edward Island,CAN,CAN.10_1,3,0,0,1
+5,North America,Canada,124,CAN,25/03/2020,11,Prince Edward Island,CAN,CAN.10_1,5,0,0,1
+5,North America,Canada,124,CAN,26/03/2020,11,Prince Edward Island,CAN,CAN.10_1,5,0,0,1
+5,North America,Canada,124,CAN,27/03/2020,11,Prince Edward Island,CAN,CAN.10_1,9,0,0,1
+5,North America,Canada,124,CAN,28/03/2020,11,Prince Edward Island,CAN,CAN.10_1,11,0,0,1
+5,North America,Canada,124,CAN,29/03/2020,11,Prince Edward Island,CAN,CAN.10_1,11,0,0,1
+5,North America,Canada,124,CAN,30/03/2020,11,Prince Edward Island,CAN,CAN.10_1,18,0,0,1
+5,North America,Canada,124,CAN,31/03/2020,11,Prince Edward Island,CAN,CAN.10_1,21,0,0,1
+5,North America,Canada,124,CAN,01/04/2020,11,Prince Edward Island,CAN,CAN.10_1,21,0,0,1
+5,North America,Canada,124,CAN,02/04/2020,11,Prince Edward Island,CAN,CAN.10_1,22,0,0,1
+5,North America,Canada,124,CAN,03/04/2020,11,Prince Edward Island,CAN,CAN.10_1,22,0,0,1
+5,North America,Canada,124,CAN,04/04/2020,11,Prince Edward Island,CAN,CAN.10_1,22,0,0,1
+5,North America,Canada,124,CAN,05/04/2020,11,Prince Edward Island,CAN,CAN.10_1,22,0,0,1
+5,North America,Canada,124,CAN,06/04/2020,11,Prince Edward Island,CAN,CAN.10_1,22,0,0,1
+5,North America,Canada,124,CAN,07/04/2020,11,Prince Edward Island,CAN,CAN.10_1,22,0,0,1
+5,North America,Canada,124,CAN,08/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,1,0,1
+5,North America,Canada,124,CAN,09/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,0,0,1
+5,North America,Canada,124,CAN,10/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,0,0,1
+5,North America,Canada,124,CAN,11/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,0,0,1
+5,North America,Canada,124,CAN,12/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,0,0,1
+5,North America,Canada,124,CAN,13/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,0,0,1
+5,North America,Canada,124,CAN,14/04/2020,11,Prince Edward Island,CAN,CAN.10_1,25,0,0,1
+5,North America,Canada,124,CAN,15/04/2020,11,Prince Edward Island,CAN,CAN.10_1,26,0,0,1
+5,North America,Canada,124,CAN,26/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,27/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,28/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,29/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,30/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,31/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,01/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,02/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,03/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,04/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,05/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,06/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,07/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,08/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,09/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,10/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,11/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,12/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,13/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,14/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,15/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,16/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,17/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,18/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,19/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,20/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,21/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,22/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,23/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,24/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,25/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,26/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,27/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,28/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,29/02/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,01/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,02/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,03/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,04/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,05/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,06/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,07/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,08/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,09/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,10/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,11/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,12/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,13/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,14/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,15/03/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
+5,North America,Canada,124,CAN,16/03/2020,12,Nova Scotia,CAN,CAN.7_1,5,0,0,1
+5,North America,Canada,124,CAN,17/03/2020,12,Nova Scotia,CAN,CAN.7_1,7,0,0,1
+5,North America,Canada,124,CAN,18/03/2020,12,Nova Scotia,CAN,CAN.7_1,12,0,0,1
+5,North America,Canada,124,CAN,19/03/2020,12,Nova Scotia,CAN,CAN.7_1,14,0,0,1
+5,North America,Canada,124,CAN,20/03/2020,12,Nova Scotia,CAN,CAN.7_1,15,0,0,1
+5,North America,Canada,124,CAN,21/03/2020,12,Nova Scotia,CAN,CAN.7_1,21,0,0,1
+5,North America,Canada,124,CAN,22/03/2020,12,Nova Scotia,CAN,CAN.7_1,28,0,0,1
+5,North America,Canada,124,CAN,23/03/2020,12,Nova Scotia,CAN,CAN.7_1,41,0,0,1
+5,North America,Canada,124,CAN,24/03/2020,12,Nova Scotia,CAN,CAN.7_1,51,0,0,1
+5,North America,Canada,124,CAN,25/03/2020,12,Nova Scotia,CAN,CAN.7_1,68,0,0,1
+5,North America,Canada,124,CAN,26/03/2020,12,Nova Scotia,CAN,CAN.7_1,73,0,0,1
+5,North America,Canada,124,CAN,27/03/2020,12,Nova Scotia,CAN,CAN.7_1,90,0,0,1
+5,North America,Canada,124,CAN,28/03/2020,12,Nova Scotia,CAN,CAN.7_1,110,0,0,1
+5,North America,Canada,124,CAN,29/03/2020,12,Nova Scotia,CAN,CAN.7_1,122,0,0,1
+5,North America,Canada,124,CAN,30/03/2020,12,Nova Scotia,CAN,CAN.7_1,127,0,0,1
+5,North America,Canada,124,CAN,31/03/2020,12,Nova Scotia,CAN,CAN.7_1,147,0,0,1
+5,North America,Canada,124,CAN,01/04/2020,12,Nova Scotia,CAN,CAN.7_1,173,0,0,1
+5,North America,Canada,124,CAN,02/04/2020,12,Nova Scotia,CAN,CAN.7_1,193,0,0,1
+5,North America,Canada,124,CAN,03/04/2020,12,Nova Scotia,CAN,CAN.7_1,207,0,0,1
+5,North America,Canada,124,CAN,04/04/2020,12,Nova Scotia,CAN,CAN.7_1,236,0,0,1
+5,North America,Canada,124,CAN,05/04/2020,12,Nova Scotia,CAN,CAN.7_1,262,0,0,1
+5,North America,Canada,124,CAN,06/04/2020,12,Nova Scotia,CAN,CAN.7_1,293,0,0,1
+5,North America,Canada,124,CAN,07/04/2020,12,Nova Scotia,CAN,CAN.7_1,310,1,0,1
+5,North America,Canada,124,CAN,08/04/2020,12,Nova Scotia,CAN,CAN.7_1,310,1,0,1
+5,North America,Canada,124,CAN,09/04/2020,12,Nova Scotia,CAN,CAN.7_1,342,1,0,1
+5,North America,Canada,124,CAN,10/04/2020,12,Nova Scotia,CAN,CAN.7_1,407,2,0,1
+5,North America,Canada,124,CAN,11/04/2020,12,Nova Scotia,CAN,CAN.7_1,428,2,0,1
+5,North America,Canada,124,CAN,12/04/2020,12,Nova Scotia,CAN,CAN.7_1,445,2,0,1
+5,North America,Canada,124,CAN,13/04/2020,12,Nova Scotia,CAN,CAN.7_1,474,3,0,1
+5,North America,Canada,124,CAN,14/04/2020,12,Nova Scotia,CAN,CAN.7_1,517,3,0,1
+5,North America,Canada,124,CAN,15/04/2020,12,Nova Scotia,CAN,CAN.7_1,549,3,0,1
+5,North America,Canada,124,CAN,26/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,27/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,28/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,29/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,30/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,31/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,01/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,02/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,03/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,04/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,05/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,06/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,07/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,08/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,09/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,10/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,11/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,12/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,13/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,14/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,15/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,16/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,17/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,18/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,19/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,20/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,21/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,22/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,23/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,24/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,25/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,26/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,27/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,28/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,29/02/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,01/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,02/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,03/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,04/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,05/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,06/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,07/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,08/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,09/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,10/03/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
+5,North America,Canada,124,CAN,11/03/2020,13,New Brunswick,CAN,CAN.4_1,1,0,0,1
+5,North America,Canada,124,CAN,12/03/2020,13,New Brunswick,CAN,CAN.4_1,1,0,0,1
+5,North America,Canada,124,CAN,13/03/2020,13,New Brunswick,CAN,CAN.4_1,1,0,0,1
+5,North America,Canada,124,CAN,14/03/2020,13,New Brunswick,CAN,CAN.4_1,1,0,0,1
+5,North America,Canada,124,CAN,15/03/2020,13,New Brunswick,CAN,CAN.4_1,2,0,0,1
+5,North America,Canada,124,CAN,16/03/2020,13,New Brunswick,CAN,CAN.4_1,6,0,0,1
+5,North America,Canada,124,CAN,17/03/2020,13,New Brunswick,CAN,CAN.4_1,8,0,0,1
+5,North America,Canada,124,CAN,18/03/2020,13,New Brunswick,CAN,CAN.4_1,11,0,0,1
+5,North America,Canada,124,CAN,19/03/2020,13,New Brunswick,CAN,CAN.4_1,11,0,0,1
+5,North America,Canada,124,CAN,20/03/2020,13,New Brunswick,CAN,CAN.4_1,11,0,0,1
+5,North America,Canada,124,CAN,21/03/2020,13,New Brunswick,CAN,CAN.4_1,17,0,0,1
+5,North America,Canada,124,CAN,22/03/2020,13,New Brunswick,CAN,CAN.4_1,17,0,0,1
+5,North America,Canada,124,CAN,23/03/2020,13,New Brunswick,CAN,CAN.4_1,17,0,0,1
+5,North America,Canada,124,CAN,24/03/2020,13,New Brunswick,CAN,CAN.4_1,18,0,0,1
+5,North America,Canada,124,CAN,25/03/2020,13,New Brunswick,CAN,CAN.4_1,18,0,0,1
+5,North America,Canada,124,CAN,26/03/2020,13,New Brunswick,CAN,CAN.4_1,33,0,0,1
+5,North America,Canada,124,CAN,27/03/2020,13,New Brunswick,CAN,CAN.4_1,45,0,0,1
+5,North America,Canada,124,CAN,28/03/2020,13,New Brunswick,CAN,CAN.4_1,51,0,0,1
+5,North America,Canada,124,CAN,29/03/2020,13,New Brunswick,CAN,CAN.4_1,66,0,0,1
+5,North America,Canada,124,CAN,30/03/2020,13,New Brunswick,CAN,CAN.4_1,68,0,0,1
+5,North America,Canada,124,CAN,31/03/2020,13,New Brunswick,CAN,CAN.4_1,70,0,0,1
+5,North America,Canada,124,CAN,01/04/2020,13,New Brunswick,CAN,CAN.4_1,81,0,0,1
+5,North America,Canada,124,CAN,02/04/2020,13,New Brunswick,CAN,CAN.4_1,91,0,0,1
+5,North America,Canada,124,CAN,03/04/2020,13,New Brunswick,CAN,CAN.4_1,91,0,0,1
+5,North America,Canada,124,CAN,04/04/2020,13,New Brunswick,CAN,CAN.4_1,91,0,0,1
+5,North America,Canada,124,CAN,05/04/2020,13,New Brunswick,CAN,CAN.4_1,98,0,0,1
+5,North America,Canada,124,CAN,06/04/2020,13,New Brunswick,CAN,CAN.4_1,103,0,0,1
+5,North America,Canada,124,CAN,07/04/2020,13,New Brunswick,CAN,CAN.4_1,105,0,0,1
+5,North America,Canada,124,CAN,08/04/2020,13,New Brunswick,CAN,CAN.4_1,105,0,0,1
+5,North America,Canada,124,CAN,09/04/2020,13,New Brunswick,CAN,CAN.4_1,108,0,0,1
+5,North America,Canada,124,CAN,10/04/2020,13,New Brunswick,CAN,CAN.4_1,112,0,0,1
+5,North America,Canada,124,CAN,11/04/2020,13,New Brunswick,CAN,CAN.4_1,112,0,0,1
+5,North America,Canada,124,CAN,12/04/2020,13,New Brunswick,CAN,CAN.4_1,114,0,0,1
+5,North America,Canada,124,CAN,13/04/2020,13,New Brunswick,CAN,CAN.4_1,116,0,0,1
+5,North America,Canada,124,CAN,14/04/2020,13,New Brunswick,CAN,CAN.4_1,116,0,0,1
+5,North America,Canada,124,CAN,15/04/2020,13,New Brunswick,CAN,CAN.4_1,117,0,0,1
+5,North America,Canada,124,CAN,26/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,27/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,28/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,29/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,30/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,31/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,01/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,02/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,03/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,04/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,05/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,06/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,07/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,08/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,09/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,10/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,11/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,12/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,13/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,14/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,15/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,16/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,17/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,18/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,19/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,20/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,21/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,22/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,23/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,24/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,25/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,26/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,27/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,28/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,29/02/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,01/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,02/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,03/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,04/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,05/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,06/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,07/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,08/03/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
+5,North America,Canada,124,CAN,09/03/2020,24,Québec,CAN,CAN.11_1,3,0,0,2
+5,North America,Canada,124,CAN,10/03/2020,24,Québec,CAN,CAN.11_1,4,0,0,2
+5,North America,Canada,124,CAN,11/03/2020,24,Québec,CAN,CAN.11_1,17,0,0,2
+5,North America,Canada,124,CAN,12/03/2020,24,Québec,CAN,CAN.11_1,9,0,0,2
+5,North America,Canada,124,CAN,13/03/2020,24,Québec,CAN,CAN.11_1,17,0,0,2
+5,North America,Canada,124,CAN,14/03/2020,24,Québec,CAN,CAN.11_1,17,0,0,2
+5,North America,Canada,124,CAN,15/03/2020,24,Québec,CAN,CAN.11_1,24,0,0,2
+5,North America,Canada,124,CAN,16/03/2020,24,Québec,CAN,CAN.11_1,50,0,0,2
+5,North America,Canada,124,CAN,17/03/2020,24,Québec,CAN,CAN.11_1,74,0,0,2
+5,North America,Canada,124,CAN,18/03/2020,24,Québec,CAN,CAN.11_1,94,0,0,2
+5,North America,Canada,124,CAN,19/03/2020,24,Québec,CAN,CAN.11_1,121,1,0,2
+5,North America,Canada,124,CAN,20/03/2020,24,Québec,CAN,CAN.11_1,139,1,0,2
+5,North America,Canada,124,CAN,21/03/2020,24,Québec,CAN,CAN.11_1,181,5,0,2
+5,North America,Canada,124,CAN,22/03/2020,24,Québec,CAN,CAN.11_1,219,4,0,2
+5,North America,Canada,124,CAN,23/03/2020,24,Québec,CAN,CAN.11_1,628,4,0,2
+5,North America,Canada,124,CAN,24/03/2020,24,Québec,CAN,CAN.11_1,1013,4,0,2
+5,North America,Canada,124,CAN,25/03/2020,24,Québec,CAN,CAN.11_1,1342,6,0,2
+5,North America,Canada,124,CAN,26/03/2020,24,Québec,CAN,CAN.11_1,1632,8,0,2
+5,North America,Canada,124,CAN,27/03/2020,24,Québec,CAN,CAN.11_1,2024,18,0,2
+5,North America,Canada,124,CAN,28/03/2020,24,Québec,CAN,CAN.11_1,2498,22,0,2
+5,North America,Canada,124,CAN,29/03/2020,24,Québec,CAN,CAN.11_1,2840,22,0,2
+5,North America,Canada,124,CAN,30/03/2020,24,Québec,CAN,CAN.11_1,3430,22,0,2
+5,North America,Canada,124,CAN,31/03/2020,24,Québec,CAN,CAN.11_1,4162,31,0,2
+5,North America,Canada,124,CAN,01/04/2020,24,Québec,CAN,CAN.11_1,4611,33,0,2
+5,North America,Canada,124,CAN,02/04/2020,24,Québec,CAN,CAN.11_1,5518,36,0,2
+5,North America,Canada,124,CAN,03/04/2020,24,Québec,CAN,CAN.11_1,6101,61,0,2
+5,North America,Canada,124,CAN,04/04/2020,24,Québec,CAN,CAN.11_1,6101,61,0,2
+5,North America,Canada,124,CAN,05/04/2020,24,Québec,CAN,CAN.11_1,7944,75,0,2
+5,North America,Canada,124,CAN,06/04/2020,24,Québec,CAN,CAN.11_1,8580,121,0,2
+5,North America,Canada,124,CAN,07/04/2020,24,Québec,CAN,CAN.11_1,9340,150,0,2
+5,North America,Canada,124,CAN,08/04/2020,24,Québec,CAN,CAN.11_1,10031,175,0,2
+5,North America,Canada,124,CAN,09/04/2020,24,Québec,CAN,CAN.11_1,10912,216,0,2
+5,North America,Canada,124,CAN,10/04/2020,24,Québec,CAN,CAN.11_1,11677,241,0,2
+5,North America,Canada,124,CAN,11/04/2020,24,Québec,CAN,CAN.11_1,12292,289,0,2
+5,North America,Canada,124,CAN,12/04/2020,24,Québec,CAN,CAN.11_1,12846,328,0,2
+5,North America,Canada,124,CAN,13/04/2020,24,Québec,CAN,CAN.11_1,13557,360,0,2
+5,North America,Canada,124,CAN,14/04/2020,24,Québec,CAN,CAN.11_1,14248,435,0,2
+5,North America,Canada,124,CAN,15/04/2020,24,Québec,CAN,CAN.11_1,14860,487,0,2
+5,North America,Canada,124,CAN,26/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
+5,North America,Canada,124,CAN,27/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
+5,North America,Canada,124,CAN,28/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
+5,North America,Canada,124,CAN,29/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
+5,North America,Canada,124,CAN,30/01/2020,35,Ontario,CAN,CAN.9_1,2,0,0,3
+5,North America,Canada,124,CAN,31/01/2020,35,Ontario,CAN,CAN.9_1,2,0,0,3
+5,North America,Canada,124,CAN,01/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,02/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,03/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,04/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,05/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,06/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,07/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,08/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,09/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,10/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,11/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,12/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,13/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,14/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,15/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,16/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,17/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,18/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,19/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,20/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,21/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,22/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,23/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,24/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,25/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,26/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,27/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,28/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,29/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,01/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,02/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,03/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,04/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,05/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,06/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,07/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,08/03/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
+5,North America,Canada,124,CAN,09/03/2020,35,Ontario,CAN,CAN.9_1,34,0,4,3
+5,North America,Canada,124,CAN,10/03/2020,35,Ontario,CAN,CAN.9_1,36,0,4,3
+5,North America,Canada,124,CAN,11/03/2020,35,Ontario,CAN,CAN.9_1,74,0,4,3
+5,North America,Canada,124,CAN,12/03/2020,35,Ontario,CAN,CAN.9_1,42,0,4,3
+5,North America,Canada,124,CAN,13/03/2020,35,Ontario,CAN,CAN.9_1,42,0,4,3
+5,North America,Canada,124,CAN,14/03/2020,35,Ontario,CAN,CAN.9_1,79,0,4,3
+5,North America,Canada,124,CAN,15/03/2020,35,Ontario,CAN,CAN.9_1,104,0,4,3
+5,North America,Canada,124,CAN,16/03/2020,35,Ontario,CAN,CAN.9_1,177,0,5,3
+5,North America,Canada,124,CAN,17/03/2020,35,Ontario,CAN,CAN.9_1,185,1,5,3
+5,North America,Canada,124,CAN,18/03/2020,35,Ontario,CAN,CAN.9_1,221,1,5,3
+5,North America,Canada,124,CAN,19/03/2020,35,Ontario,CAN,CAN.9_1,257,1,5,3
+5,North America,Canada,124,CAN,20/03/2020,35,Ontario,CAN,CAN.9_1,308,2,5,3
+5,North America,Canada,124,CAN,21/03/2020,35,Ontario,CAN,CAN.9_1,377,3,6,3
+5,North America,Canada,124,CAN,22/03/2020,35,Ontario,CAN,CAN.9_1,425,5,0,3
+5,North America,Canada,124,CAN,23/03/2020,35,Ontario,CAN,CAN.9_1,503,6,0,3
+5,North America,Canada,124,CAN,24/03/2020,35,Ontario,CAN,CAN.9_1,588,7,0,3
+5,North America,Canada,124,CAN,25/03/2020,35,Ontario,CAN,CAN.9_1,688,8,0,3
+5,North America,Canada,124,CAN,26/03/2020,35,Ontario,CAN,CAN.9_1,858,13,0,3
+5,North America,Canada,124,CAN,27/03/2020,35,Ontario,CAN,CAN.9_1,994,18,0,3
+5,North America,Canada,124,CAN,28/03/2020,35,Ontario,CAN,CAN.9_1,1144,18,0,3
+5,North America,Canada,124,CAN,29/03/2020,35,Ontario,CAN,CAN.9_1,1355,21,0,3
+5,North America,Canada,124,CAN,30/03/2020,35,Ontario,CAN,CAN.9_1,1706,31,0,3
+5,North America,Canada,124,CAN,31/03/2020,35,Ontario,CAN,CAN.9_1,1966,33,0,3
+5,North America,Canada,124,CAN,01/04/2020,35,Ontario,CAN,CAN.9_1,2392,37,0,3
+5,North America,Canada,124,CAN,02/04/2020,35,Ontario,CAN,CAN.9_1,2793,53,0,3
+5,North America,Canada,124,CAN,03/04/2020,35,Ontario,CAN,CAN.9_1,3255,67,0,3
+5,North America,Canada,124,CAN,04/04/2020,35,Ontario,CAN,CAN.9_1,3630,94,0,3
+5,North America,Canada,124,CAN,05/04/2020,35,Ontario,CAN,CAN.9_1,4354,119,0,3
+5,North America,Canada,124,CAN,06/04/2020,35,Ontario,CAN,CAN.9_1,4347,150,0,3
+5,North America,Canada,124,CAN,07/04/2020,35,Ontario,CAN,CAN.9_1,4726,153,0,3
+5,North America,Canada,124,CAN,08/04/2020,35,Ontario,CAN,CAN.9_1,5276,153,0,3
+5,North America,Canada,124,CAN,09/04/2020,35,Ontario,CAN,CAN.9_1,5759,200,0,3
+5,North America,Canada,124,CAN,10/04/2020,35,Ontario,CAN,CAN.9_1,6237,222,0,3
+5,North America,Canada,124,CAN,11/04/2020,35,Ontario,CAN,CAN.9_1,6648,253,0,3
+5,North America,Canada,124,CAN,12/04/2020,35,Ontario,CAN,CAN.9_1,7049,274,0,3
+5,North America,Canada,124,CAN,13/04/2020,35,Ontario,CAN,CAN.9_1,7470,291,0,3
+5,North America,Canada,124,CAN,14/04/2020,35,Ontario,CAN,CAN.9_1,7953,334,0,3
+5,North America,Canada,124,CAN,15/04/2020,35,Ontario,CAN,CAN.9_1,8447,385,0,3
+5,North America,Canada,124,CAN,26/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,27/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,28/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,29/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,30/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,31/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,01/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,02/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,03/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,04/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,05/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,06/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,07/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,08/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,09/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,10/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,11/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,12/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,13/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,14/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,15/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,16/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,17/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,18/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,19/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,20/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,21/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,22/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,23/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,24/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,25/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,26/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,27/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,28/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,29/02/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,01/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,02/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,03/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,04/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,05/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,06/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,07/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,08/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,09/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,10/03/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
+5,North America,Canada,124,CAN,11/03/2020,46,Manitoba,CAN,CAN.3_1,4,0,0,4
+5,North America,Canada,124,CAN,12/03/2020,46,Manitoba,CAN,CAN.3_1,4,0,0,4
+5,North America,Canada,124,CAN,13/03/2020,46,Manitoba,CAN,CAN.3_1,4,0,0,4
+5,North America,Canada,124,CAN,14/03/2020,46,Manitoba,CAN,CAN.3_1,4,0,0,4
+5,North America,Canada,124,CAN,15/03/2020,46,Manitoba,CAN,CAN.3_1,4,0,0,4
+5,North America,Canada,124,CAN,16/03/2020,46,Manitoba,CAN,CAN.3_1,7,0,0,4
+5,North America,Canada,124,CAN,17/03/2020,46,Manitoba,CAN,CAN.3_1,8,0,0,4
+5,North America,Canada,124,CAN,18/03/2020,46,Manitoba,CAN,CAN.3_1,15,0,0,4
+5,North America,Canada,124,CAN,19/03/2020,46,Manitoba,CAN,CAN.3_1,17,0,0,4
+5,North America,Canada,124,CAN,20/03/2020,46,Manitoba,CAN,CAN.3_1,17,0,0,4
+5,North America,Canada,124,CAN,21/03/2020,46,Manitoba,CAN,CAN.3_1,18,0,0,4
+5,North America,Canada,124,CAN,22/03/2020,46,Manitoba,CAN,CAN.3_1,20,0,0,4
+5,North America,Canada,124,CAN,23/03/2020,46,Manitoba,CAN,CAN.3_1,20,0,0,4
+5,North America,Canada,124,CAN,24/03/2020,46,Manitoba,CAN,CAN.3_1,21,0,0,4
+5,North America,Canada,124,CAN,25/03/2020,46,Manitoba,CAN,CAN.3_1,35,0,0,4
+5,North America,Canada,124,CAN,26/03/2020,46,Manitoba,CAN,CAN.3_1,36,0,0,4
+5,North America,Canada,124,CAN,27/03/2020,46,Manitoba,CAN,CAN.3_1,39,1,0,4
+5,North America,Canada,124,CAN,28/03/2020,46,Manitoba,CAN,CAN.3_1,64,1,0,4
+5,North America,Canada,124,CAN,29/03/2020,46,Manitoba,CAN,CAN.3_1,72,1,0,4
+5,North America,Canada,124,CAN,30/03/2020,46,Manitoba,CAN,CAN.3_1,96,1,0,4
+5,North America,Canada,124,CAN,31/03/2020,46,Manitoba,CAN,CAN.3_1,103,1,0,4
+5,North America,Canada,124,CAN,01/04/2020,46,Manitoba,CAN,CAN.3_1,127,1,0,4
+5,North America,Canada,124,CAN,02/04/2020,46,Manitoba,CAN,CAN.3_1,167,1,0,4
+5,North America,Canada,124,CAN,03/04/2020,46,Manitoba,CAN,CAN.3_1,182,2,0,4
+5,North America,Canada,124,CAN,04/04/2020,46,Manitoba,CAN,CAN.3_1,182,2,0,4
+5,North America,Canada,124,CAN,05/04/2020,46,Manitoba,CAN,CAN.3_1,203,2,0,4
+5,North America,Canada,124,CAN,06/04/2020,46,Manitoba,CAN,CAN.3_1,203,2,0,4
+5,North America,Canada,124,CAN,07/04/2020,46,Manitoba,CAN,CAN.3_1,217,3,0,4
+5,North America,Canada,124,CAN,08/04/2020,46,Manitoba,CAN,CAN.3_1,217,3,0,4
+5,North America,Canada,124,CAN,09/04/2020,46,Manitoba,CAN,CAN.3_1,221,3,0,4
+5,North America,Canada,124,CAN,10/04/2020,46,Manitoba,CAN,CAN.3_1,230,3,0,4
+5,North America,Canada,124,CAN,11/04/2020,46,Manitoba,CAN,CAN.3_1,243,4,0,4
+5,North America,Canada,124,CAN,12/04/2020,46,Manitoba,CAN,CAN.3_1,242,4,0,4
+5,North America,Canada,124,CAN,13/04/2020,46,Manitoba,CAN,CAN.3_1,246,4,0,4
+5,North America,Canada,124,CAN,14/04/2020,46,Manitoba,CAN,CAN.3_1,246,4,0,4
+5,North America,Canada,124,CAN,15/04/2020,46,Manitoba,CAN,CAN.3_1,246,5,0,4
+5,North America,Canada,124,CAN,26/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,27/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,28/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,29/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,30/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,31/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,01/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,02/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,03/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,04/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,05/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,06/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,07/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,08/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,09/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,10/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,11/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,12/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,13/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,14/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,15/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,16/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,17/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,18/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,19/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,20/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,21/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,22/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,23/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,24/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,25/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,26/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,27/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,28/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,29/02/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,01/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,02/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,03/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,04/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,05/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,06/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,07/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,08/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,09/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,10/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+5,North America,Canada,124,CAN,11/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+5,North America,Canada,124,CAN,12/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+5,North America,Canada,124,CAN,13/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+5,North America,Canada,124,CAN,14/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+5,North America,Canada,124,CAN,15/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+5,North America,Canada,124,CAN,16/03/2020,47,Saskatchewan,CAN,CAN.12_1,7,0,0,4
+5,North America,Canada,124,CAN,17/03/2020,47,Saskatchewan,CAN,CAN.12_1,7,0,0,4
+5,North America,Canada,124,CAN,18/03/2020,47,Saskatchewan,CAN,CAN.12_1,8,0,0,4
+5,North America,Canada,124,CAN,19/03/2020,47,Saskatchewan,CAN,CAN.12_1,16,0,0,4
+5,North America,Canada,124,CAN,20/03/2020,47,Saskatchewan,CAN,CAN.12_1,20,0,0,4
+5,North America,Canada,124,CAN,21/03/2020,47,Saskatchewan,CAN,CAN.12_1,26,0,0,4
+5,North America,Canada,124,CAN,22/03/2020,47,Saskatchewan,CAN,CAN.12_1,52,0,0,4
+5,North America,Canada,124,CAN,23/03/2020,47,Saskatchewan,CAN,CAN.12_1,66,0,0,4
+5,North America,Canada,124,CAN,24/03/2020,47,Saskatchewan,CAN,CAN.12_1,72,0,0,4
+5,North America,Canada,124,CAN,25/03/2020,47,Saskatchewan,CAN,CAN.12_1,72,0,0,4
+5,North America,Canada,124,CAN,26/03/2020,47,Saskatchewan,CAN,CAN.12_1,95,0,0,4
+5,North America,Canada,124,CAN,27/03/2020,47,Saskatchewan,CAN,CAN.12_1,95,0,0,4
+5,North America,Canada,124,CAN,28/03/2020,47,Saskatchewan,CAN,CAN.12_1,134,0,0,4
+5,North America,Canada,124,CAN,29/03/2020,47,Saskatchewan,CAN,CAN.12_1,156,0,0,4
+5,North America,Canada,124,CAN,30/03/2020,47,Saskatchewan,CAN,CAN.12_1,156,2,0,4
+5,North America,Canada,124,CAN,31/03/2020,47,Saskatchewan,CAN,CAN.12_1,184,2,0,4
+5,North America,Canada,124,CAN,01/04/2020,47,Saskatchewan,CAN,CAN.12_1,193,3,0,4
+5,North America,Canada,124,CAN,02/04/2020,47,Saskatchewan,CAN,CAN.12_1,206,3,0,4
+5,North America,Canada,124,CAN,03/04/2020,47,Saskatchewan,CAN,CAN.12_1,220,3,0,4
+5,North America,Canada,124,CAN,04/04/2020,47,Saskatchewan,CAN,CAN.12_1,220,3,0,4
+5,North America,Canada,124,CAN,05/04/2020,47,Saskatchewan,CAN,CAN.12_1,249,3,0,4
+5,North America,Canada,124,CAN,06/04/2020,47,Saskatchewan,CAN,CAN.12_1,249,3,0,4
+5,North America,Canada,124,CAN,07/04/2020,47,Saskatchewan,CAN,CAN.12_1,260,3,0,4
+5,North America,Canada,124,CAN,08/04/2020,47,Saskatchewan,CAN,CAN.12_1,260,3,0,4
+5,North America,Canada,124,CAN,09/04/2020,47,Saskatchewan,CAN,CAN.12_1,271,3,0,4
+5,North America,Canada,124,CAN,10/04/2020,47,Saskatchewan,CAN,CAN.12_1,285,3,0,4
+5,North America,Canada,124,CAN,11/04/2020,47,Saskatchewan,CAN,CAN.12_1,289,4,0,4
+5,North America,Canada,124,CAN,12/04/2020,47,Saskatchewan,CAN,CAN.12_1,298,4,0,4
+5,North America,Canada,124,CAN,13/04/2020,47,Saskatchewan,CAN,CAN.12_1,300,4,0,4
+5,North America,Canada,124,CAN,14/04/2020,47,Saskatchewan,CAN,CAN.12_1,300,4,0,4
+5,North America,Canada,124,CAN,15/04/2020,47,Saskatchewan,CAN,CAN.12_1,304,4,0,4
+5,North America,Canada,124,CAN,26/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,27/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,28/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,29/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,30/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,31/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,01/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,02/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,03/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,04/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,05/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,06/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,07/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,08/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,09/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,10/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,11/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,12/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,13/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,14/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,15/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,16/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,17/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,18/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,19/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,20/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,21/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,22/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,23/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,24/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,25/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,26/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,27/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,28/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,29/02/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,01/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,02/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,03/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,04/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,05/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,06/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,07/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,08/03/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
+5,North America,Canada,124,CAN,09/03/2020,48,Alberta,CAN,CAN.1_1,7,0,0,4
+5,North America,Canada,124,CAN,10/03/2020,48,Alberta,CAN,CAN.1_1,7,0,0,4
+5,North America,Canada,124,CAN,11/03/2020,48,Alberta,CAN,CAN.1_1,29,0,0,4
+5,North America,Canada,124,CAN,12/03/2020,48,Alberta,CAN,CAN.1_1,29,0,0,4
+5,North America,Canada,124,CAN,13/03/2020,48,Alberta,CAN,CAN.1_1,29,0,0,4
+5,North America,Canada,124,CAN,14/03/2020,48,Alberta,CAN,CAN.1_1,29,0,0,4
+5,North America,Canada,124,CAN,15/03/2020,48,Alberta,CAN,CAN.1_1,39,0,0,4
+5,North America,Canada,124,CAN,16/03/2020,48,Alberta,CAN,CAN.1_1,56,0,0,4
+5,North America,Canada,124,CAN,17/03/2020,48,Alberta,CAN,CAN.1_1,74,0,0,4
+5,North America,Canada,124,CAN,18/03/2020,48,Alberta,CAN,CAN.1_1,97,0,0,4
+5,North America,Canada,124,CAN,19/03/2020,48,Alberta,CAN,CAN.1_1,119,0,0,4
+5,North America,Canada,124,CAN,20/03/2020,48,Alberta,CAN,CAN.1_1,146,1,0,4
+5,North America,Canada,124,CAN,21/03/2020,48,Alberta,CAN,CAN.1_1,195,1,0,4
+5,North America,Canada,124,CAN,22/03/2020,48,Alberta,CAN,CAN.1_1,259,1,0,4
+5,North America,Canada,124,CAN,23/03/2020,48,Alberta,CAN,CAN.1_1,301,1,0,4
+5,North America,Canada,124,CAN,24/03/2020,48,Alberta,CAN,CAN.1_1,359,1,0,4
+5,North America,Canada,124,CAN,25/03/2020,48,Alberta,CAN,CAN.1_1,358,2,0,4
+5,North America,Canada,124,CAN,26/03/2020,48,Alberta,CAN,CAN.1_1,486,2,0,4
+5,North America,Canada,124,CAN,27/03/2020,48,Alberta,CAN,CAN.1_1,542,2,0,4
+5,North America,Canada,124,CAN,28/03/2020,48,Alberta,CAN,CAN.1_1,542,2,0,4
+5,North America,Canada,124,CAN,29/03/2020,48,Alberta,CAN,CAN.1_1,621,2,0,4
+5,North America,Canada,124,CAN,30/03/2020,48,Alberta,CAN,CAN.1_1,661,3,0,4
+5,North America,Canada,124,CAN,31/03/2020,48,Alberta,CAN,CAN.1_1,690,8,0,4
+5,North America,Canada,124,CAN,01/04/2020,48,Alberta,CAN,CAN.1_1,754,9,0,4
+5,North America,Canada,124,CAN,02/04/2020,48,Alberta,CAN,CAN.1_1,969,13,0,4
+5,North America,Canada,124,CAN,03/04/2020,48,Alberta,CAN,CAN.1_1,969,13,0,4
+5,North America,Canada,124,CAN,04/04/2020,48,Alberta,CAN,CAN.1_1,1075,18,0,4
+5,North America,Canada,124,CAN,05/04/2020,48,Alberta,CAN,CAN.1_1,1181,20,0,4
+5,North America,Canada,124,CAN,06/04/2020,48,Alberta,CAN,CAN.1_1,1250,23,0,4
+5,North America,Canada,124,CAN,07/04/2020,48,Alberta,CAN,CAN.1_1,1373,24,0,4
+5,North America,Canada,124,CAN,08/04/2020,48,Alberta,CAN,CAN.1_1,1373,26,0,4
+5,North America,Canada,124,CAN,09/04/2020,48,Alberta,CAN,CAN.1_1,1423,29,0,4
+5,North America,Canada,124,CAN,10/04/2020,48,Alberta,CAN,CAN.1_1,1451,32,0,4
+5,North America,Canada,124,CAN,11/04/2020,48,Alberta,CAN,CAN.1_1,1567,40,0,4
+5,North America,Canada,124,CAN,12/04/2020,48,Alberta,CAN,CAN.1_1,1567,40,0,4
+5,North America,Canada,124,CAN,13/04/2020,48,Alberta,CAN,CAN.1_1,1732,46,0,4
+5,North America,Canada,124,CAN,14/04/2020,48,Alberta,CAN,CAN.1_1,1870,48,0,4
+5,North America,Canada,124,CAN,15/04/2020,48,Alberta,CAN,CAN.1_1,1870,48,0,4
+5,North America,Canada,124,CAN,26/01/2020,59,British Columbia,CAN,CAN.2_1,0,0,0,5
+5,North America,Canada,124,CAN,27/01/2020,59,British Columbia,CAN,CAN.2_1,0,0,0,5
+5,North America,Canada,124,CAN,28/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,29/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,30/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,31/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,01/02/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,02/02/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,03/02/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,04/02/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
+5,North America,Canada,124,CAN,05/02/2020,59,British Columbia,CAN,CAN.2_1,2,0,0,5
+5,North America,Canada,124,CAN,06/02/2020,59,British Columbia,CAN,CAN.2_1,2,0,0,5
+5,North America,Canada,124,CAN,07/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,08/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,09/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,10/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,11/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,12/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,13/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,14/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,15/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,16/02/2020,59,British Columbia,CAN,CAN.2_1,4,0,0,5
+5,North America,Canada,124,CAN,17/02/2020,59,British Columbia,CAN,CAN.2_1,5,0,0,5
+5,North America,Canada,124,CAN,18/02/2020,59,British Columbia,CAN,CAN.2_1,5,0,0,5
+5,North America,Canada,124,CAN,19/02/2020,59,British Columbia,CAN,CAN.2_1,5,0,0,5
+5,North America,Canada,124,CAN,20/02/2020,59,British Columbia,CAN,CAN.2_1,5,0,0,5
+5,North America,Canada,124,CAN,21/02/2020,59,British Columbia,CAN,CAN.2_1,6,0,0,5
+5,North America,Canada,124,CAN,22/02/2020,59,British Columbia,CAN,CAN.2_1,6,0,0,5
+5,North America,Canada,124,CAN,23/02/2020,59,British Columbia,CAN,CAN.2_1,6,0,0,5
+5,North America,Canada,124,CAN,24/02/2020,59,British Columbia,CAN,CAN.2_1,6,0,0,5
+5,North America,Canada,124,CAN,25/02/2020,59,British Columbia,CAN,CAN.2_1,7,0,0,5
+5,North America,Canada,124,CAN,26/02/2020,59,British Columbia,CAN,CAN.2_1,7,0,0,5
+5,North America,Canada,124,CAN,27/02/2020,59,British Columbia,CAN,CAN.2_1,7,0,3,5
+5,North America,Canada,124,CAN,28/02/2020,59,British Columbia,CAN,CAN.2_1,7,0,3,5
+5,North America,Canada,124,CAN,29/02/2020,59,British Columbia,CAN,CAN.2_1,8,0,3,5
+5,North America,Canada,124,CAN,01/03/2020,59,British Columbia,CAN,CAN.2_1,8,0,3,5
+5,North America,Canada,124,CAN,02/03/2020,59,British Columbia,CAN,CAN.2_1,8,0,3,5
+5,North America,Canada,124,CAN,03/03/2020,59,British Columbia,CAN,CAN.2_1,9,0,3,5
+5,North America,Canada,124,CAN,04/03/2020,59,British Columbia,CAN,CAN.2_1,12,0,3,5
+5,North America,Canada,124,CAN,05/03/2020,59,British Columbia,CAN,CAN.2_1,13,0,3,5
+5,North America,Canada,124,CAN,06/03/2020,59,British Columbia,CAN,CAN.2_1,21,0,3,5
+5,North America,Canada,124,CAN,07/03/2020,59,British Columbia,CAN,CAN.2_1,21,0,4,5
+5,North America,Canada,124,CAN,08/03/2020,59,British Columbia,CAN,CAN.2_1,27,0,4,5
+5,North America,Canada,124,CAN,09/03/2020,59,British Columbia,CAN,CAN.2_1,32,1,4,5
+5,North America,Canada,124,CAN,10/03/2020,59,British Columbia,CAN,CAN.2_1,32,1,4,5
+5,North America,Canada,124,CAN,11/03/2020,59,British Columbia,CAN,CAN.2_1,64,1,4,5
+5,North America,Canada,124,CAN,12/03/2020,59,British Columbia,CAN,CAN.2_1,46,1,4,5
+5,North America,Canada,124,CAN,13/03/2020,59,British Columbia,CAN,CAN.2_1,46,1,4,5
+5,North America,Canada,124,CAN,14/03/2020,59,British Columbia,CAN,CAN.2_1,64,1,4,5
+5,North America,Canada,124,CAN,15/03/2020,59,British Columbia,CAN,CAN.2_1,73,1,4,5
+5,North America,Canada,124,CAN,16/03/2020,59,British Columbia,CAN,CAN.2_1,103,4,4,5
+5,North America,Canada,124,CAN,17/03/2020,59,British Columbia,CAN,CAN.2_1,103,4,4,5
+5,North America,Canada,124,CAN,18/03/2020,59,British Columbia,CAN,CAN.2_1,186,7,4,5
+5,North America,Canada,124,CAN,19/03/2020,59,British Columbia,CAN,CAN.2_1,231,7,4,5
+5,North America,Canada,124,CAN,20/03/2020,59,British Columbia,CAN,CAN.2_1,271,8,4,5
+5,North America,Canada,124,CAN,21/03/2020,59,British Columbia,CAN,CAN.2_1,424,10,4,5
+5,North America,Canada,124,CAN,22/03/2020,59,British Columbia,CAN,CAN.2_1,424,10,0,5
+5,North America,Canada,124,CAN,23/03/2020,59,British Columbia,CAN,CAN.2_1,472,13,0,5
+5,North America,Canada,124,CAN,24/03/2020,59,British Columbia,CAN,CAN.2_1,617,13,0,5
+5,North America,Canada,124,CAN,25/03/2020,59,British Columbia,CAN,CAN.2_1,617,13,0,5
+5,North America,Canada,124,CAN,26/03/2020,59,British Columbia,CAN,CAN.2_1,725,14,0,5
+5,North America,Canada,124,CAN,27/03/2020,59,British Columbia,CAN,CAN.2_1,725,14,0,5
+5,North America,Canada,124,CAN,28/03/2020,59,British Columbia,CAN,CAN.2_1,884,17,0,5
+5,North America,Canada,124,CAN,29/03/2020,59,British Columbia,CAN,CAN.2_1,884,17,0,5
+5,North America,Canada,124,CAN,30/03/2020,59,British Columbia,CAN,CAN.2_1,970,19,0,5
+5,North America,Canada,124,CAN,31/03/2020,59,British Columbia,CAN,CAN.2_1,1013,24,0,5
+5,North America,Canada,124,CAN,01/04/2020,59,British Columbia,CAN,CAN.2_1,1013,24,0,5
+5,North America,Canada,124,CAN,02/04/2020,59,British Columbia,CAN,CAN.2_1,1121,31,0,5
+5,North America,Canada,124,CAN,03/04/2020,59,British Columbia,CAN,CAN.2_1,1174,31,0,5
+5,North America,Canada,124,CAN,04/04/2020,59,British Columbia,CAN,CAN.2_1,1203,38,0,5
+5,North America,Canada,124,CAN,05/04/2020,59,British Columbia,CAN,CAN.2_1,1203,38,0,5
+5,North America,Canada,124,CAN,06/04/2020,59,British Columbia,CAN,CAN.2_1,1266,38,0,5
+5,North America,Canada,124,CAN,07/04/2020,59,British Columbia,CAN,CAN.2_1,1266,39,0,5
+5,North America,Canada,124,CAN,08/04/2020,59,British Columbia,CAN,CAN.2_1,1291,43,0,5
+5,North America,Canada,124,CAN,09/04/2020,59,British Columbia,CAN,CAN.2_1,1336,48,0,5
+5,North America,Canada,124,CAN,10/04/2020,59,British Columbia,CAN,CAN.2_1,1370,50,0,5
+5,North America,Canada,124,CAN,11/04/2020,59,British Columbia,CAN,CAN.2_1,1445,58,0,5
+5,North America,Canada,124,CAN,12/04/2020,59,British Columbia,CAN,CAN.2_1,1445,58,0,5
+5,North America,Canada,124,CAN,13/04/2020,59,British Columbia,CAN,CAN.2_1,1490,69,0,5
+5,North America,Canada,124,CAN,14/04/2020,59,British Columbia,CAN,CAN.2_1,1490,69,0,5
+5,North America,Canada,124,CAN,15/04/2020,59,British Columbia,CAN,CAN.2_1,1517,72,0,5
+5,North America,Canada,124,CAN,26/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,27/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,28/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,29/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,30/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,31/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,01/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,02/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,03/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,04/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,05/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,06/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,07/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,08/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,09/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,10/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,11/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,12/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,13/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,14/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,15/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,16/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,17/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,18/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,19/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,20/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,21/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,22/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,23/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,24/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,25/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,26/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,27/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,28/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,29/02/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,01/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,02/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,03/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,04/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,05/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,06/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,07/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,08/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,09/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,10/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,11/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,12/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,13/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,14/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,15/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,16/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,17/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,18/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,19/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,20/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,21/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,22/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,23/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,24/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,25/03/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
+5,North America,Canada,124,CAN,26/03/2020,60,Yukon,CAN,CAN.13_1,3,0,0,6
+5,North America,Canada,124,CAN,27/03/2020,60,Yukon,CAN,CAN.13_1,3,0,0,6
+5,North America,Canada,124,CAN,28/03/2020,60,Yukon,CAN,CAN.13_1,4,0,0,6
+5,North America,Canada,124,CAN,29/03/2020,60,Yukon,CAN,CAN.13_1,4,0,0,6
+5,North America,Canada,124,CAN,30/03/2020,60,Yukon,CAN,CAN.13_1,4,0,0,6
+5,North America,Canada,124,CAN,31/03/2020,60,Yukon,CAN,CAN.13_1,5,0,0,6
+5,North America,Canada,124,CAN,01/04/2020,60,Yukon,CAN,CAN.13_1,5,0,0,6
+5,North America,Canada,124,CAN,02/04/2020,60,Yukon,CAN,CAN.13_1,6,0,0,6
+5,North America,Canada,124,CAN,03/04/2020,60,Yukon,CAN,CAN.13_1,6,0,0,6
+5,North America,Canada,124,CAN,04/04/2020,60,Yukon,CAN,CAN.13_1,6,0,0,6
+5,North America,Canada,124,CAN,05/04/2020,60,Yukon,CAN,CAN.13_1,6,0,0,6
+5,North America,Canada,124,CAN,06/04/2020,60,Yukon,CAN,CAN.13_1,6,0,0,6
+5,North America,Canada,124,CAN,07/04/2020,60,Yukon,CAN,CAN.13_1,7,0,0,6
+5,North America,Canada,124,CAN,08/04/2020,60,Yukon,CAN,CAN.13_1,7,0,0,6
+5,North America,Canada,124,CAN,09/04/2020,60,Yukon,CAN,CAN.13_1,7,0,0,6
+5,North America,Canada,124,CAN,10/04/2020,60,Yukon,CAN,CAN.13_1,8,0,0,6
+5,North America,Canada,124,CAN,11/04/2020,60,Yukon,CAN,CAN.13_1,8,0,0,6
+5,North America,Canada,124,CAN,12/04/2020,60,Yukon,CAN,CAN.13_1,8,0,0,6
+5,North America,Canada,124,CAN,13/04/2020,60,Yukon,CAN,CAN.13_1,8,0,0,6
+5,North America,Canada,124,CAN,14/04/2020,60,Yukon,CAN,CAN.13_1,8,0,0,6
+5,North America,Canada,124,CAN,15/04/2020,60,Yukon,CAN,CAN.13_1,8,0,0,6
+5,North America,Canada,124,CAN,26/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,27/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,28/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,29/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,30/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,31/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,01/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,02/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,03/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,04/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,05/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,06/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,07/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,08/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,09/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,10/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,11/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,12/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,13/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,14/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,15/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,16/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,17/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,18/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,19/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,20/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,21/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,22/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,23/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,24/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,25/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,26/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,27/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,28/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,29/02/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,01/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,02/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,03/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,04/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,05/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,06/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,07/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,08/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,09/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,10/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,11/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,12/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,13/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,14/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,15/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,16/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,17/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,18/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,19/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,20/03/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
+5,North America,Canada,124,CAN,21/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,22/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,23/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,24/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,25/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,26/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,27/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,28/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,29/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,30/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,31/03/2020,61,Northwest Territories,CAN,CAN.6_1,1,0,0,6
+5,North America,Canada,124,CAN,01/04/2020,61,Northwest Territories,CAN,CAN.6_1,2,0,0,6
+5,North America,Canada,124,CAN,02/04/2020,61,Northwest Territories,CAN,CAN.6_1,2,0,0,6
+5,North America,Canada,124,CAN,03/04/2020,61,Northwest Territories,CAN,CAN.6_1,2,0,0,6
+5,North America,Canada,124,CAN,04/04/2020,61,Northwest Territories,CAN,CAN.6_1,4,0,0,6
+5,North America,Canada,124,CAN,05/04/2020,61,Northwest Territories,CAN,CAN.6_1,4,0,0,6
+5,North America,Canada,124,CAN,06/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,07/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,08/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,09/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,10/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,11/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,12/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,13/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,14/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
+5,North America,Canada,124,CAN,15/04/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,0,6
