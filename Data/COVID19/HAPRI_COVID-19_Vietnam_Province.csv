@@ -85,6 +85,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 11,Điện Biên,15/04/2020,VNM.20_1,0,0,0,0
 11,Điện Biên,16/04/2020,VNM.20_1,0,0,0,0
 11,Điện Biên,17/04/2020,VNM.20_1,0,0,0,0
+11,Điện Biên,18/04/2020,VNM.20_1,0,0,0,0
+11,Điện Biên,19/04/2020,VNM.20_1,0,0,0,0
 17,Hòa Bình,23/01/2020,VNM.30_1,0,0,0,0
 17,Hòa Bình,24/01/2020,VNM.30_1,0,0,0,0
 17,Hòa Bình,25/01/2020,VNM.30_1,0,0,0,0
@@ -171,6 +173,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 17,Hòa Bình,15/04/2020,VNM.30_1,0,0,0,0
 17,Hòa Bình,16/04/2020,VNM.30_1,0,0,0,0
 17,Hòa Bình,17/04/2020,VNM.30_1,0,0,0,0
+17,Hòa Bình,18/04/2020,VNM.30_1,0,0,0,0
+17,Hòa Bình,19/04/2020,VNM.30_1,0,0,0,0
 12,Lai Châu,23/01/2020,VNM.36_1,0,0,0,0
 12,Lai Châu,24/01/2020,VNM.36_1,0,0,0,0
 12,Lai Châu,25/01/2020,VNM.36_1,0,0,0,0
@@ -257,6 +261,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 12,Lai Châu,15/04/2020,VNM.36_1,0,1,0,0
 12,Lai Châu,16/04/2020,VNM.36_1,0,1,0,0
 12,Lai Châu,17/04/2020,VNM.36_1,0,1,1,1
+12,Lai Châu,18/04/2020,VNM.36_1,0,1,0,1
+12,Lai Châu,19/04/2020,VNM.36_1,0,1,0,1
 10,Lào Cai,23/01/2020,VNM.38_1,0,0,0,0
 10,Lào Cai,24/01/2020,VNM.38_1,0,0,0,0
 10,Lào Cai,25/01/2020,VNM.38_1,0,0,0,0
@@ -343,6 +349,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 10,Lào Cai,15/04/2020,VNM.38_1,0,0,0,0
 10,Lào Cai,16/04/2020,VNM.38_1,0,0,0,0
 10,Lào Cai,17/04/2020,VNM.38_1,0,0,0,0
+10,Lào Cai,18/04/2020,VNM.38_1,0,0,0,0
+10,Lào Cai,19/04/2020,VNM.38_1,0,0,0,0
 14,Sơn La,23/01/2020,VNM.52_1,0,0,0,0
 14,Sơn La,24/01/2020,VNM.52_1,0,0,0,0
 14,Sơn La,25/01/2020,VNM.52_1,0,0,0,0
@@ -429,6 +437,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 14,Sơn La,15/04/2020,VNM.52_1,0,0,0,0
 14,Sơn La,16/04/2020,VNM.52_1,0,0,0,0
 14,Sơn La,17/04/2020,VNM.52_1,0,0,0,0
+14,Sơn La,18/04/2020,VNM.52_1,0,0,0,0
+14,Sơn La,19/04/2020,VNM.52_1,0,0,0,0
 15,Yên Bái,23/01/2020,VNM.63_1,0,0,0,0
 15,Yên Bái,24/01/2020,VNM.63_1,0,0,0,0
 15,Yên Bái,25/01/2020,VNM.63_1,0,0,0,0
@@ -515,6 +525,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 15,Yên Bái,15/04/2020,VNM.63_1,0,0,0,0
 15,Yên Bái,16/04/2020,VNM.63_1,0,0,0,0
 15,Yên Bái,17/04/2020,VNM.63_1,0,0,0,0
+15,Yên Bái,18/04/2020,VNM.63_1,0,0,0,0
+15,Yên Bái,19/04/2020,VNM.63_1,0,0,0,0
 4,Cao Bằng,23/01/2020,VNM.14_1,0,0,0,0
 4,Cao Bằng,24/01/2020,VNM.14_1,0,0,0,0
 4,Cao Bằng,25/01/2020,VNM.14_1,0,0,0,0
@@ -601,6 +613,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 4,Cao Bằng,15/04/2020,VNM.14_1,0,0,0,0
 4,Cao Bằng,16/04/2020,VNM.14_1,0,0,0,0
 4,Cao Bằng,17/04/2020,VNM.14_1,0,0,0,0
+4,Cao Bằng,18/04/2020,VNM.14_1,0,0,0,0
+4,Cao Bằng,19/04/2020,VNM.14_1,0,0,0,0
 2,Hà Giang,23/01/2020,VNM.26_1,0,0,0,0
 2,Hà Giang,24/01/2020,VNM.26_1,0,0,0,0
 2,Hà Giang,25/01/2020,VNM.26_1,0,0,0,0
@@ -687,6 +701,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 2,Hà Giang,15/04/2020,VNM.26_1,0,1,0,0
 2,Hà Giang,16/04/2020,VNM.26_1,1,2,0,0
 2,Hà Giang,17/04/2020,VNM.26_1,0,2,0,0
+2,Hà Giang,18/04/2020,VNM.26_1,0,2,0,0
+2,Hà Giang,19/04/2020,VNM.26_1,0,2,0,0
 20,Lạng Sơn,23/01/2020,VNM.35_1,0,0,0,0
 20,Lạng Sơn,24/01/2020,VNM.35_1,0,0,0,0
 20,Lạng Sơn,25/01/2020,VNM.35_1,0,0,0,0
@@ -773,6 +789,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 20,Lạng Sơn,15/04/2020,VNM.35_1,0,0,0,0
 20,Lạng Sơn,16/04/2020,VNM.35_1,0,0,0,0
 20,Lạng Sơn,17/04/2020,VNM.35_1,0,0,0,0
+20,Lạng Sơn,18/04/2020,VNM.35_1,0,0,0,0
+20,Lạng Sơn,19/04/2020,VNM.35_1,0,0,0,0
 24,Bắc Giang,23/01/2020,VNM.3_1,0,0,0,0
 24,Bắc Giang,24/01/2020,VNM.3_1,0,0,0,0
 24,Bắc Giang,25/01/2020,VNM.3_1,0,0,0,0
@@ -859,6 +877,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 24,Bắc Giang,15/04/2020,VNM.3_1,0,4,0,1
 24,Bắc Giang,16/04/2020,VNM.3_1,0,4,0,1
 24,Bắc Giang,17/04/2020,VNM.3_1,0,4,0,1
+24,Bắc Giang,18/04/2020,VNM.3_1,0,4,0,1
+24,Bắc Giang,19/04/2020,VNM.3_1,0,4,0,1
 25,Phú Thọ,23/01/2020,VNM.44_1,0,0,0,0
 25,Phú Thọ,24/01/2020,VNM.44_1,0,0,0,0
 25,Phú Thọ,25/01/2020,VNM.44_1,0,0,0,0
@@ -945,6 +965,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 25,Phú Thọ,15/04/2020,VNM.44_1,0,1,0,1
 25,Phú Thọ,16/04/2020,VNM.44_1,0,1,0,1
 25,Phú Thọ,17/04/2020,VNM.44_1,0,1,0,1
+25,Phú Thọ,18/04/2020,VNM.44_1,0,1,0,1
+25,Phú Thọ,19/04/2020,VNM.44_1,0,1,0,1
 22,Quảng Ninh,23/01/2020,VNM.49_1,0,0,0,0
 22,Quảng Ninh,24/01/2020,VNM.49_1,0,0,0,0
 22,Quảng Ninh,25/01/2020,VNM.49_1,0,0,0,0
@@ -1031,6 +1053,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 22,Quảng Ninh,15/04/2020,VNM.49_1,0,2,0,1
 22,Quảng Ninh,16/04/2020,VNM.49_1,0,2,1,2
 22,Quảng Ninh,17/04/2020,VNM.49_1,0,2,0,2
+22,Quảng Ninh,18/04/2020,VNM.49_1,0,2,0,2
+22,Quảng Ninh,19/04/2020,VNM.49_1,0,2,0,2
 6,Bắc Kạn,23/01/2020,VNM.4_1,0,0,0,0
 6,Bắc Kạn,24/01/2020,VNM.4_1,0,0,0,0
 6,Bắc Kạn,25/01/2020,VNM.4_1,0,0,0,0
@@ -1117,6 +1141,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 6,Bắc Kạn,15/04/2020,VNM.4_1,0,1,0,0
 6,Bắc Kạn,16/04/2020,VNM.4_1,0,1,1,1
 6,Bắc Kạn,17/04/2020,VNM.4_1,0,1,0,1
+6,Bắc Kạn,18/04/2020,VNM.4_1,0,1,0,1
+6,Bắc Kạn,19/04/2020,VNM.4_1,0,1,0,1
 19,Thái Nguyên,23/01/2020,VNM.56_1,0,0,0,0
 19,Thái Nguyên,24/01/2020,VNM.56_1,0,0,0,0
 19,Thái Nguyên,25/01/2020,VNM.56_1,0,0,0,0
@@ -1203,6 +1229,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 19,Thái Nguyên,15/04/2020,VNM.56_1,0,2,0,0
 19,Thái Nguyên,16/04/2020,VNM.56_1,0,2,0,0
 19,Thái Nguyên,17/04/2020,VNM.56_1,0,2,0,0
+19,Thái Nguyên,18/04/2020,VNM.56_1,0,2,0,0
+19,Thái Nguyên,19/04/2020,VNM.56_1,0,2,0,0
 8,Tuyên Quang,23/01/2020,VNM.60_1,0,0,0,0
 8,Tuyên Quang,24/01/2020,VNM.60_1,0,0,0,0
 8,Tuyên Quang,25/01/2020,VNM.60_1,0,0,0,0
@@ -1289,6 +1317,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 8,Tuyên Quang,15/04/2020,VNM.60_1,0,0,0,0
 8,Tuyên Quang,16/04/2020,VNM.60_1,0,0,0,0
 8,Tuyên Quang,17/04/2020,VNM.60_1,0,0,0,0
+8,Tuyên Quang,18/04/2020,VNM.60_1,0,0,0,0
+8,Tuyên Quang,19/04/2020,VNM.60_1,0,0,0,0
 30,Hải Dương,23/01/2020,VNM.22_1,0,0,0,0
 30,Hải Dương,24/01/2020,VNM.22_1,0,0,0,0
 30,Hải Dương,25/01/2020,VNM.22_1,0,0,0,0
@@ -1375,6 +1405,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 30,Hải Dương,15/04/2020,VNM.22_1,0,1,0,1
 30,Hải Dương,16/04/2020,VNM.22_1,0,1,0,1
 30,Hải Dương,17/04/2020,VNM.22_1,0,1,0,1
+30,Hải Dương,18/04/2020,VNM.22_1,0,1,0,1
+30,Hải Dương,19/04/2020,VNM.22_1,0,1,0,1
 31,Hải Phòng,23/01/2020,VNM.23_1,0,0,0,0
 31,Hải Phòng,24/01/2020,VNM.23_1,0,0,0,0
 31,Hải Phòng,25/01/2020,VNM.23_1,0,0,0,0
@@ -1461,6 +1493,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 31,Hải Phòng,15/04/2020,VNM.23_1,0,3,0,1
 31,Hải Phòng,16/04/2020,VNM.23_1,0,3,0,1
 31,Hải Phòng,17/04/2020,VNM.23_1,0,3,1,2
+31,Hải Phòng,18/04/2020,VNM.23_1,0,3,0,2
+31,Hải Phòng,19/04/2020,VNM.23_1,0,3,0,2
 1,Hà Nội,23/01/2020,VNM.27_1,0,0,0,0
 1,Hà Nội,24/01/2020,VNM.27_1,0,0,0,0
 1,Hà Nội,25/01/2020,VNM.27_1,0,0,0,0
@@ -1547,6 +1581,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 1,Hà Nội,15/04/2020,VNM.27_1,1,115,0,67
 1,Hà Nội,16/04/2020,VNM.27_1,0,115,3,70
 1,Hà Nội,17/04/2020,VNM.27_1,0,115,9,79
+1,Hà Nội,18/04/2020,VNM.27_1,0,115,0,79
+1,Hà Nội,19/04/2020,VNM.27_1,0,115,0,79
 35,Hà Nam,23/01/2020,VNM.28_1,0,0,0,0
 35,Hà Nam,24/01/2020,VNM.28_1,0,0,0,0
 35,Hà Nam,25/01/2020,VNM.28_1,0,0,0,0
@@ -1633,6 +1669,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 35,Hà Nam,15/04/2020,VNM.28_1,0,1,0,0
 35,Hà Nam,16/04/2020,VNM.28_1,0,1,0,0
 35,Hà Nam,17/04/2020,VNM.28_1,0,1,1,1
+35,Hà Nam,18/04/2020,VNM.28_1,0,1,0,1
+35,Hà Nam,19/04/2020,VNM.28_1,0,1,0,1
 33,Hưng Yên,23/01/2020,VNM.31_1,0,0,0,0
 33,Hưng Yên,24/01/2020,VNM.31_1,0,0,0,0
 33,Hưng Yên,25/01/2020,VNM.31_1,0,0,0,0
@@ -1719,6 +1757,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 33,Hưng Yên,15/04/2020,VNM.31_1,0,4,0,1
 33,Hưng Yên,16/04/2020,VNM.31_1,0,4,0,1
 33,Hưng Yên,17/04/2020,VNM.31_1,0,4,1,2
+33,Hưng Yên,18/04/2020,VNM.31_1,0,4,0,2
+33,Hưng Yên,19/04/2020,VNM.31_1,0,4,0,2
 36,Nam Định,23/01/2020,VNM.40_1,0,0,0,0
 36,Nam Định,24/01/2020,VNM.40_1,0,0,0,0
 36,Nam Định,25/01/2020,VNM.40_1,0,0,0,0
@@ -1805,6 +1845,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 36,Nam Định,15/04/2020,VNM.40_1,0,2,0,1
 36,Nam Định,16/04/2020,VNM.40_1,0,2,0,1
 36,Nam Định,17/04/2020,VNM.40_1,0,2,1,2
+36,Nam Định,18/04/2020,VNM.40_1,0,2,0,2
+36,Nam Định,19/04/2020,VNM.40_1,0,2,0,2
 37,Ninh Bình,23/01/2020,VNM.42_1,0,0,0,0
 37,Ninh Bình,24/01/2020,VNM.42_1,0,0,0,0
 37,Ninh Bình,25/01/2020,VNM.42_1,0,0,0,0
@@ -1891,6 +1933,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 37,Ninh Bình,15/04/2020,VNM.42_1,0,1,0,0
 37,Ninh Bình,16/04/2020,VNM.42_1,0,1,0,0
 37,Ninh Bình,17/04/2020,VNM.42_1,0,1,0,0
+37,Ninh Bình,18/04/2020,VNM.42_1,0,1,0,0
+37,Ninh Bình,19/04/2020,VNM.42_1,0,1,0,0
 34,Thái Bình,23/01/2020,VNM.55_1,0,0,0,0
 34,Thái Bình,24/01/2020,VNM.55_1,0,0,0,0
 34,Thái Bình,25/01/2020,VNM.55_1,0,0,0,0
@@ -1977,6 +2021,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 34,Thái Bình,15/04/2020,VNM.55_1,0,2,0,1
 34,Thái Bình,16/04/2020,VNM.55_1,0,2,0,1
 34,Thái Bình,17/04/2020,VNM.55_1,0,2,0,1
+34,Thái Bình,18/04/2020,VNM.55_1,0,2,0,1
+34,Thái Bình,19/04/2020,VNM.55_1,0,2,0,1
 27,Bắc Ninh,23/01/2020,VNM.5_1,0,0,0,0
 27,Bắc Ninh,24/01/2020,VNM.5_1,0,0,0,0
 27,Bắc Ninh,25/01/2020,VNM.5_1,0,0,0,0
@@ -2063,6 +2109,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 27,Bắc Ninh,15/04/2020,VNM.5_1,0,0,0,0
 27,Bắc Ninh,16/04/2020,VNM.5_1,0,0,0,0
 27,Bắc Ninh,17/04/2020,VNM.5_1,0,0,0,0
+27,Bắc Ninh,18/04/2020,VNM.5_1,0,0,0,0
+27,Bắc Ninh,19/04/2020,VNM.5_1,0,0,0,0
 26,Vĩnh Phúc,23/01/2020,VNM.62_1,0,0,0,0
 26,Vĩnh Phúc,24/01/2020,VNM.62_1,0,0,0,0
 26,Vĩnh Phúc,25/01/2020,VNM.62_1,0,0,0,0
@@ -2149,6 +2197,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 26,Vĩnh Phúc,15/04/2020,VNM.62_1,0,13,0,12
 26,Vĩnh Phúc,16/04/2020,VNM.62_1,0,13,0,12
 26,Vĩnh Phúc,17/04/2020,VNM.62_1,0,13,1,13
+26,Vĩnh Phúc,18/04/2020,VNM.62_1,0,13,0,13
+26,Vĩnh Phúc,19/04/2020,VNM.62_1,0,13,0,13
 42,Hà Tĩnh,23/01/2020,VNM.29_1,0,0,0,0
 42,Hà Tĩnh,24/01/2020,VNM.29_1,0,0,0,0
 42,Hà Tĩnh,25/01/2020,VNM.29_1,0,0,0,0
@@ -2235,6 +2285,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 42,Hà Tĩnh,15/04/2020,VNM.29_1,0,7,0,1
 42,Hà Tĩnh,16/04/2020,VNM.29_1,0,7,0,1
 42,Hà Tĩnh,17/04/2020,VNM.29_1,0,7,2,3
+42,Hà Tĩnh,18/04/2020,VNM.29_1,0,7,0,3
+42,Hà Tĩnh,19/04/2020,VNM.29_1,0,7,0,3
 40,Nghệ An,23/01/2020,VNM.41_1,0,0,0,0
 40,Nghệ An,24/01/2020,VNM.41_1,0,0,0,0
 40,Nghệ An,25/01/2020,VNM.41_1,0,0,0,0
@@ -2321,6 +2373,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 40,Nghệ An,15/04/2020,VNM.41_1,0,8,0,3
 40,Nghệ An,16/04/2020,VNM.41_1,0,8,0,3
 40,Nghệ An,17/04/2020,VNM.41_1,0,8,1,4
+40,Nghệ An,18/04/2020,VNM.41_1,0,8,0,4
+40,Nghệ An,19/04/2020,VNM.41_1,0,8,0,4
 44,Quảng Bình,23/01/2020,VNM.46_1,0,0,0,0
 44,Quảng Bình,24/01/2020,VNM.46_1,0,0,0,0
 44,Quảng Bình,25/01/2020,VNM.46_1,0,0,0,0
@@ -2407,6 +2461,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 44,Quảng Bình,15/04/2020,VNM.46_1,0,1,0,0
 44,Quảng Bình,16/04/2020,VNM.46_1,0,1,0,0
 44,Quảng Bình,17/04/2020,VNM.46_1,0,1,0,0
+44,Quảng Bình,18/04/2020,VNM.46_1,0,1,0,0
+44,Quảng Bình,19/04/2020,VNM.46_1,0,1,0,0
 45,Quảng Trị,23/01/2020,VNM.50_1,0,0,0,0
 45,Quảng Trị,24/01/2020,VNM.50_1,0,0,0,0
 45,Quảng Trị,25/01/2020,VNM.50_1,0,0,0,0
@@ -2493,6 +2549,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 45,Quảng Trị,15/04/2020,VNM.50_1,0,0,0,0
 45,Quảng Trị,16/04/2020,VNM.50_1,0,0,0,0
 45,Quảng Trị,17/04/2020,VNM.50_1,0,0,0,0
+45,Quảng Trị,18/04/2020,VNM.50_1,0,0,0,0
+45,Quảng Trị,19/04/2020,VNM.50_1,0,0,0,0
 46,Thừa Thiên - Huế,23/01/2020,VNM.54_1,0,0,0,0
 46,Thừa Thiên - Huế,24/01/2020,VNM.54_1,0,0,0,0
 46,Thừa Thiên - Huế,25/01/2020,VNM.54_1,0,0,0,0
@@ -2579,6 +2637,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 46,Thừa Thiên - Huế,15/04/2020,VNM.54_1,0,2,0,2
 46,Thừa Thiên - Huế,16/04/2020,VNM.54_1,0,2,0,2
 46,Thừa Thiên - Huế,17/04/2020,VNM.54_1,0,2,0,2
+46,Thừa Thiên - Huế,18/04/2020,VNM.54_1,0,2,0,2
+46,Thừa Thiên - Huế,19/04/2020,VNM.54_1,0,2,0,2
 38,Thanh Hóa,23/01/2020,VNM.57_1,0,0,0,0
 38,Thanh Hóa,24/01/2020,VNM.57_1,0,0,0,0
 38,Thanh Hóa,25/01/2020,VNM.57_1,0,0,0,0
@@ -2665,6 +2725,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 38,Thanh Hóa,15/04/2020,VNM.57_1,0,3,0,3
 38,Thanh Hóa,16/04/2020,VNM.57_1,0,3,0,3
 38,Thanh Hóa,17/04/2020,VNM.57_1,0,3,0,3
+38,Thanh Hóa,18/04/2020,VNM.57_1,0,3,0,3
+38,Thanh Hóa,19/04/2020,VNM.57_1,0,3,0,3
 60,Bình Thuận,23/01/2020,VNM.11_1,0,0,0,0
 60,Bình Thuận,24/01/2020,VNM.11_1,0,0,0,0
 60,Bình Thuận,25/01/2020,VNM.11_1,0,0,0,0
@@ -2751,6 +2813,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 60,Bình Thuận,15/04/2020,VNM.11_1,0,9,0,9
 60,Bình Thuận,16/04/2020,VNM.11_1,0,9,0,9
 60,Bình Thuận,17/04/2020,VNM.11_1,0,9,0,9
+60,Bình Thuận,18/04/2020,VNM.11_1,0,9,0,9
+60,Bình Thuận,19/04/2020,VNM.11_1,0,9,0,9
 48,Đà Nẵng,23/01/2020,VNM.19_1,0,0,0,0
 48,Đà Nẵng,24/01/2020,VNM.19_1,0,0,0,0
 48,Đà Nẵng,25/01/2020,VNM.19_1,0,0,0,0
@@ -2837,6 +2901,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 48,Đà Nẵng,15/04/2020,VNM.19_1,0,5,0,5
 48,Đà Nẵng,16/04/2020,VNM.19_1,0,5,0,5
 48,Đà Nẵng,17/04/2020,VNM.19_1,0,5,0,5
+48,Đà Nẵng,18/04/2020,VNM.19_1,0,5,0,5
+48,Đà Nẵng,19/04/2020,VNM.19_1,0,5,0,5
 56,Khánh Hòa,23/01/2020,VNM.32_1,0,0,0,0
 56,Khánh Hòa,24/01/2020,VNM.32_1,0,0,0,0
 56,Khánh Hòa,25/01/2020,VNM.32_1,0,0,0,0
@@ -2923,6 +2989,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 56,Khánh Hòa,15/04/2020,VNM.32_1,0,1,0,1
 56,Khánh Hòa,16/04/2020,VNM.32_1,0,1,0,1
 56,Khánh Hòa,17/04/2020,VNM.32_1,0,1,0,1
+56,Khánh Hòa,18/04/2020,VNM.32_1,0,1,0,1
+56,Khánh Hòa,19/04/2020,VNM.32_1,0,1,0,1
 58,Ninh Thuận,23/01/2020,VNM.43_1,0,0,0,0
 58,Ninh Thuận,24/01/2020,VNM.43_1,0,0,0,0
 58,Ninh Thuận,25/01/2020,VNM.43_1,0,0,0,0
@@ -3009,6 +3077,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 58,Ninh Thuận,15/04/2020,VNM.43_1,0,2,0,2
 58,Ninh Thuận,16/04/2020,VNM.43_1,0,2,0,2
 58,Ninh Thuận,17/04/2020,VNM.43_1,0,2,0,2
+58,Ninh Thuận,18/04/2020,VNM.43_1,0,2,0,2
+58,Ninh Thuận,19/04/2020,VNM.43_1,0,2,0,2
 54,Phú Yên,23/01/2020,VNM.45_1,0,0,0,0
 54,Phú Yên,24/01/2020,VNM.45_1,0,0,0,0
 54,Phú Yên,25/01/2020,VNM.45_1,0,0,0,0
@@ -3095,6 +3165,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 54,Phú Yên,15/04/2020,VNM.45_1,0,0,0,0
 54,Phú Yên,16/04/2020,VNM.45_1,0,0,0,0
 54,Phú Yên,17/04/2020,VNM.45_1,0,0,0,0
+54,Phú Yên,18/04/2020,VNM.45_1,0,0,0,0
+54,Phú Yên,19/04/2020,VNM.45_1,0,0,0,0
 49,Quảng Nam,23/01/2020,VNM.47_1,0,0,0,0
 49,Quảng Nam,24/01/2020,VNM.47_1,0,0,0,0
 49,Quảng Nam,25/01/2020,VNM.47_1,0,0,0,0
@@ -3181,6 +3253,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 49,Quảng Nam,15/04/2020,VNM.47_1,0,3,0,3
 49,Quảng Nam,16/04/2020,VNM.47_1,0,3,0,3
 49,Quảng Nam,17/04/2020,VNM.47_1,0,3,0,3
+49,Quảng Nam,18/04/2020,VNM.47_1,0,3,0,3
+49,Quảng Nam,19/04/2020,VNM.47_1,0,3,0,3
 51,Quảng Ngãi,23/01/2020,VNM.48_1,0,0,0,0
 51,Quảng Ngãi,24/01/2020,VNM.48_1,0,0,0,0
 51,Quảng Ngãi,25/01/2020,VNM.48_1,0,0,0,0
@@ -3267,6 +3341,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 51,Quảng Ngãi,15/04/2020,VNM.48_1,0,0,0,0
 51,Quảng Ngãi,16/04/2020,VNM.48_1,0,0,0,0
 51,Quảng Ngãi,17/04/2020,VNM.48_1,0,0,0,0
+51,Quảng Ngãi,18/04/2020,VNM.48_1,0,0,0,0
+51,Quảng Ngãi,19/04/2020,VNM.48_1,0,0,0,0
 52,Bình Định,23/01/2020,VNM.8_1,0,0,0,0
 52,Bình Định,24/01/2020,VNM.8_1,0,0,0,0
 52,Bình Định,25/01/2020,VNM.8_1,0,0,0,0
@@ -3353,6 +3429,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 52,Bình Định,15/04/2020,VNM.8_1,0,0,0,0
 52,Bình Định,16/04/2020,VNM.8_1,0,0,0,0
 52,Bình Định,17/04/2020,VNM.8_1,0,0,0,0
+52,Bình Định,18/04/2020,VNM.8_1,0,0,0,0
+52,Bình Định,19/04/2020,VNM.8_1,0,0,0,0
 66,Đắk Lắk,23/01/2020,VNM.15_1,0,0,0,0
 66,Đắk Lắk,24/01/2020,VNM.15_1,0,0,0,0
 66,Đắk Lắk,25/01/2020,VNM.15_1,0,0,0,0
@@ -3439,6 +3517,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 66,Đắk Lắk,15/04/2020,VNM.15_1,0,1,0,1
 66,Đắk Lắk,16/04/2020,VNM.15_1,0,1,0,1
 66,Đắk Lắk,17/04/2020,VNM.15_1,0,1,0,1
+66,Đắk Lắk,18/04/2020,VNM.15_1,0,1,0,1
+66,Đắk Lắk,19/04/2020,VNM.15_1,0,1,0,1
 67,Đắk Nông,23/01/2020,VNM.16_1,0,0,0,0
 67,Đắk Nông,24/01/2020,VNM.16_1,0,0,0,0
 67,Đắk Nông,25/01/2020,VNM.16_1,0,0,0,0
@@ -3525,6 +3605,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 67,Đắk Nông,15/04/2020,VNM.16_1,0,0,0,0
 67,Đắk Nông,16/04/2020,VNM.16_1,0,0,0,0
 67,Đắk Nông,17/04/2020,VNM.16_1,0,0,0,0
+67,Đắk Nông,18/04/2020,VNM.16_1,0,0,0,0
+67,Đắk Nông,19/04/2020,VNM.16_1,0,0,0,0
 64,Gia Lai,23/01/2020,VNM.21_1,0,0,0,0
 64,Gia Lai,24/01/2020,VNM.21_1,0,0,0,0
 64,Gia Lai,25/01/2020,VNM.21_1,0,0,0,0
@@ -3611,6 +3693,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 64,Gia Lai,15/04/2020,VNM.21_1,0,0,0,0
 64,Gia Lai,16/04/2020,VNM.21_1,0,0,0,0
 64,Gia Lai,17/04/2020,VNM.21_1,0,0,0,0
+64,Gia Lai,18/04/2020,VNM.21_1,0,0,0,0
+64,Gia Lai,19/04/2020,VNM.21_1,0,0,0,0
 62,Kon Tum,23/01/2020,VNM.34_1,0,0,0,0
 62,Kon Tum,24/01/2020,VNM.34_1,0,0,0,0
 62,Kon Tum,25/01/2020,VNM.34_1,0,0,0,0
@@ -3697,6 +3781,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 62,Kon Tum,15/04/2020,VNM.34_1,0,1,0,1
 62,Kon Tum,16/04/2020,VNM.34_1,0,1,0,1
 62,Kon Tum,17/04/2020,VNM.34_1,0,1,0,1
+62,Kon Tum,18/04/2020,VNM.34_1,0,1,0,1
+62,Kon Tum,19/04/2020,VNM.34_1,0,1,0,1
 68,Lâm Đồng,23/01/2020,VNM.37_1,0,0,0,0
 68,Lâm Đồng,24/01/2020,VNM.37_1,0,0,0,0
 68,Lâm Đồng,25/01/2020,VNM.37_1,0,0,0,0
@@ -3783,6 +3869,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 68,Lâm Đồng,15/04/2020,VNM.37_1,0,2,0,2
 68,Lâm Đồng,16/04/2020,VNM.37_1,0,2,0,2
 68,Lâm Đồng,17/04/2020,VNM.37_1,0,2,0,2
+68,Lâm Đồng,18/04/2020,VNM.37_1,0,2,0,2
+68,Lâm Đồng,19/04/2020,VNM.37_1,0,2,0,2
 70,Bình Phước,23/01/2020,VNM.10_1,0,0,0,0
 70,Bình Phước,24/01/2020,VNM.10_1,0,0,0,0
 70,Bình Phước,25/01/2020,VNM.10_1,0,0,0,0
@@ -3869,6 +3957,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 70,Bình Phước,15/04/2020,VNM.10_1,0,0,0,0
 70,Bình Phước,16/04/2020,VNM.10_1,0,0,0,0
 70,Bình Phước,17/04/2020,VNM.10_1,0,0,0,0
+70,Bình Phước,18/04/2020,VNM.10_1,0,0,0,0
+70,Bình Phước,19/04/2020,VNM.10_1,0,0,0,0
 75,Đồng Nai,23/01/2020,VNM.17_1,0,0,0,0
 75,Đồng Nai,24/01/2020,VNM.17_1,0,0,0,0
 75,Đồng Nai,25/01/2020,VNM.17_1,0,0,0,0
@@ -3955,6 +4045,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 75,Đồng Nai,15/04/2020,VNM.17_1,0,0,0,0
 75,Đồng Nai,16/04/2020,VNM.17_1,0,0,0,0
 75,Đồng Nai,17/04/2020,VNM.17_1,0,0,0,0
+75,Đồng Nai,18/04/2020,VNM.17_1,0,0,0,0
+75,Đồng Nai,19/04/2020,VNM.17_1,0,0,0,0
 79,Hồ Chí Minh,23/01/2020,VNM.25_1,0,0,0,0
 79,Hồ Chí Minh,24/01/2020,VNM.25_1,0,0,0,0
 79,Hồ Chí Minh,25/01/2020,VNM.25_1,0,0,0,0
@@ -4041,6 +4133,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 79,Hồ Chí Minh,15/04/2020,VNM.25_1,0,54,1,42
 79,Hồ Chí Minh,16/04/2020,VNM.25_1,0,54,0,42
 79,Hồ Chí Minh,17/04/2020,VNM.25_1,0,54,1,43
+79,Hồ Chí Minh,18/04/2020,VNM.25_1,0,54,3,46
+79,Hồ Chí Minh,19/04/2020,VNM.25_1,0,54,1,47
 72,Tây Ninh,23/01/2020,VNM.53_1,0,0,0,0
 72,Tây Ninh,24/01/2020,VNM.53_1,0,0,0,0
 72,Tây Ninh,25/01/2020,VNM.53_1,0,0,0,0
@@ -4127,6 +4221,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 72,Tây Ninh,15/04/2020,VNM.53_1,0,0,0,0
 72,Tây Ninh,16/04/2020,VNM.53_1,0,0,0,0
 72,Tây Ninh,17/04/2020,VNM.53_1,0,0,0,0
+72,Tây Ninh,18/04/2020,VNM.53_1,0,0,0,0
+72,Tây Ninh,19/04/2020,VNM.53_1,0,0,0,0
 77,Bà Rịa - Vũng Tàu,23/01/2020,VNM.7_1,0,0,0,0
 77,Bà Rịa - Vũng Tàu,24/01/2020,VNM.7_1,0,0,0,0
 77,Bà Rịa - Vũng Tàu,25/01/2020,VNM.7_1,0,0,0,0
@@ -4213,6 +4309,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 77,Bà Rịa - Vũng Tàu,15/04/2020,VNM.7_1,0,2,0,2
 77,Bà Rịa - Vũng Tàu,16/04/2020,VNM.7_1,0,2,0,2
 77,Bà Rịa - Vũng Tàu,17/04/2020,VNM.7_1,0,2,0,2
+77,Bà Rịa - Vũng Tàu,18/04/2020,VNM.7_1,0,2,0,2
+77,Bà Rịa - Vũng Tàu,19/04/2020,VNM.7_1,0,2,0,2
 74,Bình Dương,23/01/2020,VNM.9_1,0,0,0,0
 74,Bình Dương,24/01/2020,VNM.9_1,0,0,0,0
 74,Bình Dương,25/01/2020,VNM.9_1,0,0,0,0
@@ -4299,6 +4397,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 74,Bình Dương,15/04/2020,VNM.9_1,0,0,0,0
 74,Bình Dương,16/04/2020,VNM.9_1,0,0,0,0
 74,Bình Dương,17/04/2020,VNM.9_1,0,0,0,0
+74,Bình Dương,18/04/2020,VNM.9_1,0,0,0,0
+74,Bình Dương,19/04/2020,VNM.9_1,0,0,0,0
 92,Cần Thơ,23/01/2020,VNM.12_1,0,0,0,0
 92,Cần Thơ,24/01/2020,VNM.12_1,0,0,0,0
 92,Cần Thơ,25/01/2020,VNM.12_1,0,0,0,0
@@ -4385,6 +4485,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 92,Cần Thơ,15/04/2020,VNM.12_1,0,0,0,0
 92,Cần Thơ,16/04/2020,VNM.12_1,0,0,0,0
 92,Cần Thơ,17/04/2020,VNM.12_1,0,0,0,0
+92,Cần Thơ,18/04/2020,VNM.12_1,0,0,0,0
+92,Cần Thơ,19/04/2020,VNM.12_1,0,0,0,0
 96,Cà Mau,23/01/2020,VNM.13_1,0,0,0,0
 96,Cà Mau,24/01/2020,VNM.13_1,0,0,0,0
 96,Cà Mau,25/01/2020,VNM.13_1,0,0,0,0
@@ -4471,6 +4573,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 96,Cà Mau,15/04/2020,VNM.13_1,0,0,0,0
 96,Cà Mau,16/04/2020,VNM.13_1,0,0,0,0
 96,Cà Mau,17/04/2020,VNM.13_1,0,0,0,0
+96,Cà Mau,18/04/2020,VNM.13_1,0,0,0,0
+96,Cà Mau,19/04/2020,VNM.13_1,0,0,0,0
 87,Đồng Tháp,23/01/2020,VNM.18_1,0,0,0,0
 87,Đồng Tháp,24/01/2020,VNM.18_1,0,0,0,0
 87,Đồng Tháp,25/01/2020,VNM.18_1,0,0,0,0
@@ -4557,6 +4661,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 87,Đồng Tháp,15/04/2020,VNM.18_1,0,0,0,0
 87,Đồng Tháp,16/04/2020,VNM.18_1,0,0,0,0
 87,Đồng Tháp,17/04/2020,VNM.18_1,0,0,0,0
+87,Đồng Tháp,18/04/2020,VNM.18_1,0,0,0,0
+87,Đồng Tháp,19/04/2020,VNM.18_1,0,0,0,0
 89,An Giang,23/01/2020,VNM.1_1,0,0,0,0
 89,An Giang,24/01/2020,VNM.1_1,0,0,0,0
 89,An Giang,25/01/2020,VNM.1_1,0,0,0,0
@@ -4643,6 +4749,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 89,An Giang,15/04/2020,VNM.1_1,0,3,0,1
 89,An Giang,16/04/2020,VNM.1_1,0,3,0,1
 89,An Giang,17/04/2020,VNM.1_1,0,3,2,3
+89,An Giang,18/04/2020,VNM.1_1,0,3,0,3
+89,An Giang,19/04/2020,VNM.1_1,0,3,0,3
 93,Hậu Giang,23/01/2020,VNM.24_1,0,0,0,0
 93,Hậu Giang,24/01/2020,VNM.24_1,0,0,0,0
 93,Hậu Giang,25/01/2020,VNM.24_1,0,0,0,0
@@ -4729,6 +4837,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 93,Hậu Giang,15/04/2020,VNM.24_1,0,0,0,0
 93,Hậu Giang,16/04/2020,VNM.24_1,0,0,0,0
 93,Hậu Giang,17/04/2020,VNM.24_1,0,0,0,0
+93,Hậu Giang,18/04/2020,VNM.24_1,0,0,0,0
+93,Hậu Giang,19/04/2020,VNM.24_1,0,0,0,0
 95,Bạc Liêu,23/01/2020,VNM.2_1,0,0,0,0
 95,Bạc Liêu,24/01/2020,VNM.2_1,0,0,0,0
 95,Bạc Liêu,25/01/2020,VNM.2_1,0,0,0,0
@@ -4815,6 +4925,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 95,Bạc Liêu,15/04/2020,VNM.2_1,0,2,0,2
 95,Bạc Liêu,16/04/2020,VNM.2_1,0,2,0,2
 95,Bạc Liêu,17/04/2020,VNM.2_1,0,2,0,2
+95,Bạc Liêu,18/04/2020,VNM.2_1,0,2,0,2
+95,Bạc Liêu,19/04/2020,VNM.2_1,0,2,0,2
 91,Kiên Giang,23/01/2020,VNM.33_1,0,0,0,0
 91,Kiên Giang,24/01/2020,VNM.33_1,0,0,0,0
 91,Kiên Giang,25/01/2020,VNM.33_1,0,0,0,0
@@ -4901,6 +5013,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 91,Kiên Giang,15/04/2020,VNM.33_1,0,1,0,0
 91,Kiên Giang,16/04/2020,VNM.33_1,0,1,0,0
 91,Kiên Giang,17/04/2020,VNM.33_1,0,1,0,0
+91,Kiên Giang,18/04/2020,VNM.33_1,0,1,0,0
+91,Kiên Giang,19/04/2020,VNM.33_1,0,1,0,0
 80,Long An,23/01/2020,VNM.39_1,2,2,0,0
 80,Long An,24/01/2020,VNM.39_1,0,2,0,0
 80,Long An,25/01/2020,VNM.39_1,0,2,0,0
@@ -4987,6 +5101,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 80,Long An,15/04/2020,VNM.39_1,0,3,0,3
 80,Long An,16/04/2020,VNM.39_1,0,3,0,3
 80,Long An,17/04/2020,VNM.39_1,0,3,0,3
+80,Long An,18/04/2020,VNM.39_1,0,3,0,3
+80,Long An,19/04/2020,VNM.39_1,0,3,0,3
 94,Sóc Trăng,23/01/2020,VNM.51_1,0,0,0,0
 94,Sóc Trăng,24/01/2020,VNM.51_1,0,0,0,0
 94,Sóc Trăng,25/01/2020,VNM.51_1,0,0,0,0
@@ -5073,6 +5189,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 94,Sóc Trăng,15/04/2020,VNM.51_1,0,0,0,0
 94,Sóc Trăng,16/04/2020,VNM.51_1,0,0,0,0
 94,Sóc Trăng,17/04/2020,VNM.51_1,0,0,0,0
+94,Sóc Trăng,18/04/2020,VNM.51_1,0,0,0,0
+94,Sóc Trăng,19/04/2020,VNM.51_1,0,0,0,0
 82,Tiền Giang,23/01/2020,VNM.58_1,0,0,0,0
 82,Tiền Giang,24/01/2020,VNM.58_1,0,0,0,0
 82,Tiền Giang,25/01/2020,VNM.58_1,0,0,0,0
@@ -5159,6 +5277,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 82,Tiền Giang,15/04/2020,VNM.58_1,0,0,0,0
 82,Tiền Giang,16/04/2020,VNM.58_1,0,0,0,0
 82,Tiền Giang,17/04/2020,VNM.58_1,0,0,0,0
+82,Tiền Giang,18/04/2020,VNM.58_1,0,0,0,0
+82,Tiền Giang,19/04/2020,VNM.58_1,0,0,0,0
 84,Trà Vinh,23/01/2020,VNM.59_1,0,0,0,0
 84,Trà Vinh,24/01/2020,VNM.59_1,0,0,0,0
 84,Trà Vinh,25/01/2020,VNM.59_1,0,0,0,0
@@ -5245,6 +5365,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 84,Trà Vinh,15/04/2020,VNM.59_1,0,1,0,0
 84,Trà Vinh,16/04/2020,VNM.59_1,0,1,0,0
 84,Trà Vinh,17/04/2020,VNM.59_1,0,1,0,0
+84,Trà Vinh,18/04/2020,VNM.59_1,0,1,0,0
+84,Trà Vinh,19/04/2020,VNM.59_1,0,1,1,1
 86,Vĩnh Long,23/01/2020,VNM.61_1,0,0,0,0
 86,Vĩnh Long,24/01/2020,VNM.61_1,0,0,0,0
 86,Vĩnh Long,25/01/2020,VNM.61_1,0,0,0,0
@@ -5331,6 +5453,8 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 86,Vĩnh Long,15/04/2020,VNM.61_1,0,0,0,0
 86,Vĩnh Long,16/04/2020,VNM.61_1,0,0,0,0
 86,Vĩnh Long,17/04/2020,VNM.61_1,0,0,0,0
+86,Vĩnh Long,18/04/2020,VNM.61_1,0,0,0,0
+86,Vĩnh Long,19/04/2020,VNM.61_1,0,0,0,0
 83,Bến Tre,23/01/2020,VNM.6_1,0,0,0,0
 83,Bến Tre,24/01/2020,VNM.6_1,0,0,0,0
 83,Bến Tre,25/01/2020,VNM.6_1,0,0,0,0
@@ -5417,3 +5541,5 @@ province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cu
 83,Bến Tre,15/04/2020,VNM.6_1,0,1,0,1
 83,Bến Tre,16/04/2020,VNM.6_1,0,1,0,1
 83,Bến Tre,17/04/2020,VNM.6_1,0,1,0,1
+83,Bến Tre,18/04/2020,VNM.6_1,0,1,0,1
+83,Bến Tre,19/04/2020,VNM.6_1,0,1,0,1
