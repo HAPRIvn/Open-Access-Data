@@ -41,7 +41,7 @@ Coming soon
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 [Health and Agricultural Policy Research Institute](https://www.hapri.ueh.edu.vn/), all rights reserved, is provided to the public strictly for educational and academic research purposes. However, the use of data for Vietnam in other purpose than personal use for educational purpose must be approved by the Institute prior to publication. The use of this repo in commerce is strictly prohibited.
 
-The Website relies upon publicly available data from multiple sources, that do not always agree. Take notice when use.
+Besides the data of Vietnam, the Website relies upon publicly available data from multiple sources, that do not always agree. Take notice when use.
 
 <p align="center">
    <img src="https://static.wixstatic.com/media/742178_c1375cf8dde04d6c95b87b0112b85a59~mv2.png" alt="HAPRI Logo" width="207.25px" height="337.75px"/>
