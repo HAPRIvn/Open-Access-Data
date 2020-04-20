@@ -2,6 +2,8 @@
 HAPRI's data
 
 1. HAPRI_COVID-19_Vietnam_Province.csv: COVID-19 panel data for 63 province in Việt Nam
+2. HAPRI_COVID-19_Cambodia_Province.csv:
+3. HAPRI_COVID-19_Laos_Province.csv:
 
 
 Data cleaned from John Hopkins University
