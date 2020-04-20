@@ -1,4 +1,4 @@
-country_name,country_unsd,country_iso,province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_cured_new,case_cured,case_relapsed_new,case_relapsed,case_death_new,case_death
+country_name,country_unsd,country_iso,province_code,province_name,date,gid_1,case_confirmed_new,case_confirmed,case_recovered_new,case_recovered,case_relapsed_new,case_relapsed,case_death_new,case_death
 Viet Nam,704,VNM,11,Điện Biên,23/01/2020,VNM.20_1,0,0,0,0,0,0,0,0
 Viet Nam,704,VNM,11,Điện Biên,24/01/2020,VNM.20_1,0,0,0,0,0,0,0,0
 Viet Nam,704,VNM,11,Điện Biên,25/01/2020,VNM.20_1,0,0,0,0,0,0,0,0
