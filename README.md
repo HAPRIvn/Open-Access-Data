@@ -26,6 +26,7 @@ State, province, district and county code of each country is coded according to 
 
 ## Future data
 1. Administration code data for various country
+2. Vietnam and USA demographic data
 
 # HAPRI Open Access Data on the Press
 1. Feature in [HERE Technologies](https://www.here.com/): [COVID-19 Interactive Tracking Map](https://app.developer.here.com/coronavirus/)
