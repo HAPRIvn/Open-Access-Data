@@ -26,7 +26,7 @@ State, province, district and county code of each country is coded according to 
 
 # HAPRI Open Access Data on the Press
 <ol>
-<li>[HERE Technologies](https://www.here.com/)'s' [COVID-19 Interactive Tracking Map](https://app.developer.here.com/coronavirus/) </li>
+<li>Feature in [HERE Technologies](https://www.here.com/): [COVID-19 Interactive Tracking Map](https://app.developer.here.com/coronavirus/) </li>
 </ol>
 
 
