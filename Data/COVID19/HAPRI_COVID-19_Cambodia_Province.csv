@@ -1,8 +1,4 @@
 country_name,province_code,province_name,date,case_confirmed_new,case_confirmed,case_recovered_new,case_recovered,case_relapsed_new,case_relapsed,case_death_new,case_death,gid_1,_ID
-Cambodia,23,Kep,23/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
-Cambodia,23,Kep,24/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
-Cambodia,23,Kep,25/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
-Cambodia,23,Kep,26/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
 Cambodia,23,Kep,27/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
 Cambodia,23,Kep,28/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
 Cambodia,23,Kep,29/01/2020,0,0,0,0,0,0,0,0,KHM.10_1,10
@@ -88,10 +84,10 @@ Cambodia,23,Kep,17/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
 Cambodia,23,Kep,18/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
 Cambodia,23,Kep,19/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
 Cambodia,23,Kep,20/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
-Cambodia,10,Kratie,23/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
-Cambodia,10,Kratie,24/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
-Cambodia,10,Kratie,25/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
-Cambodia,10,Kratie,26/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
+Cambodia,23,Kep,21/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
+Cambodia,23,Kep,22/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
+Cambodia,23,Kep,23/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
+Cambodia,23,Kep,24/04/2020,0,4,0,3,0,0,0,0,KHM.10_1,10
 Cambodia,10,Kratie,27/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
 Cambodia,10,Kratie,28/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
 Cambodia,10,Kratie,29/01/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
@@ -177,10 +173,10 @@ Cambodia,10,Kratie,17/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
 Cambodia,10,Kratie,18/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
 Cambodia,10,Kratie,19/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
 Cambodia,10,Kratie,20/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
-Cambodia,24,Pailin,23/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
-Cambodia,24,Pailin,24/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
-Cambodia,24,Pailin,25/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
-Cambodia,24,Pailin,26/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
+Cambodia,10,Kratie,21/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
+Cambodia,10,Kratie,22/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
+Cambodia,10,Kratie,23/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
+Cambodia,10,Kratie,24/04/2020,0,0,0,0,0,0,0,0,KHM.11_1,11
 Cambodia,24,Pailin,27/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
 Cambodia,24,Pailin,28/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
 Cambodia,24,Pailin,29/01/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
@@ -266,10 +262,10 @@ Cambodia,24,Pailin,17/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
 Cambodia,24,Pailin,18/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
 Cambodia,24,Pailin,19/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
 Cambodia,24,Pailin,20/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
-Cambodia,18,Preah Sihanouk,23/01/2020,0,0,0,0,0,0,0,0,KHM.13_1,13
-Cambodia,18,Preah Sihanouk,24/01/2020,0,0,0,0,0,0,0,0,KHM.13_1,13
-Cambodia,18,Preah Sihanouk,25/01/2020,0,0,0,0,0,0,0,0,KHM.13_1,13
-Cambodia,18,Preah Sihanouk,26/01/2020,0,0,0,0,0,0,0,0,KHM.13_1,13
+Cambodia,24,Pailin,21/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
+Cambodia,24,Pailin,22/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
+Cambodia,24,Pailin,23/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
+Cambodia,24,Pailin,24/04/2020,0,0,0,0,0,0,0,0,KHM.12_1,12
 Cambodia,18,Preah Sihanouk,27/01/2020,1,1,0,0,0,0,0,0,KHM.13_1,13
 Cambodia,18,Preah Sihanouk,28/01/2020,0,1,0,0,0,0,0,0,KHM.13_1,13
 Cambodia,18,Preah Sihanouk,29/01/2020,0,1,0,0,0,0,0,0,KHM.13_1,13
@@ -355,10 +351,10 @@ Cambodia,18,Preah Sihanouk,17/04/2020,0,40,0,38,0,0,0,0,KHM.13_1,13
 Cambodia,18,Preah Sihanouk,18/04/2020,0,40,0,38,0,0,0,0,KHM.13_1,13
 Cambodia,18,Preah Sihanouk,19/04/2020,0,40,0,38,0,0,0,0,KHM.13_1,13
 Cambodia,18,Preah Sihanouk,20/04/2020,0,40,1,39,0,0,0,0,KHM.13_1,13
-Cambodia,11,Mondul Kiri,23/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
-Cambodia,11,Mondul Kiri,24/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
-Cambodia,11,Mondul Kiri,25/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
-Cambodia,11,Mondul Kiri,26/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
+Cambodia,18,Preah Sihanouk,21/04/2020,0,40,0,39,0,0,0,0,KHM.13_1,13
+Cambodia,18,Preah Sihanouk,22/04/2020,0,40,0,39,0,0,0,0,KHM.13_1,13
+Cambodia,18,Preah Sihanouk,23/04/2020,0,40,0,39,0,0,0,0,KHM.13_1,13
+Cambodia,18,Preah Sihanouk,24/04/2020,0,40,0,39,0,0,0,0,KHM.13_1,13
 Cambodia,11,Mondul Kiri,27/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
 Cambodia,11,Mondul Kiri,28/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
 Cambodia,11,Mondul Kiri,29/01/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
@@ -444,10 +440,10 @@ Cambodia,11,Mondul Kiri,17/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
 Cambodia,11,Mondul Kiri,18/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
 Cambodia,11,Mondul Kiri,19/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
 Cambodia,11,Mondul Kiri,20/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
-Cambodia,22,Otdar Meanchey,23/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
-Cambodia,22,Otdar Meanchey,24/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
-Cambodia,22,Otdar Meanchey,25/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
-Cambodia,22,Otdar Meanchey,26/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
+Cambodia,11,Mondul Kiri,21/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
+Cambodia,11,Mondul Kiri,22/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
+Cambodia,11,Mondul Kiri,23/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
+Cambodia,11,Mondul Kiri,24/04/2020,0,0,0,0,0,0,0,0,KHM.14_1,14
 Cambodia,22,Otdar Meanchey,27/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
 Cambodia,22,Otdar Meanchey,28/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
 Cambodia,22,Otdar Meanchey,29/01/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
@@ -533,10 +529,10 @@ Cambodia,22,Otdar Meanchey,17/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
 Cambodia,22,Otdar Meanchey,18/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
 Cambodia,22,Otdar Meanchey,19/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
 Cambodia,22,Otdar Meanchey,20/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
-Cambodia,12,Phnom Penh,23/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
-Cambodia,12,Phnom Penh,24/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
-Cambodia,12,Phnom Penh,25/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
-Cambodia,12,Phnom Penh,26/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
+Cambodia,22,Otdar Meanchey,21/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
+Cambodia,22,Otdar Meanchey,22/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
+Cambodia,22,Otdar Meanchey,23/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
+Cambodia,22,Otdar Meanchey,24/04/2020,0,0,0,0,0,0,0,0,KHM.15_1,15
 Cambodia,12,Phnom Penh,27/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
 Cambodia,12,Phnom Penh,28/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
 Cambodia,12,Phnom Penh,29/01/2020,0,0,0,0,0,0,0,0,KHM.16_1,16
@@ -622,10 +618,10 @@ Cambodia,12,Phnom Penh,17/04/2020,0,28,0,16,0,1,0,0,KHM.16_1,16
 Cambodia,12,Phnom Penh,18/04/2020,0,28,1,17,0,1,0,0,KHM.16_1,16
 Cambodia,12,Phnom Penh,19/04/2020,0,28,1,18,0,1,0,0,KHM.16_1,16
 Cambodia,12,Phnom Penh,20/04/2020,0,28,0,18,0,1,0,0,KHM.16_1,16
-Cambodia,15,Pursat,23/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
-Cambodia,15,Pursat,24/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
-Cambodia,15,Pursat,25/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
-Cambodia,15,Pursat,26/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
+Cambodia,12,Phnom Penh,21/04/2020,0,28,0,18,0,1,0,0,KHM.16_1,16
+Cambodia,12,Phnom Penh,22/04/2020,0,28,0,18,0,1,0,0,KHM.16_1,16
+Cambodia,12,Phnom Penh,23/04/2020,0,28,0,18,0,1,0,0,KHM.16_1,16
+Cambodia,12,Phnom Penh,24/04/2020,0,28,0,18,0,1,0,0,KHM.16_1,16
 Cambodia,15,Pursat,27/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
 Cambodia,15,Pursat,28/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
 Cambodia,15,Pursat,29/01/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
@@ -711,10 +707,10 @@ Cambodia,15,Pursat,17/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
 Cambodia,15,Pursat,18/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
 Cambodia,15,Pursat,19/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
 Cambodia,15,Pursat,20/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
-Cambodia,13,Preah Vihear,23/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
-Cambodia,13,Preah Vihear,24/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
-Cambodia,13,Preah Vihear,25/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
-Cambodia,13,Preah Vihear,26/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
+Cambodia,15,Pursat,21/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
+Cambodia,15,Pursat,22/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
+Cambodia,15,Pursat,23/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
+Cambodia,15,Pursat,24/04/2020,0,0,0,0,0,0,0,0,KHM.17_1,17
 Cambodia,13,Preah Vihear,27/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
 Cambodia,13,Preah Vihear,28/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
 Cambodia,13,Preah Vihear,29/01/2020,0,0,0,0,0,0,0,0,KHM.18_1,18
@@ -800,10 +796,10 @@ Cambodia,13,Preah Vihear,17/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
 Cambodia,13,Preah Vihear,18/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
 Cambodia,13,Preah Vihear,19/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
 Cambodia,13,Preah Vihear,20/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
-Cambodia,14,Prey Veng,23/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
-Cambodia,14,Prey Veng,24/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
-Cambodia,14,Prey Veng,25/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
-Cambodia,14,Prey Veng,26/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
+Cambodia,13,Preah Vihear,21/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
+Cambodia,13,Preah Vihear,22/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
+Cambodia,13,Preah Vihear,23/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
+Cambodia,13,Preah Vihear,24/04/2020,0,2,0,2,0,0,0,0,KHM.18_1,18
 Cambodia,14,Prey Veng,27/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
 Cambodia,14,Prey Veng,28/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
 Cambodia,14,Prey Veng,29/01/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
@@ -889,10 +885,10 @@ Cambodia,14,Prey Veng,17/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
 Cambodia,14,Prey Veng,18/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
 Cambodia,14,Prey Veng,19/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
 Cambodia,14,Prey Veng,20/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
-Cambodia,1,Banteay Meanchey,23/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
-Cambodia,1,Banteay Meanchey,24/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
-Cambodia,1,Banteay Meanchey,25/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
-Cambodia,1,Banteay Meanchey,26/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
+Cambodia,14,Prey Veng,21/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
+Cambodia,14,Prey Veng,22/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
+Cambodia,14,Prey Veng,23/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
+Cambodia,14,Prey Veng,24/04/2020,0,0,0,0,0,0,0,0,KHM.19_1,19
 Cambodia,1,Banteay Meanchey,27/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
 Cambodia,1,Banteay Meanchey,28/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
 Cambodia,1,Banteay Meanchey,29/01/2020,0,0,0,0,0,0,0,0,KHM.1_1,1
@@ -978,10 +974,10 @@ Cambodia,1,Banteay Meanchey,17/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
 Cambodia,1,Banteay Meanchey,18/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
 Cambodia,1,Banteay Meanchey,19/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
 Cambodia,1,Banteay Meanchey,20/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
-Cambodia,16,Ratanak Kiri,23/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
-Cambodia,16,Ratanak Kiri,24/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
-Cambodia,16,Ratanak Kiri,25/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
-Cambodia,16,Ratanak Kiri,26/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
+Cambodia,1,Banteay Meanchey,21/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
+Cambodia,1,Banteay Meanchey,22/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
+Cambodia,1,Banteay Meanchey,23/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
+Cambodia,1,Banteay Meanchey,24/04/2020,0,4,0,3,0,0,0,0,KHM.1_1,1
 Cambodia,16,Ratanak Kiri,27/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
 Cambodia,16,Ratanak Kiri,28/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
 Cambodia,16,Ratanak Kiri,29/01/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
@@ -1067,10 +1063,10 @@ Cambodia,16,Ratanak Kiri,17/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
 Cambodia,16,Ratanak Kiri,18/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
 Cambodia,16,Ratanak Kiri,19/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
 Cambodia,16,Ratanak Kiri,20/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
-Cambodia,17,Siem Reap,23/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
-Cambodia,17,Siem Reap,24/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
-Cambodia,17,Siem Reap,25/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
-Cambodia,17,Siem Reap,26/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
+Cambodia,16,Ratanak Kiri,21/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
+Cambodia,16,Ratanak Kiri,22/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
+Cambodia,16,Ratanak Kiri,23/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
+Cambodia,16,Ratanak Kiri,24/04/2020,0,0,0,0,0,0,0,0,KHM.20_1,20
 Cambodia,17,Siem Reap,27/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
 Cambodia,17,Siem Reap,28/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
 Cambodia,17,Siem Reap,29/01/2020,0,0,0,0,0,0,0,0,KHM.21_1,21
@@ -1156,10 +1152,10 @@ Cambodia,17,Siem Reap,17/04/2020,0,7,0,5,0,0,0,0,KHM.21_1,21
 Cambodia,17,Siem Reap,18/04/2020,0,7,0,5,0,0,0,0,KHM.21_1,21
 Cambodia,17,Siem Reap,19/04/2020,0,7,1,6,0,0,0,0,KHM.21_1,21
 Cambodia,17,Siem Reap,20/04/2020,0,7,0,6,0,0,0,0,KHM.21_1,21
-Cambodia,19,Stung Treng,23/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
-Cambodia,19,Stung Treng,24/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
-Cambodia,19,Stung Treng,25/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
-Cambodia,19,Stung Treng,26/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
+Cambodia,17,Siem Reap,21/04/2020,0,7,0,6,0,0,0,0,KHM.21_1,21
+Cambodia,17,Siem Reap,22/04/2020,0,7,0,6,0,0,0,0,KHM.21_1,21
+Cambodia,17,Siem Reap,23/04/2020,0,7,0,6,0,0,0,0,KHM.21_1,21
+Cambodia,17,Siem Reap,24/04/2020,0,7,0,6,0,0,0,0,KHM.21_1,21
 Cambodia,19,Stung Treng,27/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
 Cambodia,19,Stung Treng,28/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
 Cambodia,19,Stung Treng,29/01/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
@@ -1245,10 +1241,10 @@ Cambodia,19,Stung Treng,17/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
 Cambodia,19,Stung Treng,18/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
 Cambodia,19,Stung Treng,19/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
 Cambodia,19,Stung Treng,20/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
-Cambodia,20,Svay Rieng,23/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
-Cambodia,20,Svay Rieng,24/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
-Cambodia,20,Svay Rieng,25/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
-Cambodia,20,Svay Rieng,26/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
+Cambodia,19,Stung Treng,21/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
+Cambodia,19,Stung Treng,22/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
+Cambodia,19,Stung Treng,23/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
+Cambodia,19,Stung Treng,24/04/2020,0,0,0,0,0,0,0,0,KHM.22_1,22
 Cambodia,20,Svay Rieng,27/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
 Cambodia,20,Svay Rieng,28/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
 Cambodia,20,Svay Rieng,29/01/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
@@ -1334,10 +1330,10 @@ Cambodia,20,Svay Rieng,17/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
 Cambodia,20,Svay Rieng,18/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
 Cambodia,20,Svay Rieng,19/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
 Cambodia,20,Svay Rieng,20/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
-Cambodia,21,Takeo,23/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
-Cambodia,21,Takeo,24/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
-Cambodia,21,Takeo,25/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
-Cambodia,21,Takeo,26/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
+Cambodia,20,Svay Rieng,21/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
+Cambodia,20,Svay Rieng,22/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
+Cambodia,20,Svay Rieng,23/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
+Cambodia,20,Svay Rieng,24/04/2020,0,0,0,0,0,0,0,0,KHM.23_1,23
 Cambodia,21,Takeo,27/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
 Cambodia,21,Takeo,28/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
 Cambodia,21,Takeo,29/01/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
@@ -1423,10 +1419,10 @@ Cambodia,21,Takeo,17/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
 Cambodia,21,Takeo,18/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
 Cambodia,21,Takeo,19/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
 Cambodia,21,Takeo,20/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
-Cambodia,25,Tboung Khmum,23/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
-Cambodia,25,Tboung Khmum,24/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
-Cambodia,25,Tboung Khmum,25/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
-Cambodia,25,Tboung Khmum,26/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
+Cambodia,21,Takeo,21/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
+Cambodia,21,Takeo,22/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
+Cambodia,21,Takeo,23/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
+Cambodia,21,Takeo,24/04/2020,0,0,0,0,0,0,0,0,KHM.24_1,24
 Cambodia,25,Tboung Khmum,27/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
 Cambodia,25,Tboung Khmum,28/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
 Cambodia,25,Tboung Khmum,29/01/2020,0,0,0,0,0,0,0,0,KHM.25_1,25
@@ -1512,10 +1508,10 @@ Cambodia,25,Tboung Khmum,17/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
 Cambodia,25,Tboung Khmum,18/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
 Cambodia,25,Tboung Khmum,19/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
 Cambodia,25,Tboung Khmum,20/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
-Cambodia,2,Battambang,23/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
-Cambodia,2,Battambang,24/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
-Cambodia,2,Battambang,25/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
-Cambodia,2,Battambang,26/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
+Cambodia,25,Tboung Khmum,21/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
+Cambodia,25,Tboung Khmum,22/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
+Cambodia,25,Tboung Khmum,23/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
+Cambodia,25,Tboung Khmum,24/04/2020,0,4,0,4,0,0,0,0,KHM.25_1,25
 Cambodia,2,Battambang,27/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
 Cambodia,2,Battambang,28/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
 Cambodia,2,Battambang,29/01/2020,0,0,0,0,0,0,0,0,KHM.2_1,2
@@ -1601,10 +1597,10 @@ Cambodia,2,Battambang,17/04/2020,0,8,0,6,0,0,0,0,KHM.2_1,2
 Cambodia,2,Battambang,18/04/2020,0,8,1,7,0,0,0,0,KHM.2_1,2
 Cambodia,2,Battambang,19/04/2020,0,8,0,7,0,0,0,0,KHM.2_1,2
 Cambodia,2,Battambang,20/04/2020,0,8,1,8,0,0,0,0,KHM.2_1,2
-Cambodia,3,Kampong Cham,23/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
-Cambodia,3,Kampong Cham,24/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
-Cambodia,3,Kampong Cham,25/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
-Cambodia,3,Kampong Cham,26/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
+Cambodia,2,Battambang,21/04/2020,0,8,0,8,0,0,0,0,KHM.2_1,2
+Cambodia,2,Battambang,22/04/2020,0,8,0,8,0,0,0,0,KHM.2_1,2
+Cambodia,2,Battambang,23/04/2020,0,8,0,8,0,0,0,0,KHM.2_1,2
+Cambodia,2,Battambang,24/04/2020,0,8,0,8,0,0,0,0,KHM.2_1,2
 Cambodia,3,Kampong Cham,27/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
 Cambodia,3,Kampong Cham,28/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
 Cambodia,3,Kampong Cham,29/01/2020,0,0,0,0,0,0,0,0,KHM.3_1,3
@@ -1690,10 +1686,10 @@ Cambodia,3,Kampong Cham,17/04/2020,0,16,0,13,0,0,0,0,KHM.3_1,3
 Cambodia,3,Kampong Cham,18/04/2020,0,16,3,16,0,0,0,0,KHM.3_1,3
 Cambodia,3,Kampong Cham,19/04/2020,0,16,0,16,0,0,0,0,KHM.3_1,3
 Cambodia,3,Kampong Cham,20/04/2020,0,16,0,16,0,0,0,0,KHM.3_1,3
-Cambodia,4,Kampong Chhnang,23/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
-Cambodia,4,Kampong Chhnang,24/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
-Cambodia,4,Kampong Chhnang,25/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
-Cambodia,4,Kampong Chhnang,26/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
+Cambodia,3,Kampong Cham,21/04/2020,0,16,0,16,0,0,0,0,KHM.3_1,3
+Cambodia,3,Kampong Cham,22/04/2020,0,16,0,16,0,0,0,0,KHM.3_1,3
+Cambodia,3,Kampong Cham,23/04/2020,0,16,0,16,0,0,0,0,KHM.3_1,3
+Cambodia,3,Kampong Cham,24/04/2020,0,16,0,16,0,0,0,0,KHM.3_1,3
 Cambodia,4,Kampong Chhnang,27/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
 Cambodia,4,Kampong Chhnang,28/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
 Cambodia,4,Kampong Chhnang,29/01/2020,0,0,0,0,0,0,0,0,KHM.4_1,4
@@ -1779,10 +1775,10 @@ Cambodia,4,Kampong Chhnang,17/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
 Cambodia,4,Kampong Chhnang,18/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
 Cambodia,4,Kampong Chhnang,19/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
 Cambodia,4,Kampong Chhnang,20/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
-Cambodia,5,Kampong Speu,23/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
-Cambodia,5,Kampong Speu,24/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
-Cambodia,5,Kampong Speu,25/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
-Cambodia,5,Kampong Speu,26/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
+Cambodia,4,Kampong Chhnang,21/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
+Cambodia,4,Kampong Chhnang,22/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
+Cambodia,4,Kampong Chhnang,23/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
+Cambodia,4,Kampong Chhnang,24/04/2020,0,3,0,2,0,0,0,0,KHM.4_1,4
 Cambodia,5,Kampong Speu,27/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
 Cambodia,5,Kampong Speu,28/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
 Cambodia,5,Kampong Speu,29/01/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
@@ -1868,10 +1864,10 @@ Cambodia,5,Kampong Speu,17/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
 Cambodia,5,Kampong Speu,18/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
 Cambodia,5,Kampong Speu,19/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
 Cambodia,5,Kampong Speu,20/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
-Cambodia,6,Kampong Thom,23/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
-Cambodia,6,Kampong Thom,24/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
-Cambodia,6,Kampong Thom,25/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
-Cambodia,6,Kampong Thom,26/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
+Cambodia,5,Kampong Speu,21/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
+Cambodia,5,Kampong Speu,22/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
+Cambodia,5,Kampong Speu,23/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
+Cambodia,5,Kampong Speu,24/04/2020,0,0,0,0,0,0,0,0,KHM.5_1,5
 Cambodia,6,Kampong Thom,27/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
 Cambodia,6,Kampong Thom,28/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
 Cambodia,6,Kampong Thom,29/01/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
@@ -1957,10 +1953,10 @@ Cambodia,6,Kampong Thom,17/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
 Cambodia,6,Kampong Thom,18/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
 Cambodia,6,Kampong Thom,19/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
 Cambodia,6,Kampong Thom,20/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
-Cambodia,7,Kampot,23/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
-Cambodia,7,Kampot,24/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
-Cambodia,7,Kampot,25/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
-Cambodia,7,Kampot,26/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
+Cambodia,6,Kampong Thom,21/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
+Cambodia,6,Kampong Thom,22/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
+Cambodia,6,Kampong Thom,23/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
+Cambodia,6,Kampong Thom,24/04/2020,0,0,0,0,0,0,0,0,KHM.6_1,6
 Cambodia,7,Kampot,27/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
 Cambodia,7,Kampot,28/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
 Cambodia,7,Kampot,29/01/2020,0,0,0,0,0,0,0,0,KHM.7_1,7
@@ -2046,10 +2042,10 @@ Cambodia,7,Kampot,17/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
 Cambodia,7,Kampot,18/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
 Cambodia,7,Kampot,19/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
 Cambodia,7,Kampot,20/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
-Cambodia,8,Kandal,23/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
-Cambodia,8,Kandal,24/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
-Cambodia,8,Kandal,25/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
-Cambodia,8,Kandal,26/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
+Cambodia,7,Kampot,21/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
+Cambodia,7,Kampot,22/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
+Cambodia,7,Kampot,23/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
+Cambodia,7,Kampot,24/04/2020,0,2,0,2,0,0,0,0,KHM.7_1,7
 Cambodia,8,Kandal,27/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
 Cambodia,8,Kandal,28/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
 Cambodia,8,Kandal,29/01/2020,0,0,0,0,0,0,0,0,KHM.8_1,8
@@ -2135,10 +2131,10 @@ Cambodia,8,Kandal,17/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
 Cambodia,8,Kandal,18/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
 Cambodia,8,Kandal,19/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
 Cambodia,8,Kandal,20/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
-Cambodia,9,Koh Kong,23/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
-Cambodia,9,Koh Kong,24/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
-Cambodia,9,Koh Kong,25/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
-Cambodia,9,Koh Kong,26/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
+Cambodia,8,Kandal,21/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
+Cambodia,8,Kandal,22/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
+Cambodia,8,Kandal,23/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
+Cambodia,8,Kandal,24/04/2020,0,2,0,2,0,0,0,0,KHM.8_1,8
 Cambodia,9,Koh Kong,27/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
 Cambodia,9,Koh Kong,28/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
 Cambodia,9,Koh Kong,29/01/2020,0,0,0,0,0,0,0,0,KHM.9_1,9
@@ -2224,3 +2220,7 @@ Cambodia,9,Koh Kong,17/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
 Cambodia,9,Koh Kong,18/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
 Cambodia,9,Koh Kong,19/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
 Cambodia,9,Koh Kong,20/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
+Cambodia,9,Koh Kong,21/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
+Cambodia,9,Koh Kong,22/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
+Cambodia,9,Koh Kong,23/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
+Cambodia,9,Koh Kong,24/04/2020,0,2,0,2,0,0,0,0,KHM.9_1,9
