@@ -24,10 +24,11 @@ Country in the data is coded according to ISO 3166-1 numeric and ISO 3166-1 alph
 
 State, province, district and county code of each country is coded according to each country's standardized administration code.
 
+## Future data
+1. Administration code data for various country
+
 # HAPRI Open Access Data on the Press
-<ol>
-<li>Feature in [HERE Technologies](https://www.here.com/): [COVID-19 Interactive Tracking Map](https://app.developer.here.com/coronavirus/) </li>
-</ol>
+1. Feature in [HERE Technologies](https://www.here.com/): [COVID-19 Interactive Tracking Map](https://app.developer.here.com/coronavirus/)
 
 
 # Citing
