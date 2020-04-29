@@ -1,4 +1,4 @@
-# COVID-19 Cleaned Database from HAPRI - Work In Progress
+# COVID-19 Cleaned Database from HAPRI
 ## Version 1.0 - May 2020
 
 <p align="center">
