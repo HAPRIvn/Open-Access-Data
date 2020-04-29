@@ -1,5 +1,5 @@
 # COVID-19 Cleaned Database from HAPRI - Work In Progress
-## Version 0.0
+## Version 1.0 - May 2020
 
 <p align="center">
    <img src="https://static.wixstatic.com/media/742178_c317772c976e4134a1ca1f068bba3c46~mv2.png" alt="HAPRI Open Access Data Banner"/>
