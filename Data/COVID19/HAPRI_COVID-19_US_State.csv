@@ -97,6 +97,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,26/04/2020,6026,209,0,USA,USA.1_1,1
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,27/04/2020,6421,219,0,USA,USA.1_1,1
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,28/04/2020,6539,228,0,USA,USA.1_1,1
+5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,29/04/2020,6750,242,0,USA,USA.1_1,1
+5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,30/04/2020,6912,256,0,USA,USA.1_1,1
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,22/01/2020,0,0,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,23/01/2020,0,0,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,24/01/2020,0,0,0,USA,USA.2_1,2
@@ -195,6 +197,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,26/04/2020,339,5,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,27/04/2020,340,5,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,28/04/2020,345,5,0,USA,USA.2_1,2
+5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,29/04/2020,351,5,0,USA,USA.2_1,2
+5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,30/04/2020,355,5,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,22/01/2020,0,0,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,23/01/2020,0,0,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,24/01/2020,0,0,0,USA,USA.3_1,3
@@ -293,6 +297,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,26/04/2020,6286,273,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,27/04/2020,6534,275,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,28/04/2020,6725,275,0,USA,USA.3_1,3
+5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,29/04/2020,6955,275,0,USA,USA.3_1,3
+5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,30/04/2020,7209,306,0,USA,USA.3_1,3
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,22/01/2020,0,0,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,23/01/2020,0,0,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,24/01/2020,0,0,0,USA,USA.4_1,4
@@ -391,6 +397,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,26/04/2020,2709,48,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,27/04/2020,2785,51,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,28/04/2020,2866,51,0,USA,USA.4_1,4
+5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,29/04/2020,2907,57,0,USA,USA.4_1,4
+5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,30/04/2020,2965,57,0,USA,USA.4_1,4
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,22/01/2020,0,0,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,23/01/2020,0,0,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,24/01/2020,0,0,0,USA,USA.5_1,5
@@ -489,6 +497,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,26/04/2020,42368,1687,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,27/04/2020,43558,1723,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,28/04/2020,44966,1777,0,USA,USA.5_1,5
+5,North America,USA,842,USA,4,West,9,Pacific,6,California,29/04/2020,46164,1862,0,USA,USA.5_1,5
+5,North America,USA,842,USA,4,West,9,Pacific,6,California,30/04/2020,48747,1944,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,22/01/2020,0,0,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,23/01/2020,0,0,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,24/01/2020,0,0,0,USA,USA.6_1,6
@@ -587,6 +597,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,26/04/2020,12837,680,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,27/04/2020,13269,684,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,28/04/2020,13703,702,0,USA,USA.6_1,6
+5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,29/04/2020,14151,733,0,USA,USA.6_1,6
+5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,30/04/2020,14613,763,0,USA,USA.6_1,6
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,22/01/2020,0,0,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,23/01/2020,0,0,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,24/01/2020,0,0,0,USA,USA.7_1,7
@@ -685,6 +697,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,26/04/2020,24061,1859,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,27/04/2020,24747,1924,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,28/04/2020,25513,2011,0,USA,USA.7_1,7
+5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,29/04/2020,25821,2086,0,USA,USA.7_1,7
+5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,30/04/2020,26260,2166,0,USA,USA.7_1,7
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,22/01/2020,0,0,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,23/01/2020,0,0,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,24/01/2020,0,0,0,USA,USA.8_1,8
@@ -783,6 +797,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,26/04/2020,3573,112,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,27/04/2020,4025,120,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,28/04/2020,4151,125,0,USA,USA.8_1,8
+5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,29/04/2020,4543,137,0,USA,USA.8_1,8
+5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,30/04/2020,4629,144,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,22/01/2020,0,0,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,23/01/2020,0,0,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,24/01/2020,0,0,0,USA,USA.9_1,9
@@ -881,6 +897,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,26/04/2020,3699,165,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,27/04/2020,3841,178,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,28/04/2020,3892,185,0,USA,USA.9_1,9
+5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,29/04/2020,3994,190,0,USA,USA.9_1,9
+5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,30/04/2020,4106,205,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,22/01/2020,0,0,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,23/01/2020,0,0,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,24/01/2020,0,0,0,USA,USA.10_1,10
@@ -979,6 +997,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,26/04/2020,30838,1055,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,27/04/2020,31531,1075,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,28/04/2020,32137,1088,0,USA,USA.10_1,10
+5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,29/04/2020,32844,1171,0,USA,USA.10_1,10
+5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,30/04/2020,33186,1218,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,22/01/2020,0,0,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,23/01/2020,0,0,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,24/01/2020,0,0,0,USA,USA.11_1,11
@@ -1077,6 +1097,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,26/04/2020,21623,896,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,27/04/2020,21842,907,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,28/04/2020,22642,980,0,USA,USA.11_1,11
+5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,29/04/2020,23342,1021,0,USA,USA.11_1,11
+5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,30/04/2020,24178,1085,0,USA,USA.11_1,11
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,22/01/2020,0,0,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,23/01/2020,0,0,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,24/01/2020,0,0,0,USA,USA.12_1,12
@@ -1175,6 +1197,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,26/04/2020,598,13,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,27/04/2020,599,14,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,28/04/2020,600,16,0,USA,USA.12_1,12
+5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,29/04/2020,602,16,0,USA,USA.12_1,12
+5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,30/04/2020,605,16,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,22/01/2020,0,0,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,23/01/2020,0,0,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,24/01/2020,0,0,0,USA,USA.13_1,13
@@ -1273,6 +1297,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,26/04/2020,1887,56,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,27/04/2020,1897,56,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,28/04/2020,1897,56,0,USA,USA.13_1,13
+5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,29/04/2020,1952,60,0,USA,USA.13_1,13
+5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,30/04/2020,1952,60,0,USA,USA.13_1,13
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,22/01/2020,0,0,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,23/01/2020,0,0,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,24/01/2020,0,0,0,USA,USA.14_1,14
@@ -1371,6 +1397,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,26/04/2020,41503,1874,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,27/04/2020,43596,1933,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,28/04/2020,45545,1983,0,USA,USA.14_1,14
+5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,29/04/2020,47767,2125,0,USA,USA.14_1,14
+5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,30/04/2020,50004,2215,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,22/01/2020,0,0,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,23/01/2020,0,0,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,24/01/2020,0,0,0,USA,USA.15_1,15
@@ -1469,6 +1497,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,26/04/2020,14399,786,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,27/04/2020,15012,813,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,28/04/2020,15961,844,0,USA,USA.15_1,15
+5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,29/04/2020,16588,901,0,USA,USA.15_1,15
+5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,30/04/2020,17182,964,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,22/01/2020,0,0,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,23/01/2020,0,0,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,24/01/2020,0,0,0,USA,USA.16_1,16
@@ -1567,6 +1597,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,26/04/2020,5087,112,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,27/04/2020,5470,118,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,28/04/2020,5861,127,0,USA,USA.16_1,16
+5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,29/04/2020,6363,136,0,USA,USA.16_1,16
+5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,30/04/2020,6823,148,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,22/01/2020,0,0,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,23/01/2020,0,0,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,24/01/2020,0,0,0,USA,USA.17_1,17
@@ -1665,6 +1697,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,26/04/2020,3135,120,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,27/04/2020,3277,121,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,28/04/2020,3473,126,0,USA,USA.17_1,17
+5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,29/04/2020,3652,127,0,USA,USA.17_1,17
+5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,30/04/2020,3839,134,0,USA,USA.17_1,17
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,22/01/2020,0,0,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,23/01/2020,0,0,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,24/01/2020,0,0,0,USA,USA.18_1,18
@@ -1763,6 +1797,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,26/04/2020,3857,205,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,27/04/2020,4027,208,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,28/04/2020,4098,213,0,USA,USA.18_1,18
+5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,29/04/2020,4325,225,0,USA,USA.18_1,18
+5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,30/04/2020,4487,234,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,22/01/2020,0,0,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,23/01/2020,0,0,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,24/01/2020,0,0,0,USA,USA.19_1,19
@@ -1861,6 +1897,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,26/04/2020,26449,1644,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,27/04/2020,26709,1670,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,28/04/2020,27004,1697,0,USA,USA.19_1,19
+5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,29/04/2020,27225,1758,0,USA,USA.19_1,19
+5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,30/04/2020,27599,1802,0,USA,USA.19_1,19
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,22/01/2020,0,0,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,23/01/2020,0,0,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,24/01/2020,0,0,0,USA,USA.20_1,20
@@ -1959,6 +1997,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,26/04/2020,965,47,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,27/04/2020,1013,50,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,28/04/2020,1021,51,0,USA,USA.20_1,20
+5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,29/04/2020,1039,51,0,USA,USA.20_1,20
+5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,30/04/2020,1054,52,0,USA,USA.20_1,20
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,22/01/2020,0,0,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,23/01/2020,0,0,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,24/01/2020,0,0,0,USA,USA.21_1,21
@@ -2057,6 +2097,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,26/04/2020,17766,751,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,27/04/2020,18581,765,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,28/04/2020,19487,858,0,USA,USA.21_1,21
+5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,29/04/2020,20113,910,0,USA,USA.21_1,21
+5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,30/04/2020,20849,991,0,USA,USA.21_1,21
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,22/01/2020,0,0,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,23/01/2020,0,0,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,24/01/2020,0,0,0,USA,USA.22_1,22
@@ -2155,6 +2197,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,26/04/2020,52571,2716,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,27/04/2020,54106,2757,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,28/04/2020,55642,2994,0,USA,USA.22_1,22
+5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,29/04/2020,57651,3147,0,USA,USA.22_1,22
+5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,30/04/2020,59781,3399,0,USA,USA.22_1,22
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,22/01/2020,0,0,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,23/01/2020,0,0,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,24/01/2020,0,0,0,USA,USA.23_1,23
@@ -2253,6 +2297,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,26/04/2020,35946,3122,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,27/04/2020,36636,3280,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,28/04/2020,37056,3367,0,USA,USA.23_1,23
+5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,29/04/2020,38067,3526,0,USA,USA.23_1,23
+5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,30/04/2020,39010,3628,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,22/01/2020,0,0,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,23/01/2020,0,0,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,24/01/2020,0,0,0,USA,USA.24_1,24
@@ -2351,6 +2397,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,26/04/2020,3441,244,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,27/04/2020,3593,272,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,28/04/2020,3811,286,0,USA,USA.24_1,24
+5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,29/04/2020,4175,301,0,USA,USA.24_1,24
+5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,30/04/2020,4637,319,0,USA,USA.24_1,24
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,22/01/2020,0,0,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,23/01/2020,0,0,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,24/01/2020,0,0,0,USA,USA.25_1,25
@@ -2449,6 +2497,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,26/04/2020,5718,221,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,27/04/2020,5911,227,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,28/04/2020,6094,229,0,USA,USA.25_1,25
+5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,29/04/2020,6342,239,0,USA,USA.25_1,25
+5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,30/04/2020,6569,250,0,USA,USA.25_1,25
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,22/01/2020,0,0,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,23/01/2020,0,0,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,24/01/2020,0,0,0,USA,USA.26_1,26
@@ -2547,6 +2597,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,26/04/2020,6448,266,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,27/04/2020,6626,268,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,28/04/2020,6804,328,0,USA,USA.26_1,26
+5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,29/04/2020,6938,314,0,USA,USA.26_1,26
+5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,30/04/2020,7139,322,0,USA,USA.26_1,26
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,22/01/2020,0,0,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,23/01/2020,0,0,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,24/01/2020,0,0,0,USA,USA.27_1,27
@@ -2645,6 +2697,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,26/04/2020,445,14,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,27/04/2020,448,14,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,28/04/2020,449,14,0,USA,USA.27_1,27
+5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,29/04/2020,451,15,0,USA,USA.27_1,27
+5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,30/04/2020,451,16,0,USA,USA.27_1,27
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,22/01/2020,0,0,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,23/01/2020,0,0,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,24/01/2020,0,0,0,USA,USA.28_1,28
@@ -2743,6 +2797,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,26/04/2020,2719,38,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,27/04/2020,3018,38,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,28/04/2020,3324,38,0,USA,USA.28_1,28
+5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,29/04/2020,3494,38,0,USA,USA.28_1,28
+5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,30/04/2020,3828,38,0,USA,USA.28_1,28
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,22/01/2020,0,0,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,23/01/2020,0,0,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,24/01/2020,0,0,0,USA,USA.29_1,29
@@ -2841,6 +2897,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,26/04/2020,4523,205,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,27/04/2020,4639,205,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,28/04/2020,4700,205,0,USA,USA.29_1,29
+5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,29/04/2020,4821,219,0,USA,USA.29_1,29
+5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,30/04/2020,4934,230,0,USA,USA.29_1,29
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,22/01/2020,0,0,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,23/01/2020,0,0,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,24/01/2020,0,0,0,USA,USA.30_1,30
@@ -2939,6 +2997,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,26/04/2020,1788,3,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,27/04/2020,1859,3,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,28/04/2020,1927,3,0,USA,USA.30_1,30
+5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,29/04/2020,2003,3,0,USA,USA.30_1,30
+5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,30/04/2020,2051,3,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,22/01/2020,0,0,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,23/01/2020,0,0,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,24/01/2020,0,0,0,USA,USA.31_1,31
@@ -3037,6 +3097,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,26/04/2020,104966,5914,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,27/04/2020,108357,5938,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,28/04/2020,110370,6044,0,USA,USA.31_1,31
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,29/04/2020,113138,6442,0,USA,USA.31_1,31
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,30/04/2020,115647,6771,0,USA,USA.31_1,31
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,22/01/2020,0,0,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,23/01/2020,0,0,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,24/01/2020,0,0,0,USA,USA.32_1,32
@@ -3135,6 +3197,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,26/04/2020,2660,93,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,27/04/2020,2726,99,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,28/04/2020,2825,99,0,USA,USA.32_1,32
+5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,29/04/2020,2974,105,0,USA,USA.32_1,32
+5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,30/04/2020,3213,112,0,USA,USA.32_1,32
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,22/01/2020,0,0,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,23/01/2020,0,0,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,24/01/2020,0,0,0,USA,USA.33_1,33
@@ -3233,6 +3297,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,26/04/2020,286620,22279,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,27/04/2020,158258,17280,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,28/04/2020,160489,17515,0,USA,USA.33_1,33
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,29/04/2020,295106,22912,0,USA,USA.33_1,33
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,30/04/2020,299691,23477,0,USA,USA.33_1,33
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,22/01/2020,0,0,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,23/01/2020,0,0,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,24/01/2020,0,0,0,USA,USA.34_1,34
@@ -3331,6 +3397,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,26/04/2020,8767,305,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,27/04/2020,8996,324,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,28/04/2020,9427,340,0,USA,USA.34_1,34
+5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,29/04/2020,9755,363,0,USA,USA.34_1,34
+5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,30/04/2020,10180,382,0,USA,USA.34_1,34
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,22/01/2020,0,0,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,23/01/2020,0,0,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,24/01/2020,0,0,0,USA,USA.35_1,35
@@ -3429,6 +3497,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,26/04/2020,803,16,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,27/04/2020,867,17,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,28/04/2020,942,19,0,USA,USA.35_1,35
+5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,29/04/2020,991,19,0,USA,USA.35_1,35
+5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,30/04/2020,1033,19,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,22/01/2020,0,0,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,23/01/2020,0,0,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,24/01/2020,0,0,0,USA,USA.36_1,36
@@ -3527,6 +3597,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,26/04/2020,15587,711,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,27/04/2020,15972,728,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,28/04/2020,16325,753,0,USA,USA.36_1,36
+5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,29/04/2020,16769,799,0,USA,USA.36_1,36
+5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,30/04/2020,17303,937,0,USA,USA.36_1,36
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,22/01/2020,0,0,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,23/01/2020,0,0,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,24/01/2020,0,0,0,USA,USA.37_1,37
@@ -3625,6 +3697,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,26/04/2020,3194,194,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,27/04/2020,3254,195,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,28/04/2020,3281,197,0,USA,USA.37_1,37
+5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,29/04/2020,3410,207,0,USA,USA.37_1,37
+5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,30/04/2020,3473,214,0,USA,USA.37_1,37
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,22/01/2020,0,0,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,23/01/2020,0,0,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,24/01/2020,0,0,0,USA,USA.38_1,38
@@ -3723,6 +3797,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,26/04/2020,2253,87,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,27/04/2020,2311,92,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,28/04/2020,2354,92,0,USA,USA.38_1,38
+5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,29/04/2020,2385,99,0,USA,USA.38_1,38
+5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,30/04/2020,2446,101,0,USA,USA.38_1,38
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,22/01/2020,0,0,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,23/01/2020,0,0,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,24/01/2020,0,0,0,USA,USA.39_1,39
@@ -3821,6 +3897,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,26/04/2020,41153,1793,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,27/04/2020,42616,1816,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,28/04/2020,43558,1886,0,USA,USA.39_1,39
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,29/04/2020,45137,2046,0,USA,USA.39_1,39
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,30/04/2020,46327,2373,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,22/01/2020,0,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,23/01/2020,0,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,24/01/2020,0,0,0,USA,USA.40_1,40
@@ -3919,6 +3997,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,26/04/2020,5931,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,27/04/2020,6330,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,28/04/2020,6548,0,0,USA,USA.40_1,40
+5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,29/04/2020,6660,0,0,USA,USA.40_1,40
+5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,30/04/2020,7182,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,22/01/2020,0,0,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,23/01/2020,0,0,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,24/01/2020,0,0,0,USA,USA.41_1,41
@@ -4017,6 +4097,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,26/04/2020,5253,166,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,27/04/2020,5498,174,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,28/04/2020,5613,177,0,USA,USA.41_1,41
+5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,29/04/2020,5735,192,0,USA,USA.41_1,41
+5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,30/04/2020,5882,231,0,USA,USA.41_1,41
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,22/01/2020,0,0,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,23/01/2020,0,0,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,24/01/2020,0,0,0,USA,USA.42_1,42
@@ -4115,6 +4197,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,26/04/2020,2147,10,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,27/04/2020,2212,11,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,28/04/2020,2244,11,0,USA,USA.42_1,42
+5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,29/04/2020,2313,11,0,USA,USA.42_1,42
+5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,30/04/2020,2373,13,0,USA,USA.42_1,42
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,22/01/2020,0,0,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,23/01/2020,0,0,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,24/01/2020,0,0,0,USA,USA.43_1,43
@@ -4213,6 +4297,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,26/04/2020,8834,176,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,27/04/2020,9298,179,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,28/04/2020,9586,181,0,USA,USA.43_1,43
+5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,29/04/2020,9766,186,0,USA,USA.43_1,43
+5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,30/04/2020,10090,192,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,22/01/2020,0,0,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,23/01/2020,0,0,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,24/01/2020,0,0,0,USA,USA.44_1,44
@@ -4311,6 +4397,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,26/04/2020,24153,638,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,27/04/2020,24967,651,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,28/04/2020,25321,666,0,USA,USA.44_1,44
+5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,29/04/2020,26357,719,0,USA,USA.44_1,44
+5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,30/04/2020,27257,754,0,USA,USA.44_1,44
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,22/01/2020,0,0,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,23/01/2020,0,0,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,24/01/2020,0,0,0,USA,USA.45_1,45
@@ -4409,6 +4497,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,26/04/2020,3623,36,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,27/04/2020,3788,36,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,28/04/2020,3893,36,0,USA,USA.45_1,45
+5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,29/04/2020,4000,36,0,USA,USA.45_1,45
+5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,30/04/2020,4146,40,0,USA,USA.45_1,45
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,22/01/2020,0,0,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,23/01/2020,0,0,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,24/01/2020,0,0,0,USA,USA.46_1,46
@@ -4507,6 +4597,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,26/04/2020,838,46,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,27/04/2020,846,46,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,28/04/2020,852,47,0,USA,USA.46_1,46
+5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,29/04/2020,859,47,0,USA,USA.46_1,46
+5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,30/04/2020,859,47,0,USA,USA.46_1,46
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,22/01/2020,0,0,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,23/01/2020,0,0,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,24/01/2020,0,0,0,USA,USA.47_1,47
@@ -4605,6 +4697,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,26/04/2020,12366,437,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,27/04/2020,12970,449,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,28/04/2020,13538,460,0,USA,USA.47_1,47
+5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,29/04/2020,14339,492,0,USA,USA.47_1,47
+5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,30/04/2020,14962,522,0,USA,USA.47_1,47
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,22/01/2020,1,0,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,23/01/2020,1,0,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,24/01/2020,1,0,0,USA,USA.48_1,48
@@ -4703,6 +4797,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,26/04/2020,13398,749,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,27/04/2020,13583,764,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,28/04/2020,13583,764,0,USA,USA.48_1,48
+5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,29/04/2020,13763,786,0,USA,USA.48_1,48
+5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,30/04/2020,13994,801,0,USA,USA.48_1,48
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,22/01/2020,0,0,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,23/01/2020,0,0,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,24/01/2020,0,0,0,USA,USA.49_1,49
@@ -4801,6 +4897,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,26/04/2020,1010,32,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,27/04/2020,1055,34,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,28/04/2020,1063,34,0,USA,USA.49_1,49
+5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,29/04/2020,1095,38,0,USA,USA.49_1,49
+5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,30/04/2020,1110,38,0,USA,USA.49_1,49
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,22/01/2020,0,0,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,23/01/2020,0,0,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,24/01/2020,0,0,0,USA,USA.50_1,50
@@ -4899,6 +4997,8 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,26/04/2020,5687,266,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,27/04/2020,5912,272,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,28/04/2020,6081,281,0,USA,USA.50_1,50
+5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,29/04/2020,6289,300,0,USA,USA.50_1,50
+5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,30/04/2020,6520,308,0,USA,USA.50_1,50
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,22/01/2020,0,0,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,23/01/2020,0,0,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,24/01/2020,0,0,0,USA,USA.51_1,51
@@ -4997,3 +5097,5 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,26/04/2020,491,1,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,27/04/2020,502,1,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,28/04/2020,520,1,0,USA,USA.51_1,51
+5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,29/04/2020,536,1,0,USA,USA.51_1,51
+5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,30/04/2020,545,1,0,USA,USA.51_1,51
