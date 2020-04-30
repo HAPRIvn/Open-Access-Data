@@ -4,9 +4,10 @@
 
 | Country   |  Level 1   | Level 2  | Format |                  Source |URL|
 | --------- |:----------:|:--------:|-------:|:-----------------------:|:---|
-| Việt Nam  | Provincial | District |    csv |                   HAPRI |https://www.hapri.ueh.edu.vn/|
-| Laos      | Provincial | District |    csv |                   HAPRI ||
-| Cambodia  | Provincial | District |    csv |                   HAPRI ||
+| Việt Nam  | Provincial | District |    csv |HAPRI Data Intelligence Team |https://www.hapri.ueh.edu.vn/|
+| Laos      | Provincial | District |    csv |Ministry of Health ||
+| Cambodia  | Provincial | District |    csv |Ministry of Health ||
+| Philippines  | Provincial | Cities & Municipals |    csv |Department of Health | https://www.doh.gov.ph/2019-nCoV |
 | China     | Provincial |          |    csv | John Hopkins University |https://github.com/CSSEGISandData/COVID-19|
 | USA       |   State    |  County  |    csv | John Hopkins University ||
 | Canada    |   State    |          |    csv | John Hopkins University ||
