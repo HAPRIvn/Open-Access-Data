@@ -3,7 +3,7 @@
 # Confirmed, Recovered, Death and Relapsed cases
 
 | Country   |  Level 1   | Level 2  | Format |                  Source |URL|
-| --------- |:----------:|:--------:|-------:|:-----------------------:|:---|
+| --------- |:----------:|:--------:|:-------:|:-----------------------:|:---|
 | Việt Nam  | Provincial | District |    csv |HAPRI Data Intelligence Team |https://www.hapri.ueh.edu.vn/|
 | Laos      | Provincial | District |    csv |Ministry of Health ||
 | Cambodia  | Provincial | District |    csv |Ministry of Health ||
