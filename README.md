@@ -1,4 +1,4 @@
-# Open Access Data from HAPRI
+# Open Access Database from HAPRI
 ## Version 1.0 - May 2020
 
 <p align="center">
@@ -30,7 +30,7 @@ State, province, district and county code of each country is coded according to 
 
 
 # Citing
-Please contact <HAPRI@ueh.edu.vn> for proper citation if you are planning to use any of the generated data in your research paper or commercial use, otherwise please cite as "Thang Vo and Dinh Nguyen, HAPRI Open Access Database, Health and Agricultural Research Institute."
+Please contact <HAPRI@ueh.edu.vn> for proper citation if you are planning to use any of the generated data in your research paper or commercial use, otherwise please cite as "HAPRI Open Access Database, Health and Agricultural Research Institute."
 
 # Terms of Use:
 
