@@ -1,4 +1,4 @@
-# COVID-19 Cleaned Database from HAPRI
+# Open Access Database from HAPRI
 ## Version 1.0 - May 2020
 
 <p align="center">
@@ -22,7 +22,7 @@ Country in the data is coded according to ISO 3166-1 numeric and ISO 3166-1 alph
 State, province, district and county code of each country is coded according to each country's standardized administration code.
 
 ## Future data
-1. Administration code data for various country.
+1. Administration code data for various countries.
 2. Vietnam and USA demographic data.
 
 # HAPRI Open Access Data on the Press
@@ -30,7 +30,7 @@ State, province, district and county code of each country is coded according to 
 
 
 # Citing
-Please contact <HAPRI@ueh.edu.vn> for proper citation if you are planning to use any of the generated data in your research paper or commercial use, otherwise please cite as "Thang Vo and Dinh Nguyen, HAPRI Open Access Database, Health and Agricultural Research Institute."
+Please contact <HAPRI@ueh.edu.vn> for proper citation if you are planning to use any of the generated data in your research paper or commercial use, otherwise please cite as "HAPRI Open Access Database, Health and Agricultural Research Institute."
 
 # Terms of Use:
 
