@@ -2,7 +2,7 @@
 |-------------|---------|---------|---------|---------|--------|-----|
 |  Vietnam    |Province|District|Commune| |  General Statistics Office     |   https://www.gso.gov.vn/dmhc2015/  |
 | China       |Province|District|City|         |        |  http://www.mca.gov.cn/article/sj/xzqh/2019/   |
-| USA         |State|         |         |         |        |     |
+| USA         |State|         |         |         |        |https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html|
 | Canada      |Province|         |         |         |        |https://www.statcan.gc.ca/eng/subjects/standard/sgc/2016/index|
 | France      |Department|         |         |         |        |https://www.data.gouv.fr/en/datasets/departements-et-leurs-regions/|
 |  Thailand   |Province|         |         |         |        |     |
