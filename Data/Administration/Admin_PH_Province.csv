@@ -1,78 +1,88 @@
-country_name,province_code,province_name,province_name_thai
-Thailand,37,Amnat Charoen,อำนาจเจริญ
-Thailand,15,Ang Thong,อ่างทอง
-Thailand,10,Bangkok,กรุงเทพมหานคร
-Thailand,38,Bueng Kan,บึงกาฬ
-Thailand,31,Buri Ram,บุรีรัมย์
-Thailand,24,Chachoengsao,ฉะเชิงเทรา
-Thailand,18,Chai Nat,ชัยนาท
-Thailand,36,Chaiyaphum,ชัยภูมิ
-Thailand,22,Chanthaburi,จันทบุรี
-Thailand,50,Chiang Mai,เชียงใหม่
-Thailand,57,Chiang Rai,เชียงราย
-Thailand,20,Chon Buri,ชลบุรี
-Thailand,86,Chumphon,ชุมพร
-Thailand,46,Kalasin,กาฬสินธุ์
-Thailand,62,Kamphaeng Phet,กำแพงเพชร
-Thailand,71,Kanchanaburi,กาญจนบุรี
-Thailand,40,Khon Kaen,ขอนแก่น
-Thailand,81,Krabi,กระบี่
-Thailand,52,Lampang,ลำปาง
-Thailand,51,Lamphun,ลำพูน
-Thailand,42,Loei,เลย
-Thailand,16,Lop Buri,ลพบุรี
-Thailand,58,Mae Hong Son,แม่ฮ่องสอน
-Thailand,44,Maha Sarakham,มหาสารคาม
-Thailand,49,Mukdahan,มุกดาหาร
-Thailand,26,Nakhon Nayok,นครนายก
-Thailand,73,Nakhon Pathom,นครปฐม
-Thailand,48,Nakhon Phanom,นครพนม
-Thailand,30,Nakhon Ratchasima,นครราชสีมา
-Thailand,60,Nakhon Sawan,นครสวรรค์
-Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช
-Thailand,55,Nan,น่าน
-Thailand,96,Narathiwat,นราธิวาส
-Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู
-Thailand,43,Nong Khai,หนองคาย
-Thailand,12,Nonthaburi,นนทบุรี
-Thailand,13,Pathum Thani,ปทุมธานี
-Thailand,94,Pattani,ปัตตานี
-Thailand,82,Phangnga,พังงา
-Thailand,93,Phatthalung,พัทลุง
-Thailand,56,Phayao,พะเยา
-Thailand,67,Phetchabun,เพชรบูรณ์
-Thailand,76,Phetchaburi,เพชรบุรี
-Thailand,66,Phichit,พิจิตร
-Thailand,65,Phitsanulok,พิษณุโลก
-Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา
-Thailand,54,Phrae,แพร่
-Thailand,83,Phuket,ภูเก็ต
-Thailand,25,Prachin Buri,ปราจีนบุรี
-Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์
-Thailand,85,Ranong,ระนอง
-Thailand,70,Ratchaburi,ราชบุรี
-Thailand,21,Rayong,ระยอง
-Thailand,45,Roi Et,ร้อยเอ็ด
-Thailand,27,Sa Kaeo,สระแก้ว
-Thailand,47,Sakon Nakhon,สกลนคร
-Thailand,11,Samut Prakan,สมุทรปราการ
-Thailand,74,Samut Sakhon,สมุทรสาคร
-Thailand,75,Samut Songkhram,สมุทรสงคราม
-Thailand,19,Saraburi,สระบุรี
-Thailand,91,Satun,สตูล
-Thailand,33,Si Sa Ket,ศรีสะเกษ
-Thailand,17,Sing Buri,สิงห์บุรี
-Thailand,90,Songkhla,สงขลา
-Thailand,64,Sukhothai,สุโขทัย
-Thailand,72,Suphan Buri,สุพรรณบุรี
-Thailand,84,Surat Thani,สุราษฎร์ธานี
-Thailand,32,Surin,สุรินทร์
-Thailand,63,Tak,ตาก
-Thailand,92,Trang,ตรัง
-Thailand,23,Trat,ตราด
-Thailand,34,Ubon Ratchathani,อุบลราชธานี
-Thailand,41,Udon Thani,อุดรธานี
-Thailand,61,Uthai Thani,อุทัยธานี
-Thailand,53,Uttaradit,อุตรดิตถ์
-Thailand,95,Yala,ยะลา
-Thailand,35,Yasothon,ยโสธร
+region_code,region_name,province_level,province_code,province_name
+10000000,Region I (Ilocos Region),2,15500000,Pangasinan
+10000000,Region I (Ilocos Region),2,12900000,Ilocos Sur
+10000000,Region I (Ilocos Region),2,12800000,Ilocos Norte
+10000000,Region I (Ilocos Region),2,13300000,La Union
+20000000,Region II (Cagayan Valley),2,25700000,Quirino
+20000000,Region II (Cagayan Valley),2,25000000,Nueva Vizcaya
+20000000,Region II (Cagayan Valley),2,23100000,Isabela
+20000000,Region II (Cagayan Valley),2,21500000,Cagayan
+20000000,Region II (Cagayan Valley),2,20900000,Batanes
+30000000,Region III (Central Luzon),2,37100000,Zambales
+30000000,Region III (Central Luzon),2,34900000,Nueva Ecija
+30000000,Region III (Central Luzon),2,30800000,Bataan
+30000000,Region III (Central Luzon),2,35400000,Pampanga
+30000000,Region III (Central Luzon),2,31400000,Bulacan
+30000000,Region III (Central Luzon),2,36900000,Tarlac
+30000000,Region III (Central Luzon),2,37700000,Aurora
+40000000,Region IV-A (Calabarzon),2,43400000,Laguna
+40000000,Region IV-A (Calabarzon),2,42100000,Cavite
+40000000,Region IV-A (Calabarzon),2,45800000,Rizal
+40000000,Region IV-A (Calabarzon),2,45600000,Quezon
+40000000,Region IV-A (Calabarzon),2,41000000,Batangas
+50000000,Region V (Bicol Region),2,52000000,Catanduanes
+50000000,Region V (Bicol Region),2,50500000,Albay
+50000000,Region V (Bicol Region),2,56200000,Sorsogon
+50000000,Region V (Bicol Region),2,54100000,Masbate
+50000000,Region V (Bicol Region),2,51700000,Camarines Sur
+50000000,Region V (Bicol Region),2,51600000,Camarines Norte
+60000000,Region VI (Western Visayas),2,60400000,Aklan
+60000000,Region VI (Western Visayas),2,60600000,Antique
+60000000,Region VI (Western Visayas),2,63000000,Iloilo
+60000000,Region VI (Western Visayas),2,61900000,Capiz
+60000000,Region VI (Western Visayas),2,64500000,Negros Occidental
+60000000,Region VI (Western Visayas),2,67900000,Guimaras
+70000000,Region VII (Central Visayas),2,72200000,Cebu
+70000000,Region VII (Central Visayas),2,71200000,Bohol
+70000000,Region VII (Central Visayas),2,76100000,Siquijor
+70000000,Region VII (Central Visayas),2,74600000,Negros Oriental
+80000000,Region VIII (Eastern Visayas),2,84800000,Northern Samar
+80000000,Region VIII (Eastern Visayas),2,82600000,Eastern Samar
+80000000,Region VIII (Eastern Visayas),2,83700000,Leyte
+80000000,Region VIII (Eastern Visayas),2,86000000,Samar (Western Samar)
+80000000,Region VIII (Eastern Visayas),2,86400000,Southern Leyte
+80000000,Region VIII (Eastern Visayas),2,87800000,Biliran
+90000000,Region IX (Zamboanga Peninsula),2,97200000,Zamboanga del Norte
+90000000,Region IX (Zamboanga Peninsula),2,99700000,City of Isabela
+90000000,Region IX (Zamboanga Peninsula),2,97300000,Zamboanga del Sur
+90000000,Region IX (Zamboanga Peninsula),2,98300000,Zamboanga Sibugay
+100000000,Region X (Northern Mindanao),2,104200000,Misamis Occidental
+100000000,Region X (Northern Mindanao),2,103500000,Lanao del Norte
+100000000,Region X (Northern Mindanao),2,104300000,Misamis Oriental
+100000000,Region X (Northern Mindanao),2,101800000,Camiguin
+100000000,Region X (Northern Mindanao),2,101300000,Bukidnon
+110000000,Region XI (Davao Region),2,112400000,Davao del Sur
+110000000,Region XI (Davao Region),2,112300000,Davao del Norte
+110000000,Region XI (Davao Region),2,118600000,Davao Occidental
+110000000,Region XI (Davao Region),2,112500000,Davao Oriental
+110000000,Region XI (Davao Region),2,118200000,Davao De Oro (Compostela Valley)
+120000000,Region XII (Soccsksargen),2,128000000,Sarangani
+120000000,Region XII (Soccsksargen),2,124700000,Cotabato (North Cotabato)
+120000000,Region XII (Soccsksargen),2,126500000,Sultan Kudarat
+120000000,Region XII (Soccsksargen),2,126300000,South Cotabato
+120000000,Region XII (Soccsksargen),2,129800000,Cotabato City
+130000000,National Capital Region (NCR),2,137400000,"NCR, Second District"
+130000000,National Capital Region (NCR),2,137500000,"NCR, Third District"
+130000000,National Capital Region (NCR),2,137600000,"NCR, Fourth District"
+130000000,National Capital Region (NCR),2,133900000,"NCR, City of Manila, First District"
+140000000,Cordillera Administrative Region (CAR),2,143200000,Kalinga
+140000000,Cordillera Administrative Region (CAR),2,144400000,Mountain Province
+140000000,Cordillera Administrative Region (CAR),2,142700000,Ifugao
+140000000,Cordillera Administrative Region (CAR),2,140100000,Abra
+140000000,Cordillera Administrative Region (CAR),2,141100000,Benguet
+140000000,Cordillera Administrative Region (CAR),2,148100000,Apayao
+150000000,Autonomous Region In Muslim Mindanao (ARMM),2,150700000,Basilan
+150000000,Autonomous Region In Muslim Mindanao (ARMM),2,153600000,Lanao del Sur
+150000000,Autonomous Region In Muslim Mindanao (ARMM),2,153800000,Maguindanao
+150000000,Autonomous Region In Muslim Mindanao (ARMM),2,157000000,Tawi-Tawi
+150000000,Autonomous Region In Muslim Mindanao (ARMM),2,156600000,Sulu
+160000000,Region XIII (Caraga),2,160300000,Agusan del Sur
+160000000,Region XIII (Caraga),2,166800000,Surigao del Sur
+160000000,Region XIII (Caraga),2,166700000,Surigao del Norte
+160000000,Region XIII (Caraga),2,168500000,Dinagat Islands
+160000000,Region XIII (Caraga),2,160200000,Agusan del Norte
+170000000,Mimaropa Region,2,175900000,Romblon
+170000000,Mimaropa Region,2,175200000,Oriental Mindoro
+170000000,Mimaropa Region,2,175300000,Palawan
+170000000,Mimaropa Region,2,174000000,Marinduque
+170000000,Mimaropa Region,2,175100000,Occidental Mindoro

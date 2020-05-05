@@ -1,0 +1,56 @@
+region_code,region_name,division_code,division_name,state_abbr,state_code,state_name
+5,Caribbean,10,Latin America,VI,78,Virgin Islands of the U.S.
+5,Caribbean,10,Latin America,PR,72,Puerto Rico
+2,Midwest,3,East North Central,OH,39,Ohio
+2,Midwest,3,East North Central,IL,17,Illinois
+2,Midwest,3,East North Central,IN,18,Indiana
+2,Midwest,3,East North Central,WI,55,Wisconsin
+2,Midwest,3,East North Central,MI,26,Michigan
+2,Midwest,4,West North Central,KS,20,Kansas
+2,Midwest,4,West North Central,IA,19,Iowa
+2,Midwest,4,West North Central,ND,38,North Dakota
+2,Midwest,4,West North Central,MN,27,Minnesota
+2,Midwest,4,West North Central,NE,31,Nebraska
+2,Midwest,4,West North Central,SD,46,South Dakota
+2,Midwest,4,West North Central,MO,29,Missouri
+1,Northeast,2,Middle Atlantic,NY,36,New York
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania
+1,Northeast,1,New England,ME,23,Maine
+1,Northeast,1,New England,MA,25,Massachusetts
+1,Northeast,1,New England,NH,33,New Hampshire
+1,Northeast,1,New England,RI,44,Rhode Island
+1,Northeast,1,New England,VT,50,Vermont
+1,Northeast,1,New England,CT,9,Connecticut
+6,Northwestern Pacific Ocean,11,Pacific Ocean,MP,69,Northern Mariana Islands
+6,Northwestern Pacific Ocean,11,Pacific Ocean,GU,66,Guam
+3,South,6,East South Central,AL,1,Alabama
+3,South,6,East South Central,TN,47,Tennessee
+3,South,6,East South Central,KY,21,Kentucky
+3,South,6,East South Central,MS,28,Mississippi
+3,South,5,South Atlantic,FL,12,Florida
+3,South,5,South Atlantic,WV,54,West Virginia
+3,South,5,South Atlantic,VA,51,Virginia
+3,South,5,South Atlantic,DC,11,District of Columbia
+3,South,5,South Atlantic,GA,13,Georgia
+3,South,5,South Atlantic,SC,45,South Carolina
+3,South,5,South Atlantic,DE,10,Delaware
+3,South,5,South Atlantic,MD,24,Maryland
+3,South,5,South Atlantic,NC,37,North Carolina
+3,South,7,West South Central,LA,22,Louisiana
+3,South,7,West South Central,TX,48,Texas
+3,South,7,West South Central,AR,5,Arkansas
+3,South,7,West South Central,OK,40,Oklahoma
+4,West,8,Mountain,UT,49,Utah
+4,West,8,Mountain,WY,56,Wyoming
+4,West,8,Mountain,AZ,4,Arizona
+4,West,8,Mountain,NV,32,Nevada
+4,West,8,Mountain,NM,35,New Mexico
+4,West,8,Mountain,CO,8,Colorado
+4,West,8,Mountain,ID,16,Idaho
+4,West,8,Mountain,MT,30,Montana
+4,West,9,Pacific,HI,15,Hawaii
+4,West,9,Pacific,WA,53,Washington
+4,West,9,Pacific,CA,6,California
+4,West,9,Pacific,OR,41,Oregon
+4,West,9,Pacific,AK,2,Alaska

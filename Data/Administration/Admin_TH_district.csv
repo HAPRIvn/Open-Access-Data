@@ -1,0 +1,929 @@
+country_name,province_code,province_name,province_name_thai,district_code,district_name,district_name_thai
+Thailand,47,Sakon Nakhon,สกลนคร,4711,Akat Amnuai,อากาศอำนวย
+Thailand,75,Samut Songkhram,สมุทรสงคราม,7503,Amphawa,อัมพวา
+Thailand,81,Krabi,กระบี่,8105,Ao Luek,อ่าวลึก
+Thailand,27,Sa Kaeo,สระแก้ว,2706,Aranyaprathet,อรัญประเทศ
+Thailand,45,Roi Et,ร้อยเอ็ด,4514,At Samat,อาจสามารถ
+Thailand,96,Narathiwat,นราธิวาส,9603,Bacho,บาเจาะ
+Thailand,36,Chaiyaphum,ชัยภูมิ,3607,Bamnet Narong,บำเหน็จณรงค์
+Thailand,20,Chon Buri,ชลบุรี,2002,Ban Bueng,บ้านบึง
+Thailand,21,Rayong,ระยอง,2102,Ban Chang,บ้านฉาง
+Thailand,31,Buri Ram,บุรีรัมย์,3121,Ban Dan,บ้านด่าน
+Thailand,64,Sukhothai,สุโขทัย,6402,Ban Dan Lan Hoi,บ้านด่านลานหอย
+Thailand,41,Udon Thani,อุดรธานี,4111,Ban Dung,บ้านดุง
+Thailand,40,Khon Kaen,ขอนแก่น,4002,Ban Fang,บ้านฝาง
+Thailand,40,Khon Kaen,ขอนแก่น,4024,Ban Haet,บ้านแฮด
+Thailand,51,Lamphun,ลำพูน,5103,Ban Hong,บ้านโฮ่ง
+Thailand,70,Ratchaburi,ราชบุรี,7010,Ban Kha,บ้านคา
+Thailand,21,Rayong,ระยอง,2105,Ban Khai,บ้านค่าย
+Thailand,53,Uttaradit,อุตรดิตถ์,5306,Ban Khok,บ้านโคก
+Thailand,36,Chaiyaphum,ชัยภูมิ,3602,Ban Khwao,บ้านเขว้า
+Thailand,31,Buri Ram,บุรีรัมย์,3108,Ban Kruat,บ้านกรวด
+Thailand,76,Phetchaburi,เพชรบุรี,7607,Ban Laem,บ้านแหลม
+Thailand,76,Phetchaburi,เพชรบุรี,7606,Ban Lat,บ้านลาด
+Thailand,55,Nan,น่าน,5503,Ban Luang,บ้านหลวง
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3005,Ban Lueam,บ้านเหลื่อม
+Thailand,31,Buri Ram,บุรีรัมย์,3119,Ban Mai Chaiyaphot,บ้านใหม่ไชยพจน์
+Thailand,16,Lop Buri,ลพบุรี,1606,Ban Mi,บ้านหมี่
+Thailand,19,Saraburi,สระบุรี,1906,Ban Mo,บ้านหมอ
+Thailand,47,Sakon Nakhon,สกลนคร,4710,Ban Muang,บ้านม่วง
+Thailand,26,Nakhon Nayok,นครนายก,2603,Ban Na,บ้านนา
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8413,Ban Na Doem,บ้านนาเดิม
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8412,Ban Na San,บ้านนาสาร
+Thailand,48,Nakhon Phanom,นครพนม,4804,Ban Phaeng,บ้านแพง
+Thailand,74,Samut Sakhon,สมุทรสาคร,7403,Ban Phaeo,บ้านแพ้ว
+Thailand,40,Khon Kaen,ขอนแก่น,4010,Ban Phai,บ้านไผ่
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2405,Ban Pho,บ้านโพธิ์
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1416,Ban Phraek,บ้านแพรก
+Thailand,41,Udon Thani,อุดรธานี,4117,Ban Phue,บ้านผือ
+Thailand,70,Ratchaburi,ราชบุรี,7005,Ban Pong,บ้านโป่ง
+Thailand,61,Uthai Thani,อุทัยธานี,6106,Ban Rai,บ้านไร่
+Thailand,25,Prachin Buri,ปราจีนบุรี,2506,Ban Sang,บ้านสร้าง
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8409,Ban Ta Khun,บ้านตาขุน
+Thailand,63,Tak,ตาก,6302,Ban Tak,บ้านตาก
+Thailand,36,Chaiyaphum,ชัยภูมิ,3611,Ban Thaen,บ้านแท่น
+Thailand,51,Lamphun,ลำพูน,5107,Ban Thi,บ้านธิ
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1405,Bang Ban,บางบาล
+Thailand,11,Samut Prakan,สมุทรปราการ,1102,Bang Bo,บางบ่อ
+Thailand,10,Bangkok,กรุงเทพมหานคร,1050,Bang Bon,บางบอน
+Thailand,12,Nonthaburi,นนทบุรี,1204,Bang Bua Thong,บางบัวทอง
+Thailand,93,Phatthalung,พัทลุง,9309,Bang Kaeo,บางแก้ว
+Thailand,10,Bangkok,กรุงเทพมหานคร,1006,Bang Kapi,บางกะปิ
+Thailand,10,Bangkok,กรุงเทพมหานคร,1040,Bang Khae,บางแค
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8017,Bang Khan,บางขัน
+Thailand,10,Bangkok,กรุงเทพมหานคร,1005,Bang Khen,บางเขน
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2402,Bang Khla,บางคล้า
+Thailand,10,Bangkok,กรุงเทพมหานคร,1031,Bang Kho Laem,บางคอแหลม
+Thailand,75,Samut Songkhram,สมุทรสงคราม,7502,Bang Khonthi,บางคนที
+Thailand,10,Bangkok,กรุงเทพมหานคร,1021,Bang Khun Thian,บางขุนเทียน
+Thailand,90,Songkhla,สงขลา,9014,Bang Klam,บางกล่ำ
+Thailand,65,Phitsanulok,พิษณุโลก,6505,Bang Krathum,บางกระทุ่ม
+Thailand,12,Nonthaburi,นนทบุรี,1202,Bang Kruai,บางกรวย
+Thailand,20,Chon Buri,ชลบุรี,2004,Bang Lamung,บางละมุง
+Thailand,73,Nakhon Pathom,นครปฐม,7305,Bang Len,บางเลน
+Thailand,66,Phichit,พิจิตร,6605,Bang Mun Nak,บางมูลนาก
+Thailand,10,Bangkok,กรุงเทพมหานคร,1047,Bang Na,บางนา
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2403,Bang Nam Priao,บางน้ำเปรี้ยว
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1406,Bang Pa-In,บางปะอิน
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1407,Bang Pahan,บางปะหัน
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2404,Bang Pakong,บางปะกง
+Thailand,70,Ratchaburi,ราชบุรี,7006,Bang Phae,บางแพ
+Thailand,10,Bangkok,กรุงเทพมหานคร,1025,Bang Phlat,บางพลัด
+Thailand,11,Samut Prakan,สมุทรปราการ,1103,Bang Phli,บางพลี
+Thailand,72,Suphan Buri,สุพรรณบุรี,7204,Bang Pla Ma,บางปลาม้า
+Thailand,17,Sing Buri,สิงห์บุรี,1702,Bang Rachan,บางระจัน
+Thailand,10,Bangkok,กรุงเทพมหานคร,1004,Bang Rak,บางรัก
+Thailand,65,Phitsanulok,พิษณุโลก,6504,Bang Rakam,บางระกำ
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1404,Bang Sai,บางไทร
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1413,Bang Sai,บางซ้าย
+Thailand,11,Samut Prakan,สมุทรปราการ,1106,Bang Sao Thong,บางเสาธง
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7704,Bang Saphan,บางสะพาน
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7705,Bang Saphan Noi,บางสะพานน้อย
+Thailand,10,Bangkok,กรุงเทพมหานคร,1029,Bang Sue,บางซื่อ
+Thailand,12,Nonthaburi,นนทบุรี,1203,Bang Yai,บางใหญ่
+Thailand,10,Bangkok,กรุงเทพมหานคร,1020,Bangkok Noi,บางกอกน้อย
+Thailand,10,Bangkok,กรุงเทพมหานคร,1016,Bangkok Yai,บางกอกใหญ่
+Thailand,95,Yala,ยะลา,9503,Bannang Sata,บันนังสตา
+Thailand,60,Nakhon Sawan,นครสวรรค์,6005,Banphot Phisai,บรรพตพิสัย
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3319,Benchalak,เบญจลักษ์
+Thailand,95,Yala,ยะลา,9502,Betong,เบตง
+Thailand,55,Nan,น่าน,5512,Bo Kluea,บ่อเกลือ
+Thailand,71,Kanchanaburi,กาญจนบุรี,7103,Bo Phloi,บ่อพลอย
+Thailand,23,Trat,ตราด,2304,Bo Rai,บ่อไร่
+Thailand,20,Chon Buri,ชลบุรี,2010,Bo Thong,บ่อทอง
+Thailand,44,Maha Sarakham,มหาสารคาม,4406,Borabue,บรบือ
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3030,Bua Lai,บัวลาย
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3012,Bua Yai,บัวใหญ่
+Thailand,32,Surin,สุรินทร์,3213,Buachet,บัวเชด
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3311,Bueng Bun,บึงบูรพ์
+Thailand,38,Bueng Kan,บึงกาฬ,3806,Bueng Khong Long,บึงโขงหลง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1027,Bueng Kum,บึงกุ่ม
+Thailand,66,Phichit,พิจิตร,6610,Bueng Na Rang,บึงนาราง
+Thailand,67,Phetchabun,เพชรบูรณ์,6708,Bueng Sam Phan,บึงสามพัน
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6210,Bueng Samakkhi,บึงสามัคคี
+Thailand,38,Bueng Kan,บึงกาฬ,3808,Bung Khla,บุ่งคล้า
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3410,Buntharik,บุณฑริก
+Thailand,76,Phetchaburi,เพชรบุรี,7604,Cha-Am,ชะอำ
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8007,Cha-Uat,ชะอวด
+Thailand,52,Lampang,ลำปาง,5206,Chae Hom,แจ้ห่ม
+Thailand,16,Lop Buri,ลพบุรี,1604,Chai Badan,ชัยบาดาล
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8418,Chai Buri,ชัยบุรี
+Thailand,50,Chiang Mai,เชียงใหม่,5021,Chai Prakan,ไชยปราการ
+Thailand,41,Udon Thani,อุดรธานี,4108,Chai Wan,ไชยวาน
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8406,Chaiya,ไชยา
+Thailand,15,Ang Thong,อ่างทอง,1502,Chaiyo,ไชโย
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3006,Chakkarat,จักราช
+Thailand,19,Saraburi,สระบุรี,1913,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3032,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+Thailand,31,Buri Ram,บุรีรัมย์,3123,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+Thailand,55,Nan,น่าน,5515,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8023,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+Thailand,31,Buri Ram,บุรีรัมย์,3118,Chamni,ชำนิ
+Thailand,90,Songkhla,สงขลา,9003,Chana,จะนะ
+Thailand,96,Narathiwat,นราธิวาส,9612,Chanae,จะแนะ
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8022,Chang Klang,ช้างกลาง
+Thailand,45,Roi Et,ร้อยเอ็ด,4517,Changhan,จังหาร
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3702,Chanuman,ชานุมาน
+Thailand,47,Sakon Nakhon,สกลนคร,4716,Charoen Sin,เจริญศิลป์
+Thailand,65,Phitsanulok,พิษณุโลก,6503,Chat Trakan,ชาติตระการ
+Thailand,36,Chaiyaphum,ชัยภูมิ,3606,Chatturat,จัตุรัส
+Thailand,10,Bangkok,กรุงเทพมหานคร,1030,Chatuchak,จตุจักร
+Thailand,45,Roi Et,ร้อยเอ็ด,4504,Chaturaphak Phiman,จตุรพักตรพิมาน
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8004,Chawang,ฉวาง
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8006,Chian Yai,เชียรใหญ่
+Thailand,50,Chiang Mai,เชียงใหม่,5004,Chiang Dao,เชียงดาว
+Thailand,56,Phayao,พะเยา,5603,Chiang Kham,เชียงคำ
+Thailand,42,Loei,เลย,4203,Chiang Khan,เชียงคาน
+Thailand,57,Chiang Rai,เชียงราย,5703,Chiang Khong,เชียงของ
+Thailand,45,Roi Et,ร้อยเอ็ด,4518,Chiang Khwan,เชียงขวัญ
+Thailand,55,Nan,น่าน,5509,Chiang Klang,เชียงกลาง
+Thailand,56,Phayao,พะเยา,5604,Chiang Muan,เชียงม่วน
+Thailand,57,Chiang Rai,เชียงราย,5708,Chiang Saen,เชียงแสน
+Thailand,44,Maha Sarakham,มหาสารคาม,4405,Chiang Yuen,เชียงยืน
+Thailand,96,Narathiwat,นราธิวาส,9613,Cho-Airong,เจาะไอร้อง
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3007,Chok Chai,โชคชัย
+Thailand,70,Ratchaburi,ราชบุรี,7002,Chom Bueng,จอมบึง
+Thailand,32,Surin,สุรินทร์,3204,Chom Phra,จอมพระ
+Thailand,10,Bangkok,กรุงเทพมหานคร,1035,Chom Thong,จอมทอง
+Thailand,50,Chiang Mai,เชียงใหม่,5002,Chom Thong,จอมทอง
+Thailand,67,Phetchabun,เพชรบูรณ์,6702,Chon Daen,ชนแดน
+Thailand,40,Khon Kaen,ขอนแก่น,4018,Chonnabot,ชนบท
+Thailand,44,Maha Sarakham,มหาสารคาม,4413,Chuen Chom,ชื่นชม
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8019,Chulabhorn,จุฬาภรณ์
+Thailand,40,Khon Kaen,ขอนแก่น,4005,Chum Phae,ชุมแพ
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3017,Chum Phuang,ชุมพวง
+Thailand,60,Nakhon Sawan,นครสวรรค์,6003,Chum Saeng,ชุมแสง
+Thailand,60,Nakhon Sawan,นครสวรรค์,6015,Chum Ta Bong,ชุมตาบง
+Thailand,32,Surin,สุรินทร์,3202,Chumphon Buri,ชุมพลบุรี
+Thailand,56,Phayao,พะเยา,5602,Chun,จุน
+Thailand,70,Ratchaburi,ราชบุรี,7004,Damnoen Saduak,ดำเนินสะดวก
+Thailand,72,Suphan Buri,สุพรรณบุรี,7203,Dan Chang,ด่านช้าง
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3008,Dan Khun Thot,ด่านขุนทด
+Thailand,71,Kanchanaburi,กาญจนบุรี,7111,Dan Makham Tia,ด่านมะขามเตี้ย
+Thailand,42,Loei,เลย,4205,Dan Sai,ด่านซ้าย
+Thailand,54,Phrae,แพร่,5405,Den Chai,เด่นชัย
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3407,Det Udom,เดชอุดม
+Thailand,10,Bangkok,กรุงเทพมหานคร,1026,Din Daeng,ดินแดง
+Thailand,72,Suphan Buri,สุพรรณบุรี,7202,Doem Bang Nang Buat,เดิมบางนางบวช
+Thailand,50,Chiang Mai,เชียงใหม่,5024,Doi Lo,ดอยหล่อ
+Thailand,57,Chiang Rai,เชียงราย,5718,Doi Luang,ดอยหลวง
+Thailand,50,Chiang Mai,เชียงใหม่,5005,Doi Saket,ดอยสะเก็ด
+Thailand,50,Chiang Mai,เชียงใหม่,5017,Doi Tao,ดอยเต่า
+Thailand,56,Phayao,พะเยา,5605,Dok Khamtai,ดอกคำใต้
+Thailand,46,Kalasin,กาฬสินธุ์,4617,Don Chan,ดอนจาน
+Thailand,72,Suphan Buri,สุพรรณบุรี,7206,Don Chedi,ดอนเจดีย์
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3424,Don Mot Daeng,ดอนมดแดง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1036,Don Mueang,ดอนเมือง
+Thailand,19,Saraburi,สระบุรี,1907,Don Phut,ดอนพุด
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8403,Don Sak,ดอนสัก
+Thailand,49,Mukdahan,มุกดาหาร,4903,Don Tan,ดอนตาล
+Thailand,73,Nakhon Pathom,นครปฐม,7304,Don Tum,ดอนตูม
+Thailand,66,Phichit,พิจิตร,6611,Dong Charoen,ดงเจริญ
+Thailand,49,Mukdahan,มุกดาหาร,4904,Dong Luang,ดงหลวง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1002,Dusit,ดุสิต
+Thailand,42,Loei,เลย,4213,Erawan,เอราวัณ
+Thailand,53,Uttaradit,อุตรดิตถ์,5305,Fak Tha,ฟากท่า
+Thailand,50,Chiang Mai,เชียงใหม่,5009,Fang,ฝาง
+Thailand,43,Nong Khai,หนองคาย,4315,Fao Rai,เฝ้าไร่
+Thailand,50,Chiang Mai,เชียงใหม่,5025,Galyani Vadhana,กัลยาณิวัฒนา
+Thailand,52,Lampang,ลำปาง,5212,Hang Chat,ห้างฉัตร
+Thailand,50,Chiang Mai,เชียงใหม่,5015,Hang Dong,หางดง
+Thailand,18,Chai Nat,ชัยนาท,1806,Hankha,หันคา
+Thailand,92,Trang,ตรัง,9210,Hat Samran,หาดสำราญ
+Thailand,90,Songkhla,สงขลา,9011,Hat Yai,หาดใหญ่
+Thailand,50,Chiang Mai,เชียงใหม่,5016,Hot,ฮอด
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7707,Hua Hin,หัวหิน
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8016,Hua Sai,หัวไทร
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3706,Hua Taphan,หัวตะพาน
+Thailand,61,Uthai Thani,อุทัยธานี,6108,Huai Khot,ห้วยคต
+Thailand,10,Bangkok,กรุงเทพมหานคร,1017,Huai Khwang,ห้วยขวาง
+Thailand,71,Kanchanaburi,กาญจนบุรี,7113,Huai Krachao,ห้วยกระเจา
+Thailand,46,Kalasin,กาฬสินธุ์,4608,Huai Mek,ห้วยเม็ก
+Thailand,46,Kalasin,กาฬสินธุ์,4614,Huai Phueng,ห้วยผึ้ง
+Thailand,31,Buri Ram,บุรีรัมย์,3116,Huai Rat,ห้วยราช
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3016,Huai Thalaeng,ห้วยแถลง
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3312,Huai Thap Than,ห้วยทับทัน
+Thailand,92,Trang,ตรัง,9206,Huai Yot,ห้วยยอด
+Thailand,17,Sing Buri,สิงห์บุรี,1706,In Buri,อินทร์บุรี
+Thailand,95,Yala,ยะลา,9507,Kabang,กาบัง
+Thailand,25,Prachin Buri,ปราจีนบุรี,2502,Kabin Buri,กบินทร์บุรี
+Thailand,44,Maha Sarakham,มหาสารคาม,4402,Kae Dam,แกดำ
+Thailand,22,Chanthaburi,จันทบุรี,2208,Kaeng Hang Maeo,แก่งหางแมว
+Thailand,19,Saraburi,สระบุรี,1902,Kaeng Khoi,แก่งคอย
+Thailand,36,Chaiyaphum,ชัยภูมิ,3612,Kaeng Khro,แก้งคร้อ
+Thailand,76,Phetchaburi,เพชรบุรี,7608,Kaeng Krachan,แก่งกระจาน
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3023,Kaeng Sanam Nang,แก้งสนามนาง
+Thailand,46,Kalasin,กาฬสินธุ์,4603,Kamalasai,กมลาไสย
+Thailand,73,Nakhon Pathom,นครปฐม,7302,Kamphaeng Saen,กำแพงแสน
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8402,Kanchanadit,กาญจนดิษฐ์
+Thailand,92,Trang,ตรัง,9202,Kantang,กันตัง
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3304,Kantharalak,กันทรลักษ์
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3303,Kanthararom,กันทรารมย์
+Thailand,44,Maha Sarakham,มหาสารคาม,4404,Kantharawichai,กันทรวิชัย
+Thailand,60,Nakhon Sawan,นครสวรรค์,6006,Kao Liao,เก้าเลี้ยว
+Thailand,32,Surin,สุรินทร์,3206,Kap Choeng,กาบเชิง
+Thailand,94,Pattani,ปัตตานี,9411,Kapho,กะพ้อ
+Thailand,85,Ranong,ระนอง,8503,Kapoe,กะเปอร์
+Thailand,82,Phangnga,พังงา,8203,Kapong,กะปง
+Thailand,36,Chaiyaphum,ชัยภูมิ,3604,Kaset Sombun,เกษตรสมบูรณ์
+Thailand,45,Roi Et,ร้อยเอ็ด,4502,Kaset Wisai,เกษตรวิสัย
+Thailand,83,Phuket,ภูเก็ต,8302,Kathu,กะทู้
+Thailand,31,Buri Ram,บุรีรัมย์,3122,Khaen Dong,แคนดง
+Thailand,17,Sing Buri,สิงห์บุรี,1703,Khai Bang Rachan,ค่ายบางระจัน
+Thailand,35,Yasothon,ยโสธร,3504,Kham Khuean Kaeo,คำเขื่อนแก้ว
+Thailand,46,Kalasin,กาฬสินธุ์,4610,Kham Muang,คำม่วง
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3011,Kham Sakaesaeng,ขามสะแกแสง
+Thailand,47,Sakon Nakhon,สกลนคร,4709,Kham Ta Kla,คำตากล้า
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3019,Kham Thale So,ขามทะเลสอ
+Thailand,49,Mukdahan,มุกดาหาร,4905,Khamcha-I,คำชะอี
+Thailand,10,Bangkok,กรุงเทพมหานคร,1043,Khan Na Yao,คันนายาว
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8015,Khanom,ขนอม
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6204,Khanu Woralaksaburi,ขาณุวรลักษบุรี
+Thailand,93,Phatthalung,พัทลุง,9303,Khao Chaison,เขาชัยสน
+Thailand,27,Sa Kaeo,สระแก้ว,2707,Khao Chakan,เขาฉกรรจ์
+Thailand,21,Rayong,ระยอง,2107,Khao Chamao,เขาชะเมา
+Thailand,22,Chanthaburi,จันทบุรี,2210,Khao Khitchakut,เขาคิชฌกูฏ
+Thailand,67,Phetchabun,เพชรบูรณ์,6711,Khao Kho,เขาค้อ
+Thailand,81,Krabi,กระบี่,8102,Khao Phanom,เขาพนม
+Thailand,23,Trat,ตราด,2303,Khao Saming,เขาสมิง
+Thailand,40,Khon Kaen,ขอนแก่น,4019,Khao Suan Kwang,เขาสวนกวาง
+Thailand,46,Kalasin,กาฬสินธุ์,4606,Khao Wong,เขาวง
+Thailand,76,Phetchaburi,เพชรบุรี,7602,Khao Yoi,เขาย้อย
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3405,Khemarat,เขมราฐ
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8414,Khian Sa,เคียนซา
+Thailand,64,Sukhothai,สุโขทัย,6403,Khiri Mat,คีรีมาศ
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8408,Khiri Rat Nikhom,คีรีรัฐนิคม
+Thailand,27,Sa Kaeo,สระแก้ว,2702,Khlong Hat,คลองหาด
+Thailand,90,Songkhla,สงขลา,9016,Khlong Hoi Khong,คลองหอยโข่ง
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6205,Khlong Khlung,คลองขลุง
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2411,Khlong Khuean,คลองเขื่อน
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6203,Khlong Lan,คลองลาน
+Thailand,13,Pathum Thani,ปทุมธานี,1302,Khlong Luang,คลองหลวง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1046,Khlong Sam Wa,คลองสามวา
+Thailand,10,Bangkok,กรุงเทพมหานคร,1018,Khlong San,คลองสาน
+Thailand,81,Krabi,กระบี่,8104,Khlong Thom,คลองท่อม
+Thailand,10,Bangkok,กรุงเทพมหานคร,1033,Khlong Toei,คลองเตย
+Thailand,23,Trat,ตราด,2302,Khlong Yai,คลองใหญ่
+Thailand,22,Chanthaburi,จันทบุรี,2202,Khlung,ขลุง
+Thailand,35,Yasothon,ยโสธร,3507,Kho Wang,ค้อวัง
+Thailand,16,Lop Buri,ลพบุรี,1609,Khok Charoen,โคกเจริญ
+Thailand,94,Pattani,ปัตตานี,9402,Khok Pho,โคกโพธิ์
+Thailand,40,Khon Kaen,ขอนแก่น,4022,Khok Pho Chai,โคกโพธิ์ไชย
+Thailand,16,Lop Buri,ลพบุรี,1603,Khok Samrong,โคกสำโรง
+Thailand,47,Sakon Nakhon,สกลนคร,4715,Khok Si Suphan,โคกศรีสุพรรณ
+Thailand,27,Sa Kaeo,สระแก้ว,2708,Khok Sung,โคกสูง
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3002,Khon Buri,ครบุรี
+Thailand,36,Chaiyaphum,ชัยภูมิ,3613,Khon San,คอนสาร
+Thailand,36,Chaiyaphum,ชัยภูมิ,3603,Khon Sawan,คอนสวรรค์
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3004,Khong,คง
+Thailand,46,Kalasin,กาฬสินธุ์,4618,Khong Chai,ฆ้องชัย
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3403,Khong Chiam,โขงเจียม
+Thailand,31,Buri Ram,บุรีรัมย์,3102,Khu Mueang,คูเมือง
+Thailand,91,Satun,สตูล,9102,Khuan Don,ควนโดน
+Thailand,91,Satun,สตูล,9103,Khuan Kalong,ควนกาหลง
+Thailand,93,Phatthalung,พัทลุง,9305,Khuan Khanun,ควนขนุน
+Thailand,90,Songkhla,สงขลา,9013,Khuan Niang,ควนเนียง
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3404,Khueang Nai,เขื่องใน
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3305,Khukhan,ขุขันธ์
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3308,Khun Han,ขุนหาญ
+Thailand,57,Chiang Rai,เชียงราย,5714,Khun Tan,ขุนตาล
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5802,Khun Yuam,ขุนยวม
+Thailand,82,Phangnga,พังงา,8206,Khura Buri,คุระบุรี
+Thailand,32,Surin,สุรินทร์,3216,Khwao Sin Rin,เขวาสินรินทร์
+Thailand,21,Rayong,ระยอง,2103,Klaeng,แกลง
+Thailand,20,Chon Buri,ชลบุรี,2011,Ko Chan,เกาะจันทร์
+Thailand,23,Trat,ตราด,2307,Ko Chang,เกาะช้าง
+Thailand,52,Lampang,ลำปาง,5203,Ko Kha,เกาะคา
+Thailand,23,Trat,ตราด,2306,Ko Kut,เกาะกูด
+Thailand,81,Krabi,กระบี่,8103,Ko Lanta,เกาะลันตา
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8405,Ko Pha-Ngan,เกาะพะงัน
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8404,Ko Samui,เกาะสมุย
+Thailand,20,Chon Buri,ชลบุรี,2008,Ko Si Chang,เกาะสีชัง
+Thailand,82,Phangnga,พังงา,8202,Ko Yao,เกาะยาว
+Thailand,64,Sukhothai,สุโขทัย,6404,Kong Krailat,กงไกรลาศ
+Thailand,93,Phatthalung,พัทลุง,9302,Kong Ra,กงหรา
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6211,Kosamphi Nakhon,โกสัมพีนคร
+Thailand,44,Maha Sarakham,มหาสารคาม,4403,Kosum Phisai,โกสุมพิสัย
+Thailand,85,Ranong,ระนอง,8504,Kra Buri,กระบุรี
+Thailand,40,Khon Kaen,ขอนแก่น,4009,Kranuan,กระนวน
+Thailand,90,Songkhla,สงขลา,9008,Krasae Sin,กระแสสินธุ์
+Thailand,31,Buri Ram,บุรีรัมย์,3103,Krasang,กระสัง
+Thailand,74,Samut Sakhon,สมุทรสาคร,7402,Krathum Baen,กระทุ่มแบน
+Thailand,60,Nakhon Sawan,นครสวรรค์,6002,Krok Phra,โกรกพระ
+Thailand,95,Yala,ยะลา,9508,Krong Pinang,กรงปินัง
+Thailand,41,Udon Thani,อุดรธานี,4124,Ku Kaeo,กู่แก้ว
+Thailand,46,Kalasin,กาฬสินธุ์,4605,Kuchinarai,กุฉินารายณ์
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7702,Kui Buri,กุยบุรี
+Thailand,41,Udon Thani,อุดรธานี,4104,Kumphawapi,กุมภวาปี
+Thailand,47,Sakon Nakhon,สกลนคร,4702,Kusuman,กุสุมาลย์
+Thailand,47,Sakon Nakhon,สกลนคร,4703,Kut Bak,กุดบาก
+Thailand,41,Udon Thani,อุดรธานี,4102,Kut Chap,กุดจับ
+Thailand,35,Yasothon,ยโสธร,3503,Kut Chum,กุดชุม
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3412,Kut Khaopun,กุดข้าวปุ้น
+Thailand,44,Maha Sarakham,มหาสารคาม,4412,Kut Rang,กุดรัง
+Thailand,91,Satun,สตูล,9105,La-Ngu,ละงู
+Thailand,85,Ranong,ระนอง,8502,La-Un,ละอุ่น
+Thailand,23,Trat,ตราด,2305,Laem Ngop,แหลมงอบ
+Thailand,22,Chanthaburi,จันทบุรี,2206,Laem Sing,แหลมสิงห์
+Thailand,31,Buri Ram,บุรีรัมย์,3106,Lahan Sai,ละหานทราย
+Thailand,10,Bangkok,กรุงเทพมหานคร,1041,Lak Si,หลักสี่
+Thailand,13,Pathum Thani,ปทุมธานี,1306,Lam Luk Ka,ลำลูกกา
+Thailand,31,Buri Ram,บุรีรัมย์,3110,Lam Plai Mat,ลำปลายมาศ
+Thailand,16,Lop Buri,ลพบุรี,1610,Lam Sonthi,ลำสนธิ
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3029,Lam Thamenchai,ลำทะเมนชัย
+Thailand,81,Krabi,กระบี่,8107,Lam Thap,ลำทับ
+Thailand,86,Chumphon,ชุมพร,8605,Lamae,ละแม
+Thailand,32,Surin,สุรินทร์,3211,Lamduan,ลำดวน
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6207,Lan Krabue,ลานกระบือ
+Thailand,61,Uthai Thani,อุทัยธานี,6107,Lan Sak,ลานสัก
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8003,Lan Saka,ลานสกา
+Thailand,86,Chumphon,ชุมพร,8604,Lang Suan,หลังสวน
+Thailand,71,Kanchanaburi,กาญจนบุรี,7110,Lao Khwan,เลาขวัญ
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3431,Lao Suea Kok,เหล่าเสือโก้ก
+Thailand,53,Uttaradit,อุตรดิตถ์,5308,Laplae,ลับแล
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1410,Lat Bua Luang,ลาดบัวหลวง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1011,Lat Krabang,ลาดกระบัง
+Thailand,13,Pathum Thani,ปทุมธานี,1305,Lat Lum Kaeo,ลาดหลุมแก้ว
+Thailand,10,Bangkok,กรุงเทพมหานคร,1038,Lat Phrao,ลาดพร้าว
+Thailand,60,Nakhon Sawan,นครสวรรค์,6011,Lat Yao,ลาดยาว
+Thailand,51,Lamphun,ลำพูน,5104,Li,ลี้
+Thailand,35,Yasothon,ยโสธร,3508,Loeng Nok Tha,เลิงนกทา
+Thailand,67,Phetchabun,เพชรบูรณ์,6704,Lom Kao,หล่มเก่า
+Thailand,67,Phetchabun,เพชรบูรณ์,6703,Lom Sak,หล่มสัก
+Thailand,54,Phrae,แพร่,5403,Long,ลอง
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3707,Lue Amnat,ลืออำนาจ
+Thailand,50,Chiang Mai,เชียงใหม่,5010,Mae Ai,แม่อาย
+Thailand,50,Chiang Mai,เชียงใหม่,5003,Mae Chaem,แม่แจ่ม
+Thailand,56,Phayao,พะเยา,5607,Mae Chai,แม่ใจ
+Thailand,57,Chiang Rai,เชียงราย,5707,Mae Chan,แม่จัน
+Thailand,55,Nan,น่าน,5502,Mae Charim,แม่จริม
+Thailand,57,Chiang Rai,เชียงราย,5715,Mae Fa Luang,แม่ฟ้าหลวง
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5805,Mae La Noi,แม่ลาน้อย
+Thailand,94,Pattani,ปัตตานี,9412,Mae Lan,แม่ลาน
+Thailand,57,Chiang Rai,เชียงราย,5716,Mae Lao,แม่ลาว
+Thailand,52,Lampang,ลำปาง,5202,Mae Mo,แม่เมาะ
+Thailand,50,Chiang Mai,เชียงใหม่,5023,Mae On,แม่ออน
+Thailand,52,Lampang,ลำปาง,5209,Mae Phrik,แม่พริก
+Thailand,60,Nakhon Sawan,นครสวรรค์,6014,Mae Poen,แม่เปิน
+Thailand,63,Tak,ตาก,6304,Mae Ramat,แม่ระมาด
+Thailand,50,Chiang Mai,เชียงใหม่,5007,Mae Rim,แม่ริม
+Thailand,57,Chiang Rai,เชียงราย,5709,Mae Sai,แม่สาย
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5804,Mae Sariang,แม่สะเรียง
+Thailand,63,Tak,ตาก,6306,Mae Sot,แม่สอด
+Thailand,57,Chiang Rai,เชียงราย,5710,Mae Suai,แม่สรวย
+Thailand,50,Chiang Mai,เชียงใหม่,5006,Mae Taeng,แม่แตง
+Thailand,52,Lampang,ลำปาง,5210,Mae Tha,แม่ทะ
+Thailand,51,Lamphun,ลำพูน,5102,Mae Tha,แม่ทา
+Thailand,50,Chiang Mai,เชียงใหม่,5022,Mae Wang,แม่วาง
+Thailand,60,Nakhon Sawan,นครสวรรค์,6013,Mae Wong,แม่วงก์
+Thailand,35,Yasothon,ยโสธร,3506,Maha Chana Chai,มหาชนะชัย
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1415,Maha Rat,มหาราช
+Thailand,94,Pattani,ปัตตานี,9408,Mai Kaen,ไม้แก่น
+Thailand,22,Chanthaburi,จันทบุรี,2205,Makham,มะขาม
+Thailand,91,Satun,สตูล,9107,Manang,มะนัง
+Thailand,40,Khon Kaen,ขอนแก่น,4017,Mancha Khiri,มัญจาคีรี
+Thailand,18,Chai Nat,ชัยนาท,1802,Manorom,มโนรมย์
+Thailand,94,Pattani,ปัตตานี,9405,Mayo,มายอ
+Thailand,10,Bangkok,กรุงเทพมหานคร,1010,Min Buri,มีนบุรี
+Thailand,45,Roi Et,ร้อยเอ็ด,4515,Moei Wadi,เมยวดี
+Thailand,19,Saraburi,สระบุรี,1911,Muak Lek,มวกเหล็ก
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3414,Muang Sam Sip,ม่วงสามสิบ
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3701,Mueang Amnat Charoen,เมืองอำนาจเจริญ
+Thailand,15,Ang Thong,อ่างทอง,1501,Mueang Ang Thong,เมืองอ่างทอง
+Thailand,38,Bueng Kan,บึงกาฬ,3801,Mueang Bueng Kan,เมืองบึงกาฬ
+Thailand,31,Buri Ram,บุรีรัมย์,3101,Mueang Buri Ram,เมืองบุรีรัมย์
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2401,Mueang Chachoengsao,เมืองฉะเชิงเทรา
+Thailand,18,Chai Nat,ชัยนาท,1801,Mueang Chai Nat,เมืองชัยนาท
+Thailand,36,Chaiyaphum,ชัยภูมิ,3601,Mueang Chaiyaphum,เมืองชัยภูมิ
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3318,Mueang Chan,เมืองจันทร์
+Thailand,22,Chanthaburi,จันทบุรี,2201,Mueang Chanthaburi,เมืองจันทบุรี
+Thailand,50,Chiang Mai,เชียงใหม่,5001,Mueang Chiang Mai,เมืองเชียงใหม่
+Thailand,57,Chiang Rai,เชียงราย,5701,Mueang Chiang Rai,เมืองเชียงราย
+Thailand,20,Chon Buri,ชลบุรี,2001,Mueang Chon Buri,เมืองชลบุรี
+Thailand,86,Chumphon,ชุมพร,8601,Mueang Chumphon,เมืองชุมพร
+Thailand,46,Kalasin,กาฬสินธุ์,4601,Mueang Kalasin,เมืองกาฬสินธุ์
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6201,Mueang Kamphaeng Phet,เมืองกำแพงเพชร
+Thailand,71,Kanchanaburi,กาญจนบุรี,7101,Mueang Kanchanaburi,เมืองกาญจนบุรี
+Thailand,40,Khon Kaen,ขอนแก่น,4001,Mueang Khon Kaen,เมืองขอนแก่น
+Thailand,81,Krabi,กระบี่,8101,Mueang Krabi,เมืองกระบี่
+Thailand,52,Lampang,ลำปาง,5201,Mueang Lampang,เมืองลำปาง
+Thailand,51,Lamphun,ลำพูน,5101,Mueang Lamphun,เมืองลำพูน
+Thailand,42,Loei,เลย,4201,Mueang Loei,เมืองเลย
+Thailand,16,Lop Buri,ลพบุรี,1601,Mueang Lop Buri,เมืองลพบุรี
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5801,Mueang Mae Hong Son,เมืองแม่ฮ่องสอน
+Thailand,44,Maha Sarakham,มหาสารคาม,4401,Mueang Maha Sarakham,เมืองมหาสารคาม
+Thailand,49,Mukdahan,มุกดาหาร,4901,Mueang Mukdahan,เมืองมุกดาหาร
+Thailand,26,Nakhon Nayok,นครนายก,2601,Mueang Nakhon Nayok,เมืองนครนายก
+Thailand,73,Nakhon Pathom,นครปฐม,7301,Mueang Nakhon Pathom,เมืองนครปฐม
+Thailand,48,Nakhon Phanom,นครพนม,4801,Mueang Nakhon Phanom,เมืองนครพนม
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3001,Mueang Nakhon Ratchasima,เมืองนครราชสีมา
+Thailand,60,Nakhon Sawan,นครสวรรค์,6001,Mueang Nakhon Sawan,เมืองนครสวรรค์
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8001,Mueang Nakhon Si Thammarat,เมืองนครศรีธรรมร
+Thailand,55,Nan,น่าน,5501,Mueang Nan,เมืองน่าน
+Thailand,96,Narathiwat,นราธิวาส,9601,Mueang Narathiwat,เมืองนราธิวาส
+Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู,3901,Mueang Nong Bua Lam Phu,เมืองหนองบัวลำภู
+Thailand,43,Nong Khai,หนองคาย,4301,Mueang Nong Khai,เมืองหนองคาย
+Thailand,12,Nonthaburi,นนทบุรี,1201,Mueang Nonthaburi,เมืองนนทบุรี
+Thailand,52,Lampang,ลำปาง,5213,Mueang Pan,เมืองปาน
+Thailand,13,Pathum Thani,ปทุมธานี,1301,Mueang Pathum Thani,เมืองปทุมธานี
+Thailand,94,Pattani,ปัตตานี,9401,Mueang Pattani,เมืองปัตตานี
+Thailand,82,Phangnga,พังงา,8201,Mueang Phangnga,เมืองพังงา
+Thailand,93,Phatthalung,พัทลุง,9301,Mueang Phatthalung,เมืองพัทลุง
+Thailand,56,Phayao,พะเยา,5601,Mueang Phayao,เมืองพะเยา
+Thailand,67,Phetchabun,เพชรบูรณ์,6701,Mueang Phetchabun,เมืองเพชรบูรณ์
+Thailand,76,Phetchaburi,เพชรบุรี,7601,Mueang Phetchaburi,เมืองเพชรบุรี
+Thailand,66,Phichit,พิจิตร,6601,Mueang Phichit,เมืองพิจิตร
+Thailand,65,Phitsanulok,พิษณุโลก,6501,Mueang Phitsanulok,เมืองพิษณุโลก
+Thailand,54,Phrae,แพร่,5401,Mueang Phrae,เมืองแพร่
+Thailand,83,Phuket,ภูเก็ต,8301,Mueang Phuket,เมืองภูเก็ต
+Thailand,25,Prachin Buri,ปราจีนบุรี,2501,Mueang Prachin Buri,เมืองปราจีนบุรี
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7701,Mueang Prachuap Khiri Khan,เมืองประจวบคีรีข
+Thailand,85,Ranong,ระนอง,8501,Mueang Ranong,เมืองระนอง
+Thailand,70,Ratchaburi,ราชบุรี,7001,Mueang Ratchaburi,เมืองราชบุรี
+Thailand,21,Rayong,ระยอง,2101,Mueang Rayong,เมืองระยอง
+Thailand,45,Roi Et,ร้อยเอ็ด,4501,Mueang Roi Et,เมืองร้อยเอ็ด
+Thailand,27,Sa Kaeo,สระแก้ว,2701,Mueang Sa Kaeo,เมืองสระแก้ว
+Thailand,47,Sakon Nakhon,สกลนคร,4701,Mueang Sakon Nakhon,เมืองสกลนคร
+Thailand,11,Samut Prakan,สมุทรปราการ,1101,Mueang Samut Prakan,เมืองสมุทรปราการ
+Thailand,74,Samut Sakhon,สมุทรสาคร,7401,Mueang Samut Sakhon,เมืองสมุทรสาคร
+Thailand,75,Samut Songkhram,สมุทรสงคราม,7501,Mueang Samut Songkhram,เมืองสมุทรสงคราม
+Thailand,19,Saraburi,สระบุรี,1901,Mueang Saraburi,เมืองสระบุรี
+Thailand,91,Satun,สตูล,9101,Mueang Satun,เมืองสตูล
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3301,Mueang Si Sa Ket,เมืองศรีสะเกษ
+Thailand,17,Sing Buri,สิงห์บุรี,1701,Mueang Sing Buri,เมืองสิงห์บุรี
+Thailand,90,Songkhla,สงขลา,9001,Mueang Songkhla,เมืองสงขลา
+Thailand,45,Roi Et,ร้อยเอ็ด,4512,Mueang Suang,เมืองสรวง
+Thailand,64,Sukhothai,สุโขทัย,6401,Mueang Sukhothai,เมืองสุโขทัย
+Thailand,72,Suphan Buri,สุพรรณบุรี,7201,Mueang Suphan Buri,เมืองสุพรรณบุรี
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8401,Mueang Surat Thani,เมืองสุราษฎร์ธาน
+Thailand,32,Surin,สุรินทร์,3201,Mueang Surin,เมืองสุรินทร์
+Thailand,63,Tak,ตาก,6301,Mueang Tak,เมืองตาก
+Thailand,92,Trang,ตรัง,9201,Mueang Trang,เมืองตรัง
+Thailand,23,Trat,ตราด,2301,Mueang Trat,เมืองตราด
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3401,Mueang Ubon Ratchathani,เมืองอุบลราชธานี
+Thailand,41,Udon Thani,อุดรธานี,4101,Mueang Udon Thani,เมืองอุดรธานี
+Thailand,61,Uthai Thani,อุทัยธานี,6101,Mueang Uthai Thani,เมืองอุทัยธานี
+Thailand,53,Uttaradit,อุตรดิตถ์,5301,Mueang Uttaradit,เมืองอุตรดิตถ์
+Thailand,95,Yala,ยะลา,9501,Mueang Yala,เมืองยะลา
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3027,Mueang Yang,เมืองยาง
+Thailand,35,Yasothon,ยโสธร,3501,Mueang Yasothon,เมืองยโสธร
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8010,Na Bon,นาบอน
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3408,Na Chaluai,นาจะหลวย
+Thailand,44,Maha Sarakham,มหาสารคาม,4407,Na Chueak,นาเชือก
+Thailand,25,Prachin Buri,ปราจีนบุรี,2503,Na Di,นาดี
+Thailand,42,Loei,เลย,4202,Na Duang,นาด้วง
+Thailand,44,Maha Sarakham,มหาสารคาม,4410,Na Dun,นาดูน
+Thailand,42,Loei,เลย,4206,Na Haeo,นาแห้ว
+Thailand,48,Nakhon Phanom,นครพนม,4807,Na Kae,นาแก
+Thailand,46,Kalasin,กาฬสินธุ์,4616,Na Khu,นาคู
+Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู,3902,Na Klang,นากลาง
+Thailand,90,Songkhla,สงขลา,9012,Na Mom,นาหม่อม
+Thailand,46,Kalasin,กาฬสินธุ์,4602,Na Mon,นามน
+Thailand,55,Nan,น่าน,5510,Na Muen,นาหมื่น
+Thailand,55,Nan,น่าน,5504,Na Noi,นาน้อย
+Thailand,31,Buri Ram,บุรีรัมย์,3113,Na Pho,นาโพธิ์
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3430,Na Tan,นาตาล
+Thailand,90,Songkhla,สงขลา,9004,Na Thawi,นาทวี
+Thailand,48,Nakhon Phanom,นครพนม,4811,Na Thom,นาทม
+Thailand,48,Nakhon Phanom,นครพนม,4809,Na Wa,นาหว้า
+Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู,3906,Na Wang,นาวัง
+Thailand,22,Chanthaburi,จันทบุรี,2209,Na Yai Am,นายายอาม
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3429,Na Yia,นาเยีย
+Thailand,92,Trang,ตรัง,9208,Na Yong,นาโยง
+Thailand,41,Udon Thani,อุดรธานี,4122,Na Yung,นายูง
+Thailand,73,Nakhon Pathom,นครปฐม,7303,Nakhon Chai Si,นครชัยศรี
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1403,Nakhon Luang,นครหลวง
+Thailand,65,Phitsanulok,พิษณุโลก,6502,Nakhon Thai,นครไทย
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3433,Nam Khun,น้ำขุ่น
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3315,Nam Kliang,น้ำเกลี้ยง
+Thailand,67,Phetchabun,เพชรบูรณ์,6709,Nam Nao,น้ำหนาว
+Thailand,53,Uttaradit,อุตรดิตถ์,5304,Nam Pat,น้ำปาด
+Thailand,40,Khon Kaen,ขอนแก่น,4007,Nam Phong,น้ำพอง
+Thailand,41,Udon Thani,อุดรธานี,4118,Nam Som,น้ำโสม
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3409,Nam Yuen,น้ำยืน
+Thailand,31,Buri Ram,บุรีรัมย์,3104,Nang Rong,นางรอง
+Thailand,52,Lampang,ลำปาง,5205,Ngao,งาว
+Thailand,49,Mukdahan,มุกดาหาร,4902,Nikhom Kham Soi,นิคมคำสร้อย
+Thailand,47,Sakon Nakhon,สกลนคร,4707,Nikhom Nam Un,นิคมน้ำอูน
+Thailand,21,Rayong,ระยอง,2108,Nikhom Phatthana,นิคมพัฒนา
+Thailand,18,Chai Nat,ชัยนาท,1808,Noen Kham,เนินขาม
+Thailand,65,Phitsanulok,พิษณุโลก,6509,Noen Maprang,เนินมะปราง
+Thailand,36,Chaiyaphum,ชัยภูมิ,3615,Noen Sa-Nga,เนินสง่า
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3024,Non Daeng,โนนแดง
+Thailand,31,Buri Ram,บุรีรัมย์,3120,Non Din Daeng,โนนดินแดง
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3313,Non Khun,โนนคูณ
+Thailand,32,Surin,สุรินทร์,3217,Non Narai,โนนนารายณ์
+Thailand,41,Udon Thani,อุดรธานี,4105,Non Sa-At,โนนสะอาด
+Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู,3903,Non Sang,โนนสัง
+Thailand,40,Khon Kaen,ขอนแก่น,4025,Non Sila,โนนศิลา
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3010,Non Sung,โนนสูง
+Thailand,31,Buri Ram,บุรีรัมย์,3117,Non Suwan,โนนสุวรรณ
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3009,Non Thai,โนนไทย
+Thailand,60,Nakhon Sawan,นครสวรรค์,6004,Nong Bua,หนองบัว
+Thailand,36,Chaiyaphum,ชัยภูมิ,3605,Nong Bua Daeng,หนองบัวแดง
+Thailand,36,Chaiyaphum,ชัยภูมิ,3608,Nong Bua Rawe,หนองบัวระเหว
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3022,Nong Bun Mak,หนองบุญมาก
+Thailand,61,Uthai Thani,อุทัยธานี,6104,Nong Chang,หนองฉาง
+Thailand,94,Pattani,ปัตตานี,9403,Nong Chik,หนองจิก
+Thailand,10,Bangkok,กรุงเทพมหานคร,1003,Nong Chok,หนองจอก
+Thailand,19,Saraburi,สระบุรี,1908,Nong Don,หนองโดน
+Thailand,41,Udon Thani,อุดรธานี,4106,Nong Han,หนองหาน
+Thailand,45,Roi Et,ร้อยเอ็ด,4519,Nong Hi,หนองฮี
+Thailand,42,Loei,เลย,4214,Nong Hin,หนองหิน
+Thailand,31,Buri Ram,บุรีรัมย์,3114,Nong Hong,หนองหงส์
+Thailand,19,Saraburi,สระบุรี,1903,Nong Khae,หนองแค
+Thailand,10,Bangkok,กรุงเทพมหานคร,1023,Nong Khaem,หนองแขม
+Thailand,61,Uthai Thani,อุทัยธานี,6105,Nong Khayang,หนองขาหย่าง
+Thailand,31,Buri Ram,บุรีรัมย์,3105,Nong Ki,หนองกี่
+Thailand,46,Kalasin,กาฬสินธุ์,4612,Nong Kung Si,หนองกุงศรี
+Thailand,18,Chai Nat,ชัยนาท,1807,Nong Mamong,หนองมะโมง
+Thailand,16,Lop Buri,ลพบุรี,1611,Nong Muang,หนองม่วง
+Thailand,54,Phrae,แพร่,5408,Nong Muang Khai,หนองม่วงไข่
+Thailand,40,Khon Kaen,ขอนแก่น,4023,Nong Na Kham,หนองนาคำ
+Thailand,67,Phetchabun,เพชรบูรณ์,6707,Nong Phai,หนองไผ่
+Thailand,45,Roi Et,ร้อยเอ็ด,4509,Nong Phok,หนองพอก
+Thailand,71,Kanchanaburi,กาญจนบุรี,7112,Nong Prue,หนองปรือ
+Thailand,40,Khon Kaen,ขอนแก่น,4004,Nong Ruea,หนองเรือ
+Thailand,19,Saraburi,สระบุรี,1905,Nong Saeng,หนองแซง
+Thailand,41,Udon Thani,อุดรธานี,4121,Nong Saeng,หนองแสง
+Thailand,40,Khon Kaen,ขอนแก่น,4015,Nong Song Hong,หนองสองห้อง
+Thailand,13,Pathum Thani,ปทุมธานี,1304,Nong Suea,หนองเสือ
+Thailand,49,Mukdahan,มุกดาหาร,4907,Nong Sung,หนองสูง
+Thailand,41,Udon Thani,อุดรธานี,4103,Nong Wua So,หนองวัวซอ
+Thailand,76,Phetchaburi,เพชรบุรี,7603,Nong Ya Plong,หนองหญ้าปล้อง
+Thailand,72,Suphan Buri,สุพรรณบุรี,7210,Nong Ya Sai,หนองหญ้าไซ
+Thailand,20,Chon Buri,ชลบุรี,2003,Nong Yai,หนองใหญ่
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8021,Nopphitam,นบพิตำ
+Thailand,81,Krabi,กระบี่,8108,Nuea Khlong,เหนือคลอง
+Thailand,50,Chiang Mai,เชียงใหม่,5018,Omkoi,อมก๋อย
+Thailand,26,Nakhon Nayok,นครนายก,2604,Ongkharak,องครักษ์
+Thailand,93,Phatthalung,พัทลุง,9308,Pa Bon,ป่าบอน
+Thailand,57,Chiang Rai,เชียงราย,5706,Pa Daet,ป่าแดด
+Thailand,15,Ang Thong,อ่างทอง,1503,Pa Mok,ป่าโมก
+Thailand,93,Phatthalung,พัทลุง,9310,Pa Phayom,ป่าพะยอม
+Thailand,51,Lamphun,ลำพูน,5106,Pa Sang,ป่าซาง
+Thailand,35,Yasothon,ยโสธร,3505,Pa Tio,ป่าติ้ว
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5803,Pai,ปาย
+Thailand,42,Loei,เลย,4204,Pak Chom,ปากชม
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3021,Pak Chong,ปากช่อง
+Thailand,38,Bueng Kan,บึงกาฬ,3805,Pak Khat,ปากคาด
+Thailand,12,Nonthaburi,นนทบุรี,1206,Pak Kret,ปากเกร็ด
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8012,Pak Phanang,ปากพนัง
+Thailand,93,Phatthalung,พัทลุง,9306,Pak Phayun,ปากพะยูน
+Thailand,26,Nakhon Nayok,นครนายก,2602,Pak Phli,ปากพลี
+Thailand,70,Ratchaburi,ราชบุรี,7008,Pak Tho,ปากท่อ
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3014,Pak Thong Chai,ปักธงชัย
+Thailand,31,Buri Ram,บุรีรัมย์,3112,Pakham,ปะคำ
+Thailand,92,Trang,ตรัง,9204,Palian,ปะเหลียน
+Thailand,94,Pattani,ปัตตานี,9404,Panare,ปะนาเระ
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5807,Pang Mapha,ปางมะผ้า
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6209,Pang Sila Thong,ปางศิลาทอง
+Thailand,86,Chumphon,ชุมพร,8603,Pathio,ปะทิว
+Thailand,45,Roi Et,ร้อยเอ็ด,4503,Pathum Rat,ปทุมรัตต์
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3703,Pathum Ratchawongsa,ปทุมราชวงศา
+Thailand,10,Bangkok,กรุงเทพมหานคร,1007,Pathum Wan,ปทุมวัน
+Thailand,42,Loei,เลย,4212,Pha Khao,ผาขาว
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1409,Phachi,ภาชี
+Thailand,60,Nakhon Sawan,นครสวรรค์,6009,Phaisali,ไพศาลี
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1408,Phak Hai,ผักไห่
+Thailand,36,Chaiyaphum,ชัยภูมิ,3614,Phakdi Chumphon,ภักดีชุมพล
+Thailand,57,Chiang Rai,เชียงราย,5705,Phan,พาน
+Thailand,20,Chon Buri,ชลบุรี,2005,Phan Thong,พานทอง
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3704,Phana,พนา
+Thailand,20,Chon Buri,ชลบุรี,2006,Phanat Nikhom,พนัสนิคม
+Thailand,47,Sakon Nakhon,สกลนคร,4705,Phang Khon,พังโคน
+Thailand,47,Sakon Nakhon,สกลนคร,4704,Phanna Nikhom,พรรณานิคม
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8410,Phanom,พนม
+Thailand,32,Surin,สุรินทร์,3214,Phanom Dong Rak,พนมดงรัก
+Thailand,45,Roi Et,ร้อยเอ็ด,4506,Phanom Phrai,พนมไพร
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2406,Phanom Sarakham,พนมสารคาม
+Thailand,71,Kanchanaburi,กาญจนบุรี,7109,Phanom Thuan,พนมทวน
+Thailand,10,Bangkok,กรุงเทพมหานคร,1022,Phasi Charoen,ภาษีเจริญ
+Thailand,86,Chumphon,ชุมพร,8606,Phato,พะโต๊ะ
+Thailand,16,Lop Buri,ลพบุรี,1602,Phatthana Nikhom,พัฒนานิคม
+Thailand,57,Chiang Rai,เชียงราย,5712,Phaya Mengrai,พญาเม็งราย
+Thailand,10,Bangkok,กรุงเทพมหานคร,1014,Phaya Thai,พญาไท
+Thailand,44,Maha Sarakham,มหาสารคาม,4408,Phayakkhaphum Phisai,พยัคฆภูมิพิสัย
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3320,Phayu,พยุห์
+Thailand,60,Nakhon Sawan,นครสวรรค์,6010,Phayuha Khiri,พยุหะคีรี
+Thailand,41,Udon Thani,อุดรธานี,4119,Phen,เพ็ญ
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3419,Phibun Mangsahan,พิบูลมังสาหาร
+Thailand,41,Udon Thani,อุดรธานี,4123,Phibun Rak,พิบูลย์รักษ์
+Thailand,53,Uttaradit,อุตรดิตถ์,5307,Phichai,พิชัย
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3015,Phimai,พิมาย
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8005,Phipun,พิปูน
+Thailand,31,Buri Ram,บุรีรัมย์,3115,Phlapphla Chai,พลับพลาชัย
+Thailand,45,Roi Et,ร้อยเอ็ด,4508,Pho Chai,โพธิ์ชัย
+Thailand,66,Phichit,พิจิตร,6603,Pho Prathap Chang,โพธิ์ประทับช้าง
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3421,Pho Sai,โพธิ์ไทร
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3321,Pho Si Suwan,โพธิ์ศรีสุวรรณ
+Thailand,43,Nong Khai,หนองคาย,4317,Pho Tak,โพธิ์ตาก
+Thailand,66,Phichit,พิจิตร,6606,Pho Thale,โพทะเล
+Thailand,15,Ang Thong,อ่างทอง,1504,Pho Thong,โพธิ์ทอง
+Thailand,40,Khon Kaen,ขอนแก่น,4012,Phon,พล
+Thailand,38,Bueng Kan,บึงกาฬ,3802,Phon Charoen,พรเจริญ
+Thailand,47,Sakon Nakhon,สกลนคร,4717,Phon Na Kaeo,โพนนาแก้ว
+Thailand,43,Nong Khai,หนองคาย,4305,Phon Phisai,โพนพิสัย
+Thailand,45,Roi Et,ร้อยเอ็ด,4513,Phon Sai,โพนทราย
+Thailand,48,Nakhon Phanom,นครพนม,4810,Phon Sawan,โพนสวรรค์
+Thailand,45,Roi Et,ร้อยเอ็ด,4507,Phon Thong,โพนทอง
+Thailand,63,Tak,ตาก,6307,Phop Phra,พบพระ
+Thailand,70,Ratchaburi,ราชบุรี,7007,Photharam,โพธาราม
+Thailand,10,Bangkok,กรุงเทพมหานคร,1009,Phra Khanong,พระโขนง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1001,Phra Nakhon,พระนคร
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1401,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8020,Phra Phrom,พระพรหม
+Thailand,19,Saraburi,สระบุรี,1909,Phra Phutthabat,พระพุทธบาท
+Thailand,11,Samut Prakan,สมุทรปราการ,1104,Phra Pradaeng,พระประแดง
+Thailand,11,Samut Prakan,สมุทรปราการ,1105,Phra Samut Chedi,พระสมุทรเจดีย์
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3028,Phra Thong Kham,พระทองคำ
+Thailand,40,Khon Kaen,ขอนแก่น,4003,Phra Yuen,พระยืน
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3306,Phrai Bueng,ไพรบึง
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6206,Phran Kratai,พรานกระต่าย
+Thailand,50,Chiang Mai,เชียงใหม่,5011,Phrao,พร้าว
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8416,Phrasaeng,พระแสง
+Thailand,17,Sing Buri,สิงห์บุรี,1704,Phrom Buri,พรหมบุรี
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8002,Phrom Khiri,พรหมคีรี
+Thailand,65,Phitsanulok,พิษณุโลก,6506,Phrom Phiram,พรหมพิราม
+Thailand,56,Phayao,พะเยา,5609,Phu Kamyao,ภูกามยาว
+Thailand,36,Chaiyaphum,ชัยภูมิ,3610,Phu Khiao,ภูเขียว
+Thailand,42,Loei,เลย,4210,Phu Kradueng,ภูกระดึง
+Thailand,42,Loei,เลย,4211,Phu Luang,ภูหลวง
+Thailand,40,Khon Kaen,ขอนแก่น,4020,Phu Pha Man,ภูผาม่าน
+Thailand,47,Sakon Nakhon,สกลนคร,4718,Phu Phan,ภูพาน
+Thailand,55,Nan,น่าน,5514,Phu Phiang,ภูเพียง
+Thailand,42,Loei,เลย,4207,Phu Ruea,ภูเรือ
+Thailand,56,Phayao,พะเยา,5608,Phu Sang,ภูซาง
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3317,Phu Sing,ภูสิงห์
+Thailand,40,Khon Kaen,ขอนแก่น,4016,Phu Wiang,ภูเวียง
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8417,Phunphin,พุนพิน
+Thailand,31,Buri Ram,บุรีรัมย์,3109,Phutthaisong,พุทไธสง
+Thailand,73,Nakhon Pathom,นครปฐม,7307,Phutthamonthon,พุทธมณฑล
+Thailand,48,Nakhon Phanom,นครพนม,4802,Pla Pak,ปลาปาก
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2409,Plaeng Yao,แปลงยาว
+Thailand,81,Krabi,กระบี่,8106,Plai Phraya,ปลายพระยา
+Thailand,21,Rayong,ระยอง,2106,Pluak Daeng,ปลวกแดง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1008,Pom Prap Sattru Phai,ป้อมปราบศัตรูพ่า
+Thailand,56,Phayao,พะเยา,5606,Pong,ปง
+Thailand,22,Chanthaburi,จันทบุรี,2204,Pong Nam Ron,โป่งน้ำร้อน
+Thailand,41,Udon Thani,อุดรธานี,4125,Prachaksinlapakhom,ประจักษ์ศิลปาคม
+Thailand,25,Prachin Buri,ปราจีนบุรี,2507,Prachantakham,ประจันตคาม
+Thailand,31,Buri Ram,บุรีรัมย์,3107,Prakhon Chai,ประโคนชัย
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7706,Pran Buri,ปราณบุรี
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3307,Prang Ku,ปรางค์กู่
+Thailand,32,Surin,สุรินทร์,3205,Prasat,ปราสาท
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3013,Prathai,ประทาย
+Thailand,10,Bangkok,กรุงเทพมหานคร,1032,Prawet,ประเวศ
+Thailand,55,Nan,น่าน,5505,Pua,ปัว
+Thailand,40,Khon Kaen,ขอนแก่น,4011,Pueai Noi,เปือยน้อย
+Thailand,96,Narathiwat,นราธิวาส,9605,Ra-Ngae,ระแงะ
+Thailand,95,Yala,ยะลา,9506,Raman,รามัน
+Thailand,90,Songkhla,สงขลา,9007,Ranot,ระโนด
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3309,Rasi Salai,ราษีไศล
+Thailand,10,Bangkok,กรุงเทพมหานคร,1024,Rat Burana,ราษฎร์บูรณะ
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2407,Ratchasan,ราชสาส์น
+Thailand,10,Bangkok,กรุงเทพมหานคร,1037,Ratchathewi,ราชเทวี
+Thailand,92,Trang,ตรัง,9209,Ratsada,รัษฎา
+Thailand,32,Surin,สุรินทร์,3207,Rattanaburi,รัตนบุรี
+Thailand,43,Nong Khai,หนองคาย,4316,Rattanawapi,รัตนวาปี
+Thailand,90,Songkhla,สงขลา,9009,Rattaphum,รัตภูมิ
+Thailand,48,Nakhon Phanom,นครพนม,4806,Renu Nakhon,เรณูนคร
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8013,Ron Phibun,ร่อนพิบูลย์
+Thailand,46,Kalasin,กาฬสินธุ์,4604,Rong Kham,ร่องคำ
+Thailand,54,Phrae,แพร่,5402,Rong Kwang,ร้องกวาง
+Thailand,96,Narathiwat,นราธิวาส,9606,Rueso,รือเสาะ
+Thailand,16,Lop Buri,ลพบุรี,1608,Sa Bot,สระโบสถ์
+Thailand,90,Songkhla,สงขลา,9006,Saba Yoi,สะบ้าย้อย
+Thailand,90,Songkhla,สงขลา,9010,Sadao,สะเดา
+Thailand,46,Kalasin,กาฬสินธุ์,4609,Sahatsakhan,สหัสขันธ์
+Thailand,94,Pattani,ปัตตานี,9407,Sai Buri,สายบุรี
+Thailand,10,Bangkok,กรุงเทพมหานคร,1042,Sai Mai,สายไหม
+Thailand,35,Yasothon,ยโสธร,3502,Sai Mun,ทรายมูล
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6202,Sai Ngam,ไทรงาม
+Thailand,12,Nonthaburi,นนทบุรี,1205,Sai Noi,ไทรน้อย
+Thailand,62,Kamphaeng Phet,กำแพงเพชร,6208,Sai Thong Watthana,ทรายทองวัฒนา
+Thailand,71,Kanchanaburi,กาญจนบุรี,7102,Sai Yok,ไทรโยค
+Thailand,66,Phichit,พิจิตร,6609,Sak Lek,สากเหล็ก
+Thailand,43,Nong Khai,หนองคาย,4314,Sakhrai,สระใคร
+Thailand,46,Kalasin,กาฬสินธุ์,4615,Sam Chai,สามชัย
+Thailand,72,Suphan Buri,สุพรรณบุรี,7208,Sam Chuk,สามชุก
+Thailand,13,Pathum Thani,ปทุมธานี,1307,Sam Khok,สามโคก
+Thailand,66,Phichit,พิจิตร,6607,Sam Ngam,สามง่าม
+Thailand,63,Tak,ตาก,6303,Sam Ngao,สามเงา
+Thailand,73,Nakhon Pathom,นครปฐม,7306,Sam Phran,สามพราน
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7708,Sam Roi Yot,สามร้อยยอด
+Thailand,40,Khon Kaen,ขอนแก่น,4021,Sam Sung,ซำสูง
+Thailand,15,Ang Thong,อ่างทอง,1507,Samko,สามโก้
+Thailand,50,Chiang Mai,เชียงใหม่,5008,Samoeng,สะเมิง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1013,Samphanthawong,สัมพันธวงศ์
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3422,Samrong,สำโรง
+Thailand,32,Surin,สุรินทร์,3212,Samrong Thap,สำโรงทาบ
+Thailand,50,Chiang Mai,เชียงใหม่,5013,San Kamphaeng,สันกำแพง
+Thailand,50,Chiang Mai,เชียงใหม่,5012,San Pa Tong,สันป่าตอง
+Thailand,50,Chiang Mai,เชียงใหม่,5014,San Sai,สันทราย
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2408,Sanam Chai Khet,สนามชัยเขต
+Thailand,41,Udon Thani,อุดรธานี,4120,Sang Khom,สร้างคอม
+Thailand,32,Surin,สุรินทร์,3210,Sangkha,สังขะ
+Thailand,71,Kanchanaburi,กาญจนบุรี,7108,Sangkhla Buri,สังขละบุรี
+Thailand,43,Nong Khai,หนองคาย,4308,Sangkhom,สังคม
+Thailand,18,Chai Nat,ชัยนาท,1805,Sankhaburi,สรรคบุรี
+Thailand,32,Surin,สุรินทร์,3208,Sanom,สนม
+Thailand,55,Nan,น่าน,5511,Santi Suk,สันติสุข
+Thailand,19,Saraburi,สระบุรี,1910,Sao Hai,เสาไห้
+Thailand,36,Chaiyaphum,ชัยภูมิ,3616,Sap Yai,ซับใหญ่
+Thailand,10,Bangkok,กรุงเทพมหานคร,1044,Saphan Sung,สะพานสูง
+Thailand,18,Chai Nat,ชัยนาท,1804,Sapphaya,สรรพยา
+Thailand,50,Chiang Mai,เชียงใหม่,5019,Saraphi,สารภี
+Thailand,90,Songkhla,สงขลา,9002,Sathing Phra,สทิงพระ
+Thailand,10,Bangkok,กรุงเทพมหานคร,1028,Sathon,สาทร
+Thailand,20,Chon Buri,ชลบุรี,2009,Sattahip,สัตหีบ
+Thailand,31,Buri Ram,บุรีรัมย์,3111,Satuek,สตึก
+Thailand,15,Ang Thong,อ่างทอง,1505,Sawaeng Ha,แสวงหา
+Thailand,61,Uthai Thani,อุทัยธานี,6103,Sawang Arom,สว่างอารมณ์
+Thailand,47,Sakon Nakhon,สกลนคร,4712,Sawang Daen Din,สว่างแดนดิน
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3432,Sawang Wirawong,สว่างวีระวงศ์
+Thailand,64,Sukhothai,สุโขทัย,6407,Sawankhalok,สวรรคโลก
+Thailand,86,Chumphon,ชุมพร,8607,Sawi,สวี
+Thailand,38,Bueng Kan,บึงกาฬ,3804,Seka,เซกา
+Thailand,45,Roi Et,ร้อยเอ็ด,4510,Selaphum,เสลภูมิ
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1412,Sena,เสนา
+Thailand,37,Amnat Charoen,อำนาจเจริญ,3705,Senangkhanikhom,เสนางคนิคม
+Thailand,93,Phatthalung,พัทลุง,9307,Si Banphot,ศรีบรรพต
+Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู,3904,Si Bun Rueang,ศรีบุญเรือง
+Thailand,43,Nong Khai,หนองคาย,4307,Si Chiang Mai,ศรีเชียงใหม่
+Thailand,40,Khon Kaen,ขอนแก่น,4006,Si Chomphu,สีชมพู
+Thailand,25,Prachin Buri,ปราจีนบุรี,2508,Si Maha Phot,ศรีมหาโพธิ
+Thailand,25,Prachin Buri,ปราจีนบุรี,2509,Si Mahosot,ศรีมโหสถ
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3402,Si Mueang Mai,ศรีเมืองใหม่
+Thailand,64,Sukhothai,สุโขทัย,6408,Si Nakhon,ศรีนคร
+Thailand,32,Surin,สุรินทร์,3215,Si Narong,ศรีณรงค์
+Thailand,72,Suphan Buri,สุพรรณบุรี,7205,Si Prachan,ศรีประจันต์
+Thailand,20,Chon Buri,ชลบุรี,2007,Si Racha,ศรีราชา
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3314,Si Rattana,ศรีรัตนะ
+Thailand,96,Narathiwat,นราธิวาส,9607,Si Sakhon,ศรีสาคร
+Thailand,64,Sukhothai,สุโขทัย,6406,Si Samrong,ศรีสำโรง
+Thailand,64,Sukhothai,สุโขทัย,6405,Si Satchanalai,ศรีสัชนาลัย
+Thailand,71,Kanchanaburi,กาญจนบุรี,7104,Si Sawat,ศรีสวัสดิ์
+Thailand,45,Roi Et,ร้อยเอ็ด,4516,Si Somdet,ศรีสมเด็จ
+Thailand,48,Nakhon Phanom,นครพนม,4808,Si Songkhram,ศรีสงคราม
+Thailand,41,Udon Thani,อุดรธานี,4109,Si That,ศรีธาตุ
+Thailand,67,Phetchabun,เพชรบูรณ์,6706,Si Thep,ศรีเทพ
+Thailand,38,Bueng Kan,บึงกาฬ,3807,Si Wilai,ศรีวิไล
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8014,Sichon,สิชล
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3031,Sida,สีดา
+Thailand,92,Trang,ตรัง,9205,Sikao,สิเกา
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3020,Sikhio,สีคิ้ว
+Thailand,32,Surin,สุรินทร์,3209,Sikhoraphum,ศีขรภูมิ
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3322,Sila Lat,ศิลาลาด
+Thailand,90,Songkhla,สงขลา,9015,Singhanakhon,สิงหนคร
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3425,Sirindhorn,สิรินธร
+Thailand,38,Bueng Kan,บึงกาฬ,3803,So Phisai,โซ่พิสัย
+Thailand,52,Lampang,ลำปาง,5204,Soem Ngam,เสริมงาม
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3003,Soeng Sang,เสิงสาง
+Thailand,22,Chanthaburi,จันทบุรี,2207,Soi Dao,สอยดาว
+Thailand,46,Kalasin,กาฬสินธุ์,4613,Somdet,สมเด็จ
+Thailand,54,Phrae,แพร่,5406,Song,สอง
+Thailand,47,Sakon Nakhon,สกลนคร,4713,Song Dao,ส่องดาว
+Thailand,55,Nan,น่าน,5513,Song Khwae,สองแคว
+Thailand,72,Suphan Buri,สุพรรณบุรี,7207,Song Phi Nong,สองพี่น้อง
+Thailand,58,Mae Hong Son,แม่ฮ่องสอน,5806,Sop Moei,สบเมย
+Thailand,52,Lampang,ลำปาง,5211,Sop Prap,สบปราบ
+Thailand,93,Phatthalung,พัทลุง,9311,Srinagarindra,ศรีนครินทร์
+Thailand,96,Narathiwat,นราธิวาส,9610,Su-Ngai Kolok,สุไหงโก-ลก
+Thailand,96,Narathiwat,นราธิวาส,9611,Su-Ngai Padi,สุไหงปาดี
+Thailand,10,Bangkok,กรุงเทพมหานคร,1034,Suan Luang,สวนหลวง
+Thailand,70,Ratchaburi,ราชบุรี,7003,Suan Phueng,สวนผึ้ง
+Thailand,85,Ranong,ระนอง,8505,Suk Samran,สุขสำราญ
+Thailand,96,Narathiwat,นราธิวาส,9609,Sukhirin,สุคิริน
+Thailand,54,Phrae,แพร่,5404,Sung Men,สูงเม่น
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3018,Sung Noen,สูงเนิน
+Thailand,39,Nong Bua Lam Phu,หนองบัวลำภู,3905,Suwannakhuha,สุวรรณคูหา
+Thailand,45,Roi Et,ร้อยเอ็ด,4511,Suwannaphum,สุวรรณภูมิ
+Thailand,27,Sa Kaeo,สระแก้ว,2703,Ta Phraya,ตาพระยา
+Thailand,96,Narathiwat,นราธิวาส,9602,Tak Bai,ตากใบ
+Thailand,60,Nakhon Sawan,นครสวรรค์,6012,Tak Fa,ตากฟ้า
+Thailand,60,Nakhon Sawan,นครสวรรค์,6007,Takhli,ตาคลี
+Thailand,82,Phangnga,พังงา,8205,Takua Pa,ตะกั่วป่า
+Thailand,82,Phangnga,พังงา,8204,Takua Thung,ตะกั่วทุ่ง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1019,Taling Chan,ตลิ่งชัน
+Thailand,93,Phatthalung,พัทลุง,9304,Tamot,ตะโหมด
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3420,Tan Sum,ตาลสุม
+Thailand,47,Sakon Nakhon,สกลนคร,4714,Tao Ngoi,เต่างอย
+Thailand,66,Phichit,พิจิตร,6608,Tap Khlo,ทับคล้อ
+Thailand,66,Phichit,พิจิตร,6604,Taphan Hin,ตะพานหิน
+Thailand,43,Nong Khai,หนองคาย,4302,Tha Bo,ท่าบ่อ
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8407,Tha Chana,ท่าชนะ
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8411,Tha Chang,ท่าฉาง
+Thailand,17,Sing Buri,สิงห์บุรี,1705,Tha Chang,ท่าช้าง
+Thailand,46,Kalasin,กาฬสินธุ์,4611,Tha Khantho,ท่าคันโท
+Thailand,42,Loei,เลย,4208,Tha Li,ท่าลี่
+Thailand,16,Lop Buri,ลพบุรี,1607,Tha Luang,ท่าหลวง
+Thailand,22,Chanthaburi,จันทบุรี,2203,Tha Mai,ท่าใหม่
+Thailand,71,Kanchanaburi,กาญจนบุรี,7105,Tha Maka,ท่ามะกา
+Thailand,71,Kanchanaburi,กาญจนบุรี,7106,Tha Muang,ท่าม่วง
+Thailand,91,Satun,สตูล,9104,Tha Phae,ท่าแพ
+Thailand,53,Uttaradit,อุตรดิตถ์,5303,Tha Pla,ท่าปลา
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1402,Tha Ruea,ท่าเรือ
+Thailand,86,Chumphon,ชุมพร,8602,Tha Sae,ท่าแซะ
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8008,Tha Sala,ท่าศาลา
+Thailand,63,Tak,ตาก,6305,Tha Song Yang,ท่าสองยาง
+Thailand,24,Chachoengsao,ฉะเชิงเทรา,2410,Tha Takiap,ท่าตะเกียบ
+Thailand,60,Nakhon Sawan,นครสวรรค์,6008,Tha Tako,ท่าตะโก
+Thailand,32,Surin,สุรินทร์,3203,Tha Tum,ท่าตูม
+Thailand,48,Nakhon Phanom,นครพนม,4803,Tha Uthen,ท่าอุเทน
+Thailand,55,Nan,น่าน,5506,Tha Wang Pha,ท่าวังผา
+Thailand,16,Lop Buri,ลพบุรี,1605,Tha Wung,ท่าวุ้ง
+Thailand,76,Phetchaburi,เพชรบุรี,7605,Tha Yang,ท่ายาง
+Thailand,35,Yasothon,ยโสธร,3509,Thai Charoen,ไทยเจริญ
+Thailand,82,Phangnga,พังงา,8208,Thai Mueang,ท้ายเหมือง
+Thailand,83,Phuket,ภูเก็ต,8303,Thalang,ถลาง
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8018,Tham Phannara,ถ้ำพรรณรา
+Thailand,95,Yala,ยะลา,9504,Than To,ธารโต
+Thailand,13,Pathum Thani,ปทุมธานี,1303,Thanyaburi,ธัญบุรี
+Thailand,82,Phangnga,พังงา,8207,Thap Put,ทับปุด
+Thailand,77,Prachuap Khiri Khan,ประจวบคีรีขันธ์,7703,Thap Sakae,ทับสะแก
+Thailand,61,Uthai Thani,อุทัยธานี,6102,Thap Than,ทัพทัน
+Thailand,48,Nakhon Phanom,นครพนม,4805,That Phanom,ธาตุพนม
+Thailand,45,Roi Et,ร้อยเอ็ด,4505,Thawat Buri,ธวัชบุรี
+Thailand,10,Bangkok,กรุงเทพมหานคร,1048,Thawi Watthana,ทวีวัฒนา
+Thailand,36,Chaiyaphum,ชัยภูมิ,3609,Thep Sathit,เทพสถิต
+Thailand,90,Songkhla,สงขลา,9005,Thepha,เทพา
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3026,Thepharak,เทพารักษ์
+Thailand,52,Lampang,ลำปาง,5208,Thoen,เถิน
+Thailand,57,Chiang Rai,เชียงราย,5704,Thoeng,เทิง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1015,Thon Buri,ธนบุรี
+Thailand,71,Kanchanaburi,กาญจนบุรี,7107,Thong Pha Phum,ทองผาภูมิ
+Thailand,53,Uttaradit,อุตรดิตถ์,5309,Thong Saen Khan,ทองแสนขัน
+Thailand,55,Nan,น่าน,5508,Thung Chang,ทุ่งช้าง
+Thailand,41,Udon Thani,อุดรธานี,4107,Thung Fon,ทุ่งฝน
+Thailand,51,Lamphun,ลำพูน,5105,Thung Hua Chang,ทุ่งหัวช้าง
+Thailand,45,Roi Et,ร้อยเอ็ด,4520,Thung Khao Luang,ทุ่งเขาหลวง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1049,Thung Khru,ทุ่งครุ
+Thailand,64,Sukhothai,สุโขทัย,6409,Thung Saliam,ทุ่งเสลี่ยม
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3426,Thung Si Udom,ทุ่งศรีอุดม
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8009,Thung Song,ทุ่งสง
+Thailand,86,Chumphon,ชุมพร,8608,Thung Tako,ทุ่งตะโก
+Thailand,91,Satun,สตูล,9106,Thung Wa,ทุ่งหว้า
+Thailand,80,Nakhon Si Thammarat,นครศรีธรรมราช,8011,Thung Yai,ทุ่งใหญ่
+Thailand,94,Pattani,ปัตตานี,9406,Thung Yang Daeng,ทุ่งยางแดง
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3411,Trakan Phuet Phon,ตระการพืชผล
+Thailand,53,Uttaradit,อุตรดิตถ์,5302,Tron,ตรอน
+Thailand,72,Suphan Buri,สุพรรณบุรี,7209,U Thong,อู่ทอง
+Thailand,40,Khon Kaen,ขอนแก่น,4008,Ubolratana,อุบลรัตน์
+Thailand,63,Tak,ตาก,6308,Umphang,อุ้มผาง
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1414,Uthai,อุทัย
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3310,Uthumphon Phisai,อุทุมพรพิสัย
+Thailand,10,Bangkok,กรุงเทพมหานคร,1039,Vadhana,วัฒนา
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8419,Vibhavadi,วิภาวดี
+Thailand,66,Phichit,พิจิตร,6612,Wachirabarami,วชิรบารมี
+Thailand,96,Narathiwat,นราธิวาส,9608,Waeng,แว้ง
+Thailand,40,Khon Kaen,ขอนแก่น,4014,Waeng Noi,แวงน้อย
+Thailand,40,Khon Kaen,ขอนแก่น,4013,Waeng Yai,แวงใหญ่
+Thailand,49,Mukdahan,มุกดาหาร,4906,Wan Yai,หว้านใหญ่
+Thailand,21,Rayong,ระยอง,2104,Wang Chan,วังจันทร์
+Thailand,63,Tak,ตาก,6309,Wang Chao,วังเจ้า
+Thailand,54,Phrae,แพร่,5407,Wang Chin,วังชิ้น
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3316,Wang Hin,วังหิน
+Thailand,19,Saraburi,สระบุรี,1912,Wang Muang,วังม่วง
+Thailand,30,Nakhon Ratchasima,นครราชสีมา,3025,Wang Nam Khiao,วังน้ำเขียว
+Thailand,27,Sa Kaeo,สระแก้ว,2704,Wang Nam Yen,วังน้ำเย็น
+Thailand,14,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา,1411,Wang Noi,วังน้อย
+Thailand,52,Lampang,ลำปาง,5207,Wang Nuea,วังเหนือ
+Thailand,67,Phetchabun,เพชรบูรณ์,6710,Wang Pong,วังโป่ง
+Thailand,66,Phichit,พิจิตร,6602,Wang Sai Phun,วังทรายพูน
+Thailand,41,Udon Thani,อุดรธานี,4110,Wang Sam Mo,วังสามหมอ
+Thailand,42,Loei,เลย,4209,Wang Saphung,วังสะพุง
+Thailand,27,Sa Kaeo,สระแก้ว,2709,Wang Sombun,วังสมบูรณ์
+Thailand,65,Phitsanulok,พิษณุโลก,6508,Wang Thong,วังทอง
+Thailand,10,Bangkok,กรุงเทพมหานคร,1045,Wang Thonglang,วังทองหลาง
+Thailand,92,Trang,ตรัง,9207,Wang Wiset,วังวิเศษ
+Thailand,48,Nakhon Phanom,นครพนม,4812,Wang Yang,วังยาง
+Thailand,47,Sakon Nakhon,สกลนคร,4708,Wanon Niwat,วานรนิวาส
+Thailand,44,Maha Sarakham,มหาสารคาม,4409,Wapi Pathum,วาปีปทุม
+Thailand,34,Ubon Ratchathani,อุบลราชธานี,3415,Warin Chamrap,วารินชำราบ
+Thailand,47,Sakon Nakhon,สกลนคร,4706,Waritchaphum,วาริชภูมิ
+Thailand,65,Phitsanulok,พิษณุโลก,6507,Wat Bot,วัดโบสถ์
+Thailand,70,Ratchaburi,ราชบุรี,7009,Wat Phleng,วัดเพลง
+Thailand,18,Chai Nat,ชัยนาท,1803,Wat Sing,วัดสิงห์
+Thailand,27,Sa Kaeo,สระแก้ว,2705,Watthana Nakhon,วัฒนานคร
+Thailand,57,Chiang Rai,เชียงราย,5702,Wiang Chai,เวียงชัย
+Thailand,57,Chiang Rai,เชียงราย,5717,Wiang Chiang Rung,เวียงเชียงรุ้ง
+Thailand,50,Chiang Mai,เชียงใหม่,5020,Wiang Haeng,เวียงแหง
+Thailand,57,Chiang Rai,เชียงราย,5713,Wiang Kaen,เวียงแก่น
+Thailand,40,Khon Kaen,ขอนแก่น,4029,Wiang Kao,เวียงเก่า
+Thailand,51,Lamphun,ลำพูน,5108,Wiang Nong Long,เวียงหนองล่อง
+Thailand,57,Chiang Rai,เชียงราย,5711,Wiang Pa Pao,เวียงป่าเป้า
+Thailand,84,Surat Thani,สุราษฎร์ธานี,8415,Wiang Sa,เวียงสระ
+Thailand,55,Nan,น่าน,5507,Wiang Sa,เวียงสา
+Thailand,67,Phetchabun,เพชรบูรณ์,6705,Wichian Buri,วิเชียรบุรี
+Thailand,19,Saraburi,สระบุรี,1904,Wihan Daeng,วิหารแดง
+Thailand,15,Ang Thong,อ่างทอง,1506,Wiset Chai Chan,วิเศษชัยชาญ
+Thailand,95,Yala,ยะลา,9505,Yaha,ยะหา
+Thailand,10,Bangkok,กรุงเทพมหานคร,1012,Yan Nawa,ยานนาวา
+Thailand,92,Trang,ตรัง,9203,Yan Ta Khao,ย่านตาขาว
+Thailand,33,Si Sa Ket,ศรีสะเกษ,3302,Yang Chum Noi,ยางชุมน้อย
+Thailand,44,Maha Sarakham,มหาสารคาม,4411,Yang Sisurat,ยางสีสุราช
+Thailand,46,Kalasin,กาฬสินธุ์,4607,Yang Talat,ยางตลาด
+Thailand,94,Pattani,ปัตตานี,9410,Yarang,ยะรัง
+Thailand,94,Pattani,ปัตตานี,9409,Yaring,ยะหริ่ง
+Thailand,96,Narathiwat,นราธิวาส,9604,Yi-Ngo,ยี่งอ
