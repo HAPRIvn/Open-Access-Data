@@ -10,4 +10,4 @@
 | Cambodia    |Province|District|         |         |U.N. Office for the Coordination of Humanitarian Affairs|https://data.humdata.org/dataset/cambodia-admin-level-0-international-boundaries|
 | Philippines |Province|City|Municipal|Barangay|Philippine Statistics Authority|https://psa.gov.ph/classification/psgc/|
 |Australia|State|Local Government| | ||https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202019|
-|Myanmar | State & Region | Sub region | | |https://data.humdata.org/dataset/mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu |
+|Myanmar | State & Region | Sub region | | |http://geonode.themimu.info/layers/|
