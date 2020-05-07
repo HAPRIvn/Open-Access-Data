@@ -1,0 +1,81 @@
+country_name,country_iso,country_unsd,state_name,state_code,district_code,district_name,district_name_mmr
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,ဟင်္သာတခရိုင်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D004,Labutta,လပွတ္တာခရိုင်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D005,Maubin,မအူပင်ခရိုင်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D003,Myaungmya,မြောင်းမြခရိုင်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,ပုသိမ်ခရိုင်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D006,Pyapon,ဖျာပုံခရိုင်
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,ပဲခူးခရိုင်
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,တောင်ငူခရိုင်
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,ပြည်ခရိုင်
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,သာယာဝတီခရိုင်
+Myanmar,MMR,104,Chin,4,MMR004D001,Falam,ဖလမ်းခရိုင်
+Myanmar,MMR,104,Chin,4,MMR004D003,Hakha,ဟားခါးခရိုင်
+Myanmar,MMR,104,Chin,4,MMR004D004,Matupi,မတူပီခရိုင်
+Myanmar,MMR,104,Chin,4,MMR004D002,Mindat,မင်းတပ်ခရိုင်
+Myanmar,MMR,104,Kachin,1,MMR001D003,Bhamo,ဗန်းမော်ခရိုင်
+Myanmar,MMR,104,Kachin,1,MMR001D002,Mohnyin,မိုးညှင်းခရိုင်
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,မြစ်ကြီးနားခရိုင်
+Myanmar,MMR,104,Kachin,1,MMR001D004,Puta-O,ပူတာအိုခရိုင်
+Myanmar,MMR,104,Kayah,2,MMR002D002,Bawlake,ဘောလခဲခရိုင်
+Myanmar,MMR,104,Kayah,2,MMR002D001,Loikaw,လွိုင်ကော်ခရိုင်
+Myanmar,MMR,104,Kayin,3,MMR003D001,Hpa-An,ဘားအံခရိုင်
+Myanmar,MMR,104,Kayin,3,MMR003D004,Hpapun,ဖာပွန်ခရိုင်
+Myanmar,MMR,104,Kayin,3,MMR003D003,Kawkareik,ကော့ကရိတ်ခရိုင်
+Myanmar,MMR,104,Kayin,3,MMR003D002,Myawaddy,မြဝတီခရိုင်
+Myanmar,MMR,104,Magway,9,MMR009D005,Gangaw,ဂန့်ဂေါခရိုင်
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,မကွေးခရိုင်
+Myanmar,MMR,104,Magway,9,MMR009D002,Minbu,မင်းဘူးခရိုင်
+Myanmar,MMR,104,Magway,9,MMR009D004,Pakokku,ပခုက္ကူခရိုင်
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,သရက်ခရိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D003,Kyaukse,ကျောက်ဆည်ခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D007,Mawlaik,မော်လိုက်ခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D003,Monywa,မုံရွာခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005S001,Naga Self-Administered Zone,နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ
+Myanmar,MMR,104,Sagaing,5,MMR005D001,Sagaing,စစ်ကိုင်းခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,ရွှေဘိုခရိုင်
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,လွိုင်လင်ခရိုင်
+Myanmar,MMR,104,Shan (South),14,MMR014S002,Pa-O Self-Administered Zone,ပအိုဝ်း ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ
+Myanmar,MMR,104,Shan (South),14,MMR014D001,Taunggyi,တောင်ကြီးခရိုင်
+Myanmar,MMR,104,Tanintharyi,6,MMR006D001,Dawei,ထားဝယ်ခရိုင်
+Myanmar,MMR,104,Tanintharyi,6,MMR006D003,Kawthoung,ကော့သောင်းခရိုင်
+Myanmar,MMR,104,Tanintharyi,6,MMR006D002,Myeik,မြိတ်ခရိုင်
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),ရန်ကုန်(အရှေ့ပိုင်း)
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),ရန်ကုန်(မြောက်ပိုင်း)
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),ရန်ကုန်(တောင်ပိုင်း)
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),ရန်ကုန်(အနောက်ပိုင်း)
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,မန္တလေးခရိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D007,Meiktila,မိတ္ထီလာခရိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D004,Myingyan,မြင်းခြံခရိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D005,Nyaung-U,ညောင်ဦးခရိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D002,Pyinoolwin,ပြင်ဦးလွင်ခရိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D006,Yamethin,ရမည်းသင်းခရိုင်
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,မော်လမြိုင်ခရိုင်
+Myanmar,MMR,104,Mon,11,MMR011D002,Thaton,သထုံခရိုင်
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D002,Det Khi Na,ဒက္ခိဏခရိုင်
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D001,Oke Ta Ra,ဥတ္တရခရိုင်
+Myanmar,MMR,104,Rakhine,12,MMR012D003,Kyaukpyu,ကျောက်ဖြူခရိုင်
+Myanmar,MMR,104,Rakhine,12,MMR012D002,Maungdaw,မောင်တောခရိုင်
+Myanmar,MMR,104,Rakhine,12,MMR012D005,Mrauk-U,မြောက်ဦးခရိုင်
+Myanmar,MMR,104,Rakhine,12,MMR012D001,Sittwe,စစ်တွေခရိုင်
+Myanmar,MMR,104,Rakhine,12,MMR012D004,Thandwe,သံတွဲခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D008,Hkamti,ခန္တီးခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D005,Kale,ကလေးခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D010,Kanbalu,ကန့်ဘလူခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D004,Katha,ကသာခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D011,Kawlin,ကောလင်းခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D006,Tamu,တမူးခရိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D009,Yinmarbin,ယင်းမာပင်ခရိုင်
+Myanmar,MMR,104,Shan (East),16,MMR016D001,Kengtung,ကျိုင်းတုံခရိုင်
+Myanmar,MMR,104,Shan (East),16,MMR016D002,Monghsat,မိုင်းဆတ်ခရိုင်
+Myanmar,MMR,104,Shan (East),16,MMR016D003,Tachileik,တာချီလိတ်ခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D006,Hopang,ဟိုပန်ခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D007,Matman,မက်မန်းခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D008,Mongmit,မိုးမိတ်ခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D002,Muse,မူဆယ်ခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015S001,Pa Laung Self-Administered Zone,ပလောင် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ
+Myanmar,MMR,104,Shan (South),14,MMR014S001,Danu Self-Administered Zone,ဓနု ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ
+Myanmar,MMR,104,Shan (South),14,MMR014D003,Langkho,လင်းခေးခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015S002,Kokang Self-Administered Zone,ကိုးကန့် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ
+Myanmar,MMR,104,Shan (North),15,MMR015D003,Kyaukme,ကျောက်မဲခရိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D001,Lashio,လားရှိုးခရိုင်
