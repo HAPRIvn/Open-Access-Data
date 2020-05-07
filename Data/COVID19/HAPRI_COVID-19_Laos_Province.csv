@@ -1,721 +1,811 @@
-country_name,province_code,province_name,province_name_thai,date,case_confirmed_new,case_confirmed,case_recovered_new,case_recovered,case_relapsed_new,case_relapsed,case_death_new,case_death,gid_1,_ID
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,24/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,25/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,26/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,27/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,28/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,29/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,30/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,31/03/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,01/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,02/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,03/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,04/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,05/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,06/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,07/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,08/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,09/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,10/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,11/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,12/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,13/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,14/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,15/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,16/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,17/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,18/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,19/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,20/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,21/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,22/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,23/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,24/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,25/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,26/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,27/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,28/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,29/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,30/04/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,01/05/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,2,Phongsaly,ຜົ້ງສາລີ,02/05/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,24/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,25/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,26/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,27/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,28/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,29/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,30/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,31/03/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,01/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,02/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,03/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,04/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,05/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,06/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,07/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,08/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,09/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,10/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,11/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,12/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,13/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,14/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,15/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,16/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,17/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,18/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,19/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,20/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,21/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,22/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,23/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,24/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,25/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,26/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,27/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,28/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,29/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,30/04/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,01/05/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,14,Salavan,ສາລະວັນ,02/05/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,24/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,25/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,26/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,27/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,28/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,29/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,30/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,31/03/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,01/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,02/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,03/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,04/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,05/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,06/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,07/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,08/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,09/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,10/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,11/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,12/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,13/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,14/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,15/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,16/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,17/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,18/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,19/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,20/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,21/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,22/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,23/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,24/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,25/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,26/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,27/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,28/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,29/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,30/04/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,01/05/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,13,Savannakhet,ສະຫວັນນະເຂດ,02/05/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,24/03/2020,2,2,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,25/03/2020,2,4,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,26/03/2020,1,5,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,27/03/2020,0,5,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,28/03/2020,1,6,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,29/03/2020,1,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,30/03/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,31/03/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,01/04/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,02/04/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,03/04/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,04/04/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,05/04/2020,1,8,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,06/04/2020,1,9,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,07/04/2020,2,11,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,08/04/2020,1,12,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,09/04/2020,0,12,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,10/04/2020,1,13,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,11/04/2020,2,15,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,12/04/2020,1,16,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,13/04/2020,0,16,0,0,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,14/04/2020,0,16,1,1,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,15/04/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,16/04/2020,0,16,1,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,17/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,18/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,19/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,20/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,21/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,22/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,23/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,24/04/2020,0,16,0,2,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,25/04/2020,0,16,3,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,26/04/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,27/04/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,28/04/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,29/04/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,30/04/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,01/05/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,10,Vientiane Prefecture,ວຽງຈັນ,02/05/2020,0,16,0,5,0,0,0,0,LAO.13_1,14
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,24/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,25/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,26/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,27/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,28/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,29/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,30/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,31/03/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,01/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,02/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,03/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,04/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,05/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,06/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,07/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,08/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,09/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,10/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,11/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,12/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,13/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,14/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,15/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,16/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,17/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,18/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,19/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,20/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,21/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,22/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,23/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,24/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,25/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,26/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,27/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,28/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,29/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,30/04/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,01/05/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,02/05/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,24/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,25/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,26/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,27/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,28/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,29/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,30/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,31/03/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,01/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,02/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,03/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,04/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,05/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,06/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,07/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,08/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,09/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,10/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,11/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,12/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,13/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,14/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,15/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,16/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,17/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,18/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,19/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,20/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,21/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,22/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,23/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,24/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,25/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,26/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,27/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,28/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,29/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,30/04/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,01/05/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,8,Xaignabouly,ໄຊຍະບູລີ,02/05/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,24/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,25/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,26/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,27/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,28/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,29/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,30/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,31/03/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,01/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,02/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,03/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,04/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,05/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,06/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,07/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,08/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,09/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,10/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,11/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,12/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,13/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,14/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,15/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,16/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,17/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,18/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,19/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,20/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,21/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,22/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,23/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,24/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,25/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,26/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,27/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,28/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,29/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,30/04/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,01/05/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,18,Xaisomboon,ໄຊສົມບູນ,02/05/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,24/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,25/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,26/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,27/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,28/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,29/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,30/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,31/03/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,01/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,02/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,03/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,04/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,05/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,06/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,07/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,08/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,09/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,10/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,11/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,12/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,13/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,14/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,15/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,16/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,17/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,18/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,19/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,20/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,21/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,22/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,23/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,24/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,25/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,26/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,27/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,28/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,29/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,30/04/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,01/05/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,15,Sekong,ເຊກອງ,02/05/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,24/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,25/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,26/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,27/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,28/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,29/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,30/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,31/03/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,01/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,02/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,03/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,04/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,05/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,06/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,07/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,08/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,09/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,10/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,11/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,12/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,13/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,14/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,15/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,16/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,17/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,18/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,19/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,20/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,21/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,22/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,23/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,24/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,25/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,26/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,27/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,28/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,29/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,30/04/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,01/05/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,9,Xiengkhouang,ຊຽງຂວາງ,02/05/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,24/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,25/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,26/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,27/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,28/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,29/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,30/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,31/03/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,01/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,02/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,03/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,04/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,05/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,06/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,07/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,08/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,09/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,10/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,11/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,12/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,13/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,14/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,15/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,16/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,17/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,18/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,19/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,20/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,21/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,22/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,23/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,24/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,25/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,26/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,27/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,28/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,29/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,30/04/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,01/05/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,17,Attapeu,ອັດຕະປື,02/05/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,24/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,25/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,26/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,27/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,28/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,29/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,30/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,31/03/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,01/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,02/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,03/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,04/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,05/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,06/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,07/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,08/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,09/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,10/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,11/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,12/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,13/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,14/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,15/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,16/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,17/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,18/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,19/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,20/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,21/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,22/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,23/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,24/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,25/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,26/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,27/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,28/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,29/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,30/04/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,01/05/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,5,Bokeo,ບໍ່ແກ້ວ,02/05/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,24/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,25/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,26/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,27/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,28/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,29/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,30/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,31/03/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,01/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,02/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,03/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,04/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,05/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,06/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,07/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,08/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,09/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,10/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,11/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,12/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,13/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,14/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,15/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,16/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,17/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,18/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,19/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,20/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,21/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,22/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,23/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,24/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,25/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,26/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,27/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,28/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,29/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,30/04/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,01/05/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,11,Bolikhamxai,ບໍລິຄຳໄຊ,02/05/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,24/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,25/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,26/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,27/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,28/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,29/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,30/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,31/03/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,01/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,02/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,03/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,04/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,05/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,06/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,07/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,08/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,09/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,10/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,11/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,12/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,13/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,14/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,15/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,16/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,17/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,18/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,19/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,20/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,21/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,22/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,23/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,24/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,25/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,26/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,27/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,28/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,29/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,30/04/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,01/05/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,16,Champasack,ຈຳປາສັກ,02/05/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,24/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,25/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,26/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,27/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,28/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,29/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,30/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,31/03/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,01/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,02/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,03/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,04/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,05/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,06/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,07/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,08/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,09/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,10/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,11/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,12/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,13/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,14/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,15/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,16/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,17/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,18/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,19/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,20/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,21/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,22/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,23/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,24/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,25/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,26/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,27/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,28/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,29/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,30/04/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,01/05/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,7,Houaphan,ຫົວພັນ,02/05/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,24/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,25/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,26/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,27/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,28/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,29/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,30/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,31/03/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,01/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,02/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,03/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,04/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,05/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,06/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,07/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,08/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,09/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,10/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,11/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,12/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,13/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,14/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,15/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,16/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,17/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,18/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,19/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,20/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,21/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,22/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,23/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,24/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,25/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,26/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,27/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,28/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,29/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,30/04/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,01/05/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,12,Khammouan,ຄຳມ່ວນ,02/05/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,24/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,25/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,26/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,27/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,28/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,29/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,30/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,31/03/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,01/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,02/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,03/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,04/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,05/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,06/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,07/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,08/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,09/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,10/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,11/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,12/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,13/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,14/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,15/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,16/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,17/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,18/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,19/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,20/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,21/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,22/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,23/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,24/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,25/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,26/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,27/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,28/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,29/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,30/04/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,01/05/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,3,Louangnamtha,ຫຼວງນ້ຳທາ,02/05/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,24/03/2020,0,0,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,25/03/2020,0,0,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,26/03/2020,2,2,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,27/03/2020,0,2,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,28/03/2020,1,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,29/03/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,30/03/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,31/03/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,01/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,02/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,03/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,04/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,05/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,06/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,07/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,08/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,09/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,10/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,11/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,12/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,13/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,14/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,15/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,16/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,17/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,18/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,19/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,20/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,21/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,22/04/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,23/04/2020,0,3,2,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,24/04/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,25/04/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,26/04/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,27/04/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,28/04/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,29/04/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,30/04/2020,0,3,1,3,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,01/05/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,6,Louangphabang,ຫຼວງພະບາງ,02/05/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,24/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,25/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,26/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,27/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,28/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,29/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,30/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,31/03/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,01/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,02/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,03/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,04/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,05/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,06/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,07/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,08/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,09/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,10/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,11/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,12/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,13/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,14/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,15/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,16/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,17/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,18/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,19/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,20/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,21/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,22/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,23/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,24/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,25/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,26/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,27/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,28/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,29/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,30/04/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,01/05/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
-Lao People's Democratic Republic,4,Oudomxai,ອຸດົມໄຊ,02/05/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+country_name,country_iso,country_unsd,province_code,province_name,province_name_lao,date,case_confirmed_new,case_confirmed,case_recovered_new,case_recovered,case_relapsed_new,case_relapsed,case_death_new,case_death,gid_1,_ID
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/24/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/25/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/26/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/27/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/28/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/29/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/30/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,3/31/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/1/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/2/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/3/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/4/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/5/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/6/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/7/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/8/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/9/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/10/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/11/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/12/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/13/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/14/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/15/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/16/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/17/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/18/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/19/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/20/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/21/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/22/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/23/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/24/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/25/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/26/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/27/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/28/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/29/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,4/30/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/1/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/2/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/3/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/4/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/5/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/6/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,2,Phongsaly,ຜົ້ງສາລີ,5/7/2020,0,0,0,0,0,0,0,0,LAO.10_1,10
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/24/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/25/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/26/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/27/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/28/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/29/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/30/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,3/31/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/1/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/2/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/3/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/4/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/5/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/6/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/7/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/8/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/9/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/10/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/11/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/12/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/13/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/14/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/15/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/16/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/17/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/18/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/19/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/20/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/21/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/22/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/23/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/24/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/25/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/26/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/27/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/28/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/29/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,4/30/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/1/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/2/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/3/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/4/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/5/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/6/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,14,Salavan,ສາລະວັນ,5/7/2020,0,0,0,0,0,0,0,0,LAO.11_1,11
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/24/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/25/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/26/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/27/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/28/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/29/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/30/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,3/31/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/1/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/2/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/3/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/4/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/5/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/6/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/7/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/8/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/9/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/10/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/11/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/12/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/13/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/14/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/15/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/16/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/17/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/18/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/19/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/20/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/21/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/22/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/23/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/24/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/25/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/26/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/27/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/28/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/29/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,4/30/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/1/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/2/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/3/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/4/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/5/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/6/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,13,Savannakhet,ສະຫວັນນະເຂດ,5/7/2020,0,0,0,0,0,0,0,0,LAO.12_1,12
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/24/2020,2,2,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/25/2020,2,4,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/26/2020,1,5,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/27/2020,0,5,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/28/2020,1,6,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/29/2020,1,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/30/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,3/31/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/1/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/2/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/3/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/4/2020,0,7,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/5/2020,1,8,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/6/2020,1,9,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/7/2020,2,11,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/8/2020,1,12,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/9/2020,0,12,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/10/2020,1,13,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/11/2020,2,15,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/12/2020,1,16,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/13/2020,0,16,0,0,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/14/2020,0,16,1,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/15/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/16/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/17/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/18/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/19/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/20/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/21/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/22/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/23/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/24/2020,0,16,0,1,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/25/2020,0,16,3,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/26/2020,0,16,0,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/27/2020,0,16,0,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/28/2020,0,16,0,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/29/2020,0,16,0,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,4/30/2020,0,16,0,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/1/2020,0,16,0,4,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/2/2020,0,16,2,6,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/3/2020,0,16,0,6,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/4/2020,0,16,0,6,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/5/2020,0,16,0,6,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/6/2020,0,16,0,6,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,10,Vientiane Prefecture,ວຽງຈັນ,5/7/2020,0,16,0,6,0,0,0,0,LAO.13_1,14
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/24/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/25/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/26/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/27/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/28/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/29/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/30/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,3/31/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/1/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/2/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/3/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/4/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/5/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/6/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/7/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/8/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/9/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/10/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/11/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/12/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/13/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/14/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/15/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/16/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/17/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/18/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/19/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/20/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/21/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/22/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/23/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/24/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/25/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/26/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/27/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/28/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/29/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,4/30/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/1/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/2/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/3/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/4/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/5/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/6/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,1,Vientiane Capital,ນະຄອນຫຼວງວຽງຈັນ,5/7/2020,0,0,0,0,0,0,0,0,LAO.14_1,13
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/24/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/25/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/26/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/27/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/28/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/29/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/30/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,3/31/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/1/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/2/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/3/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/4/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/5/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/6/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/7/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/8/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/9/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/10/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/11/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/12/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/13/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/14/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/15/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/16/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/17/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/18/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/19/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/20/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/21/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/22/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/23/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/24/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/25/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/26/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/27/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/28/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/29/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,4/30/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/1/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/2/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/3/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/4/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/5/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/6/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,8,Xaignabouly,ໄຊຍະບູລີ,5/7/2020,0,0,0,0,0,0,0,0,LAO.15_1,15
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/24/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/25/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/26/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/27/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/28/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/29/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/30/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,3/31/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/1/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/2/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/3/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/4/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/5/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/6/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/7/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/8/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/9/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/10/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/11/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/12/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/13/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/14/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/15/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/16/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/17/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/18/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/19/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/20/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/21/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/22/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/23/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/24/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/25/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/26/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/27/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/28/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/29/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,4/30/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/1/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/2/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/3/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/4/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/5/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/6/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,18,Xaisomboon,ໄຊສົມບູນ,5/7/2020,0,0,0,0,0,0,0,0,LAO.16_1,16
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/24/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/25/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/26/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/27/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/28/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/29/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/30/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,3/31/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/1/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/2/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/3/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/4/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/5/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/6/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/7/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/8/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/9/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/10/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/11/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/12/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/13/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/14/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/15/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/16/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/17/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/18/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/19/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/20/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/21/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/22/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/23/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/24/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/25/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/26/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/27/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/28/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/29/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,4/30/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/1/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/2/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/3/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/4/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/5/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/6/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,15,Sekong,ເຊກອງ,5/7/2020,0,0,0,0,0,0,0,0,LAO.17_1,17
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/24/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/25/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/26/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/27/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/28/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/29/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/30/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,3/31/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/1/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/2/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/3/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/4/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/5/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/6/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/7/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/8/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/9/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/10/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/11/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/12/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/13/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/14/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/15/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/16/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/17/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/18/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/19/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/20/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/21/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/22/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/23/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/24/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/25/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/26/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/27/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/28/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/29/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,4/30/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/1/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/2/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/3/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/4/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/5/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/6/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,9,Xiengkhouang,ຊຽງຂວາງ,5/7/2020,0,0,0,0,0,0,0,0,LAO.18_1,18
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/24/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/25/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/26/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/27/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/28/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/29/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/30/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,3/31/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/1/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/2/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/3/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/4/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/5/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/6/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/7/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/8/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/9/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/10/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/11/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/12/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/13/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/14/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/15/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/16/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/17/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/18/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/19/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/20/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/21/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/22/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/23/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/24/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/25/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/26/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/27/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/28/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/29/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,4/30/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/1/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/2/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/3/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/4/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/5/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/6/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,17,Attapeu,ອັດຕະປື,5/7/2020,0,0,0,0,0,0,0,0,LAO.1_1,1
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/24/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/25/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/26/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/27/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/28/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/29/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/30/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,3/31/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/1/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/2/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/3/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/4/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/5/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/6/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/7/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/8/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/9/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/10/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/11/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/12/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/13/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/14/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/15/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/16/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/17/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/18/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/19/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/20/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/21/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/22/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/23/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/24/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/25/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/26/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/27/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/28/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/29/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,4/30/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/1/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/2/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/3/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/4/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/5/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/6/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,5,Bokeo,ບໍ່ແກ້ວ,5/7/2020,0,0,0,0,0,0,0,0,LAO.2_1,2
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/24/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/25/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/26/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/27/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/28/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/29/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/30/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,3/31/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/1/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/2/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/3/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/4/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/5/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/6/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/7/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/8/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/9/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/10/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/11/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/12/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/13/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/14/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/15/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/16/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/17/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/18/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/19/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/20/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/21/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/22/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/23/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/24/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/25/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/26/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/27/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/28/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/29/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,4/30/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/1/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/2/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/3/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/4/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/5/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/6/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,11,Bolikhamxai,ບໍລິຄຳໄຊ,5/7/2020,0,0,0,0,0,0,0,0,LAO.3_1,3
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/24/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/25/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/26/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/27/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/28/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/29/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/30/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,3/31/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/1/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/2/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/3/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/4/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/5/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/6/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/7/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/8/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/9/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/10/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/11/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/12/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/13/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/14/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/15/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/16/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/17/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/18/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/19/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/20/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/21/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/22/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/23/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/24/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/25/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/26/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/27/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/28/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/29/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,4/30/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/1/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/2/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/3/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/4/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/5/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/6/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,16,Champasack,ຈຳປາສັກ,5/7/2020,0,0,0,0,0,0,0,0,LAO.4_1,4
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/24/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/25/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/26/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/27/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/28/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/29/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/30/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,3/31/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/1/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/2/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/3/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/4/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/5/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/6/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/7/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/8/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/9/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/10/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/11/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/12/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/13/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/14/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/15/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/16/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/17/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/18/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/19/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/20/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/21/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/22/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/23/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/24/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/25/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/26/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/27/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/28/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/29/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,4/30/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/1/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/2/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/3/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/4/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/5/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/6/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,7,Houaphan,ຫົວພັນ,5/7/2020,0,0,0,0,0,0,0,0,LAO.5_1,5
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/24/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/25/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/26/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/27/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/28/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/29/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/30/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,3/31/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/1/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/2/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/3/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/4/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/5/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/6/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/7/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/8/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/9/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/10/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/11/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/12/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/13/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/14/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/15/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/16/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/17/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/18/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/19/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/20/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/21/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/22/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/23/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/24/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/25/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/26/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/27/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/28/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/29/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,4/30/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/1/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/2/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/3/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/4/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/5/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/6/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,12,Khammouan,ຄຳມ່ວນ,5/7/2020,0,0,0,0,0,0,0,0,LAO.6_1,6
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/24/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/25/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/26/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/27/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/28/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/29/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/30/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,3/31/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/1/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/2/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/3/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/4/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/5/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/6/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/7/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/8/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/9/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/10/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/11/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/12/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/13/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/14/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/15/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/16/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/17/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/18/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/19/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/20/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/21/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/22/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/23/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/24/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/25/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/26/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/27/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/28/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/29/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,4/30/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/1/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/2/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/3/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/4/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/5/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/6/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,3,Louangnamtha,ຫຼວງນ້ຳທາ,5/7/2020,0,0,0,0,0,0,0,0,LAO.7_1,7
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/24/2020,0,0,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/25/2020,0,0,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/26/2020,2,2,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/27/2020,0,2,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/28/2020,1,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/29/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/30/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,3/31/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/1/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/2/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/3/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/4/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/5/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/6/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/7/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/8/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/9/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/10/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/11/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/12/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/13/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/14/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/15/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/16/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/17/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/18/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/19/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/20/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/21/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/22/2020,0,3,0,0,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/23/2020,0,3,2,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/24/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/25/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/26/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/27/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/28/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/29/2020,0,3,0,2,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,4/30/2020,0,3,1,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/1/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/2/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/3/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/4/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/5/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/6/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,6,Louangphabang,ຫຼວງພະບາງ,5/7/2020,0,3,0,3,0,0,0,0,LAO.8_1,8
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/24/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/25/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/26/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/27/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/28/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/29/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/30/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,3/31/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/1/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/2/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/3/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/4/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/5/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/6/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/7/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/8/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/9/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/10/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/11/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/12/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/13/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/14/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/15/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/16/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/17/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/18/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/19/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/20/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/21/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/22/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/23/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/24/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/25/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/26/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/27/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/28/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/29/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,4/30/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/1/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/2/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/3/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/4/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/5/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/6/2020,0,0,0,0,0,0,0,0,LAO.9_1,9
+Lao People's Democratic Republic,LAO,418,4,Oudomxai,ອຸດົມໄຊ,5/7/2020,0,0,0,0,0,0,0,0,LAO.9_1,9

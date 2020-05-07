@@ -1,0 +1,331 @@
+country_name,country_iso,country_unsd,state_name,state_code,district_code,district_name,township_name,township_code,township_name_mmr
+Myanmar,MMR,104,Rakhine,12,MMR012D003,Kyaukpyu,Ramree,12013,ရမ်းဗြဲ
+Myanmar,MMR,104,Rakhine,12,MMR012D004,Thandwe,Toungup,12016,တောင်ကုတ်
+Myanmar,MMR,104,Rakhine,12,MMR012D003,Kyaukpyu,Kyaukpyu,12011,ကျောက်ဖြူ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D004,Labutta,Labutta,17016,လပွတ္တာ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Ngapudaw,17004,ငပုတော
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D006,Pyapon,Bogale,17024,ဘိုကလေး
+Myanmar,MMR,104,Rakhine,12,MMR012D004,Thandwe,Thandwe,12015,သံတွဲ
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Kungyangon,13029,ကွမ်းခြံကုန်း
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D006,Pyapon,Dedaye,17026,ဒေးဒရဲ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D006,Pyapon,Pyapon,17023,ဖျာပုံ
+Myanmar,MMR,104,Rakhine,12,MMR012D003,Kyaukpyu,Munaung,12012,မာန်အောင်
+Myanmar,MMR,104,Rakhine,12,MMR012D004,Thandwe,Gwa,12017,ဂွ
+Myanmar,MMR,104,Tanintharyi,6,MMR006D003,Kawthoung,Kawthoung,6009,ကော့သောင်း
+Myanmar,MMR,104,Tanintharyi,6,MMR006D002,Myeik,Kyunsu,6006,ကျွန်းစု
+Myanmar,MMR,104,Tanintharyi,6,MMR006D001,Dawei,Launglon,6002,လောင်းလုံး
+Myanmar,MMR,104,Tanintharyi,6,MMR006D003,Kawthoung,Bokpyin,6010,ဘုတ်ပြင်း
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,Ye,11006,ရေး
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,Chaungzon,11003,ချောင်းဆုံ
+Myanmar,MMR,104,Tanintharyi,6,MMR006D002,Myeik,Palaw,6007,ပုလော
+Myanmar,MMR,104,Tanintharyi,6,MMR006D001,Dawei,Yebyu,6004,ရေဖြူ
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,Mawlamyine,11001,မော်လမြိုင်
+Myanmar,MMR,104,Kayin,3,MMR003D001,Hpa-An,Hpa-An,3001,ဘားအံ
+Myanmar,MMR,104,Rakhine,12,MMR012D005,Mrauk-U,Myebon,12006,မြေပုံ
+Myanmar,MMR,104,Rakhine,12,MMR012D003,Kyaukpyu,Ann,12014,အမ်း
+Myanmar,MMR,104,Rakhine,12,MMR012D001,Sittwe,Pauktaw,12007,ပေါက်တော
+Myanmar,MMR,104,Rakhine,12,MMR012D001,Sittwe,Rathedaung,12008,ရသေ့တောင်
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,Paukkhaung,8002,ပေါက်ခေါင်း
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,Yedashe,7010,ရေတာရှည်
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Thongwa,13025,သုံးခွ
+Myanmar,MMR,104,Mon,11,MMR011D002,Thaton,Paung,11008,ပေါင်
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Dagon Myothit (East),13020,ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),North Okkalapa,13012,မြောက်ဥက္ကလာပ
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Hmawbi,13003,မှော်ဘီ
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,Aunglan,9016,အောင်လံ
+Myanmar,MMR,104,Mandalay,10,MMR010D003,Kyaukse,Kyaukse,10013,ကျောက်ဆည်
+Myanmar,MMR,104,Shan (North),15,MMR015D003,Kyaukme,Nawnghkio,15013,နောင်ချို
+Myanmar,MMR,104,Shan (North),15,MMR015D003,Kyaukme,Kyaukme,15012,ကျောက်မဲ
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Hlegu,13004,လှည်းကူး
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,Padaung,8003,ပန်းတောင်း
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Dagon Myothit (North),13019,ဒဂုံမြို့သစ် (မြောက်ပိုင်း)
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Twantay,13027,တွံတေး
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Mayangone,13042,မရမ်းကုန်း
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Dagon Myothit (Seikkan),13021,ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Latha,13036,လသာ
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Dawbon,13014,ဒေါပုံ
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Ahlone,13037,အလုံ
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Mingaladon,13002,မင်္ဂလာဒုံ
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Shwepyithar,13007,ရွှေပြည်သာ
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Yankin,13010,ရန်ကင်း
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Kyaunggon,17007,ကျောင်းကုန်း
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Kyeemyindaing,13038,ကြည့်မြင်တိုင်
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Letpadan,8008,လက်ပံတန်း
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,Ingapu,17013,အင်္ဂပူ
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Tamwe,13015,တာမွေ
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Bahan,13044,ဗဟန်း
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Kamaryut,13041,ကမာရွတ်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D005,Maubin,Pantanaw,17020,ပန်းတနော်
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Thaketa,13013,သာကေတ
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Pabedan,13034,ပန်းဘဲတန်း
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Kyauktada,13033,ကျောက်တံတား
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,Kyangin,17012,ကြံခင်း
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Monyo,8013,မိုးညို
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Dagon,13043,ဒဂုံ
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Sanchaung,13039,စမ်းချောင်း
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,Hinthada,17008,ဟင်္သာတ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D005,Maubin,Danubyu,17022,ဓနုဖြူ
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Hlaing,13040,လှိုင်
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Dala,13030,ဒလ
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Nattalin,8012,နတ်တလင်း
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,Thegon,8005,သဲကုန်း
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Thanatpin,7002,သနပ်ပင်
+Myanmar,MMR,104,Mon,11,MMR011D002,Thaton,Kyaikto,11009,ကျိုက်ထို
+Myanmar,MMR,104,Tanintharyi,6,MMR006D001,Dawei,Thayetchaung,6003,သရက်ချောင်း
+Myanmar,MMR,104,Kayin,3,MMR003D004,Hpapun,Hpapun,3003,ဖာပွန်
+Myanmar,MMR,104,Kayah,2,MMR002D002,Bawlake,Mese,2007,မယ်စဲ
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Patheingyi,10007,ပုသိမ်ကြီး
+Myanmar,MMR,104,Rakhine,12,MMR012D005,Mrauk-U,Minbya,12005,မင်းပြား
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Chanayethazan,10002,ချမ်းအေးသာစံ
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Aungmyaythazan,10001,အောင်မြေသာစံ
+Myanmar,MMR,104,Shan (South),14,MMR014D001,Taunggyi,Kalaw,14005,ကလော
+Myanmar,MMR,104,Mandalay,10,MMR010D006,Yamethin,Yamethin,10023,ရမည်းသင်း
+Myanmar,MMR,104,Mandalay,10,MMR010D002,Pyinoolwin,Madaya,10009,မတ္တရာ
+Myanmar,MMR,104,Sagaing,5,MMR005D004,Katha,Tigyaing,5022,ထီးချိုင့်
+Myanmar,MMR,104,Sagaing,5,MMR005D003,Monywa,Budalin,5013,ဘုတလင်
+Myanmar,MMR,104,Sagaing,5,MMR005D011,Kawlin,Wuntho,5025,ဝန်းသို
+Myanmar,MMR,104,Mandalay,10,MMR010D002,Pyinoolwin,Thabeikkyin,10012,သပိတ်ကျင်း
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Mahaaungmyay,10003,မဟာအောင်မြေ
+Myanmar,MMR,104,Sagaing,5,MMR005D008,Hkamti,Hkamti,5033,ခန္တီး
+Myanmar,MMR,104,Sagaing,5,MMR005D009,Yinmarbin,Yinmarbin,5016,ယင်းမာပင်
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,Shwebo,5004,ရွှေဘို
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,Ye-U,5009,ရေဦး
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D002,Det Khi Na,Lewe,18007,လယ်ဝေး
+Myanmar,MMR,104,Sagaing,5,MMR005D009,Yinmarbin,Salingyi,5018,ဆားလင်းကြီး
+Myanmar,MMR,104,Sagaing,5,MMR005D003,Monywa,Chaung-U,5015,ချောင်းဦး
+Myanmar,MMR,104,Magway,9,MMR009D004,Pakokku,Yesagyo,9019,ရေစကြို
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Amarapura,10006,အမရပူရ
+Myanmar,MMR,104,Mandalay,10,MMR010D002,Pyinoolwin,Pyinoolwin,10008,ပြင်ဦးလွင်
+Myanmar,MMR,104,Mandalay,10,MMR010D003,Kyaukse,Sintgaing,10014,စဉ့်ကိုင်
+Myanmar,MMR,104,Sagaing,5,MMR005D010,Kanbalu,Kanbalu,5007,ကန့်ဘလူ
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Chanmyathazi,10004,ချမ်းမြသာစည်
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D001,Oke Ta Ra,Tatkon,18003,တပ်ကုန်း
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,Taungdwingyi,9004,တောင်တွင်းကြီး
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,Yenangyaung,9002,ရေနံချောင်း
+Myanmar,MMR,104,Shan (South),14,MMR014S002,Pa-O Self-Administered Zone,Hsihseng,14004,ဆီဆိုင်
+Myanmar,MMR,104,Shan (East),16,MMR016D001,Kengtung,Kengtung,16001,ကျိုင်းတုံ
+Myanmar,MMR,104,Shan (East),16,MMR016D002,Monghsat,Monghsat,16006,မိုင်းဆတ်
+Myanmar,MMR,104,Kayah,2,MMR002D001,Loikaw,Loikaw,2001,လွိုင်ကော်
+Myanmar,MMR,104,Magway,9,MMR009D002,Minbu,Salin,9010,စလင်း
+Myanmar,MMR,104,Shan (East),16,MMR016D003,Tachileik,Mongyawng,16011,မိုင်းယောင်း
+Myanmar,MMR,104,Shan (North),15,MMR015S001,Pa Laung Self-Administered Zone,Namhsan,15016,နမ့်ဆန်
+Myanmar,MMR,104,Shan (South),14,MMR014S001,Danu Self-Administered Zone,Pindaya,14006,ပင်းတယ
+Myanmar,MMR,104,Mandalay,10,MMR010D007,Meiktila,Thazi,10030,သာစည်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D003,Myaungmya,Wakema,17017,ဝါးခယ်မ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D003,Myaungmya,Myaungmya,17014,မြောင်းမြ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Thabaung,17003,သာပေါင်း
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Yegyi,17006,ရေကြည်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Kangyidaunt,17002,ကန်ကြီးထောင့်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D006,Pyapon,Kyaiklat,17025,ကျိုက်လတ်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,Myanaung,17011,မြန်အောင်
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Kawhmu,13028,ကော့မှုး
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Dagon Myothit (South),13018,ဒဂုံမြို့သစ် (တောင်ပိုင်း)
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Taikkyi,13005,တိုက်ကြီး
+Myanmar,MMR,104,Mandalay,10,MMR010D003,Kyaukse,Tada-U,10016,တံတားဦး
+Myanmar,MMR,104,Kayin,3,MMR003D001,Hpa-An,Hlaingbwe,3002,လှိုင်းဘွဲ့
+Myanmar,MMR,104,Mon,11,MMR011D002,Thaton,Bilin,11010,ဘီးလင်း
+Myanmar,MMR,104,Tanintharyi,6,MMR006D001,Dawei,Dawei,6001,ထားဝယ်
+Myanmar,MMR,104,Magway,9,MMR009D004,Pakokku,Pakokku,9018,ပခုက္ကူ
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,Chauk,9003,ချောက်
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D002,Det Khi Na,Det Khi Na Thi Ri,18004,ဒက္ခိဏသီရိ
+Myanmar,MMR,104,Shan (East),16,MMR016D003,Tachileik,Tachileik,16009,တာချီလိတ်
+Myanmar,MMR,104,Shan (North),15,MMR015S002,Kokang Self-Administered Zone,Laukkaing,15022,လောက်ကိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D006,Hopang,Hopang,15021,ဟိုပန်
+Myanmar,MMR,104,Kachin,1,MMR001D003,Bhamo,Mansi,1013,မံစီ
+Myanmar,MMR,104,Shan (North),15,MMR015S001,Pa Laung Self-Administered Zone,Manton,15019,မန်တုံ
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Botahtaung,13017,ဗိုလ်တထောင်
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Pazundaung,13016,ပုဇွန်တောင်
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Hlaingtharya (East),13046,လှိုင်သာယာ (အရှေ့ပိုင်း)
+Myanmar,MMR,104,Shan (North),15,MMR015D008,Mongmit,Mongmit,15017,မိုးမိတ်
+Myanmar,MMR,104,Mandalay,10,MMR010D002,Pyinoolwin,Mogoke,10011,မိုးကုတ်
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,Kamma,9015,ကံမ
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Kayan,13026,ခရမ်း
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Kawa,7003,ကဝ
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Thanlyin,13023,သန်လျင်
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,Tanai,1004,တနိုင်း
+Myanmar,MMR,104,Kachin,1,MMR001D004,Puta-O,Puta-O,1014,ပူတာအို
+Myanmar,MMR,104,Kachin,1,MMR001D004,Puta-O,Sumprabum,1015,ဆွမ်ပရာဘွမ်
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Shwegyin,7008,ရွှေကျင်
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Nyaunglebin,7005,ညောင်လေးပင်
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Waw,7004,ဝေါ
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Daik-U,7007,ဒိုက်ဦး
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Kyauktaga,7006,ကျောက်တံခါး
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,Mindon,9014,မင်းတုန်း
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D001,Oke Ta Ra,Zay Yar Thi Ri,18001,ဇေယျာသီရိ
+Myanmar,MMR,104,Shan (South),14,MMR014S002,Pa-O Self-Administered Zone,Pinlaung,14009,ပင်လောင်း
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D001,Oke Ta Ra,Poke Ba Thi Ri,18005,ပုဗ္ဗသီရိ
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D002,Det Khi Na,Pyinmana,18006,ပျဉ်းမနား
+Myanmar,MMR,104,Shan (South),14,MMR014D001,Taunggyi,Pekon,14010,ဖယ်ခုံ
+Myanmar,MMR,104,Kayin,3,MMR003D001,Hpa-An,Thandaunggyi,3004,သံတောင်ကြီး
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Kyauktan,13024,ကျောက်တန်း
+Myanmar,MMR,104,Bago (East),7,MMR007D001,Bago,Bago,7001,ပဲခူး
+Myanmar,MMR,104,Kayah,2,MMR002D002,Bawlake,Bawlake,2005,ဘောလခဲ
+Myanmar,MMR,104,Shan (North),15,MMR015D003,Kyaukme,Hsipaw,15014,သီပေါ
+Myanmar,MMR,104,Shan (South),14,MMR014D001,Taunggyi,Lawksawk,14008,ရပ်စောက်
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Htantabin,13006,ထန်းတပင်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D005,Maubin,Nyaungdon,17021,ညောင်တုန်း
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Hlaingtharya (West),13047,လှိုင်သာယာ (အနောက်ပိုင်း)
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,Lemyethna,17010,လေးမျက်နှာ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D004,Labutta,Mawlamyinegyun,17018,မော်လမြိုင်ကျွန်း
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D003,Myaungmya,Einme,17015,အိမ်မဲ
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Pathein,17001,ပုသိမ်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D005,Maubin,Maubin,17019,မအူပင်
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Seikgyikanaungto,13031,ဆိပ်ကြီး/ခနောင်တို
+Myanmar,MMR,104,Tanintharyi,6,MMR006D002,Myeik,Tanintharyi,6008,တနင်္သာရီ
+Myanmar,MMR,104,Mon,11,MMR011D002,Thaton,Thaton,11007,သထုံ
+Myanmar,MMR,104,Kayin,3,MMR003D003,Kawkareik,Kyainseikgyi,3007,ကြာအင်းဆိပ်ကြီး
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D002,Det Khi Na,Za Bu Thi Ri,18002,ဇမ္ဗူသီရိ
+Myanmar,MMR,104,Chin,4,MMR004D004,Matupi,Paletwa,4009,ပလက်ဝ
+Myanmar,MMR,104,Chin,4,MMR004D002,Mindat,Kanpetlet,4008,ကန်ပက်လက်
+Myanmar,MMR,104,Rakhine,12,MMR012D005,Mrauk-U,Kyauktaw,12004,ကျောက်တော်
+Myanmar,MMR,104,Rakhine,12,MMR012D005,Mrauk-U,Mrauk-U,12003,မြောက်ဦး
+Myanmar,MMR,104,Rakhine,12,MMR012D002,Maungdaw,Buthidaung,12010,ဘူးသီးတောင်
+Myanmar,MMR,104,Kayin,3,MMR003D003,Kawkareik,Kawkareik,3006,ကော့ကရိတ်
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,Kyaikmaraw,11002,ကျိုက်မရော
+Myanmar,MMR,104,Rakhine,12,MMR012D002,Maungdaw,Maungdaw,12009,မောင်တော
+Myanmar,MMR,104,Tanintharyi,6,MMR006D002,Myeik,Myeik,6005,မြိတ်
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,Mudon,11005,မုဒုံ
+Myanmar,MMR,104,Yangon,13,MMR013D003,Yangon (South),Cocokyun,13032,ကိုကိုးကျွန်း
+Myanmar,MMR,104,Mon,11,MMR011D001,Mawlamyine,Thanbyuzayat,11004,သံဖြူဇရပ်
+Myanmar,MMR,104,Magway,9,MMR009D002,Minbu,Sidoktaya,9011,စေတုတ္ထရာ
+Myanmar,MMR,104,Magway,9,MMR009D002,Minbu,Ngape,9009,ငဖဲ
+Myanmar,MMR,104,Rakhine,12,MMR012D001,Sittwe,Ponnagyun,12002,ပုဏ္ဏားကျွန်း
+Myanmar,MMR,104,Rakhine,12,MMR012D001,Sittwe,Sittwe,12001,စစ်တွေ
+Myanmar,MMR,104,Nay Pyi Taw,18,MMR018D001,Oke Ta Ra,Oke Ta Ra Thi Ri,18008,ဥတ္တရသီရိ
+Myanmar,MMR,104,Sagaing,5,MMR005D003,Monywa,Ayadaw,5014,အရာတော်
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,Tabayin,5010,ဒီပဲယင်း
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,Wetlet,5006,ဝက်လက်
+Myanmar,MMR,104,Sagaing,5,MMR005D001,Sagaing,Myinmu,5002,မြင်းမူ
+Myanmar,MMR,104,Sagaing,5,MMR005D003,Monywa,Monywa,5012,မုံရွာ
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,Shwedaung,8006,ရွှေတောင်
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,Sinbaungwe,9017,ဆင်ပေါင်ဝဲ
+Myanmar,MMR,104,Shan (East),16,MMR016D001,Kengtung,Mongkhet,16002,မိုင်းခတ်
+Myanmar,MMR,104,Shan (East),16,MMR016D001,Kengtung,Mongping,16007,မိုင်းပျဉ်း
+Myanmar,MMR,104,Shan (North),15,MMR015D007,Matman,Matman,15024,မက်မန်း
+Myanmar,MMR,104,Shan (East),16,MMR016D001,Kengtung,Mongyang,16003,မိုင်းယန်း
+Myanmar,MMR,104,Kachin,1,MMR001D004,Puta-O,Machanbaw,1016,မချမ်းဘော
+Myanmar,MMR,104,Kachin,1,MMR001D004,Puta-O,Khaunglanhpu,1018,ခေါင်လန်ဖူး
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,Injangyang,1003,အင်ဂျန်းယန်
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,Myitkyina,1001,မြစ်ကြီးနား
+Myanmar,MMR,104,Shan (East),16,MMR016D003,Tachileik,Monghpyak,16010,မိုင်းဖြတ်
+Myanmar,MMR,104,Shan (North),15,MMR015D006,Hopang,Pangwaun,15007,ပန်ဝိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D006,Hopang,Mongmao,15008,မိုင်းမော
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Nansang,14013,နမ့်စန်
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Kunhing,14014,ကွန်ဟိန်း
+Myanmar,MMR,104,Kayah,2,MMR002D001,Loikaw,Shadaw,2004,ရှားတော
+Myanmar,MMR,104,Shan (South),14,MMR014D003,Langkho,Mongnai,14019,မိုးနဲ
+Myanmar,MMR,104,Shan (East),16,MMR016D002,Monghsat,Mongton,16008,မိုင်းတုံ
+Myanmar,MMR,104,Shan (South),14,MMR014D003,Langkho,Langkho,14018,လင်းခေး
+Myanmar,MMR,104,Shan (South),14,MMR014D003,Langkho,Mawkmai,14020,မောက်မယ်
+Myanmar,MMR,104,Shan (North),15,MMR015D007,Matman,Pangsang,15005,ပန်ဆန်း (ပန်ခမ်း)
+Myanmar,MMR,104,Shan (North),15,MMR015D007,Matman,Narphan,15006,နားဖန်း
+Myanmar,MMR,104,Shan (South),14,MMR014D003,Langkho,Mongpan,14021,မိုင်းပန်
+Myanmar,MMR,104,Shan (North),15,MMR015D001,Lashio,Tangyan,15004,တန့်ယန်း
+Myanmar,MMR,104,Shan (North),15,MMR015D001,Lashio,Mongyai,15003,မိုင်းရယ်
+Myanmar,MMR,104,Shan (North),15,MMR015D001,Lashio,Lashio,15001,လားရှိုး
+Myanmar,MMR,104,Shan (South),14,MMR014S002,Pa-O Self-Administered Zone,Hopong,14003,ဟိုပုံး
+Myanmar,MMR,104,Shan (South),14,MMR014D001,Taunggyi,Taunggyi,14001,တောင်ကြီး
+Myanmar,MMR,104,Shan (East),16,MMR016D001,Kengtung,Mongla,16005,မိုင်းလား
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Kyethi,14015,ကျေးသီး
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Monghsu,14017,မိုင်းရှူး
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Loilen,14011,လွိုင်လင်
+Myanmar,MMR,104,Shan (North),15,MMR015D003,Kyaukme,Namtu,15015,နမ္မတူ
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Thingangyun,13009,သင်္ဃန်းကျွန်း
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),South Okkalapa,13011,တောင်ဥက္ကလာပ
+Myanmar,MMR,104,Yangon,13,MMR013D001,Yangon (North),Insein,13001,အင်းစိန်
+Myanmar,MMR,104,Yangon,13,MMR013D002,Yangon (East),Mingalartaungnyunt,13022,မင်္ဂလာတောင်ညွန့်
+Myanmar,MMR,104,Yangon,13,MMR013D004,Yangon (West),Lanmadaw,13035,လမ်းမတော်
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D001,Pathein,Kyonpyaw,17005,ကျုံပျော်
+Myanmar,MMR,104,Sagaing,5,MMR005D001,Sagaing,Sagaing,5001,စစ်ကိုင်း
+Myanmar,MMR,104,Mandalay,10,MMR010D001,Mandalay,Pyigyitagon,10005,ပြည်ကြီးတံခွန်
+Myanmar,MMR,104,Shan (South),14,MMR014D001,Taunggyi,Nyaungshwe,14002,ညောင်ရွှေ
+Myanmar,MMR,104,Kayah,2,MMR002D001,Loikaw,Demoso,2002,ဒီးမော့ဆို
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,Minhla,9013,မင်းလှ
+Myanmar,MMR,104,Kachin,1,MMR001D004,Puta-O,Nawngmun,1017,နောင်မွန်း
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,Taungoo,7009,တောင်ငူ
+Myanmar,MMR,104,Kachin,1,MMR001D002,Mohnyin,Mogaung,1008,မိုးကောင်း
+Myanmar,MMR,104,Kachin,1,MMR001D002,Mohnyin,Mohnyin,1007,မိုးညှင်း
+Myanmar,MMR,104,Sagaing,5,MMR005S001,Naga Self-Administered Zone,Nanyun,5037,နန်းယွန်း
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,Pyay,8001,ပြည်
+Myanmar,MMR,104,Bago (West),8,MMR008D001,Pyay,Paungde,8004,ပေါင်းတည်
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Okpho,8010,အုတ်ဖို
+Myanmar,MMR,104,Ayeyarwady,17,MMR017D002,Hinthada,Zalun,17009,ဇလွန်
+Myanmar,MMR,104,Kayin,3,MMR003D002,Myawaddy,Myawaddy,3005,မြဝတီ
+Myanmar,MMR,104,Chin,4,MMR004D001,Falam,Tonzang,4005,တွန်းဇန်
+Myanmar,MMR,104,Sagaing,5,MMR005D011,Kawlin,Pinlebu,5026,ပင်လည်ဘူး
+Myanmar,MMR,104,Sagaing,5,MMR005D004,Katha,Katha,5020,ကသာ
+Myanmar,MMR,104,Sagaing,5,MMR005D006,Tamu,Tamu,5030,တမူး
+Myanmar,MMR,104,Chin,4,MMR004D001,Falam,Falam,4001,ဖလမ်း
+Myanmar,MMR,104,Chin,4,MMR004D003,Hakha,Thantlang,4003,ထန်တလန်
+Myanmar,MMR,104,Sagaing,5,MMR005D009,Yinmarbin,Kani,5017,ကနီ
+Myanmar,MMR,104,Chin,4,MMR004D004,Matupi,Matupi,4007,မတူပီ
+Myanmar,MMR,104,Magway,9,MMR009D003,Thayet,Thayet,9012,သရက်
+Myanmar,MMR,104,Sagaing,5,MMR005D001,Sagaing,Myaung,5003,မြောင်
+Myanmar,MMR,104,Magway,9,MMR009D004,Pakokku,Myaing,9020,မြိုင်
+Myanmar,MMR,104,Magway,9,MMR009D004,Pakokku,Pauk,9021,ပေါက်
+Myanmar,MMR,104,Sagaing,5,MMR005S001,Naga Self-Administered Zone,Lay Shi,5035,လေရှီး
+Myanmar,MMR,104,Sagaing,5,MMR005S001,Naga Self-Administered Zone,Lahe,5036,လဟယ်
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,Khin-U,5005,ခင်ဦး
+Myanmar,MMR,104,Chin,4,MMR004D003,Hakha,Hakha,4002,ဟားခါး
+Myanmar,MMR,104,Magway,9,MMR009D005,Gangaw,Gangaw,9023,ဂန့်ဂေါ
+Myanmar,MMR,104,Mandalay,10,MMR010D006,Yamethin,Pyawbwe,10024,ပျော်ဘွယ်
+Myanmar,MMR,104,Chin,4,MMR004D001,Falam,Tedim,4004,တီးတိန်
+Myanmar,MMR,104,Mandalay,10,MMR010D005,Nyaung-U,Nyaung-U,10022,ညောင်ဦး
+Myanmar,MMR,104,Magway,9,MMR009D002,Minbu,Pwintbyu,9008,ပွင့်ဖြူ
+Myanmar,MMR,104,Mandalay,10,MMR010D007,Meiktila,Meiktila,10028,မိတ္ထီလာ
+Myanmar,MMR,104,Sagaing,5,MMR005D011,Kawlin,Kawlin,5024,ကောလင်း
+Myanmar,MMR,104,Mandalay,10,MMR010D007,Meiktila,Mahlaing,10029,မလှိုင်
+Myanmar,MMR,104,Mandalay,10,MMR010D004,Myingyan,Taungtha,10018,တောင်သာ
+Myanmar,MMR,104,Shan (North),15,MMR015D002,Muse,Muse,15009,မူဆယ်
+Myanmar,MMR,104,Kachin,1,MMR001D003,Bhamo,Momauk,1012,မိုးမောက်
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,Chipwi,1005,ချီ​ဖွေ
+Myanmar,MMR,104,Shan (North),15,MMR015S002,Kokang Self-Administered Zone,Konkyan,15023,ကုန်းကြမ်း
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,Waingmaw,1002,ဝိုင်းမော်
+Myanmar,MMR,104,Kachin,1,MMR001D001,Myitkyina,Tsawlaw,1006,ဆော့လော်
+Myanmar,MMR,104,Kachin,1,MMR001D003,Bhamo,Bhamo,1010,ဗန်းမော်
+Myanmar,MMR,104,Shan (North),15,MMR015D002,Muse,Namhkan,15010,နမ့်ခမ်း
+Myanmar,MMR,104,Shan (North),15,MMR015D002,Muse,Kutkai,15011,ကွတ်ခိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D008,Mongmit,Mabein,15018,မဘိမ်း
+Myanmar,MMR,104,Kachin,1,MMR001D002,Mohnyin,Hpakant,1009,ဖားကန့်
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,Phyu,7012,ဖြူး
+Myanmar,MMR,104,Kachin,1,MMR001D003,Bhamo,Shwegu,1011,ရွှေကူ
+Myanmar,MMR,104,Shan (South),14,MMR014S001,Danu Self-Administered Zone,Ywangan,14007,ရွာငံ
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,Oktwin,7013,အုတ်တွင်း
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,Kyaukkyi,7011,ကျောက်ကြီး
+Myanmar,MMR,104,Bago (East),7,MMR007D002,Taungoo,Htantabin,7014,ထန်းတပင်
+Myanmar,MMR,104,Kayah,2,MMR002D002,Bawlake,Hpasawng,2006,ဖားဆောင်း
+Myanmar,MMR,104,Kayah,2,MMR002D001,Loikaw,Hpruso,2003,ဖရူဆို
+Myanmar,MMR,104,Mandalay,10,MMR010D003,Kyaukse,Myittha,10015,မြစ်သား
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Minhla,8009,မင်းလှ
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Gyobingauk,8014,ကြို့ပင်ကောက်
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Thayarwady,8007,သာယာဝတီ
+Myanmar,MMR,104,Bago (West),8,MMR008D002,Thayarwady,Zigon,8011,ဇီးကုန်း
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,Natmauk,9006,နတ်မောက်
+Myanmar,MMR,104,Sagaing,5,MMR005D009,Yinmarbin,Pale,5019,ပုလဲ
+Myanmar,MMR,104,Mandalay,10,MMR010D004,Myingyan,Myingyan,10017,မြင်းခြံ
+Myanmar,MMR,104,Mandalay,10,MMR010D004,Myingyan,Natogyi,10019,နွားထိုးကြီး
+Myanmar,MMR,104,Mandalay,10,MMR010D002,Pyinoolwin,Singu,10010,စဉ့်ကူး
+Myanmar,MMR,104,Sagaing,5,MMR005D007,Mawlaik,Mawlaik,5031,မော်လိုက်
+Myanmar,MMR,104,Sagaing,5,MMR005D005,Kale,Kalewa,5028,ကလေးဝ
+Myanmar,MMR,104,Sagaing,5,MMR005D004,Katha,Indaw,5021,အင်းတော်
+Myanmar,MMR,104,Magway,9,MMR009D005,Gangaw,Saw,9025,ဆော
+Myanmar,MMR,104,Sagaing,5,MMR005D010,Kanbalu,Kyunhla,5008,ကျွန်းလှ
+Myanmar,MMR,104,Sagaing,5,MMR005D007,Mawlaik,Paungbyin,5032,ဖောင်းပြင်
+Myanmar,MMR,104,Sagaing,5,MMR005D005,Kale,Mingin,5029,မင်းကင်း
+Myanmar,MMR,104,Magway,9,MMR009D005,Gangaw,Tilin,9024,ထီးလင်း
+Myanmar,MMR,104,Chin,4,MMR004D002,Mindat,Mindat,4006,မင်းတပ်
+Myanmar,MMR,104,Mandalay,10,MMR010D004,Myingyan,Ngazun,10021,ငါန်းဇွန်
+Myanmar,MMR,104,Sagaing,5,MMR005D008,Hkamti,Homalin,5034,ဟုမ္မလင်း
+Myanmar,MMR,104,Sagaing,5,MMR005D004,Katha,Banmauk,5023,ဗန်းမောက်
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,Magway,9001,မကွေး
+Myanmar,MMR,104,Magway,9,MMR009D001,Magway,Myothit,9005,မြို့သစ်
+Myanmar,MMR,104,Sagaing,5,MMR005D002,Shwebo,Taze,5011,တန့်ဆည်
+Myanmar,MMR,104,Mandalay,10,MMR010D005,Nyaung-U,Kyaukpadaung,10020,ကျောက်ပန်းတောင်း
+Myanmar,MMR,104,Mandalay,10,MMR010D007,Meiktila,Wundwin,10031,ဝမ်းတွင်း
+Myanmar,MMR,104,Magway,9,MMR009D002,Minbu,Minbu,9007,မင်းဘူး
+Myanmar,MMR,104,Sagaing,5,MMR005D005,Kale,Kale,5027,ကလေး
+Myanmar,MMR,104,Magway,9,MMR009D004,Pakokku,Seikphyu,9022,ဆိပ်ဖြူ
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Laihka,14012,လဲချား
+Myanmar,MMR,104,Shan (South),14,MMR014D002,Loilen,Mongkaing,14016,မိုင်းကိုင်
+Myanmar,MMR,104,Shan (North),15,MMR015D001,Lashio,Hseni,15002,သိန္နီ
+Myanmar,MMR,104,Shan (North),15,MMR015D001,Lashio,Kunlong,15020,ကွမ်းလုံ
