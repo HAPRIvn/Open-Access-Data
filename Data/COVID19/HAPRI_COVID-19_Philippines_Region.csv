@@ -1,0 +1,1783 @@
+country_name,region_code,region_name,date,case_confirmed_new,case_confirmed,case_recovered_new,case_recovered,case_death_new,case_death
+Philippines,10000000,Region I (Ilocos Region),30/01/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),31/01/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),01/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),02/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),03/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),04/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),05/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),06/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),07/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),08/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),09/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),10/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),11/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),12/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),13/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),14/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),15/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),16/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),17/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),18/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),19/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),20/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),21/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),22/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),23/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),24/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),25/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),26/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),27/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),28/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),29/02/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),01/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),02/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),03/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),04/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),05/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),06/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),07/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),08/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),09/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),10/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),11/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),12/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),13/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),14/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),15/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),16/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),17/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),18/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),19/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),20/03/2020,0,0,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),21/03/2020,2,2,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),22/03/2020,0,2,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),23/03/2020,0,2,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),24/03/2020,0,2,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),25/03/2020,0,2,0,0,0,0
+Philippines,10000000,Region I (Ilocos Region),26/03/2020,3,5,0,0,1,1
+Philippines,10000000,Region I (Ilocos Region),27/03/2020,4,9,1,1,1,2
+Philippines,10000000,Region I (Ilocos Region),28/03/2020,1,10,0,1,0,2
+Philippines,10000000,Region I (Ilocos Region),29/03/2020,2,12,0,1,1,3
+Philippines,10000000,Region I (Ilocos Region),30/03/2020,2,14,0,1,0,3
+Philippines,10000000,Region I (Ilocos Region),31/03/2020,5,19,2,3,1,4
+Philippines,10000000,Region I (Ilocos Region),01/04/2020,2,21,1,4,0,4
+Philippines,10000000,Region I (Ilocos Region),02/04/2020,16,37,8,12,5,9
+Philippines,10000000,Region I (Ilocos Region),03/04/2020,2,39,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),04/04/2020,1,40,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),05/04/2020,0,40,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),06/04/2020,1,41,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),07/04/2020,0,41,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),08/04/2020,0,41,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),09/04/2020,0,41,0,12,0,9
+Philippines,10000000,Region I (Ilocos Region),10/04/2020,8,49,2,14,0,9
+Philippines,10000000,Region I (Ilocos Region),11/04/2020,1,50,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),12/04/2020,0,50,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),13/04/2020,3,53,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),14/04/2020,0,53,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),15/04/2020,1,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),16/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),17/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),18/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),19/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),20/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),21/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),22/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),23/04/2020,0,54,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),24/04/2020,1,55,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),25/04/2020,6,61,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),26/04/2020,0,61,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),27/04/2020,0,61,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),28/04/2020,0,61,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),29/04/2020,0,61,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),30/04/2020,1,62,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),01/05/2020,0,62,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),02/05/2020,0,62,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),03/05/2020,1,63,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),04/05/2020,0,63,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),05/05/2020,0,63,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),06/05/2020,0,63,0,14,0,9
+Philippines,10000000,Region I (Ilocos Region),07/05/2020,0,63,0,14,0,9
+Philippines,20000000,Region II (Cagayan Valley),30/01/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),31/01/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),01/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),02/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),03/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),04/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),05/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),06/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),07/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),08/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),09/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),10/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),11/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),12/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),13/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),14/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),15/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),16/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),17/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),18/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),19/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),20/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),21/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),22/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),23/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),24/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),25/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),26/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),27/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),28/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),29/02/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),01/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),02/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),03/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),04/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),05/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),06/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),07/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),08/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),09/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),10/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),11/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),12/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),13/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),14/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),15/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),16/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),17/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),18/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),19/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),20/03/2020,0,0,0,0,0,0
+Philippines,20000000,Region II (Cagayan Valley),21/03/2020,1,1,1,1,0,0
+Philippines,20000000,Region II (Cagayan Valley),22/03/2020,0,1,0,1,0,0
+Philippines,20000000,Region II (Cagayan Valley),23/03/2020,0,1,0,1,0,0
+Philippines,20000000,Region II (Cagayan Valley),24/03/2020,0,1,0,1,0,0
+Philippines,20000000,Region II (Cagayan Valley),25/03/2020,0,1,0,1,0,0
+Philippines,20000000,Region II (Cagayan Valley),26/03/2020,2,3,2,3,0,0
+Philippines,20000000,Region II (Cagayan Valley),27/03/2020,2,5,1,4,1,1
+Philippines,20000000,Region II (Cagayan Valley),28/03/2020,6,11,6,10,0,1
+Philippines,20000000,Region II (Cagayan Valley),29/03/2020,4,15,4,14,0,1
+Philippines,20000000,Region II (Cagayan Valley),30/03/2020,0,15,0,14,0,1
+Philippines,20000000,Region II (Cagayan Valley),31/03/2020,0,15,0,14,0,1
+Philippines,20000000,Region II (Cagayan Valley),01/04/2020,3,18,3,17,0,1
+Philippines,20000000,Region II (Cagayan Valley),02/04/2020,2,20,2,19,0,1
+Philippines,20000000,Region II (Cagayan Valley),03/04/2020,1,21,1,20,0,1
+Philippines,20000000,Region II (Cagayan Valley),04/04/2020,0,21,0,20,0,1
+Philippines,20000000,Region II (Cagayan Valley),05/04/2020,1,22,1,21,0,1
+Philippines,20000000,Region II (Cagayan Valley),06/04/2020,0,22,0,21,0,1
+Philippines,20000000,Region II (Cagayan Valley),07/04/2020,1,23,0,21,0,1
+Philippines,20000000,Region II (Cagayan Valley),08/04/2020,1,24,0,21,0,1
+Philippines,20000000,Region II (Cagayan Valley),09/04/2020,1,25,1,22,0,1
+Philippines,20000000,Region II (Cagayan Valley),10/04/2020,0,25,0,22,0,1
+Philippines,20000000,Region II (Cagayan Valley),11/04/2020,1,26,1,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),12/04/2020,0,26,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),13/04/2020,1,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),14/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),15/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),16/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),17/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),18/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),19/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),20/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),21/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),22/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),23/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),24/04/2020,0,27,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),25/04/2020,2,29,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),26/04/2020,0,29,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),27/04/2020,0,29,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),28/04/2020,1,30,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),29/04/2020,0,30,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),30/04/2020,0,30,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),01/05/2020,3,33,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),02/05/2020,0,33,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),03/05/2020,0,33,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),04/05/2020,0,33,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),05/05/2020,0,33,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),06/05/2020,1,34,0,23,0,1
+Philippines,20000000,Region II (Cagayan Valley),07/05/2020,0,34,0,23,0,1
+Philippines,30000000,Region III (Central Luzon),30/01/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),31/01/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),01/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),02/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),03/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),04/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),05/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),06/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),07/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),08/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),09/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),10/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),11/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),12/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),13/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),14/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),15/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),16/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),17/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),18/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),19/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),20/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),21/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),22/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),23/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),24/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),25/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),26/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),27/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),28/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),29/02/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),01/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),02/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),03/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),04/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),05/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),06/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),07/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),08/03/2020,0,0,0,0,0,0
+Philippines,30000000,Region III (Central Luzon),09/03/2020,1,1,1,1,0,0
+Philippines,30000000,Region III (Central Luzon),10/03/2020,0,1,0,1,0,0
+Philippines,30000000,Region III (Central Luzon),11/03/2020,0,1,0,1,0,0
+Philippines,30000000,Region III (Central Luzon),12/03/2020,0,1,0,1,0,0
+Philippines,30000000,Region III (Central Luzon),13/03/2020,2,3,1,2,0,0
+Philippines,30000000,Region III (Central Luzon),14/03/2020,3,6,1,3,1,1
+Philippines,30000000,Region III (Central Luzon),15/03/2020,1,7,0,3,0,1
+Philippines,30000000,Region III (Central Luzon),16/03/2020,0,7,0,3,0,1
+Philippines,30000000,Region III (Central Luzon),17/03/2020,1,8,0,3,0,1
+Philippines,30000000,Region III (Central Luzon),18/03/2020,0,8,0,3,0,1
+Philippines,30000000,Region III (Central Luzon),19/03/2020,0,8,0,3,0,1
+Philippines,30000000,Region III (Central Luzon),20/03/2020,0,8,0,3,0,1
+Philippines,30000000,Region III (Central Luzon),21/03/2020,5,13,0,3,1,2
+Philippines,30000000,Region III (Central Luzon),22/03/2020,1,14,0,3,0,2
+Philippines,30000000,Region III (Central Luzon),23/03/2020,6,20,1,4,1,3
+Philippines,30000000,Region III (Central Luzon),24/03/2020,2,22,0,4,0,3
+Philippines,30000000,Region III (Central Luzon),25/03/2020,1,23,0,4,1,4
+Philippines,30000000,Region III (Central Luzon),26/03/2020,7,30,2,6,0,4
+Philippines,30000000,Region III (Central Luzon),27/03/2020,1,31,0,6,0,4
+Philippines,30000000,Region III (Central Luzon),28/03/2020,16,47,4,10,3,7
+Philippines,30000000,Region III (Central Luzon),29/03/2020,16,63,4,14,4,11
+Philippines,30000000,Region III (Central Luzon),30/03/2020,6,69,1,15,1,12
+Philippines,30000000,Region III (Central Luzon),31/03/2020,20,89,1,16,5,17
+Philippines,30000000,Region III (Central Luzon),01/04/2020,8,97,0,16,1,18
+Philippines,30000000,Region III (Central Luzon),02/04/2020,19,116,2,18,1,19
+Philippines,30000000,Region III (Central Luzon),03/04/2020,27,143,5,23,1,20
+Philippines,30000000,Region III (Central Luzon),04/04/2020,3,146,2,25,0,20
+Philippines,30000000,Region III (Central Luzon),05/04/2020,11,157,0,25,0,20
+Philippines,30000000,Region III (Central Luzon),06/04/2020,16,173,1,26,2,22
+Philippines,30000000,Region III (Central Luzon),07/04/2020,4,177,0,26,0,22
+Philippines,30000000,Region III (Central Luzon),08/04/2020,2,179,0,26,0,22
+Philippines,30000000,Region III (Central Luzon),09/04/2020,14,193,2,28,0,22
+Philippines,30000000,Region III (Central Luzon),10/04/2020,5,198,0,28,0,22
+Philippines,30000000,Region III (Central Luzon),11/04/2020,16,214,2,30,0,22
+Philippines,30000000,Region III (Central Luzon),12/04/2020,9,223,1,31,1,23
+Philippines,30000000,Region III (Central Luzon),13/04/2020,23,246,5,36,0,23
+Philippines,30000000,Region III (Central Luzon),14/04/2020,22,268,2,38,0,23
+Philippines,30000000,Region III (Central Luzon),15/04/2020,6,274,0,38,1,24
+Philippines,30000000,Region III (Central Luzon),16/04/2020,26,300,7,45,1,25
+Philippines,30000000,Region III (Central Luzon),17/04/2020,24,324,1,46,0,25
+Philippines,30000000,Region III (Central Luzon),18/04/2020,3,327,0,46,0,25
+Philippines,30000000,Region III (Central Luzon),19/04/2020,8,335,0,46,0,25
+Philippines,30000000,Region III (Central Luzon),20/04/2020,3,338,0,46,0,25
+Philippines,30000000,Region III (Central Luzon),21/04/2020,1,339,1,47,0,25
+Philippines,30000000,Region III (Central Luzon),22/04/2020,1,340,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),23/04/2020,2,342,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),24/04/2020,2,344,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),25/04/2020,0,344,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),26/04/2020,4,348,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),27/04/2020,3,351,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),28/04/2020,1,352,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),29/04/2020,11,363,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),30/04/2020,1,364,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),01/05/2020,1,365,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),02/05/2020,0,365,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),03/05/2020,1,366,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),04/05/2020,1,367,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),05/05/2020,4,371,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),06/05/2020,6,377,0,47,0,25
+Philippines,30000000,Region III (Central Luzon),07/05/2020,0,377,0,47,0,25
+Philippines,40000000,Region IV-A (Calabarzon),30/01/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),31/01/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),01/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),02/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),03/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),04/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),05/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),06/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),07/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),08/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),09/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),10/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),11/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),12/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),13/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),14/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),15/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),16/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),17/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),18/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),19/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),20/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),21/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),22/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),23/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),24/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),25/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),26/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),27/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),28/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),29/02/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),01/03/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),02/03/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),03/03/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),04/03/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),05/03/2020,0,0,0,0,0,0
+Philippines,40000000,Region IV-A (Calabarzon),06/03/2020,1,1,0,0,1,1
+Philippines,40000000,Region IV-A (Calabarzon),07/03/2020,1,2,0,0,1,2
+Philippines,40000000,Region IV-A (Calabarzon),08/03/2020,0,2,0,0,0,2
+Philippines,40000000,Region IV-A (Calabarzon),09/03/2020,1,3,0,0,0,2
+Philippines,40000000,Region IV-A (Calabarzon),10/03/2020,0,3,0,0,0,2
+Philippines,40000000,Region IV-A (Calabarzon),11/03/2020,2,5,0,0,0,2
+Philippines,40000000,Region IV-A (Calabarzon),12/03/2020,1,6,0,0,1,3
+Philippines,40000000,Region IV-A (Calabarzon),13/03/2020,1,7,0,0,0,3
+Philippines,40000000,Region IV-A (Calabarzon),14/03/2020,7,14,3,3,0,3
+Philippines,40000000,Region IV-A (Calabarzon),15/03/2020,4,18,0,3,2,5
+Philippines,40000000,Region IV-A (Calabarzon),16/03/2020,0,18,0,3,0,5
+Philippines,40000000,Region IV-A (Calabarzon),17/03/2020,5,23,1,4,0,5
+Philippines,40000000,Region IV-A (Calabarzon),18/03/2020,2,25,0,4,0,5
+Philippines,40000000,Region IV-A (Calabarzon),19/03/2020,2,27,0,4,0,5
+Philippines,40000000,Region IV-A (Calabarzon),20/03/2020,0,27,0,4,0,5
+Philippines,40000000,Region IV-A (Calabarzon),21/03/2020,7,34,2,6,1,6
+Philippines,40000000,Region IV-A (Calabarzon),22/03/2020,15,49,1,7,5,11
+Philippines,40000000,Region IV-A (Calabarzon),23/03/2020,9,58,1,8,2,13
+Philippines,40000000,Region IV-A (Calabarzon),24/03/2020,12,70,6,14,0,13
+Philippines,40000000,Region IV-A (Calabarzon),25/03/2020,12,82,3,17,1,14
+Philippines,40000000,Region IV-A (Calabarzon),26/03/2020,10,92,3,20,3,17
+Philippines,40000000,Region IV-A (Calabarzon),27/03/2020,10,102,3,23,2,19
+Philippines,40000000,Region IV-A (Calabarzon),28/03/2020,40,142,8,31,7,26
+Philippines,40000000,Region IV-A (Calabarzon),29/03/2020,32,174,11,42,2,28
+Philippines,40000000,Region IV-A (Calabarzon),30/03/2020,19,193,5,47,2,30
+Philippines,40000000,Region IV-A (Calabarzon),31/03/2020,68,261,10,57,4,34
+Philippines,40000000,Region IV-A (Calabarzon),01/04/2020,35,296,2,59,3,37
+Philippines,40000000,Region IV-A (Calabarzon),02/04/2020,38,334,6,65,0,37
+Philippines,40000000,Region IV-A (Calabarzon),03/04/2020,49,383,2,67,4,41
+Philippines,40000000,Region IV-A (Calabarzon),04/04/2020,9,392,0,67,0,41
+Philippines,40000000,Region IV-A (Calabarzon),05/04/2020,18,410,0,67,2,43
+Philippines,40000000,Region IV-A (Calabarzon),06/04/2020,71,481,2,69,5,48
+Philippines,40000000,Region IV-A (Calabarzon),07/04/2020,28,509,0,69,0,48
+Philippines,40000000,Region IV-A (Calabarzon),08/04/2020,23,532,1,70,3,51
+Philippines,40000000,Region IV-A (Calabarzon),09/04/2020,29,561,0,70,4,55
+Philippines,40000000,Region IV-A (Calabarzon),10/04/2020,23,584,3,73,1,56
+Philippines,40000000,Region IV-A (Calabarzon),11/04/2020,48,632,1,74,0,56
+Philippines,40000000,Region IV-A (Calabarzon),12/04/2020,52,684,5,79,1,57
+Philippines,40000000,Region IV-A (Calabarzon),13/04/2020,57,741,0,79,0,57
+Philippines,40000000,Region IV-A (Calabarzon),14/04/2020,57,798,0,79,0,57
+Philippines,40000000,Region IV-A (Calabarzon),15/04/2020,33,831,0,79,1,58
+Philippines,40000000,Region IV-A (Calabarzon),16/04/2020,38,869,0,79,1,59
+Philippines,40000000,Region IV-A (Calabarzon),17/04/2020,20,889,0,79,0,59
+Philippines,40000000,Region IV-A (Calabarzon),18/04/2020,48,937,1,80,1,60
+Philippines,40000000,Region IV-A (Calabarzon),19/04/2020,18,955,0,80,0,60
+Philippines,40000000,Region IV-A (Calabarzon),20/04/2020,18,973,0,80,0,60
+Philippines,40000000,Region IV-A (Calabarzon),21/04/2020,6,979,0,80,0,60
+Philippines,40000000,Region IV-A (Calabarzon),22/04/2020,9,988,0,80,0,60
+Philippines,40000000,Region IV-A (Calabarzon),23/04/2020,17,1005,0,80,1,61
+Philippines,40000000,Region IV-A (Calabarzon),24/04/2020,18,1023,0,80,0,61
+Philippines,40000000,Region IV-A (Calabarzon),25/04/2020,5,1028,0,80,1,62
+Philippines,40000000,Region IV-A (Calabarzon),26/04/2020,40,1068,0,80,1,63
+Philippines,40000000,Region IV-A (Calabarzon),27/04/2020,9,1077,0,80,0,63
+Philippines,40000000,Region IV-A (Calabarzon),28/04/2020,6,1083,0,80,0,63
+Philippines,40000000,Region IV-A (Calabarzon),29/04/2020,39,1122,0,80,0,63
+Philippines,40000000,Region IV-A (Calabarzon),30/04/2020,10,1132,0,80,0,63
+Philippines,40000000,Region IV-A (Calabarzon),01/05/2020,12,1144,0,80,1,64
+Philippines,40000000,Region IV-A (Calabarzon),02/05/2020,9,1153,0,80,0,64
+Philippines,40000000,Region IV-A (Calabarzon),03/05/2020,5,1158,0,80,0,64
+Philippines,40000000,Region IV-A (Calabarzon),04/05/2020,23,1181,0,80,0,64
+Philippines,40000000,Region IV-A (Calabarzon),05/05/2020,18,1199,0,80,0,64
+Philippines,40000000,Region IV-A (Calabarzon),06/05/2020,9,1208,0,80,0,64
+Philippines,40000000,Region IV-A (Calabarzon),07/05/2020,0,1208,0,80,0,64
+Philippines,50000000,Region V (Bicol Region),30/01/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),31/01/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),01/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),02/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),03/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),04/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),05/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),06/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),07/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),08/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),09/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),10/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),11/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),12/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),13/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),14/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),15/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),16/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),17/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),18/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),19/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),20/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),21/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),22/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),23/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),24/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),25/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),26/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),27/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),28/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),29/02/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),01/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),02/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),03/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),04/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),05/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),06/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),07/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),08/03/2020,0,0,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),09/03/2020,1,1,0,0,0,0
+Philippines,50000000,Region V (Bicol Region),10/03/2020,1,2,1,1,0,0
+Philippines,50000000,Region V (Bicol Region),11/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),12/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),13/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),14/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),15/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),16/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),17/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),18/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),19/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),20/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),21/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),22/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),23/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),24/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),25/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),26/03/2020,0,2,0,1,0,0
+Philippines,50000000,Region V (Bicol Region),27/03/2020,3,5,2,3,0,0
+Philippines,50000000,Region V (Bicol Region),28/03/2020,0,5,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),29/03/2020,1,6,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),30/03/2020,0,6,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),31/03/2020,0,6,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),01/04/2020,2,8,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),02/04/2020,1,9,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),03/04/2020,4,13,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),04/04/2020,0,13,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),05/04/2020,0,13,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),06/04/2020,3,16,0,3,0,0
+Philippines,50000000,Region V (Bicol Region),07/04/2020,1,17,0,3,1,1
+Philippines,50000000,Region V (Bicol Region),08/04/2020,1,18,0,3,0,1
+Philippines,50000000,Region V (Bicol Region),09/04/2020,0,18,0,3,0,1
+Philippines,50000000,Region V (Bicol Region),10/04/2020,0,18,0,3,0,1
+Philippines,50000000,Region V (Bicol Region),11/04/2020,1,19,1,4,0,1
+Philippines,50000000,Region V (Bicol Region),12/04/2020,1,20,0,4,0,1
+Philippines,50000000,Region V (Bicol Region),13/04/2020,1,21,0,4,0,1
+Philippines,50000000,Region V (Bicol Region),14/04/2020,1,22,0,4,0,1
+Philippines,50000000,Region V (Bicol Region),15/04/2020,1,23,0,4,1,2
+Philippines,50000000,Region V (Bicol Region),16/04/2020,0,23,0,4,0,2
+Philippines,50000000,Region V (Bicol Region),17/04/2020,0,23,0,4,0,2
+Philippines,50000000,Region V (Bicol Region),18/04/2020,0,23,0,4,0,2
+Philippines,50000000,Region V (Bicol Region),19/04/2020,0,23,0,4,0,2
+Philippines,50000000,Region V (Bicol Region),20/04/2020,5,28,0,4,0,2
+Philippines,50000000,Region V (Bicol Region),21/04/2020,0,28,0,4,0,2
+Philippines,50000000,Region V (Bicol Region),22/04/2020,2,30,0,4,1,3
+Philippines,50000000,Region V (Bicol Region),23/04/2020,6,36,0,4,1,4
+Philippines,50000000,Region V (Bicol Region),24/04/2020,0,36,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),25/04/2020,1,37,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),26/04/2020,0,37,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),27/04/2020,0,37,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),28/04/2020,0,37,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),29/04/2020,1,38,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),30/04/2020,3,41,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),01/05/2020,3,44,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),02/05/2020,1,45,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),03/05/2020,0,45,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),04/05/2020,3,48,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),05/05/2020,0,48,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),06/05/2020,0,48,0,4,0,4
+Philippines,50000000,Region V (Bicol Region),07/05/2020,0,48,0,4,0,4
+Philippines,60000000,Region VI (Western Visayas),30/01/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),31/01/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),01/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),02/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),03/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),04/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),05/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),06/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),07/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),08/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),09/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),10/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),11/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),12/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),13/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),14/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),15/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),16/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),17/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),18/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),19/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),20/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),21/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),22/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),23/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),24/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),25/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),26/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),27/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),28/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),29/02/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),01/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),02/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),03/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),04/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),05/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),06/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),07/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),08/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),09/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),10/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),11/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),12/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),13/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),14/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),15/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),16/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),17/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),18/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),19/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),20/03/2020,0,0,0,0,0,0
+Philippines,60000000,Region VI (Western Visayas),21/03/2020,2,2,1,1,0,0
+Philippines,60000000,Region VI (Western Visayas),22/03/2020,0,2,0,1,0,0
+Philippines,60000000,Region VI (Western Visayas),23/03/2020,0,2,0,1,0,0
+Philippines,60000000,Region VI (Western Visayas),24/03/2020,0,2,0,1,0,0
+Philippines,60000000,Region VI (Western Visayas),25/03/2020,2,4,2,3,0,0
+Philippines,60000000,Region VI (Western Visayas),26/03/2020,0,4,0,3,0,0
+Philippines,60000000,Region VI (Western Visayas),27/03/2020,3,7,1,4,0,0
+Philippines,60000000,Region VI (Western Visayas),28/03/2020,6,13,4,8,1,1
+Philippines,60000000,Region VI (Western Visayas),29/03/2020,4,17,2,10,0,1
+Philippines,60000000,Region VI (Western Visayas),30/03/2020,0,17,0,10,0,1
+Philippines,60000000,Region VI (Western Visayas),31/03/2020,1,18,1,11,0,1
+Philippines,60000000,Region VI (Western Visayas),01/04/2020,0,18,0,11,0,1
+Philippines,60000000,Region VI (Western Visayas),02/04/2020,3,21,1,12,1,2
+Philippines,60000000,Region VI (Western Visayas),03/04/2020,4,25,1,13,2,4
+Philippines,60000000,Region VI (Western Visayas),04/04/2020,6,31,6,19,0,4
+Philippines,60000000,Region VI (Western Visayas),05/04/2020,0,31,0,19,0,4
+Philippines,60000000,Region VI (Western Visayas),06/04/2020,1,32,0,19,0,4
+Philippines,60000000,Region VI (Western Visayas),07/04/2020,0,32,0,19,0,4
+Philippines,60000000,Region VI (Western Visayas),08/04/2020,0,32,0,19,0,4
+Philippines,60000000,Region VI (Western Visayas),09/04/2020,0,32,0,19,0,4
+Philippines,60000000,Region VI (Western Visayas),10/04/2020,9,41,6,25,1,5
+Philippines,60000000,Region VI (Western Visayas),11/04/2020,0,41,0,25,0,5
+Philippines,60000000,Region VI (Western Visayas),12/04/2020,2,43,0,25,0,5
+Philippines,60000000,Region VI (Western Visayas),13/04/2020,2,45,0,25,0,5
+Philippines,60000000,Region VI (Western Visayas),14/04/2020,0,45,0,25,0,5
+Philippines,60000000,Region VI (Western Visayas),15/04/2020,0,45,0,25,0,5
+Philippines,60000000,Region VI (Western Visayas),16/04/2020,0,45,0,25,0,5
+Philippines,60000000,Region VI (Western Visayas),17/04/2020,2,47,0,25,1,6
+Philippines,60000000,Region VI (Western Visayas),18/04/2020,6,53,3,28,0,6
+Philippines,60000000,Region VI (Western Visayas),19/04/2020,0,53,0,28,0,6
+Philippines,60000000,Region VI (Western Visayas),20/04/2020,3,56,0,28,0,6
+Philippines,60000000,Region VI (Western Visayas),21/04/2020,0,56,0,28,0,6
+Philippines,60000000,Region VI (Western Visayas),22/04/2020,2,58,0,28,1,7
+Philippines,60000000,Region VI (Western Visayas),23/04/2020,0,58,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),24/04/2020,2,60,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),25/04/2020,1,61,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),26/04/2020,0,61,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),27/04/2020,3,64,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),28/04/2020,1,65,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),29/04/2020,0,65,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),30/04/2020,1,66,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),01/05/2020,2,68,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),02/05/2020,0,68,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),03/05/2020,4,72,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),04/05/2020,2,74,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),05/05/2020,0,74,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),06/05/2020,8,82,0,28,0,7
+Philippines,60000000,Region VI (Western Visayas),07/05/2020,0,82,0,28,0,7
+Philippines,70000000,Region VII (Central Visayas),30/01/2020,1,1,0,0,0,0
+Philippines,70000000,Region VII (Central Visayas),31/01/2020,0,1,0,0,0,0
+Philippines,70000000,Region VII (Central Visayas),01/02/2020,0,1,0,0,0,0
+Philippines,70000000,Region VII (Central Visayas),02/02/2020,0,1,0,0,0,0
+Philippines,70000000,Region VII (Central Visayas),03/02/2020,1,2,0,0,1,1
+Philippines,70000000,Region VII (Central Visayas),04/02/2020,0,2,0,0,0,1
+Philippines,70000000,Region VII (Central Visayas),05/02/2020,1,3,1,1,0,1
+Philippines,70000000,Region VII (Central Visayas),06/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),07/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),08/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),09/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),10/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),11/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),12/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),13/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),14/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),15/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),16/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),17/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),18/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),19/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),20/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),21/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),22/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),23/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),24/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),25/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),26/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),27/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),28/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),29/02/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),01/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),02/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),03/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),04/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),05/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),06/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),07/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),08/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),09/03/2020,0,3,0,1,0,1
+Philippines,70000000,Region VII (Central Visayas),10/03/2020,1,4,1,2,0,1
+Philippines,70000000,Region VII (Central Visayas),11/03/2020,1,5,0,2,1,2
+Philippines,70000000,Region VII (Central Visayas),12/03/2020,0,5,0,2,0,2
+Philippines,70000000,Region VII (Central Visayas),13/03/2020,0,5,0,2,0,2
+Philippines,70000000,Region VII (Central Visayas),14/03/2020,0,5,0,2,0,2
+Philippines,70000000,Region VII (Central Visayas),15/03/2020,0,5,0,2,0,2
+Philippines,70000000,Region VII (Central Visayas),16/03/2020,0,5,0,2,0,2
+Philippines,70000000,Region VII (Central Visayas),17/03/2020,0,5,0,2,0,2
+Philippines,70000000,Region VII (Central Visayas),18/03/2020,1,6,1,3,0,2
+Philippines,70000000,Region VII (Central Visayas),19/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),20/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),21/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),22/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),23/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),24/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),25/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),26/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),27/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),28/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),29/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),30/03/2020,0,6,0,3,0,2
+Philippines,70000000,Region VII (Central Visayas),31/03/2020,27,33,16,19,7,9
+Philippines,70000000,Region VII (Central Visayas),01/04/2020,1,34,0,19,0,9
+Philippines,70000000,Region VII (Central Visayas),02/04/2020,4,38,2,21,0,9
+Philippines,70000000,Region VII (Central Visayas),03/04/2020,0,38,0,21,0,9
+Philippines,70000000,Region VII (Central Visayas),04/04/2020,0,38,0,21,0,9
+Philippines,70000000,Region VII (Central Visayas),05/04/2020,0,38,0,21,0,9
+Philippines,70000000,Region VII (Central Visayas),06/04/2020,2,40,2,23,0,9
+Philippines,70000000,Region VII (Central Visayas),07/04/2020,0,40,0,23,0,9
+Philippines,70000000,Region VII (Central Visayas),08/04/2020,0,40,0,23,0,9
+Philippines,70000000,Region VII (Central Visayas),09/04/2020,0,40,0,23,0,9
+Philippines,70000000,Region VII (Central Visayas),10/04/2020,1,41,0,23,0,9
+Philippines,70000000,Region VII (Central Visayas),11/04/2020,0,41,0,23,0,9
+Philippines,70000000,Region VII (Central Visayas),12/04/2020,2,43,1,24,0,9
+Philippines,70000000,Region VII (Central Visayas),13/04/2020,1,44,0,24,0,9
+Philippines,70000000,Region VII (Central Visayas),14/04/2020,0,44,0,24,0,9
+Philippines,70000000,Region VII (Central Visayas),15/04/2020,7,51,3,27,0,9
+Philippines,70000000,Region VII (Central Visayas),16/04/2020,21,72,0,27,0,9
+Philippines,70000000,Region VII (Central Visayas),17/04/2020,27,99,0,27,0,9
+Philippines,70000000,Region VII (Central Visayas),18/04/2020,2,101,0,27,0,9
+Philippines,70000000,Region VII (Central Visayas),19/04/2020,19,120,0,27,0,9
+Philippines,70000000,Region VII (Central Visayas),20/04/2020,27,147,0,27,1,10
+Philippines,70000000,Region VII (Central Visayas),21/04/2020,52,199,0,27,1,11
+Philippines,70000000,Region VII (Central Visayas),22/04/2020,13,212,0,27,0,11
+Philippines,70000000,Region VII (Central Visayas),23/04/2020,141,353,0,27,0,11
+Philippines,70000000,Region VII (Central Visayas),24/04/2020,21,374,0,27,0,11
+Philippines,70000000,Region VII (Central Visayas),25/04/2020,30,404,0,27,0,11
+Philippines,70000000,Region VII (Central Visayas),26/04/2020,63,467,0,27,0,11
+Philippines,70000000,Region VII (Central Visayas),27/04/2020,39,506,0,27,0,11
+Philippines,70000000,Region VII (Central Visayas),28/04/2020,32,538,0,27,2,13
+Philippines,70000000,Region VII (Central Visayas),29/04/2020,2,540,0,27,0,13
+Philippines,70000000,Region VII (Central Visayas),30/04/2020,107,647,0,27,0,13
+Philippines,70000000,Region VII (Central Visayas),01/05/2020,130,777,0,27,0,13
+Philippines,70000000,Region VII (Central Visayas),02/05/2020,91,868,0,27,0,13
+Philippines,70000000,Region VII (Central Visayas),03/05/2020,118,986,0,27,1,14
+Philippines,70000000,Region VII (Central Visayas),04/05/2020,88,1074,0,27,0,14
+Philippines,70000000,Region VII (Central Visayas),05/05/2020,1,1075,0,27,0,14
+Philippines,70000000,Region VII (Central Visayas),06/05/2020,94,1169,0,27,0,14
+Philippines,70000000,Region VII (Central Visayas),07/05/2020,1,1170,0,27,0,14
+Philippines,80000000,Region VIII (Eastern Visayas),30/01/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),31/01/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),01/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),02/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),03/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),04/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),05/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),06/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),07/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),08/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),09/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),10/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),11/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),12/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),13/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),14/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),15/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),16/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),17/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),18/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),19/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),20/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),21/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),22/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),23/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),24/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),25/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),26/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),27/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),28/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),29/02/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),01/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),02/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),03/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),04/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),05/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),06/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),07/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),08/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),09/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),10/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),11/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),12/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),13/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),14/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),15/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),16/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),17/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),18/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),19/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),20/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),21/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),22/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),23/03/2020,0,0,0,0,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),24/03/2020,1,1,1,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),25/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),26/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),27/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),28/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),29/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),30/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),31/03/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),01/04/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),02/04/2020,0,1,0,1,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),03/04/2020,1,2,1,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),04/04/2020,0,2,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),05/04/2020,0,2,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),06/04/2020,0,2,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),07/04/2020,2,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),08/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),09/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),10/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),11/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),12/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),13/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),14/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),15/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),16/04/2020,0,4,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),17/04/2020,1,5,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),18/04/2020,0,5,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),19/04/2020,0,5,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),20/04/2020,0,5,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),21/04/2020,1,6,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),22/04/2020,0,6,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),23/04/2020,0,6,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),24/04/2020,0,6,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),25/04/2020,1,7,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),26/04/2020,0,7,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),27/04/2020,0,7,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),28/04/2020,6,13,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),29/04/2020,0,13,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),30/04/2020,0,13,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),01/05/2020,0,13,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),02/05/2020,0,13,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),03/05/2020,0,13,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),04/05/2020,1,14,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),05/05/2020,0,14,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),06/05/2020,0,14,0,2,0,0
+Philippines,80000000,Region VIII (Eastern Visayas),07/05/2020,0,14,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),30/01/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),31/01/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),01/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),02/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),03/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),04/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),05/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),06/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),07/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),08/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),09/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),10/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),11/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),12/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),13/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),14/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),15/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),16/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),17/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),18/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),19/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),20/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),21/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),22/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),23/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),24/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),25/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),26/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),27/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),28/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),29/02/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),01/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),02/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),03/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),04/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),05/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),06/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),07/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),08/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),09/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),10/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),11/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),12/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),13/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),14/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),15/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),16/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),17/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),18/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),19/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),20/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),21/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),22/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),23/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),24/03/2020,0,0,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),25/03/2020,1,1,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),26/03/2020,0,1,0,0,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),27/03/2020,1,2,1,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),28/03/2020,0,2,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),29/03/2020,0,2,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),30/03/2020,0,2,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),31/03/2020,2,4,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),01/04/2020,0,4,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),02/04/2020,1,5,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),03/04/2020,2,7,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),04/04/2020,0,7,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),05/04/2020,0,7,0,1,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),06/04/2020,1,8,1,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),07/04/2020,1,9,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),08/04/2020,0,9,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),09/04/2020,0,9,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),10/04/2020,0,9,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),11/04/2020,0,9,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),12/04/2020,0,9,0,2,0,0
+Philippines,90000000,Region IX (Zamboanga Peninsula),13/04/2020,1,10,0,2,1,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),14/04/2020,1,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),15/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),16/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),17/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),18/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),19/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),20/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),21/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),22/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),23/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),24/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),25/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),26/04/2020,0,11,0,2,0,1
+Philippines,90000000,Region IX (Zamboanga Peninsula),27/04/2020,1,12,0,2,1,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),28/04/2020,0,12,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),29/04/2020,1,13,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),30/04/2020,0,13,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),01/05/2020,0,13,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),02/05/2020,0,13,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),03/05/2020,22,35,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),04/05/2020,10,45,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),05/05/2020,0,45,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),06/05/2020,0,45,0,2,0,2
+Philippines,90000000,Region IX (Zamboanga Peninsula),07/05/2020,0,45,0,2,0,2
+Philippines,100000000,Region X (Northern Mindanao),30/01/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),31/01/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),01/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),02/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),03/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),04/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),05/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),06/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),07/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),08/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),09/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),10/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),11/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),12/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),13/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),14/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),15/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),16/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),17/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),18/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),19/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),20/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),21/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),22/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),23/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),24/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),25/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),26/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),27/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),28/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),29/02/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),01/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),02/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),03/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),04/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),05/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),06/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),07/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),08/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),09/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),10/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),11/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),12/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),13/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),14/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),15/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),16/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),17/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),18/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),19/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),20/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),21/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),22/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),23/03/2020,0,0,0,0,0,0
+Philippines,100000000,Region X (Northern Mindanao),24/03/2020,1,1,1,1,0,0
+Philippines,100000000,Region X (Northern Mindanao),25/03/2020,1,2,1,2,0,0
+Philippines,100000000,Region X (Northern Mindanao),26/03/2020,0,2,0,2,0,0
+Philippines,100000000,Region X (Northern Mindanao),27/03/2020,0,2,0,2,0,0
+Philippines,100000000,Region X (Northern Mindanao),28/03/2020,0,2,0,2,0,0
+Philippines,100000000,Region X (Northern Mindanao),29/03/2020,0,2,0,2,0,0
+Philippines,100000000,Region X (Northern Mindanao),30/03/2020,1,3,1,3,0,0
+Philippines,100000000,Region X (Northern Mindanao),31/03/2020,0,3,0,3,0,0
+Philippines,100000000,Region X (Northern Mindanao),01/04/2020,0,3,0,3,0,0
+Philippines,100000000,Region X (Northern Mindanao),02/04/2020,0,3,0,3,0,0
+Philippines,100000000,Region X (Northern Mindanao),03/04/2020,4,7,1,4,2,2
+Philippines,100000000,Region X (Northern Mindanao),04/04/2020,0,7,0,4,0,2
+Philippines,100000000,Region X (Northern Mindanao),05/04/2020,0,7,0,4,0,2
+Philippines,100000000,Region X (Northern Mindanao),06/04/2020,0,7,0,4,0,2
+Philippines,100000000,Region X (Northern Mindanao),07/04/2020,1,8,0,4,0,2
+Philippines,100000000,Region X (Northern Mindanao),08/04/2020,0,8,0,4,0,2
+Philippines,100000000,Region X (Northern Mindanao),09/04/2020,0,8,0,4,0,2
+Philippines,100000000,Region X (Northern Mindanao),10/04/2020,3,11,1,5,2,4
+Philippines,100000000,Region X (Northern Mindanao),11/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),12/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),13/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),14/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),15/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),16/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),17/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),18/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),19/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),20/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),21/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),22/04/2020,0,11,0,5,0,4
+Philippines,100000000,Region X (Northern Mindanao),23/04/2020,1,12,0,5,1,5
+Philippines,100000000,Region X (Northern Mindanao),24/04/2020,0,12,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),25/04/2020,0,12,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),26/04/2020,0,12,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),27/04/2020,0,12,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),28/04/2020,0,12,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),29/04/2020,0,12,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),30/04/2020,1,13,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),01/05/2020,0,13,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),02/05/2020,0,13,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),03/05/2020,1,14,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),04/05/2020,0,14,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),05/05/2020,1,15,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),06/05/2020,0,15,0,5,0,5
+Philippines,100000000,Region X (Northern Mindanao),07/05/2020,0,15,0,5,0,5
+Philippines,110000000,Region XI (Davao Region),30/01/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),31/01/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),01/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),02/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),03/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),04/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),05/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),06/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),07/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),08/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),09/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),10/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),11/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),12/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),13/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),14/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),15/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),16/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),17/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),18/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),19/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),20/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),21/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),22/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),23/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),24/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),25/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),26/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),27/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),28/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),29/02/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),01/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),02/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),03/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),04/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),05/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),06/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),07/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),08/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),09/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),10/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),11/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),12/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),13/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),14/03/2020,0,0,0,0,0,0
+Philippines,110000000,Region XI (Davao Region),15/03/2020,1,1,1,1,0,0
+Philippines,110000000,Region XI (Davao Region),16/03/2020,0,1,0,1,0,0
+Philippines,110000000,Region XI (Davao Region),17/03/2020,0,1,0,1,0,0
+Philippines,110000000,Region XI (Davao Region),18/03/2020,0,1,0,1,0,0
+Philippines,110000000,Region XI (Davao Region),19/03/2020,0,1,0,1,0,0
+Philippines,110000000,Region XI (Davao Region),20/03/2020,0,1,0,1,0,0
+Philippines,110000000,Region XI (Davao Region),21/03/2020,2,3,2,3,0,0
+Philippines,110000000,Region XI (Davao Region),22/03/2020,0,3,0,3,0,0
+Philippines,110000000,Region XI (Davao Region),23/03/2020,2,5,2,5,0,0
+Philippines,110000000,Region XI (Davao Region),24/03/2020,0,5,0,5,0,0
+Philippines,110000000,Region XI (Davao Region),25/03/2020,0,5,0,5,0,0
+Philippines,110000000,Region XI (Davao Region),26/03/2020,0,5,0,5,0,0
+Philippines,110000000,Region XI (Davao Region),27/03/2020,1,6,1,6,0,0
+Philippines,110000000,Region XI (Davao Region),28/03/2020,2,8,2,8,0,0
+Philippines,110000000,Region XI (Davao Region),29/03/2020,16,24,13,21,2,2
+Philippines,110000000,Region XI (Davao Region),30/03/2020,23,47,15,36,6,8
+Philippines,110000000,Region XI (Davao Region),31/03/2020,1,48,1,37,0,8
+Philippines,110000000,Region XI (Davao Region),01/04/2020,13,61,12,49,1,9
+Philippines,110000000,Region XI (Davao Region),02/04/2020,0,61,0,49,0,9
+Philippines,110000000,Region XI (Davao Region),03/04/2020,2,63,1,50,1,10
+Philippines,110000000,Region XI (Davao Region),04/04/2020,6,69,5,55,1,11
+Philippines,110000000,Region XI (Davao Region),05/04/2020,9,78,7,62,1,12
+Philippines,110000000,Region XI (Davao Region),06/04/2020,0,78,0,62,0,12
+Philippines,110000000,Region XI (Davao Region),07/04/2020,4,82,3,65,0,12
+Philippines,110000000,Region XI (Davao Region),08/04/2020,3,85,2,67,0,12
+Philippines,110000000,Region XI (Davao Region),09/04/2020,3,88,1,68,2,14
+Philippines,110000000,Region XI (Davao Region),10/04/2020,0,88,0,68,0,14
+Philippines,110000000,Region XI (Davao Region),11/04/2020,0,88,0,68,0,14
+Philippines,110000000,Region XI (Davao Region),12/04/2020,0,88,0,68,0,14
+Philippines,110000000,Region XI (Davao Region),13/04/2020,0,88,0,68,0,14
+Philippines,110000000,Region XI (Davao Region),14/04/2020,3,91,2,70,1,15
+Philippines,110000000,Region XI (Davao Region),15/04/2020,3,94,1,71,1,16
+Philippines,110000000,Region XI (Davao Region),16/04/2020,2,96,2,73,0,16
+Philippines,110000000,Region XI (Davao Region),17/04/2020,2,98,1,74,0,16
+Philippines,110000000,Region XI (Davao Region),18/04/2020,3,101,3,77,0,16
+Philippines,110000000,Region XI (Davao Region),19/04/2020,0,101,0,77,0,16
+Philippines,110000000,Region XI (Davao Region),20/04/2020,6,107,2,79,2,18
+Philippines,110000000,Region XI (Davao Region),21/04/2020,3,110,1,80,0,18
+Philippines,110000000,Region XI (Davao Region),22/04/2020,5,115,1,81,0,18
+Philippines,110000000,Region XI (Davao Region),23/04/2020,1,116,0,81,0,18
+Philippines,110000000,Region XI (Davao Region),24/04/2020,0,116,0,81,0,18
+Philippines,110000000,Region XI (Davao Region),25/04/2020,1,117,1,82,0,18
+Philippines,110000000,Region XI (Davao Region),26/04/2020,5,122,1,83,0,18
+Philippines,110000000,Region XI (Davao Region),27/04/2020,0,122,0,83,0,18
+Philippines,110000000,Region XI (Davao Region),28/04/2020,6,128,1,84,0,18
+Philippines,110000000,Region XI (Davao Region),29/04/2020,3,131,0,84,0,18
+Philippines,110000000,Region XI (Davao Region),30/04/2020,0,131,0,84,0,18
+Philippines,110000000,Region XI (Davao Region),01/05/2020,0,131,0,84,0,18
+Philippines,110000000,Region XI (Davao Region),02/05/2020,0,131,0,84,0,18
+Philippines,110000000,Region XI (Davao Region),03/05/2020,12,143,0,84,2,20
+Philippines,110000000,Region XI (Davao Region),04/05/2020,1,144,0,84,0,20
+Philippines,110000000,Region XI (Davao Region),05/05/2020,0,144,0,84,0,20
+Philippines,110000000,Region XI (Davao Region),06/05/2020,12,156,0,84,1,21
+Philippines,110000000,Region XI (Davao Region),07/05/2020,0,156,0,84,0,21
+Philippines,120000000,Region XII (Soccsksargen),30/01/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),31/01/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),01/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),02/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),03/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),04/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),05/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),06/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),07/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),08/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),09/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),10/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),11/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),12/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),13/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),14/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),15/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),16/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),17/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),18/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),19/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),20/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),21/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),22/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),23/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),24/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),25/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),26/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),27/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),28/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),29/02/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),01/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),02/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),03/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),04/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),05/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),06/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),07/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),08/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),09/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),10/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),11/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),12/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),13/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),14/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),15/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),16/03/2020,0,0,0,0,0,0
+Philippines,120000000,Region XII (Soccsksargen),17/03/2020,1,1,1,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),18/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),19/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),20/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),21/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),22/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),23/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),24/03/2020,0,1,0,1,0,0
+Philippines,120000000,Region XII (Soccsksargen),25/03/2020,2,3,1,2,1,1
+Philippines,120000000,Region XII (Soccsksargen),26/03/2020,0,3,0,2,0,1
+Philippines,120000000,Region XII (Soccsksargen),27/03/2020,0,3,0,2,0,1
+Philippines,120000000,Region XII (Soccsksargen),28/03/2020,0,3,0,2,0,1
+Philippines,120000000,Region XII (Soccsksargen),29/03/2020,0,3,0,2,0,1
+Philippines,120000000,Region XII (Soccsksargen),30/03/2020,0,3,0,2,0,1
+Philippines,120000000,Region XII (Soccsksargen),31/03/2020,0,3,0,2,0,1
+Philippines,120000000,Region XII (Soccsksargen),01/04/2020,4,7,3,5,0,1
+Philippines,120000000,Region XII (Soccsksargen),02/04/2020,0,7,0,5,0,1
+Philippines,120000000,Region XII (Soccsksargen),03/04/2020,0,7,0,5,0,1
+Philippines,120000000,Region XII (Soccsksargen),04/04/2020,0,7,0,5,0,1
+Philippines,120000000,Region XII (Soccsksargen),05/04/2020,0,7,0,5,0,1
+Philippines,120000000,Region XII (Soccsksargen),06/04/2020,3,10,3,8,0,1
+Philippines,120000000,Region XII (Soccsksargen),07/04/2020,3,13,3,11,0,1
+Philippines,120000000,Region XII (Soccsksargen),08/04/2020,2,15,2,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),09/04/2020,1,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),10/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),11/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),12/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),13/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),14/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),15/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),16/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),17/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),18/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),19/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),20/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),21/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),22/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),23/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),24/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),25/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),26/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),27/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),28/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),29/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),30/04/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),01/05/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),02/05/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),03/05/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),04/05/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),05/05/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),06/05/2020,0,16,0,13,0,1
+Philippines,120000000,Region XII (Soccsksargen),07/05/2020,0,16,0,13,0,1
+Philippines,130000000,National Capital Region (NCR),30/01/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),31/01/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),01/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),02/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),03/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),04/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),05/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),06/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),07/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),08/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),09/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),10/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),11/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),12/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),13/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),14/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),15/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),16/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),17/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),18/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),19/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),20/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),21/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),22/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),23/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),24/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),25/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),26/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),27/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),28/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),29/02/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),01/03/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),02/03/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),03/03/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),04/03/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),05/03/2020,0,0,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),06/03/2020,1,1,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),07/03/2020,0,1,0,0,0,0
+Philippines,130000000,National Capital Region (NCR),08/03/2020,4,5,2,2,1,1
+Philippines,130000000,National Capital Region (NCR),09/03/2020,11,16,4,6,2,3
+Philippines,130000000,National Capital Region (NCR),10/03/2020,7,23,2,8,1,4
+Philippines,130000000,National Capital Region (NCR),11/03/2020,13,36,5,13,2,6
+Philippines,130000000,National Capital Region (NCR),12/03/2020,2,38,1,14,0,6
+Philippines,130000000,National Capital Region (NCR),13/03/2020,9,47,2,16,2,8
+Philippines,130000000,National Capital Region (NCR),14/03/2020,36,83,9,25,1,9
+Philippines,130000000,National Capital Region (NCR),15/03/2020,23,106,9,34,3,12
+Philippines,130000000,National Capital Region (NCR),16/03/2020,2,108,2,36,0,12
+Philippines,130000000,National Capital Region (NCR),17/03/2020,38,146,12,48,5,17
+Philippines,130000000,National Capital Region (NCR),18/03/2020,11,157,4,52,2,19
+Philippines,130000000,National Capital Region (NCR),19/03/2020,13,170,0,52,3,22
+Philippines,130000000,National Capital Region (NCR),20/03/2020,13,183,10,62,1,23
+Philippines,130000000,National Capital Region (NCR),21/03/2020,57,240,19,81,7,30
+Philippines,130000000,National Capital Region (NCR),22/03/2020,57,297,19,100,9,39
+Philippines,130000000,National Capital Region (NCR),23/03/2020,64,361,9,109,10,49
+Philippines,130000000,National Capital Region (NCR),24/03/2020,71,432,22,131,8,57
+Philippines,130000000,National Capital Region (NCR),25/03/2020,61,493,14,145,8,65
+Philippines,130000000,National Capital Region (NCR),26/03/2020,45,538,13,158,8,73
+Philippines,130000000,National Capital Region (NCR),27/03/2020,76,614,17,175,15,88
+Philippines,130000000,National Capital Region (NCR),28/03/2020,189,803,45,220,18,106
+Philippines,130000000,National Capital Region (NCR),29/03/2020,259,1062,59,279,24,130
+Philippines,130000000,National Capital Region (NCR),30/03/2020,68,1130,9,288,9,139
+Philippines,130000000,National Capital Region (NCR),31/03/2020,398,1528,70,358,50,189
+Philippines,130000000,National Capital Region (NCR),01/04/2020,158,1686,22,380,14,203
+Philippines,130000000,National Capital Region (NCR),02/04/2020,216,1902,23,403,16,219
+Philippines,130000000,National Capital Region (NCR),03/04/2020,256,2158,18,421,25,244
+Philippines,130000000,National Capital Region (NCR),04/04/2020,41,2199,4,425,8,252
+Philippines,130000000,National Capital Region (NCR),05/04/2020,91,2290,7,432,9,261
+Philippines,130000000,National Capital Region (NCR),06/04/2020,305,2595,19,451,20,281
+Philippines,130000000,National Capital Region (NCR),07/04/2020,59,2654,4,455,4,285
+Philippines,130000000,National Capital Region (NCR),08/04/2020,70,2724,2,457,7,292
+Philippines,130000000,National Capital Region (NCR),09/04/2020,154,2878,7,464,7,299
+Philippines,130000000,National Capital Region (NCR),10/04/2020,68,2946,4,468,2,301
+Philippines,130000000,National Capital Region (NCR),11/04/2020,161,3107,12,480,10,311
+Philippines,130000000,National Capital Region (NCR),12/04/2020,132,3239,7,487,7,318
+Philippines,130000000,National Capital Region (NCR),13/04/2020,188,3427,5,492,7,325
+Philippines,130000000,National Capital Region (NCR),14/04/2020,186,3613,5,497,6,331
+Philippines,130000000,National Capital Region (NCR),15/04/2020,168,3781,7,504,4,335
+Philippines,130000000,National Capital Region (NCR),16/04/2020,111,3892,7,511,0,335
+Philippines,130000000,National Capital Region (NCR),17/04/2020,134,4026,1,512,9,344
+Philippines,130000000,National Capital Region (NCR),18/04/2020,128,4154,3,515,13,357
+Philippines,130000000,National Capital Region (NCR),19/04/2020,113,4267,4,519,5,362
+Philippines,130000000,National Capital Region (NCR),20/04/2020,90,4357,1,520,7,369
+Philippines,130000000,National Capital Region (NCR),21/04/2020,54,4411,2,522,1,370
+Philippines,130000000,National Capital Region (NCR),22/04/2020,39,4450,0,522,0,370
+Philippines,130000000,National Capital Region (NCR),23/04/2020,65,4515,0,522,3,373
+Philippines,130000000,National Capital Region (NCR),24/04/2020,63,4578,0,522,1,374
+Philippines,130000000,National Capital Region (NCR),25/04/2020,39,4617,3,525,2,376
+Philippines,130000000,National Capital Region (NCR),26/04/2020,144,4761,0,525,2,378
+Philippines,130000000,National Capital Region (NCR),27/04/2020,64,4825,3,528,1,379
+Philippines,130000000,National Capital Region (NCR),28/04/2020,76,4901,1,529,2,381
+Philippines,130000000,National Capital Region (NCR),29/04/2020,163,5064,0,529,1,382
+Philippines,130000000,National Capital Region (NCR),30/04/2020,69,5133,0,529,3,385
+Philippines,130000000,National Capital Region (NCR),01/05/2020,91,5224,1,530,5,390
+Philippines,130000000,National Capital Region (NCR),02/05/2020,39,5263,0,530,0,390
+Philippines,130000000,National Capital Region (NCR),03/05/2020,65,5328,0,530,0,390
+Philippines,130000000,National Capital Region (NCR),04/05/2020,76,5404,0,530,3,393
+Philippines,130000000,National Capital Region (NCR),05/05/2020,143,5547,0,530,3,396
+Philippines,130000000,National Capital Region (NCR),06/05/2020,63,5610,0,530,1,397
+Philippines,130000000,National Capital Region (NCR),07/05/2020,1,5611,0,530,1,398
+Philippines,140000000,Cordillera Administrative Region (CAR),30/01/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),31/01/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),01/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),02/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),03/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),04/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),05/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),06/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),07/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),08/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),09/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),10/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),11/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),12/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),13/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),14/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),15/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),16/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),17/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),18/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),19/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),20/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),21/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),22/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),23/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),24/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),25/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),26/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),27/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),28/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),29/02/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),01/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),02/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),03/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),04/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),05/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),06/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),07/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),08/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),09/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),10/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),11/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),12/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),13/03/2020,0,0,0,0,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),14/03/2020,1,1,1,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),15/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),16/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),17/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),18/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),19/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),20/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),21/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),22/03/2020,0,1,0,1,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),23/03/2020,1,2,1,2,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),24/03/2020,0,2,0,2,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),25/03/2020,0,2,0,2,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),26/03/2020,1,3,1,3,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),27/03/2020,0,3,0,3,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),28/03/2020,0,3,0,3,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),29/03/2020,3,6,2,5,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),30/03/2020,4,10,2,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),31/03/2020,2,12,0,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),01/04/2020,0,12,0,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),02/04/2020,1,13,0,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),03/04/2020,0,13,0,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),04/04/2020,0,13,0,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),05/04/2020,0,13,0,7,0,0
+Philippines,140000000,Cordillera Administrative Region (CAR),06/04/2020,5,18,3,10,1,1
+Philippines,140000000,Cordillera Administrative Region (CAR),07/04/2020,0,18,0,10,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),08/04/2020,0,18,0,10,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),09/04/2020,1,19,1,11,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),10/04/2020,0,19,0,11,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),11/04/2020,1,20,1,12,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),12/04/2020,0,20,0,12,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),13/04/2020,2,22,0,12,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),14/04/2020,0,22,0,12,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),15/04/2020,1,23,1,13,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),16/04/2020,1,24,1,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),17/04/2020,0,24,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),18/04/2020,0,24,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),19/04/2020,0,24,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),20/04/2020,0,24,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),21/04/2020,1,25,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),22/04/2020,0,25,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),23/04/2020,0,25,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),24/04/2020,0,25,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),25/04/2020,2,27,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),26/04/2020,8,35,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),27/04/2020,6,41,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),28/04/2020,1,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),29/04/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),30/04/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),01/05/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),02/05/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),03/05/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),04/05/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),05/05/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),06/05/2020,0,42,0,14,0,1
+Philippines,140000000,Cordillera Administrative Region (CAR),07/05/2020,0,42,0,14,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),30/01/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),31/01/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),01/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),02/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),03/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),04/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),05/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),06/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),07/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),08/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),09/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),10/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),11/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),12/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),13/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),14/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),15/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),16/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),17/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),18/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),19/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),20/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),21/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),22/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),23/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),24/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),25/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),26/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),27/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),28/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),29/02/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),01/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),02/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),03/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),04/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),05/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),06/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),07/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),08/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),09/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),10/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),11/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),12/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),13/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),14/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),15/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),16/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),17/03/2020,0,0,0,0,0,0
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),18/03/2020,1,1,0,0,1,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),19/03/2020,0,1,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),20/03/2020,0,1,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),21/03/2020,0,1,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),22/03/2020,0,1,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),23/03/2020,0,1,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),24/03/2020,2,3,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),25/03/2020,1,4,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),26/03/2020,0,4,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),27/03/2020,0,4,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),28/03/2020,0,4,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),29/03/2020,0,4,0,0,0,1
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),30/03/2020,2,6,0,0,2,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),31/03/2020,0,6,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),01/04/2020,0,6,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),02/04/2020,0,6,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),03/04/2020,0,6,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),04/04/2020,0,6,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),05/04/2020,1,7,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),06/04/2020,1,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),07/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),08/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),09/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),10/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),11/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),12/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),13/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),14/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),15/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),16/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),17/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),18/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),19/04/2020,0,8,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),20/04/2020,1,9,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),21/04/2020,0,9,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),22/04/2020,0,9,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),23/04/2020,0,9,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),24/04/2020,1,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),25/04/2020,0,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),26/04/2020,0,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),27/04/2020,0,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),28/04/2020,0,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),29/04/2020,0,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),30/04/2020,0,10,0,0,0,3
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),01/05/2020,1,11,0,0,1,4
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),02/05/2020,0,11,0,0,0,4
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),03/05/2020,0,11,0,0,0,4
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),04/05/2020,0,11,0,0,0,4
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),05/05/2020,0,11,0,0,0,4
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),06/05/2020,0,11,0,0,0,4
+Philippines,150000000,Autonomous Region In Muslim Mindanao (ARMM),07/05/2020,0,11,0,0,0,4
+Philippines,160000000,Region XIII (Caraga),30/01/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),31/01/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),01/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),02/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),03/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),04/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),05/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),06/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),07/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),08/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),09/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),10/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),11/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),12/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),13/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),14/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),15/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),16/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),17/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),18/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),19/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),20/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),21/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),22/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),23/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),24/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),25/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),26/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),27/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),28/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),29/02/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),01/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),02/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),03/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),04/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),05/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),06/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),07/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),08/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),09/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),10/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),11/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),12/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),13/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),14/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),15/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),16/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),17/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),18/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),19/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),20/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),21/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),22/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),23/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),24/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),25/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),26/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),27/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),28/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),29/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),30/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),31/03/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),01/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),02/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),03/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),04/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),05/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),06/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),07/04/2020,0,0,0,0,0,0
+Philippines,160000000,Region XIII (Caraga),08/04/2020,1,1,1,1,0,0
+Philippines,160000000,Region XIII (Caraga),09/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),10/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),11/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),12/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),13/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),14/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),15/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),16/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),17/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),18/04/2020,0,1,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),19/04/2020,1,2,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),20/04/2020,0,2,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),21/04/2020,0,2,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),22/04/2020,0,2,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),23/04/2020,1,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),24/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),25/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),26/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),27/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),28/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),29/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),30/04/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),01/05/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),02/05/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),03/05/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),04/05/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),05/05/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),06/05/2020,0,3,0,1,0,0
+Philippines,160000000,Region XIII (Caraga),07/05/2020,0,3,0,1,0,0
+Philippines,170000000,Mimaropa Region,30/01/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,31/01/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,01/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,02/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,03/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,04/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,05/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,06/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,07/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,08/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,09/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,10/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,11/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,12/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,13/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,14/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,15/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,16/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,17/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,18/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,19/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,20/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,21/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,22/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,23/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,24/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,25/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,26/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,27/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,28/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,29/02/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,01/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,02/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,03/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,04/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,05/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,06/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,07/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,08/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,09/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,10/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,11/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,12/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,13/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,14/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,15/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,16/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,17/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,18/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,19/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,20/03/2020,0,0,0,0,0,0
+Philippines,170000000,Mimaropa Region,21/03/2020,1,1,1,1,0,0
+Philippines,170000000,Mimaropa Region,22/03/2020,0,1,0,1,0,0
+Philippines,170000000,Mimaropa Region,23/03/2020,0,1,0,1,0,0
+Philippines,170000000,Mimaropa Region,24/03/2020,0,1,0,1,0,0
+Philippines,170000000,Mimaropa Region,25/03/2020,1,2,1,2,0,0
+Philippines,170000000,Mimaropa Region,26/03/2020,0,2,0,2,0,0
+Philippines,170000000,Mimaropa Region,27/03/2020,0,2,0,2,0,0
+Philippines,170000000,Mimaropa Region,28/03/2020,2,4,1,3,1,1
+Philippines,170000000,Mimaropa Region,29/03/2020,1,5,0,3,0,1
+Philippines,170000000,Mimaropa Region,30/03/2020,0,5,0,3,0,1
+Philippines,170000000,Mimaropa Region,31/03/2020,3,8,2,5,0,1
+Philippines,170000000,Mimaropa Region,01/04/2020,0,8,0,5,0,1
+Philippines,170000000,Mimaropa Region,02/04/2020,1,9,1,6,0,1
+Philippines,170000000,Mimaropa Region,03/04/2020,0,9,0,6,0,1
+Philippines,170000000,Mimaropa Region,04/04/2020,0,9,0,6,0,1
+Philippines,170000000,Mimaropa Region,05/04/2020,0,9,0,6,0,1
+Philippines,170000000,Mimaropa Region,06/04/2020,0,9,0,6,0,1
+Philippines,170000000,Mimaropa Region,07/04/2020,0,9,0,6,0,1
+Philippines,170000000,Mimaropa Region,08/04/2020,0,9,0,6,0,1
+Philippines,170000000,Mimaropa Region,09/04/2020,1,10,0,6,0,1
+Philippines,170000000,Mimaropa Region,10/04/2020,0,10,0,6,0,1
+Philippines,170000000,Mimaropa Region,11/04/2020,0,10,0,6,0,1
+Philippines,170000000,Mimaropa Region,12/04/2020,4,14,2,8,1,2
+Philippines,170000000,Mimaropa Region,13/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,14/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,15/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,16/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,17/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,18/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,19/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,20/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,21/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,22/04/2020,0,14,0,8,0,2
+Philippines,170000000,Mimaropa Region,23/04/2020,1,15,0,8,0,2
+Philippines,170000000,Mimaropa Region,24/04/2020,0,15,0,8,0,2
+Philippines,170000000,Mimaropa Region,25/04/2020,0,15,0,8,0,2
+Philippines,170000000,Mimaropa Region,26/04/2020,4,19,0,8,0,2
+Philippines,170000000,Mimaropa Region,27/04/2020,1,20,0,8,0,2
+Philippines,170000000,Mimaropa Region,28/04/2020,0,20,0,8,0,2
+Philippines,170000000,Mimaropa Region,29/04/2020,0,20,0,8,0,2
+Philippines,170000000,Mimaropa Region,30/04/2020,0,20,0,8,0,2
+Philippines,170000000,Mimaropa Region,01/05/2020,1,21,0,8,0,2
+Philippines,170000000,Mimaropa Region,02/05/2020,0,21,0,8,0,2
+Philippines,170000000,Mimaropa Region,03/05/2020,1,22,0,8,0,2
+Philippines,170000000,Mimaropa Region,04/05/2020,0,22,0,8,0,2
+Philippines,170000000,Mimaropa Region,05/05/2020,0,22,0,8,0,2
+Philippines,170000000,Mimaropa Region,06/05/2020,3,25,0,8,0,2
+Philippines,170000000,Mimaropa Region,07/05/2020,0,25,0,8,0,2
+Philippines,,Unidentifed,30/01/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,31/01/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,01/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,02/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,03/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,04/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,05/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,06/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,07/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,08/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,09/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,10/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,11/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,12/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,13/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,14/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,15/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,16/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,17/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,18/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,19/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,20/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,21/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,22/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,23/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,24/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,25/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,26/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,27/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,28/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,29/02/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,01/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,02/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,03/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,04/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,05/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,06/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,07/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,08/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,09/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,10/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,11/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,12/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,13/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,14/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,15/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,16/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,17/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,18/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,19/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,20/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,21/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,22/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,23/03/2020,0,0,0,0,0,0
+Philippines,,Unidentifed,24/03/2020,1,1,0,0,0,0
+Philippines,,Unidentifed,25/03/2020,2,3,0,0,0,0
+Philippines,,Unidentifed,26/03/2020,2,5,0,0,0,0
+Philippines,,Unidentifed,27/03/2020,1,6,0,0,0,0
+Philippines,,Unidentifed,28/03/2020,5,11,1,1,1,1
+Philippines,,Unidentifed,29/03/2020,5,16,1,2,0,1
+Philippines,,Unidentifed,30/03/2020,3,19,0,2,0,1
+Philippines,,Unidentifed,31/03/2020,11,30,1,3,1,2
+Philippines,,Unidentifed,01/04/2020,1,31,0,3,0,2
+Philippines,,Unidentifed,02/04/2020,20,51,0,3,1,3
+Philippines,,Unidentifed,03/04/2020,33,84,0,3,4,7
+Philippines,,Unidentifed,04/04/2020,10,94,1,4,2,9
+Philippines,,Unidentifed,05/04/2020,21,115,1,5,0,9
+Philippines,,Unidentifed,06/04/2020,5,120,0,5,0,9
+Philippines,,Unidentifed,07/04/2020,0,120,0,5,0,9
+Philippines,,Unidentifed,08/04/2020,3,123,0,5,0,9
+Philippines,,Unidentifed,09/04/2020,2,125,0,5,0,9
+Philippines,,Unidentifed,10/04/2020,2,127,0,5,0,9
+Philippines,,Unidentifed,11/04/2020,4,131,0,5,0,9
+Philippines,,Unidentifed,12/04/2020,18,149,0,5,0,9
+Philippines,,Unidentifed,13/04/2020,5,154,0,5,0,9
+Philippines,,Unidentifed,14/04/2020,21,175,2,7,1,10
+Philippines,,Unidentifed,15/04/2020,10,185,0,7,0,10
+Philippines,,Unidentifed,16/04/2020,8,193,1,8,0,10
+Philippines,,Unidentifed,17/04/2020,8,201,0,8,1,11
+Philippines,,Unidentifed,18/04/2020,19,220,0,8,2,13
+Philippines,,Unidentifed,19/04/2020,13,233,0,8,0,13
+Philippines,,Unidentifed,20/04/2020,47,280,0,8,0,13
+Philippines,,Unidentifed,21/04/2020,22,302,0,8,0,13
+Philippines,,Unidentifed,22/04/2020,40,342,0,8,1,14
+Philippines,,Unidentifed,23/04/2020,36,378,0,8,0,14
+Philippines,,Unidentifed,24/04/2020,103,481,0,8,0,14
+Philippines,,Unidentifed,25/04/2020,14,495,0,8,0,14
+Philippines,,Unidentifed,26/04/2020,17,512,0,8,0,14
+Philippines,,Unidentifed,27/04/2020,72,584,0,8,1,15
+Philippines,,Unidentifed,28/04/2020,51,635,0,8,0,15
+Philippines,,Unidentifed,29/04/2020,34,669,0,8,1,16
+Philippines,,Unidentifed,30/04/2020,83,752,0,8,0,16
+Philippines,,Unidentifed,01/05/2020,40,792,0,8,0,16
+Philippines,,Unidentifed,02/05/2020,16,808,0,8,0,16
+Philippines,,Unidentifed,03/05/2020,65,873,0,8,1,17
+Philippines,,Unidentifed,04/05/2020,57,930,0,8,0,17
+Philippines,,Unidentifed,05/05/2020,32,962,0,8,0,17
+Philippines,,Unidentifed,06/05/2020,124,1086,0,8,0,17
+Philippines,,Unidentifed,07/05/2020,337,1423,0,8,0,17
