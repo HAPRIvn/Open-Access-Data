@@ -11,3 +11,4 @@
 | Philippines |Province|City|Municipal|Barangay|Philippine Statistics Authority|https://psa.gov.ph/classification/psgc/|
 |Australia|State|Local Government| | ||https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202019|
 |Myanmar | State & Region | Sub region | | |Myanmar Information Management Unit |http://geonode.themimu.info/layers/|
+|Japan||||||http://data.e-stat.go.jp/lodw/en/provdata/lodRegion#3-2-1|
