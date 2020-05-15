@@ -22,7 +22,7 @@ Country in the data is coded according to ISO 3166-1 numeric and ISO 3166-1 alph
 State, province, district and county code of each country is coded according to each country's standardized administration code.
 
 ## Future data
-1. Administration code data for various countries.
+1. Administration code data for various countries (in progress as of May 15, 2020).
 2. Vietnam and USA demographic data.
 
 # HAPRI Open Access Data on the Press
