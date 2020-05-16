@@ -112,11 +112,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,11/05/2020,9889,393,0,USA,USA.1_1,1
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,12/05/2020,10164,403,0,USA,USA.1_1,1
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,13/05/2020,10464,435,0,USA,USA.1_1,1
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,14/05/2020,10700,450,0,USA,USA.1_1,1
 5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,15/05/2020,11101,473,0,USA,USA.1_1,1
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,6,East South Central,1,Alabama,16/05/2020,11373,483,0,USA,USA.1_1,1
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,22/01/2020,0,0,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,23/01/2020,0,0,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,24/01/2020,0,0,0,USA,USA.2_1,2
@@ -230,11 +228,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,11/05/2020,379,10,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,12/05/2020,379,10,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,13/05/2020,379,10,0,USA,USA.2_1,2
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,14/05/2020,379,10,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,15/05/2020,379,10,0,USA,USA.2_1,2
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,9,Pacific,2,Alaska,16/05/2020,387,10,0,USA,USA.2_1,2
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,22/01/2020,0,0,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,23/01/2020,0,0,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,24/01/2020,0,0,0,USA,USA.3_1,3
@@ -348,11 +344,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,11/05/2020,11119,535,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,12/05/2020,11383,541,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,13/05/2020,11736,561,0,USA,USA.3_1,3
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,14/05/2020,12216,594,0,USA,USA.3_1,3
 5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,15/05/2020,12674,623,0,USA,USA.3_1,3
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,4,Arizona,16/05/2020,13169,650,0,USA,USA.3_1,3
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,22/01/2020,0,0,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,23/01/2020,0,0,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,24/01/2020,0,0,0,USA,USA.4_1,4
@@ -466,11 +460,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,11/05/2020,3885,91,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,12/05/2020,3912,94,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,13/05/2020,4027,95,0,USA,USA.4_1,4
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,14/05/2020,4096,97,0,USA,USA.4_1,4
 5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,15/05/2020,4231,98,0,USA,USA.4_1,4
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,7,West South Central,5,Arkansas,16/05/2020,4324,98,0,USA,USA.4_1,4
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,22/01/2020,0,0,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,23/01/2020,0,0,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,24/01/2020,0,0,0,USA,USA.5_1,5
@@ -584,11 +576,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,11/05/2020,67600,2716,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,12/05/2020,69329,2779,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,13/05/2020,70978,2879,0,USA,USA.5_1,5
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,14/05/2020,72798,2957,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,9,Pacific,6,California,15/05/2020,74871,3052,0,USA,USA.5_1,5
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,9,Pacific,6,California,16/05/2020,76693,3136,0,USA,USA.5_1,5
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,22/01/2020,0,0,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,23/01/2020,0,0,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,24/01/2020,0,0,0,USA,USA.6_1,6
@@ -702,11 +692,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,11/05/2020,19481,966,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,12/05/2020,19726,983,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,13/05/2020,20056,1006,0,USA,USA.6_1,6
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,14/05/2020,20390,1058,0,USA,USA.6_1,6
 5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,15/05/2020,20767,1085,0,USA,USA.6_1,6
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,8,Colorado,16/05/2020,21171,1149,0,USA,USA.6_1,6
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,22/01/2020,0,0,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,23/01/2020,0,0,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,24/01/2020,0,0,0,USA,USA.7_1,7
@@ -820,11 +808,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,11/05/2020,33254,2964,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,12/05/2020,33492,3005,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,13/05/2020,34070,3038,0,USA,USA.7_1,7
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,14/05/2020,34605,3120,0,USA,USA.7_1,7
 5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,15/05/2020,35229,3216,0,USA,USA.7_1,7
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,1,New England,9,Connecticut,16/05/2020,35847,3282,0,USA,USA.7_1,7
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,22/01/2020,0,0,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,23/01/2020,0,0,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,24/01/2020,0,0,0,USA,USA.8_1,8
@@ -938,11 +924,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,11/05/2020,6250,221,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,12/05/2020,6525,225,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,13/05/2020,6705,236,0,USA,USA.8_1,8
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,14/05/2020,6916,246,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,15/05/2020,7178,259,0,USA,USA.8_1,8
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,10,Delaware,16/05/2020,7330,270,0,USA,USA.8_1,8
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,22/01/2020,0,0,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,23/01/2020,0,0,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,24/01/2020,0,0,0,USA,USA.9_1,9
@@ -1056,11 +1040,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,11/05/2020,6272,323,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,12/05/2020,6389,328,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,13/05/2020,6485,336,0,USA,USA.9_1,9
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,14/05/2020,6584,350,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,15/05/2020,6736,358,0,USA,USA.9_1,9
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,11,District of Columbia,16/05/2020,6871,368,0,USA,USA.9_1,9
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,22/01/2020,0,0,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,23/01/2020,0,0,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,24/01/2020,0,0,0,USA,USA.10_1,10
@@ -1174,11 +1156,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,11/05/2020,40546,1721,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,12/05/2020,40932,1735,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,13/05/2020,41866,1779,0,USA,USA.10_1,10
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,14/05/2020,42314,1827,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,15/05/2020,43134,1875,0,USA,USA.10_1,10
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,12,Florida,16/05/2020,44060,1917,0,USA,USA.10_1,10
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,22/01/2020,0,0,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,23/01/2020,0,0,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,24/01/2020,0,0,0,USA,USA.11_1,11
@@ -1292,11 +1272,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,11/05/2020,31250,1382,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,12/05/2020,31534,1418,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,13/05/2020,32207,1473,0,USA,USA.11_1,11
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,14/05/2020,32582,1494,0,USA,USA.11_1,11
 5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,15/05/2020,33059,1522,0,USA,USA.11_1,11
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,13,Georgia,16/05/2020,33598,1563,0,USA,USA.11_1,11
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,22/01/2020,0,0,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,23/01/2020,0,0,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,24/01/2020,0,0,0,USA,USA.12_1,12
@@ -1410,11 +1388,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,11/05/2020,621,17,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,12/05/2020,623,17,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,13/05/2020,624,17,0,USA,USA.12_1,12
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,14/05/2020,627,17,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,15/05/2020,627,17,0,USA,USA.12_1,12
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,9,Pacific,15,Hawaii,16/05/2020,628,17,0,USA,USA.12_1,12
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,22/01/2020,0,0,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,23/01/2020,0,0,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,24/01/2020,0,0,0,USA,USA.13_1,13
@@ -1528,11 +1504,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,11/05/2020,2230,67,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,12/05/2020,2260,70,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,13/05/2020,2293,69,0,USA,USA.13_1,13
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,14/05/2020,2293,69,0,USA,USA.13_1,13
 5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,15/05/2020,2351,72,0,USA,USA.13_1,13
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,16,Idaho,16/05/2020,2351,72,0,USA,USA.13_1,13
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,22/01/2020,0,0,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,23/01/2020,0,0,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,24/01/2020,0,0,0,USA,USA.14_1,14
@@ -1646,11 +1620,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,11/05/2020,77578,3404,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,12/05/2020,78857,3457,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,13/05/2020,82874,3599,0,USA,USA.14_1,14
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,14/05/2020,84566,3790,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,15/05/2020,87786,3925,0,USA,USA.14_1,14
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,3,East North Central,17,Illinois,16/05/2020,90233,4056,0,USA,USA.14_1,14
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,22/01/2020,0,0,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,23/01/2020,0,0,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,24/01/2020,0,0,0,USA,USA.15_1,15
@@ -1764,11 +1736,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,11/05/2020,24126,1379,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,12/05/2020,24627,1411,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,13/05/2020,25127,1444,0,USA,USA.15_1,15
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,14/05/2020,25473,1482,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,15/05/2020,26053,1508,0,USA,USA.15_1,15
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,3,East North Central,18,Indiana,16/05/2020,26656,1550,0,USA,USA.15_1,15
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,22/01/2020,0,0,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,23/01/2020,0,0,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,24/01/2020,0,0,0,USA,USA.16_1,16
@@ -1882,11 +1852,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,11/05/2020,11959,265,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,12/05/2020,12368,271,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,13/05/2020,12906,289,0,USA,USA.16_1,16
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,14/05/2020,13284,306,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,15/05/2020,13667,318,0,USA,USA.16_1,16
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,19,Iowa,16/05/2020,14039,336,0,USA,USA.16_1,16
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,22/01/2020,0,0,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,23/01/2020,0,0,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,24/01/2020,0,0,0,USA,USA.17_1,17
@@ -2000,11 +1968,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,11/05/2020,6951,174,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,12/05/2020,7159,180,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,13/05/2020,7240,184,0,USA,USA.17_1,17
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,14/05/2020,7518,188,0,USA,USA.17_1,17
 5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,15/05/2020,7705,189,0,USA,USA.17_1,17
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,20,Kansas,16/05/2020,7886,193,0,USA,USA.17_1,17
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,22/01/2020,0,0,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,23/01/2020,0,0,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,24/01/2020,0,0,0,USA,USA.18_1,18
@@ -2118,11 +2084,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,11/05/2020,6406,304,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,12/05/2020,6646,311,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,13/05/2020,6822,321,0,USA,USA.18_1,18
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,14/05/2020,6822,321,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,15/05/2020,7194,328,0,USA,USA.18_1,18
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,6,East South Central,21,Kentucky,16/05/2020,7413,332,0,USA,USA.18_1,18
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,22/01/2020,0,0,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,23/01/2020,0,0,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,24/01/2020,0,0,0,USA,USA.19_1,19
@@ -2236,11 +2200,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,11/05/2020,31536,2212,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,12/05/2020,31751,2240,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,13/05/2020,31986,2280,0,USA,USA.19_1,19
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,14/05/2020,32598,2315,0,USA,USA.19_1,19
 5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,15/05/2020,33424,2351,0,USA,USA.19_1,19
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,7,West South Central,22,Louisiana,16/05/2020,33772,2382,0,USA,USA.19_1,19
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,22/01/2020,0,0,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,23/01/2020,0,0,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,24/01/2020,0,0,0,USA,USA.20_1,20
@@ -2354,11 +2316,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,11/05/2020,1433,64,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,12/05/2020,1456,65,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,13/05/2020,1471,65,0,USA,USA.20_1,20
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,14/05/2020,1509,66,0,USA,USA.20_1,20
 5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,15/05/2020,1563,69,0,USA,USA.20_1,20
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,1,New England,23,Maine,16/05/2020,1601,69,0,USA,USA.20_1,20
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,22/01/2020,0,0,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,23/01/2020,0,0,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,24/01/2020,0,0,0,USA,USA.21_1,21
@@ -2472,11 +2432,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,11/05/2020,32587,1553,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,12/05/2020,33373,1577,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,13/05/2020,34061,1647,0,USA,USA.21_1,21
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,14/05/2020,34812,1717,0,USA,USA.21_1,21
 5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,15/05/2020,35903,1771,0,USA,USA.21_1,21
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,24,Maryland,16/05/2020,36986,1820,0,USA,USA.21_1,21
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,22/01/2020,0,0,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,23/01/2020,0,0,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,24/01/2020,0,0,0,USA,USA.22_1,22
@@ -2590,11 +2548,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,11/05/2020,77456,4973,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,12/05/2020,78140,5102,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,13/05/2020,79024,5136,0,USA,USA.22_1,22
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,14/05/2020,80198,5310,0,USA,USA.22_1,22
 5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,15/05/2020,81846,5478,0,USA,USA.22_1,22
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,1,New England,25,Massachusetts,16/05/2020,83100,5588,0,USA,USA.22_1,22
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,22/01/2020,0,0,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,23/01/2020,0,0,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,24/01/2020,0,0,0,USA,USA.23_1,23
@@ -2708,11 +2664,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,11/05/2020,44895,4500,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,12/05/2020,45263,4526,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,13/05/2020,45680,4614,0,USA,USA.23_1,23
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,14/05/2020,46038,4653,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,15/05/2020,47168,4727,0,USA,USA.23_1,23
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,3,East North Central,26,Michigan,16/05/2020,47625,4765,0,USA,USA.23_1,23
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,22/01/2020,0,0,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,23/01/2020,0,0,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,24/01/2020,0,0,0,USA,USA.24_1,24
@@ -2826,11 +2780,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,11/05/2020,11253,578,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,12/05/2020,11774,591,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,13/05/2020,12464,614,0,USA,USA.24_1,24
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,14/05/2020,12901,638,0,USA,USA.24_1,24
 5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,15/05/2020,13414,663,0,USA,USA.24_1,24
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,27,Minnesota,16/05/2020,14216,683,0,USA,USA.24_1,24
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,22/01/2020,0,0,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,23/01/2020,0,0,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,24/01/2020,0,0,0,USA,USA.25_1,25
@@ -2944,11 +2896,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,11/05/2020,9501,430,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,12/05/2020,9674,435,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,13/05/2020,9908,457,0,USA,USA.25_1,25
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,14/05/2020,10090,465,0,USA,USA.25_1,25
 5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,15/05/2020,10483,480,0,USA,USA.25_1,25
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,6,East South Central,28,Mississippi,16/05/2020,10801,493,0,USA,USA.25_1,25
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,22/01/2020,0,0,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,23/01/2020,0,0,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,24/01/2020,0,0,0,USA,USA.26_1,26
@@ -3062,11 +3012,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,11/05/2020,9301,487,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,12/05/2020,9374,498,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,13/05/2020,9478,513,0,USA,USA.26_1,26
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,14/05/2020,9596,535,0,USA,USA.26_1,26
 5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,15/05/2020,9756,549,0,USA,USA.26_1,26
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,29,Missouri,16/05/2020,9918,563,0,USA,USA.26_1,26
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,22/01/2020,0,0,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,23/01/2020,0,0,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,24/01/2020,0,0,0,USA,USA.27_1,27
@@ -3180,11 +3128,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,11/05/2020,458,16,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,12/05/2020,459,16,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,13/05/2020,461,16,0,USA,USA.27_1,27
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,14/05/2020,462,16,0,USA,USA.27_1,27
 5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,15/05/2020,462,16,0,USA,USA.27_1,27
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,30,Montana,16/05/2020,466,16,0,USA,USA.27_1,27
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,22/01/2020,0,0,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,23/01/2020,0,0,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,24/01/2020,0,0,0,USA,USA.28_1,28
@@ -3298,11 +3244,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,11/05/2020,8171,69,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,12/05/2020,8407,69,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,13/05/2020,8532,69,0,USA,USA.28_1,28
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,14/05/2020,8912,70,0,USA,USA.28_1,28
 5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,15/05/2020,9260,70,0,USA,USA.28_1,28
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,31,Nebraska,16/05/2020,9610,70,0,USA,USA.28_1,28
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,22/01/2020,0,0,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,23/01/2020,0,0,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,24/01/2020,0,0,0,USA,USA.29_1,29
@@ -3416,11 +3360,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,11/05/2020,6120,305,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,12/05/2020,6143,305,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,13/05/2020,6282,313,0,USA,USA.29_1,29
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,14/05/2020,6476,324,0,USA,USA.29_1,29
 5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,15/05/2020,6504,326,0,USA,USA.29_1,29
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,32,Nevada,16/05/2020,6733,343,0,USA,USA.29_1,29
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,22/01/2020,0,0,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,23/01/2020,0,0,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,24/01/2020,0,0,0,USA,USA.30_1,30
@@ -3534,11 +3476,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,11/05/2020,3043,86,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,12/05/2020,3129,86,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,13/05/2020,3213,86,0,USA,USA.30_1,30
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,14/05/2020,3273,86,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,15/05/2020,3348,132,0,USA,USA.30_1,30
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,1,New England,33,New Hampshire,16/05/2020,3419,132,0,USA,USA.30_1,30
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,22/01/2020,0,0,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,23/01/2020,0,0,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,24/01/2020,0,0,0,USA,USA.31_1,31
@@ -3652,11 +3592,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,11/05/2020,138754,9256,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,12/05/2020,140206,9340,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,13/05/2020,140917,9531,0,USA,USA.31_1,31
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,14/05/2020,141471,9714,0,USA,USA.31_1,31
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,15/05/2020,142451,9946,0,USA,USA.31_1,31
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,34,New Jersey,16/05/2020,143984,10148,0,USA,USA.31_1,31
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,22/01/2020,0,0,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,23/01/2020,0,0,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,24/01/2020,0,0,0,USA,USA.32_1,32
@@ -3770,11 +3708,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,11/05/2020,4844,200,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,12/05/2020,5039,208,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,13/05/2020,5163,219,0,USA,USA.32_1,32
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,14/05/2020,5302,231,0,USA,USA.32_1,32
 5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,15/05/2020,5437,242,0,USA,USA.32_1,32
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,35,New Mexico,16/05/2020,5588,253,0,USA,USA.32_1,32
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,22/01/2020,0,0,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,23/01/2020,0,0,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,24/01/2020,0,0,0,USA,USA.33_1,33
@@ -3888,11 +3824,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,11/05/2020,335395,26641,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,12/05/2020,337055,26988,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,13/05/2020,338485,27284,0,USA,USA.33_1,33
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,14/05/2020,340661,27477,0,USA,USA.33_1,33
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,15/05/2020,343051,27641,0,USA,USA.33_1,33
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,36,New York,16/05/2020,345813,27878,0,USA,USA.33_1,33
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,22/01/2020,0,0,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,23/01/2020,0,0,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,24/01/2020,0,0,0,USA,USA.34_1,34
@@ -4006,11 +3940,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,11/05/2020,14938,564,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,12/05/2020,15274,575,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,13/05/2020,15622,600,0,USA,USA.34_1,34
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,14/05/2020,16352,625,0,USA,USA.34_1,34
 5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,15/05/2020,16968,641,0,USA,USA.34_1,34
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,37,North Carolina,16/05/2020,17494,667,0,USA,USA.34_1,34
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,22/01/2020,0,0,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,23/01/2020,0,0,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,24/01/2020,0,0,0,USA,USA.35_1,35
@@ -4124,11 +4056,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,11/05/2020,1491,27,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,12/05/2020,1518,30,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,13/05/2020,1571,32,0,USA,USA.35_1,35
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,14/05/2020,1647,32,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,15/05/2020,1712,34,0,USA,USA.35_1,35
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,38,North Dakota,16/05/2020,1761,36,0,USA,USA.35_1,35
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,22/01/2020,0,0,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,23/01/2020,0,0,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,24/01/2020,0,0,0,USA,USA.36_1,36
@@ -4242,11 +4172,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,11/05/2020,24081,1341,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,12/05/2020,24777,1357,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,13/05/2020,25250,1436,0,USA,USA.36_1,36
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,14/05/2020,25721,1483,0,USA,USA.36_1,36
 5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,15/05/2020,26357,1534,0,USA,USA.36_1,36
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,3,East North Central,39,Ohio,16/05/2020,26954,1581,0,USA,USA.36_1,36
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,22/01/2020,0,0,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,23/01/2020,0,0,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,24/01/2020,0,0,0,USA,USA.37_1,37
@@ -4360,11 +4288,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,11/05/2020,4589,272,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,12/05/2020,4613,274,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,13/05/2020,4731,278,0,USA,USA.37_1,37
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,14/05/2020,4857,278,0,USA,USA.37_1,37
 5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,15/05/2020,4962,284,0,USA,USA.37_1,37
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,7,West South Central,40,Oklahoma,16/05/2020,5086,285,0,USA,USA.37_1,37
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,22/01/2020,0,0,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,23/01/2020,0,0,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,24/01/2020,0,0,0,USA,USA.38_1,38
@@ -4478,11 +4404,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,11/05/2020,3228,127,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,12/05/2020,3286,130,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,13/05/2020,3358,130,0,USA,USA.38_1,38
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,14/05/2020,3416,134,0,USA,USA.38_1,38
 5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,15/05/2020,3479,137,0,USA,USA.38_1,38
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,9,Pacific,41,Oregon,16/05/2020,3541,137,0,USA,USA.38_1,38
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,22/01/2020,0,0,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,23/01/2020,0,0,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,24/01/2020,0,0,0,USA,USA.39_1,39
@@ -4596,11 +4520,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,11/05/2020,59939,3806,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,12/05/2020,60459,3832,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,13/05/2020,61310,3914,0,USA,USA.39_1,39
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,14/05/2020,62101,4094,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,15/05/2020,63105,4288,0,USA,USA.39_1,39
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,2,Middle Atlantic,42,Pennsylvania,16/05/2020,64136,4422,0,USA,USA.39_1,39
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,22/01/2020,0,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,23/01/2020,0,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,24/01/2020,0,0,0,USA,USA.40_1,40
@@ -4714,11 +4636,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,11/05/2020,8519,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,12/05/2020,10292,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,13/05/2020,10416,0,0,USA,USA.40_1,40
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,14/05/2020,10789,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,15/05/2020,10789,0,0,USA,USA.40_1,40
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,1,New England,44,Rhode Island,16/05/2020,10789,0,0,USA,USA.40_1,40
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,22/01/2020,0,0,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,23/01/2020,0,0,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,24/01/2020,0,0,0,USA,USA.41_1,41
@@ -4832,11 +4752,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,11/05/2020,7653,331,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,12/05/2020,7792,346,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,13/05/2020,7927,355,0,USA,USA.41_1,41
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,14/05/2020,8030,362,0,USA,USA.41_1,41
 5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,15/05/2020,8189,371,0,USA,USA.41_1,41
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,45,South Carolina,16/05/2020,8407,380,0,USA,USA.41_1,41
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,22/01/2020,0,0,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,23/01/2020,0,0,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,24/01/2020,0,0,0,USA,USA.42_1,42
@@ -4950,11 +4868,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,11/05/2020,3517,34,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,12/05/2020,3614,34,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,13/05/2020,3663,34,0,USA,USA.42_1,42
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,14/05/2020,3732,34,0,USA,USA.42_1,42
 5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,15/05/2020,3792,43,0,USA,USA.42_1,42
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,4,West North Central,46,South Dakota,16/05/2020,3887,44,0,USA,USA.42_1,42
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,22/01/2020,0,0,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,23/01/2020,0,0,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,24/01/2020,0,0,0,USA,USA.43_1,43
@@ -5068,11 +4984,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,11/05/2020,14576,238,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,12/05/2020,15111,245,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,13/05/2020,15492,260,0,USA,USA.43_1,43
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,14/05/2020,15924,269,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,15/05/2020,16359,282,0,USA,USA.43_1,43
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,6,East South Central,47,Tennessee,16/05/2020,16620,285,0,USA,USA.43_1,43
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,22/01/2020,0,0,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,23/01/2020,0,0,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,24/01/2020,0,0,0,USA,USA.44_1,44
@@ -5186,11 +5100,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,11/05/2020,39258,1094,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,12/05/2020,40555,1117,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,13/05/2020,41432,1146,0,USA,USA.44_1,44
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,14/05/2020,43020,1172,0,USA,USA.44_1,44
 5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,15/05/2020,44480,1235,0,USA,USA.44_1,44
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,7,West South Central,48,Texas,16/05/2020,45721,1280,0,USA,USA.44_1,44
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,22/01/2020,0,0,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,23/01/2020,0,0,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,24/01/2020,0,0,0,USA,USA.45_1,45
@@ -5304,11 +5216,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,11/05/2020,5758,61,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,12/05/2020,5856,62,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,13/05/2020,5921,66,0,USA,USA.45_1,45
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,14/05/2020,6088,68,0,USA,USA.45_1,45
 5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,15/05/2020,6207,68,0,USA,USA.45_1,45
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,49,Utah,16/05/2020,6355,70,0,USA,USA.45_1,45
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,22/01/2020,0,0,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,23/01/2020,0,0,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,24/01/2020,0,0,0,USA,USA.46_1,46
@@ -5422,11 +5332,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,11/05/2020,923,53,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,12/05/2020,922,53,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,13/05/2020,923,53,0,USA,USA.46_1,46
-<<<<<<< HEAD
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,14/05/2020,925,53,0,USA,USA.46_1,46
 5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,15/05/2020,928,53,0,USA,USA.46_1,46
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,1,Northeast,1,New England,50,Vermont,16/05/2020,929,53,0,USA,USA.46_1,46
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,22/01/2020,0,0,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,23/01/2020,0,0,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,24/01/2020,0,0,0,USA,USA.47_1,47
@@ -5540,11 +5448,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,11/05/2020,24081,839,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,12/05/2020,25070,850,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,13/05/2020,25800,892,0,USA,USA.47_1,47
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,14/05/2020,26746,928,0,USA,USA.47_1,47
 5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,15/05/2020,27813,956,0,USA,USA.47_1,47
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,51,Virginia,16/05/2020,28672,978,0,USA,USA.47_1,47
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,22/01/2020,1,0,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,23/01/2020,1,0,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,24/01/2020,1,0,0,USA,USA.48_1,48
@@ -5658,11 +5564,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,11/05/2020,16851,931,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,12/05/2020,17084,945,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,13/05/2020,17273,962,0,USA,USA.48_1,48
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,14/05/2020,17439,974,0,USA,USA.48_1,48
 5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,15/05/2020,17663,983,0,USA,USA.48_1,48
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,9,Pacific,53,Washington,16/05/2020,17826,991,0,USA,USA.48_1,48
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,22/01/2020,0,0,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,23/01/2020,0,0,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,24/01/2020,0,0,0,USA,USA.49_1,49
@@ -5776,11 +5680,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,11/05/2020,1360,54,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,12/05/2020,1366,54,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,13/05/2020,1378,58,0,USA,USA.49_1,49
-<<<<<<< HEAD
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,14/05/2020,1398,58,0,USA,USA.49_1,49
 5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,15/05/2020,1427,60,0,USA,USA.49_1,49
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,3,South,5,South Atlantic,54,West Virginia,16/05/2020,1447,64,0,USA,USA.49_1,49
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,22/01/2020,0,0,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,23/01/2020,0,0,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,24/01/2020,0,0,0,USA,USA.50_1,50
@@ -5894,11 +5796,9 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,11/05/2020,10219,400,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,12/05/2020,10418,409,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,13/05/2020,10611,418,0,USA,USA.50_1,50
-<<<<<<< HEAD
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,14/05/2020,10902,421,0,USA,USA.50_1,50
 5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,15/05/2020,11275,434,0,USA,USA.50_1,50
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,2,Midwest,3,East North Central,55,Wisconsin,16/05/2020,11685,445,0,USA,USA.50_1,50
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,22/01/2020,0,0,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,23/01/2020,0,0,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,24/01/2020,0,0,0,USA,USA.51_1,51
@@ -6012,8 +5912,6 @@ country_region,country_region_name,country_iso,country_unsd,country_name,region_
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,11/05/2020,662,1,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,12/05/2020,669,1,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,13/05/2020,675,1,0,USA,USA.51_1,51
-<<<<<<< HEAD
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,14/05/2020,688,1,0,USA,USA.51_1,51
 5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,15/05/2020,701,1,0,USA,USA.51_1,51
-=======
->>>>>>> 3e4a7d8bae0f5f4a96cee0aeba70d3a3fb7dbf34
+5,North America,USA,842,USA,4,West,8,Mountain,56,Wyoming,16/05/2020,716,1,0,USA,USA.51_1,51
