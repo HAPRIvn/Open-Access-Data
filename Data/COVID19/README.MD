@@ -12,6 +12,7 @@
 | Thailand    | Provincial | District |    csv | Department of Decease Control | https://covid19.th-stat.com/ |
 |Japan| ||||https://covid19japan.com/|
 |India| ||||https://www.covid19india.org/|
+|Taiwan|||||https://data.cdc.gov.tw/|
 | China       | Provincial |          |    csv | John Hopkins University |https://github.com/CSSEGISandData/COVID-19|
 | USA         |   State    |  County  |    csv | John Hopkins University ||
 | Canada      |   State    |          |    csv | John Hopkins University ||
