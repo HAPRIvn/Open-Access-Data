@@ -114,7 +114,9 @@ PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,20
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,21/05/2020,0,3,0,2,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,22/05/2020,0,3,0,2,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,23/05/2020,0,3,0,2,0,0
-PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,24/05/2020,1,4,0,2,0,0
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,24/05/2020,0,3,0,2,0,0
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,25/05/2020,0,3,0,2,0,0
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12800000,Ilocos Norte,26/05/2020,0,3,0,2,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,01/02/2020,0,0,0,0,0,0
@@ -230,7 +232,9 @@ PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,20/0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,21/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,22/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,23/05/2020,0,1,0,1,0,0
-PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,24/05/2020,4,5,0,1,0,0
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,24/05/2020,0,1,0,1,0,0
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,25/05/2020,0,1,0,1,0,0
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),12900000,Ilocos Sur,26/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,01/02/2020,0,0,0,0,0,0
@@ -347,6 +351,8 @@ PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,21/05/
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,22/05/2020,0,18,0,7,0,3
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,23/05/2020,0,18,0,7,0,3
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,24/05/2020,0,18,0,7,0,3
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,25/05/2020,0,18,0,7,0,3
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),13300000,La Union,26/05/2020,1,19,0,7,0,3
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,01/02/2020,0,0,0,0,0,0
@@ -463,6 +469,8 @@ PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,21/0
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,22/05/2020,0,40,0,4,0,6
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,23/05/2020,0,40,0,4,0,6
 PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,24/05/2020,0,40,0,4,0,6
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,25/05/2020,0,40,0,4,0,6
+PHL,608,Philippines,1,10000000,Region I (Ilocos Region),15500000,Pangasinan,26/05/2020,0,40,0,4,0,6
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,01/02/2020,0,0,0,0,0,0
@@ -579,6 +587,8 @@ PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,21/05
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),20900000,Batanes,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,01/02/2020,0,0,0,0,0,0
@@ -694,7 +704,9 @@ PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,20/05
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,21/05/2020,0,17,0,14,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,22/05/2020,0,17,0,14,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,23/05/2020,0,17,0,14,0,0
-PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,24/05/2020,3,20,0,14,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,24/05/2020,0,17,0,14,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,25/05/2020,0,17,0,14,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),21500000,Cagayan,26/05/2020,1,18,0,14,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,01/02/2020,0,0,0,0,0,0
@@ -811,6 +823,8 @@ PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,21/05
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,22/05/2020,0,10,0,9,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,23/05/2020,0,10,0,9,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,24/05/2020,0,10,0,9,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,25/05/2020,0,10,0,9,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),23100000,Isabela,26/05/2020,0,10,0,9,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,01/02/2020,0,0,0,0,0,0
@@ -927,6 +941,8 @@ PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,22/05/2020,0,7,0,4,0,1
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,23/05/2020,0,7,0,4,0,1
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,24/05/2020,0,7,0,4,0,1
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,25/05/2020,0,7,0,4,0,1
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25000000,Nueva Vizcaya,26/05/2020,0,7,0,4,0,1
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,01/02/2020,0,0,0,0,0,0
@@ -1043,6 +1059,8 @@ PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,21/05
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,20000000,Region II (Cagayan Valley),25700000,Quirino,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,01/02/2020,0,0,0,0,0,0
@@ -1159,6 +1177,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,21/05/
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,22/05/2020,0,97,0,42,0,1
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,23/05/2020,3,100,0,42,0,1
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,24/05/2020,15,115,0,42,0,1
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,25/05/2020,1,116,0,42,0,1
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),30800000,Bataan,26/05/2020,1,117,0,42,0,1
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,01/02/2020,0,0,0,0,0,0
@@ -1275,6 +1295,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,21/05
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,22/05/2020,0,156,0,17,0,17
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,23/05/2020,3,159,0,17,0,17
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,24/05/2020,2,161,0,17,0,17
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,25/05/2020,2,163,0,17,0,17
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),31400000,Bulacan,26/05/2020,2,165,0,17,0,17
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,01/02/2020,0,0,0,0,0,0
@@ -1391,6 +1413,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,2
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,22/05/2020,0,53,0,12,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,23/05/2020,1,54,0,12,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,24/05/2020,0,54,0,12,0,0
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,25/05/2020,0,54,0,12,0,0
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),34900000,Nueva Ecija,26/05/2020,2,56,0,12,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,01/02/2020,0,0,0,0,0,0
@@ -1507,6 +1531,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,21/0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,22/05/2020,0,76,0,12,0,5
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,23/05/2020,0,76,0,12,0,5
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,24/05/2020,0,76,0,12,0,5
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,25/05/2020,0,76,0,12,0,5
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),35400000,Pampanga,26/05/2020,1,77,0,12,0,5
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,01/02/2020,0,0,0,0,0,0
@@ -1623,6 +1649,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,21/05/
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,22/05/2020,0,32,0,8,0,1
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,23/05/2020,0,32,0,8,0,1
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,24/05/2020,0,32,0,8,0,1
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,25/05/2020,0,32,0,8,0,1
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),36900000,Tarlac,26/05/2020,0,32,0,8,0,1
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,01/02/2020,0,0,0,0,0,0
@@ -1739,6 +1767,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,21/0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,22/05/2020,0,26,0,3,0,2
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,23/05/2020,0,26,0,3,0,2
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,24/05/2020,0,26,0,3,0,2
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,25/05/2020,0,26,0,3,0,2
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),37100000,Zambales,26/05/2020,0,26,0,3,0,2
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,01/02/2020,0,0,0,0,0,0
@@ -1855,6 +1885,8 @@ PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,21/05/
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,30000000,Region III (Central Luzon),37700000,Aurora,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,01/02/2020,0,0,0,0,0,0
@@ -1971,6 +2003,8 @@ PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,21/05/
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,22/05/2020,4,153,0,17,0,10
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,23/05/2020,1,154,0,17,0,10
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,24/05/2020,0,154,0,17,0,10
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,25/05/2020,6,160,0,17,0,10
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),41000000,Batangas,26/05/2020,1,161,0,17,0,10
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,01/02/2020,0,0,0,0,0,0
@@ -2034,59 +2068,61 @@ PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,29/03/20
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,30/03/2020,2,49,2,10,0,11
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,31/03/2020,19,68,3,13,1,12
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,01/04/2020,8,76,0,13,1,13
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,02/04/2020,10,86,3,16,0,13
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,03/04/2020,11,97,1,17,3,16
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,04/04/2020,3,100,0,17,0,16
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,05/04/2020,2,102,0,17,0,16
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,06/04/2020,16,118,0,17,0,16
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,07/04/2020,5,123,0,17,0,16
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,08/04/2020,2,125,0,17,1,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,09/04/2020,8,133,1,18,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,10/04/2020,4,137,0,18,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,11/04/2020,16,153,0,18,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,12/04/2020,8,161,2,20,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,13/04/2020,10,171,0,20,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,14/04/2020,5,176,1,21,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,15/04/2020,7,183,1,22,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,16/04/2020,13,196,0,22,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,17/04/2020,3,199,1,23,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,18/04/2020,14,213,1,24,1,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,19/04/2020,6,219,1,25,0,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,20/04/2020,1,220,0,25,0,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,21/04/2020,1,221,0,25,0,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,22/04/2020,1,222,0,25,0,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,23/04/2020,3,225,0,25,0,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,24/04/2020,12,237,0,25,0,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,25/04/2020,3,240,0,25,1,19
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,26/04/2020,15,255,0,25,0,19
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,27/04/2020,3,258,0,25,0,19
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,28/04/2020,1,259,0,25,0,19
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,29/04/2020,19,278,1,26,0,19
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,30/04/2020,3,281,0,26,0,19
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,01/05/2020,3,284,0,26,1,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,02/05/2020,1,285,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,03/05/2020,2,287,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,04/05/2020,2,289,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,05/05/2020,2,291,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,06/05/2020,1,292,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,07/05/2020,3,295,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,08/05/2020,1,296,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,09/05/2020,1,297,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,10/05/2020,1,298,0,26,0,20
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,11/05/2020,5,303,0,26,1,21
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,12/05/2020,3,306,0,26,0,21
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,13/05/2020,2,308,0,26,0,21
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,14/05/2020,3,311,0,26,1,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,15/05/2020,1,312,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,16/05/2020,3,315,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,17/05/2020,2,317,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,18/05/2020,0,317,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,19/05/2020,0,317,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,20/05/2020,2,319,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,21/05/2020,1,320,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,22/05/2020,1,321,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,23/05/2020,5,326,0,26,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,24/05/2020,1,327,0,26,0,22
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,02/04/2020,10,86,3,16,1,14
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,03/04/2020,11,97,1,17,3,17
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,04/04/2020,3,100,0,17,0,17
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,05/04/2020,2,102,0,17,0,17
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,06/04/2020,16,118,0,17,0,17
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,07/04/2020,5,123,0,17,0,17
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,08/04/2020,2,125,0,17,1,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,09/04/2020,8,133,1,18,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,10/04/2020,4,137,0,18,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,11/04/2020,16,153,0,18,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,12/04/2020,8,161,2,20,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,13/04/2020,10,171,0,20,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,14/04/2020,5,176,1,21,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,15/04/2020,7,183,1,22,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,16/04/2020,13,196,0,22,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,17/04/2020,3,199,1,23,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,18/04/2020,14,213,1,24,1,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,19/04/2020,6,219,1,25,0,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,20/04/2020,1,220,0,25,0,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,21/04/2020,1,221,0,25,0,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,22/04/2020,1,222,0,25,0,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,23/04/2020,3,225,0,25,0,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,24/04/2020,12,237,0,25,0,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,25/04/2020,3,240,0,25,1,20
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,26/04/2020,15,255,0,25,0,20
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,27/04/2020,3,258,0,25,0,20
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,28/04/2020,1,259,0,25,0,20
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,29/04/2020,19,278,1,26,0,20
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,30/04/2020,3,281,0,26,0,20
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,01/05/2020,3,284,0,26,1,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,02/05/2020,1,285,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,03/05/2020,2,287,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,04/05/2020,2,289,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,05/05/2020,2,291,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,06/05/2020,1,292,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,07/05/2020,3,295,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,08/05/2020,1,296,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,09/05/2020,1,297,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,10/05/2020,1,298,0,26,0,21
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,11/05/2020,5,303,0,26,1,22
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,12/05/2020,3,306,0,26,0,22
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,13/05/2020,2,308,0,26,0,22
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,14/05/2020,3,311,0,26,1,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,15/05/2020,1,312,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,16/05/2020,3,315,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,17/05/2020,2,317,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,18/05/2020,0,317,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,19/05/2020,0,317,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,20/05/2020,2,319,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,21/05/2020,1,320,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,22/05/2020,1,321,0,26,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,23/05/2020,5,326,0,26,1,24
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,24/05/2020,1,327,0,26,0,24
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,25/05/2020,2,329,0,26,0,24
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),42100000,Cavite,26/05/2020,3,332,0,26,0,24
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,01/02/2020,0,0,0,0,0,0
@@ -2203,6 +2239,8 @@ PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,21/05/20
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,22/05/2020,4,422,0,36,0,7
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,23/05/2020,1,423,0,36,0,7
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,24/05/2020,0,423,0,36,0,7
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,25/05/2020,25,448,0,36,0,7
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),43400000,Laguna,26/05/2020,2,450,0,36,0,7
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,01/02/2020,0,0,0,0,0,0
@@ -2318,7 +2356,9 @@ PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,20/05/20
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,21/05/2020,1,77,0,6,0,4
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,22/05/2020,1,78,0,6,0,4
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,23/05/2020,1,79,0,6,0,4
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,24/05/2020,8,87,0,6,0,4
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,24/05/2020,3,82,0,6,0,4
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,25/05/2020,1,83,0,6,0,4
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45600000,Quezon,26/05/2020,0,83,0,6,0,4
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,01/02/2020,0,0,0,0,0,0
@@ -2383,58 +2423,60 @@ PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,30/03/202
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,31/03/2020,22,111,3,24,1,13
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,01/04/2020,12,123,1,25,2,15
 PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,02/04/2020,17,140,3,28,0,15
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,03/04/2020,22,162,1,29,2,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,04/04/2020,5,167,0,29,0,17
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,05/04/2020,12,179,0,29,1,18
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,06/04/2020,24,203,2,31,4,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,07/04/2020,3,206,0,31,0,22
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,08/04/2020,7,213,1,32,1,23
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,09/04/2020,6,219,0,32,1,24
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,10/04/2020,10,229,1,33,0,24
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,11/04/2020,16,245,2,35,1,25
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,12/04/2020,23,268,0,35,1,26
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,13/04/2020,12,280,1,36,0,26
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,14/04/2020,28,308,1,37,1,27
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,15/04/2020,11,319,0,37,1,28
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,16/04/2020,8,327,0,37,1,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,17/04/2020,4,331,1,38,0,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,18/04/2020,3,334,0,38,0,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,19/04/2020,4,338,1,39,0,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,20/04/2020,5,343,0,39,0,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,21/04/2020,4,347,1,40,0,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,22/04/2020,2,349,0,40,0,29
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,23/04/2020,7,356,0,40,1,30
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,24/04/2020,6,362,0,40,0,30
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,25/04/2020,1,363,0,40,0,30
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,26/04/2020,11,374,0,40,0,30
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,27/04/2020,5,379,0,40,1,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,28/04/2020,5,384,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,29/04/2020,6,390,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,30/04/2020,3,393,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,01/05/2020,5,398,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,02/05/2020,1,399,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,03/05/2020,1,400,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,04/05/2020,0,400,0,40,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,05/05/2020,1,401,1,41,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,06/05/2020,0,401,0,41,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,07/05/2020,1,402,0,41,0,31
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,08/05/2020,1,403,0,41,1,32
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,09/05/2020,2,405,0,41,1,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,10/05/2020,0,405,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,11/05/2020,0,405,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,12/05/2020,3,408,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,13/05/2020,4,412,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,14/05/2020,3,415,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,15/05/2020,4,419,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,16/05/2020,5,424,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,17/05/2020,0,424,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,18/05/2020,0,424,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,19/05/2020,6,430,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,20/05/2020,3,433,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,21/05/2020,0,433,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,22/05/2020,1,434,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,23/05/2020,4,438,0,41,0,33
-PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,24/05/2020,4,442,0,41,1,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,03/04/2020,22,162,1,29,3,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,04/04/2020,5,167,0,29,0,18
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,05/04/2020,12,179,0,29,1,19
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,06/04/2020,24,203,2,31,4,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,07/04/2020,3,206,0,31,0,23
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,08/04/2020,7,213,1,32,1,24
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,09/04/2020,6,219,0,32,1,25
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,10/04/2020,10,229,1,33,0,25
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,11/04/2020,16,245,2,35,1,26
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,12/04/2020,23,268,0,35,1,27
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,13/04/2020,12,280,1,36,0,27
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,14/04/2020,28,308,1,37,1,28
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,15/04/2020,11,319,0,37,1,29
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,16/04/2020,8,327,0,37,1,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,17/04/2020,4,331,1,38,0,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,18/04/2020,3,334,0,38,0,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,19/04/2020,4,338,1,39,0,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,20/04/2020,5,343,0,39,0,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,21/04/2020,4,347,1,40,0,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,22/04/2020,2,349,0,40,0,30
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,23/04/2020,7,356,0,40,1,31
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,24/04/2020,6,362,0,40,0,31
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,25/04/2020,1,363,0,40,0,31
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,26/04/2020,11,374,0,40,0,31
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,27/04/2020,5,379,0,40,1,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,28/04/2020,5,384,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,29/04/2020,6,390,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,30/04/2020,3,393,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,01/05/2020,5,398,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,02/05/2020,1,399,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,03/05/2020,1,400,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,04/05/2020,0,400,0,40,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,05/05/2020,1,401,1,41,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,06/05/2020,0,401,0,41,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,07/05/2020,1,402,0,41,0,32
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,08/05/2020,1,403,0,41,1,33
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,09/05/2020,2,405,0,41,1,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,10/05/2020,0,405,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,11/05/2020,0,405,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,12/05/2020,3,408,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,13/05/2020,4,412,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,14/05/2020,3,415,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,15/05/2020,4,419,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,16/05/2020,5,424,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,17/05/2020,0,424,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,18/05/2020,0,424,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,19/05/2020,6,430,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,20/05/2020,3,433,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,21/05/2020,0,433,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,22/05/2020,1,434,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,23/05/2020,4,438,0,41,0,34
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,24/05/2020,4,442,0,41,1,35
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,25/05/2020,4,446,0,41,0,35
+PHL,608,Philippines,1,40000000,Region IV-A (Calabarzon),45800000,Rizal,26/05/2020,7,453,0,41,0,35
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,01/02/2020,0,0,0,0,0,0
@@ -2551,6 +2593,8 @@ PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,21/05/2020
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,22/05/2020,0,48,0,3,0,3
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,23/05/2020,0,48,0,3,0,3
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,24/05/2020,0,48,0,3,0,3
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,25/05/2020,0,48,0,3,0,3
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),50500000,Albay,26/05/2020,0,48,0,3,0,3
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,01/02/2020,0,0,0,0,0,0
@@ -2654,19 +2698,21 @@ PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,09/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,10/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,11/05/2020,0,0,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,12/05/2020,1,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,13/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,14/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,15/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,16/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,17/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,18/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,19/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,20/05/2020,0,1,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,21/05/2020,1,2,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,22/05/2020,0,2,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,23/05/2020,0,2,0,0,0,0
-PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,24/05/2020,0,2,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,12/05/2020,1,1,0,0,1,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,13/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,14/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,15/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,16/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,17/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,18/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,19/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,20/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,21/05/2020,1,2,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,22/05/2020,0,2,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,23/05/2020,0,2,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,24/05/2020,0,2,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,25/05/2020,0,2,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51600000,Camarines Norte,26/05/2020,0,2,0,0,0,1
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,01/02/2020,0,0,0,0,0,0
@@ -2783,6 +2829,8 @@ PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,21
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,22/05/2020,0,11,0,0,0,1
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,23/05/2020,0,11,0,0,0,1
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,24/05/2020,0,11,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,25/05/2020,0,11,0,0,0,1
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),51700000,Camarines Sur,26/05/2020,0,11,0,0,0,1
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,01/02/2020,0,0,0,0,0,0
@@ -2899,6 +2947,8 @@ PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,21/0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,22/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,23/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,24/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,25/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),52000000,Catanduanes,26/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,01/02/2020,0,0,0,0,0,0
@@ -3015,6 +3065,8 @@ PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,21/05/20
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),54100000,Masbate,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,01/02/2020,0,0,0,0,0,0
@@ -3131,6 +3183,8 @@ PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,21/05/2
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,22/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,23/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,24/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,25/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,50000000,Region V (Bicol Region),56200000,Sorsogon,26/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,01/02/2020,0,0,0,0,0,0
@@ -3247,6 +3301,8 @@ PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,21/05/
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,22/05/2020,0,7,0,7,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,23/05/2020,0,7,0,7,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,24/05/2020,0,7,0,7,0,0
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,25/05/2020,0,7,0,7,0,0
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60400000,Aklan,26/05/2020,0,7,0,7,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,01/02/2020,0,0,0,0,0,0
@@ -3363,6 +3419,8 @@ PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,21/0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,22/05/2020,0,17,0,10,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,23/05/2020,0,17,0,10,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,24/05/2020,0,17,0,10,0,0
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,25/05/2020,0,17,0,10,0,0
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),60600000,Antique,26/05/2020,0,17,0,10,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,01/02/2020,0,0,0,0,0,0
@@ -3479,6 +3537,8 @@ PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,21/05/
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,22/05/2020,0,5,0,3,0,2
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,23/05/2020,0,5,0,3,0,2
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,24/05/2020,0,5,0,3,0,2
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,25/05/2020,0,5,0,3,0,2
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),61900000,Capiz,26/05/2020,0,5,0,3,0,2
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,01/02/2020,0,0,0,0,0,0
@@ -3595,6 +3655,8 @@ PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,21/05
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,22/05/2020,0,47,0,27,0,3
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,23/05/2020,2,49,0,27,0,3
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,24/05/2020,0,49,0,27,0,3
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,25/05/2020,0,49,0,27,0,3
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),63000000,Iloilo,26/05/2020,0,49,0,27,0,3
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,01/02/2020,0,0,0,0,0,0
@@ -3711,6 +3773,8 @@ PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occid
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,22/05/2020,0,25,0,10,0,3
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,23/05/2020,0,25,0,10,0,3
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,24/05/2020,0,25,0,10,0,3
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,25/05/2020,0,25,0,10,0,3
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),64500000,Negros Occidental,26/05/2020,1,26,0,10,0,3
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,01/02/2020,0,0,0,0,0,0
@@ -3827,6 +3891,8 @@ PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,21/
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,22/05/2020,0,2,0,2,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,23/05/2020,0,2,0,2,0,0
 PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,24/05/2020,0,2,0,2,0,0
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,25/05/2020,0,2,0,2,0,0
+PHL,608,Philippines,1,60000000,Region VI (Western Visayas),67900000,Guimaras,26/05/2020,0,2,0,2,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,01/02/2020,0,0,0,0,0,0
@@ -3943,6 +4009,8 @@ PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,21/05
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,22/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,23/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,24/05/2020,0,2,0,1,0,0
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,25/05/2020,0,2,0,1,0,0
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),71200000,Bohol,26/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,01/02/2020,0,0,0,0,0,0
@@ -4059,6 +4127,8 @@ PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,21/05/
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,22/05/2020,0,1879,0,38,0,18
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,23/05/2020,0,1879,0,38,0,18
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,24/05/2020,0,1879,0,38,0,18
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,25/05/2020,70,1949,0,38,0,18
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),72200000,Cebu,26/05/2020,2,1951,0,38,0,18
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,30/01/2020,1,1,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,31/01/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,01/02/2020,0,1,0,0,0,0
@@ -4175,6 +4245,8 @@ PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Orie
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,22/05/2020,0,7,0,3,0,3
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,23/05/2020,0,7,0,3,0,3
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,24/05/2020,0,7,0,3,0,3
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,25/05/2020,0,7,0,3,0,3
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),74600000,Negros Oriental,26/05/2020,0,7,0,3,0,3
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,01/02/2020,0,0,0,0,0,0
@@ -4291,6 +4363,8 @@ PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,21
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,70000000,Region VII (Central Visayas),76100000,Siquijor,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,01/02/2020,0,0,0,0,0,0
@@ -4407,6 +4481,8 @@ PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Sa
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),82600000,Eastern Samar,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,01/02/2020,0,0,0,0,0,0
@@ -4523,6 +4599,8 @@ PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,21/0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,22/05/2020,0,3,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,23/05/2020,0,3,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,24/05/2020,0,3,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,25/05/2020,0,3,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),83700000,Leyte,26/05/2020,0,3,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,01/02/2020,0,0,0,0,0,0
@@ -4639,6 +4717,8 @@ PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern S
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,22/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,23/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,24/05/2020,0,1,0,1,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,25/05/2020,0,1,0,1,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),84800000,Northern Samar,26/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),01/02/2020,0,0,0,0,0,0
@@ -4755,6 +4835,8 @@ PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Wes
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),22/05/2020,0,23,0,1,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),23/05/2020,0,23,0,1,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),24/05/2020,0,23,0,1,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),25/05/2020,0,23,0,1,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86000000,Samar (Western Samar),26/05/2020,0,23,0,1,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,01/02/2020,0,0,0,0,0,0
@@ -4871,6 +4953,8 @@ PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern L
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),86400000,Southern Leyte,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,01/02/2020,0,0,0,0,0,0
@@ -4987,6 +5071,8 @@ PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,21
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,80000000,Region VIII (Eastern Visayas),87800000,Biliran,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,01/02/2020,0,0,0,0,0,0
@@ -5103,6 +5189,8 @@ PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboang
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97200000,Zamboanga del Norte,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,01/02/2020,0,0,0,0,0,0
@@ -5219,6 +5307,8 @@ PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboang
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,22/05/2020,0,127,0,2,0,2
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,23/05/2020,0,127,0,2,0,2
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,24/05/2020,0,127,0,2,0,2
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,25/05/2020,0,127,0,2,0,2
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),97300000,Zamboanga del Sur,26/05/2020,0,127,0,2,0,2
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,01/02/2020,0,0,0,0,0,0
@@ -5335,6 +5425,8 @@ PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboang
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),98300000,Zamboanga Sibugay,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,01/02/2020,0,0,0,0,0,0
@@ -5451,6 +5543,8 @@ PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of 
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,90000000,Region IX (Zamboanga Peninsula),99700000,City of Isabela,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,01/02/2020,0,0,0,0,0,0
@@ -5567,6 +5661,8 @@ PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,22/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,23/05/2020,0,1,0,1,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,24/05/2020,0,1,0,1,0,0
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,25/05/2020,0,1,0,1,0,0
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101300000,Bukidnon,26/05/2020,1,2,0,1,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,01/02/2020,0,0,0,0,0,0
@@ -5683,6 +5779,8 @@ PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,22/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,23/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,24/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,25/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),101800000,Camiguin,26/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,01/02/2020,0,0,0,0,0,0
@@ -5799,6 +5897,8 @@ PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,22/05/2020,0,6,0,3,0,2
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,23/05/2020,0,6,0,3,0,2
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,24/05/2020,0,6,0,3,0,2
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,25/05/2020,0,6,0,3,0,2
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),103500000,Lanao del Norte,26/05/2020,0,6,0,3,0,2
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,01/02/2020,0,0,0,0,0,0
@@ -5915,6 +6015,8 @@ PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis O
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,22/05/2020,0,5,0,1,0,1
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,23/05/2020,0,5,0,1,0,1
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,24/05/2020,0,5,0,1,0,1
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,25/05/2020,0,5,0,1,0,1
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104200000,Misamis Occidental,26/05/2020,0,5,0,1,0,1
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,01/02/2020,0,0,0,0,0,0
@@ -6009,28 +6111,30 @@ PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis O
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,30/04/2020,0,3,0,1,0,2
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,01/05/2020,0,3,0,1,0,2
 PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,02/05/2020,0,3,0,1,0,2
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,03/05/2020,1,4,0,1,0,2
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,04/05/2020,0,4,0,1,0,2
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,05/05/2020,0,4,0,1,0,2
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,06/05/2020,0,4,0,1,0,2
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,07/05/2020,1,5,0,1,1,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,08/05/2020,2,7,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,09/05/2020,0,7,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,10/05/2020,0,7,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,11/05/2020,0,7,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,12/05/2020,0,7,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,13/05/2020,0,7,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,14/05/2020,1,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,15/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,16/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,17/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,18/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,19/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,20/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,21/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,22/05/2020,0,8,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,23/05/2020,1,9,0,1,0,3
-PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,24/05/2020,0,9,0,1,0,3
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,03/05/2020,1,4,0,1,1,3
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,04/05/2020,0,4,0,1,0,3
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,05/05/2020,0,4,0,1,0,3
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,06/05/2020,0,4,0,1,0,3
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,07/05/2020,1,5,0,1,1,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,08/05/2020,2,7,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,09/05/2020,0,7,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,10/05/2020,0,7,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,11/05/2020,0,7,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,12/05/2020,0,7,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,13/05/2020,0,7,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,14/05/2020,1,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,15/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,16/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,17/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,18/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,19/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,20/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,21/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,22/05/2020,0,8,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,23/05/2020,1,9,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,24/05/2020,0,9,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,25/05/2020,0,9,0,1,0,4
+PHL,608,Philippines,1,100000000,Region X (Northern Mindanao),104300000,Misamis Oriental,26/05/2020,1,10,0,1,0,4
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,01/02/2020,0,0,0,0,0,0
@@ -6147,6 +6251,8 @@ PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Nor
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,22/05/2020,0,14,0,11,0,2
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,23/05/2020,0,14,0,11,0,2
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,24/05/2020,0,14,0,11,0,2
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,25/05/2020,0,14,0,11,0,2
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),112300000,Davao del Norte,26/05/2020,0,14,0,11,0,2
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,01/02/2020,0,0,0,0,0,0
@@ -6263,6 +6369,8 @@ PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,22/05/2020,0,179,0,83,0,22
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,23/05/2020,38,217,0,83,0,22
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,24/05/2020,5,222,0,83,0,22
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,25/05/2020,0,222,0,83,0,22
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),112400000,Davao del Sur,26/05/2020,10,232,0,83,0,22
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,01/02/2020,0,0,0,0,0,0
@@ -6379,6 +6487,8 @@ PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Orienta
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,22/05/2020,0,3,0,3,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,23/05/2020,0,3,0,3,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,24/05/2020,0,3,0,3,0,0
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,25/05/2020,0,3,0,3,0,0
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),112500000,Davao Oriental,26/05/2020,0,3,0,3,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),01/02/2020,0,0,0,0,0,0
@@ -6495,6 +6605,8 @@ PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro 
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),22/05/2020,0,2,0,2,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),23/05/2020,0,2,0,2,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),24/05/2020,0,2,0,2,0,0
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),25/05/2020,0,2,0,2,0,0
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),118200000,Davao De Oro (Compostela Valley),26/05/2020,0,2,0,2,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,01/02/2020,0,0,0,0,0,0
@@ -6611,6 +6723,8 @@ PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occiden
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,22/05/2020,0,1,0,0,0,1
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,23/05/2020,0,1,0,0,0,1
 PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,24/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,25/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,110000000,Region XI (Davao Region),118600000,Davao Occidental,26/05/2020,0,1,0,0,0,1
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),01/02/2020,0,0,0,0,0,0
@@ -6727,6 +6841,8 @@ PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (No
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),22/05/2020,0,5,0,2,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),23/05/2020,0,5,0,2,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),24/05/2020,0,5,0,2,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),25/05/2020,0,5,0,2,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),124700000,Cotabato (North Cotabato),26/05/2020,0,5,0,2,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,01/02/2020,0,0,0,0,0,0
@@ -6843,6 +6959,8 @@ PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotaba
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,22/05/2020,0,5,0,4,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,23/05/2020,0,5,0,4,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,24/05/2020,0,5,0,4,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,25/05/2020,0,5,0,4,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126300000,South Cotabato,26/05/2020,0,5,0,4,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,01/02/2020,0,0,0,0,0,0
@@ -6959,6 +7077,8 @@ PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudar
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,22/05/2020,0,3,0,2,0,1
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,23/05/2020,0,3,0,2,0,1
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,24/05/2020,0,3,0,2,0,1
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,25/05/2020,0,3,0,2,0,1
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),126500000,Sultan Kudarat,26/05/2020,0,3,0,2,0,1
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,01/02/2020,0,0,0,0,0,0
@@ -7075,6 +7195,8 @@ PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,21
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,22/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,23/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,24/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,25/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),128000000,Sarangani,26/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,01/02/2020,0,0,0,0,0,0
@@ -7191,6 +7313,8 @@ PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato Cit
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,22/05/2020,0,7,0,6,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,23/05/2020,1,8,0,6,0,0
 PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,24/05/2020,1,9,0,6,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,25/05/2020,0,9,0,6,0,0
+PHL,608,Philippines,1,120000000,Region XII (Soccsksargen),129800000,Cotabato City,26/05/2020,0,9,0,6,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",01/02/2020,0,0,0,0,0,0
@@ -7288,25 +7412,27 @@ PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, Ci
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",03/05/2020,26,816,0,134,0,74
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",04/05/2020,10,826,0,134,1,75
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",05/05/2020,20,846,1,135,1,76
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",06/05/2020,22,868,2,137,3,79
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",07/05/2020,10,878,0,137,0,79
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",08/05/2020,26,904,0,137,0,79
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",09/05/2020,32,936,0,137,1,80
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",10/05/2020,8,944,0,137,0,80
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",11/05/2020,12,956,0,137,1,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",12/05/2020,16,972,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",13/05/2020,8,980,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",14/05/2020,10,990,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",15/05/2020,6,996,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",16/05/2020,13,1009,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",17/05/2020,10,1019,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",18/05/2020,3,1022,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",19/05/2020,10,1032,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",20/05/2020,2,1034,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",21/05/2020,1,1035,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",22/05/2020,2,1037,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",23/05/2020,23,1060,0,137,0,81
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",24/05/2020,15,1075,0,137,0,81
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",06/05/2020,22,868,2,137,4,80
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",07/05/2020,10,878,0,137,0,80
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",08/05/2020,26,904,0,137,0,80
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",09/05/2020,32,936,0,137,1,81
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",10/05/2020,8,944,0,137,0,81
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",11/05/2020,12,956,0,137,1,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",12/05/2020,16,972,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",13/05/2020,8,980,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",14/05/2020,10,990,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",15/05/2020,6,996,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",16/05/2020,13,1009,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",17/05/2020,10,1019,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",18/05/2020,3,1022,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",19/05/2020,10,1032,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",20/05/2020,2,1034,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",21/05/2020,1,1035,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",22/05/2020,2,1037,0,137,0,82
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",23/05/2020,23,1060,0,137,1,83
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",24/05/2020,28,1088,0,137,0,83
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",25/05/2020,16,1104,0,137,0,83
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),133900000,"NCR, City of Manila, First District",26/05/2020,10,1114,0,137,0,83
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",01/02/2020,0,0,0,0,0,0
@@ -7416,13 +7542,15 @@ PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Se
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",15/05/2020,23,3130,0,343,0,229
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",16/05/2020,36,3166,0,343,0,229
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",17/05/2020,26,3192,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",18/05/2020,31,3223,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",19/05/2020,44,3267,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",20/05/2020,28,3295,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",21/05/2020,4,3299,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",22/05/2020,0,3299,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",23/05/2020,38,3337,0,343,0,229
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",24/05/2020,27,3364,0,343,1,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",18/05/2020,31,3223,0,343,1,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",19/05/2020,45,3268,0,343,0,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",20/05/2020,28,3296,0,343,0,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",21/05/2020,4,3300,0,343,0,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",22/05/2020,0,3300,0,343,0,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",23/05/2020,38,3338,0,343,0,230
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",24/05/2020,27,3365,0,343,1,231
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",25/05/2020,17,3382,0,343,0,231
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137400000,"NCR, Second District",26/05/2020,46,3428,0,343,0,231
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",01/02/2020,0,0,0,0,0,0
@@ -7539,6 +7667,8 @@ PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Th
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",22/05/2020,1,661,0,44,0,41
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",23/05/2020,23,684,0,44,0,41
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",24/05/2020,10,694,0,44,0,41
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",25/05/2020,2,696,0,44,0,41
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137500000,"NCR, Third District",26/05/2020,14,710,0,44,0,41
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",01/02/2020,0,0,0,0,0,0
@@ -7611,50 +7741,52 @@ PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fo
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",08/04/2020,23,848,1,214,2,78
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",09/04/2020,56,904,6,220,2,80
 PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",10/04/2020,14,918,2,222,2,82
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",11/04/2020,60,978,4,226,1,83
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",12/04/2020,44,1022,4,230,0,83
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",13/04/2020,69,1091,10,240,4,87
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",14/04/2020,87,1178,7,247,1,88
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",15/04/2020,59,1237,8,255,1,89
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",16/04/2020,42,1279,9,264,0,89
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",17/04/2020,22,1301,1,265,2,91
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",18/04/2020,56,1357,2,267,3,94
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",19/04/2020,59,1416,8,275,4,98
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",20/04/2020,27,1443,2,277,4,102
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",21/04/2020,15,1458,1,278,0,102
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",22/04/2020,12,1470,3,281,0,102
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",23/04/2020,11,1481,0,281,1,103
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",24/04/2020,32,1513,0,281,0,103
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",25/04/2020,8,1521,1,282,0,103
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",26/04/2020,55,1576,1,283,5,108
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",27/04/2020,20,1596,2,285,1,109
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",28/04/2020,20,1616,1,286,2,111
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",29/04/2020,78,1694,3,289,0,111
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",30/04/2020,28,1722,3,292,3,114
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",01/05/2020,56,1778,1,293,4,118
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",02/05/2020,32,1810,0,293,0,118
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",03/05/2020,30,1840,1,294,0,118
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",04/05/2020,55,1895,0,294,2,120
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",05/05/2020,53,1948,2,296,1,121
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",06/05/2020,21,1969,0,296,1,122
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",07/05/2020,2,1971,0,296,0,122
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",08/05/2020,3,1974,0,296,0,122
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",09/05/2020,2,1976,0,296,0,122
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",10/05/2020,0,1976,0,296,0,122
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",11/05/2020,79,2055,0,296,3,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",12/05/2020,43,2098,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",13/05/2020,26,2124,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",14/05/2020,50,2174,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",15/05/2020,26,2200,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",16/05/2020,29,2229,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",17/05/2020,35,2264,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",18/05/2020,0,2264,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",19/05/2020,34,2298,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",20/05/2020,2,2300,0,296,0,125
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",21/05/2020,39,2339,0,296,1,126
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",22/05/2020,47,2386,0,296,0,126
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",23/05/2020,22,2408,0,296,0,126
-PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",24/05/2020,12,2420,0,296,0,126
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",11/04/2020,60,978,4,226,2,84
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",12/04/2020,44,1022,4,230,0,84
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",13/04/2020,69,1091,10,240,4,88
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",14/04/2020,87,1178,7,247,1,89
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",15/04/2020,59,1237,8,255,1,90
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",16/04/2020,42,1279,9,264,0,90
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",17/04/2020,22,1301,1,265,2,92
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",18/04/2020,56,1357,2,267,3,95
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",19/04/2020,59,1416,8,275,4,99
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",20/04/2020,27,1443,2,277,4,103
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",21/04/2020,15,1458,1,278,0,103
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",22/04/2020,12,1470,3,281,0,103
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",23/04/2020,11,1481,0,281,1,104
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",24/04/2020,32,1513,0,281,0,104
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",25/04/2020,8,1521,1,282,0,104
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",26/04/2020,55,1576,1,283,5,109
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",27/04/2020,20,1596,2,285,1,110
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",28/04/2020,20,1616,1,286,2,112
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",29/04/2020,78,1694,3,289,0,112
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",30/04/2020,28,1722,3,292,3,115
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",01/05/2020,56,1778,1,293,4,119
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",02/05/2020,32,1810,0,293,0,119
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",03/05/2020,30,1840,1,294,0,119
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",04/05/2020,55,1895,0,294,3,122
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",05/05/2020,53,1948,2,296,1,123
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",06/05/2020,21,1969,0,296,2,125
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",07/05/2020,2,1971,0,296,0,125
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",08/05/2020,3,1974,0,296,0,125
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",09/05/2020,2,1976,0,296,0,125
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",10/05/2020,0,1976,0,296,0,125
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",11/05/2020,79,2055,0,296,4,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",12/05/2020,43,2098,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",13/05/2020,26,2124,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",14/05/2020,50,2174,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",15/05/2020,26,2200,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",16/05/2020,29,2229,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",17/05/2020,35,2264,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",18/05/2020,0,2264,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",19/05/2020,34,2298,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",20/05/2020,2,2300,0,296,0,129
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",21/05/2020,39,2339,0,296,1,130
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",22/05/2020,47,2386,0,296,0,130
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",23/05/2020,22,2408,0,296,0,130
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",24/05/2020,12,2420,0,296,0,130
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",25/05/2020,134,2554,0,296,0,130
+PHL,608,Philippines,1,130000000,National Capital Region (NCR),137600000,"NCR, Fourth District",26/05/2020,18,2572,0,296,0,130
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,01/02/2020,0,0,0,0,0,0
@@ -7771,6 +7903,8 @@ PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,22/05/2020,0,3,0,2,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,23/05/2020,0,3,0,2,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,24/05/2020,0,3,0,2,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,25/05/2020,0,3,0,2,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),140100000,Abra,26/05/2020,0,3,0,2,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,01/02/2020,0,0,0,0,0,0
@@ -7887,6 +8021,8 @@ PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,22/05/2020,0,40,0,28,0,1
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,23/05/2020,1,41,0,28,0,1
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,24/05/2020,0,41,0,28,0,1
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,25/05/2020,0,41,0,28,0,1
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),141100000,Benguet,26/05/2020,1,42,0,28,0,1
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,01/02/2020,0,0,0,0,0,0
@@ -8003,6 +8139,8 @@ PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,22/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,23/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,24/05/2020,0,2,0,1,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,25/05/2020,0,2,0,1,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),142700000,Ifugao,26/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,01/02/2020,0,0,0,0,0,0
@@ -8119,6 +8257,8 @@ PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),143200000,Kalinga,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,01/02/2020,0,0,0,0,0,0
@@ -8235,6 +8375,8 @@ PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),144400000,Mountain Province,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,01/02/2020,0,0,0,0,0,0
@@ -8351,6 +8493,8 @@ PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,140000000,Cordillera Administrative Region (CAR),148100000,Apayao,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,01/02/2020,0,0,0,0,0,0
@@ -8467,6 +8611,8 @@ PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),1507
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),150700000,Basilan,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,01/02/2020,0,0,0,0,0,0
@@ -8583,6 +8729,8 @@ PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),1536
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,22/05/2020,0,9,0,0,0,3
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,23/05/2020,0,9,0,0,0,3
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,24/05/2020,0,9,0,0,0,3
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,25/05/2020,0,9,0,0,0,3
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153600000,Lanao del Sur,26/05/2020,0,9,0,0,0,3
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,01/02/2020,0,0,0,0,0,0
@@ -8699,6 +8847,8 @@ PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),1538
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,22/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,23/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,24/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,25/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),153800000,Maguindanao,26/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,01/02/2020,0,0,0,0,0,0
@@ -8815,6 +8965,8 @@ PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),1566
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,22/05/2020,0,1,0,0,0,1
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,23/05/2020,0,1,0,0,0,1
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,24/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,25/05/2020,0,1,0,0,0,1
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),156600000,Sulu,26/05/2020,0,1,0,0,0,1
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,01/02/2020,0,0,0,0,0,0
@@ -8931,6 +9083,8 @@ PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),1570
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,150000000,Autonomous Region In Muslim Mindanao (ARMM),157000000,Tawi-Tawi,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,01/02/2020,0,0,0,0,0,0
@@ -9047,6 +9201,8 @@ PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,22/05/2020,0,3,0,1,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,23/05/2020,0,3,0,1,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,24/05/2020,0,3,0,1,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,25/05/2020,0,3,0,1,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),160200000,Agusan del Norte,26/05/2020,0,3,0,1,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,01/02/2020,0,0,0,0,0,0
@@ -9163,6 +9319,8 @@ PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,21
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),160300000,Agusan del Sur,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,01/02/2020,0,0,0,0,0,0
@@ -9279,6 +9437,8 @@ PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,23/05/2020,1,1,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,24/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,25/05/2020,0,1,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),166700000,Surigao del Norte,26/05/2020,0,1,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,01/02/2020,0,0,0,0,0,0
@@ -9395,6 +9555,8 @@ PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,2
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),166800000,Surigao del Sur,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,01/02/2020,0,0,0,0,0,0
@@ -9511,6 +9673,8 @@ PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,2
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,22/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,23/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,24/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,25/05/2020,0,0,0,0,0,0
+PHL,608,Philippines,1,160000000,Region XIII (Caraga),168500000,Dinagat Islands,26/05/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,01/02/2020,0,0,0,0,0,0
@@ -9627,6 +9791,8 @@ PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,21/05/2020,
 PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,22/05/2020,0,6,0,6,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,23/05/2020,0,6,0,6,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,24/05/2020,0,6,0,6,0,0
+PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,25/05/2020,0,6,0,6,0,0
+PHL,608,Philippines,1,170000000,Mimaropa Region,174000000,Marinduque,26/05/2020,0,6,0,6,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,01/02/2020,0,0,0,0,0,0
@@ -9743,6 +9909,8 @@ PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,21/
 PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,22/05/2020,1,7,0,2,0,1
 PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,23/05/2020,0,7,0,2,0,1
 PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,24/05/2020,0,7,0,2,0,1
+PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,25/05/2020,0,7,0,2,0,1
+PHL,608,Philippines,1,170000000,Mimaropa Region,175100000,Occidental Mindoro,26/05/2020,0,7,0,2,0,1
 PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,01/02/2020,0,0,0,0,0,0
@@ -9859,6 +10027,8 @@ PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,21/05
 PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,22/05/2020,0,19,0,9,0,2
 PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,23/05/2020,0,19,0,9,0,2
 PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,24/05/2020,0,19,0,9,0,2
+PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,25/05/2020,0,19,0,9,0,2
+PHL,608,Philippines,1,170000000,Mimaropa Region,175200000,Oriental Mindoro,26/05/2020,0,19,0,9,0,2
 PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,01/02/2020,0,0,0,0,0,0
@@ -9975,6 +10145,8 @@ PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,21/05/2020,0,2
 PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,22/05/2020,0,2,0,1,0,1
 PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,23/05/2020,0,2,0,1,0,1
 PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,24/05/2020,0,2,0,1,0,1
+PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,25/05/2020,0,2,0,1,0,1
+PHL,608,Philippines,1,170000000,Mimaropa Region,175300000,Palawan,26/05/2020,0,2,0,1,0,1
 PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,01/02/2020,0,0,0,0,0,0
@@ -10091,6 +10263,8 @@ PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,21/05/2020,0,2
 PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,22/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,23/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,24/05/2020,0,2,0,1,0,0
+PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,25/05/2020,0,2,0,1,0,0
+PHL,608,Philippines,1,170000000,Mimaropa Region,175900000,Romblon,26/05/2020,0,2,0,1,0,0
 PHL,608,Philippines,1,,Unidentifed,,Unidentifed,30/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,,Unidentifed,,Unidentifed,31/01/2020,0,0,0,0,0,0
 PHL,608,Philippines,1,,Unidentifed,,Unidentifed,01/02/2020,0,0,0,0,0,0
@@ -10201,9 +10375,11 @@ PHL,608,Philippines,1,,Unidentifed,,Unidentifed,15/05/2020,89,991,0,15,0,26
 PHL,608,Philippines,1,,Unidentifed,,Unidentifed,16/05/2020,60,1051,0,15,0,26
 PHL,608,Philippines,1,,Unidentifed,,Unidentifed,17/05/2020,107,1158,0,15,0,26
 PHL,608,Philippines,1,,Unidentifed,,Unidentifed,18/05/2020,142,1300,0,15,2,28
-PHL,608,Philippines,1,,Unidentifed,,Unidentifed,19/05/2020,68,1368,0,15,0,28
-PHL,608,Philippines,1,,Unidentifed,,Unidentifed,20/05/2020,197,1565,0,15,0,28
-PHL,608,Philippines,1,,Unidentifed,,Unidentifed,21/05/2020,60,1625,0,15,0,28
-PHL,608,Philippines,1,,Unidentifed,,Unidentifed,22/05/2020,101,1726,0,15,0,28
-PHL,608,Philippines,1,,Unidentifed,,Unidentifed,23/05/2020,11,1737,0,15,0,28
-PHL,608,Philippines,1,,Unidentifed,,Unidentifed,24/05/2020,150,1887,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,19/05/2020,67,1367,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,20/05/2020,197,1564,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,21/05/2020,60,1624,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,22/05/2020,101,1725,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,23/05/2020,11,1736,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,24/05/2020,150,1886,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,25/05/2020,4,1890,0,15,0,28
+PHL,608,Philippines,1,,Unidentifed,,Unidentifed,26/05/2020,225,2115,0,15,0,28
