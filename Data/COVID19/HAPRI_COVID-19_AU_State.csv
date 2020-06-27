@@ -150,6 +150,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,1,New South Wales,AUS,AUS.5_1,3150,48,2771
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,1,New South Wales,AUS,AUS.5_1,3159,48,2771
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,1,New South Wales,AUS,AUS.5_1,3162,49,2776
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,1,New South Wales,AUS,AUS.5_1,3168,49,2782
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,1,New South Wales,AUS,AUS.5_1,3174,49,2784
 1,East Asia & Pacific,Australia,36,AUS,27/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0
 1,East Asia & Pacific,Australia,36,AUS,28/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0
 1,East Asia & Pacific,Australia,36,AUS,29/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0
@@ -301,6 +303,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,2,Victoria,AUS,AUS.10_1,1864,19,1712
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,2,Victoria,AUS,AUS.10_1,1884,20,1721
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,2,Victoria,AUS,AUS.10_1,1917,20,1721
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,2,Victoria,AUS,AUS.10_1,1947,20,1742
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,2,Victoria,AUS,AUS.10_1,1947,20,1742
 1,,Australia,36,AUS,27/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0
 1,,Australia,36,AUS,28/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0
 1,,Australia,36,AUS,29/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0
@@ -452,6 +456,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1054
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
 1,,Australia,36,AUS,27/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
 1,,Australia,36,AUS,28/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
 1,,Australia,36,AUS,29/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
@@ -603,6 +609,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
 1,,Australia,36,AUS,27/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
 1,,Australia,36,AUS,28/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
 1,,Australia,36,AUS,29/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
@@ -754,6 +762,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,5,Western Australia,AUS,AUS.11_1,607,9,594
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,5,Western Australia,AUS,AUS.11_1,607,9,594
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595
 1,,Australia,36,AUS,27/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
 1,,Australia,36,AUS,28/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
 1,,Australia,36,AUS,29/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
@@ -905,6 +915,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
 1,,Australia,36,AUS,27/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
 1,,Australia,36,AUS,28/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
 1,,Australia,36,AUS,29/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
@@ -1056,6 +1068,8 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
 1,,Australia,36,AUS,27/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
 1,,Australia,36,AUS,28/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
 1,,Australia,36,AUS,29/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
@@ -1207,3 +1221,5 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,st
 1,East Asia & Pacific,Australia,36,AUS,23/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
 1,East Asia & Pacific,Australia,36,AUS,24/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
 1,East Asia & Pacific,Australia,36,AUS,25/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
+1,East Asia & Pacific,Australia,36,AUS,26/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
+1,East Asia & Pacific,Australia,36,AUS,27/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
