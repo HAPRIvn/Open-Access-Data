@@ -1,0 +1,12 @@
+region_code,region_name,province_code,province_name,island_code,island_name
+4,"Balears, Illes",7,"Balears, Illes",71,Formentera
+4,"Balears, Illes",7,"Balears, Illes",72,Ibiza
+4,"Balears, Illes",7,"Balears, Illes",73,Mallorca
+4,"Balears, Illes",7,"Balears, Illes",74,Menorca
+5,Canarias,35,"Palmas, Las",351,Fuerteventura
+5,Canarias,35,"Palmas, Las",352,Gran Canaria
+5,Canarias,35,"Palmas, Las",353,Lanzarote
+5,Canarias,38,Santa Cruz de Tenerife,381,"Gomera, La"
+5,Canarias,38,Santa Cruz de Tenerife,382,"Hierro, El"
+5,Canarias,38,Santa Cruz de Tenerife,383,"Palma, La"
+5,Canarias,38,Santa Cruz de Tenerife,384,Tenerife

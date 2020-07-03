@@ -1,236 +1,235 @@
 country_region_name,country_region,country_name,country_iso,country_unsd
 World,0,World,WLD,0
-East Asia & Pacific,1,American Samoa,ASM,16
-East Asia & Pacific,1,Australia,AUS,36
-East Asia & Pacific,1,Brunei Darussalam,BRN,96
-East Asia & Pacific,1,Cambodia,KHM,116
-East Asia & Pacific,1,China,CHN,156
-East Asia & Pacific,1,"China, Hong Kong SAR",HKG,344
-East Asia & Pacific,1,"China, Macao SAR",MAC,446
-East Asia & Pacific,1,FS Micronesia,FSM,583
-East Asia & Pacific,1,Fiji,FJI,242
-East Asia & Pacific,1,French Polynesia,PYF,258
-East Asia & Pacific,1,Guam,GUM,316
-East Asia & Pacific,1,Indonesia,IDN,360
-East Asia & Pacific,1,Japan,JPN,392
-East Asia & Pacific,1,Kiribati,KIR,296
-East Asia & Pacific,1,"Korea, Dem. People’s Rep.",PRK,408
-East Asia & Pacific,1,Lao People's Dem. Rep.,LAO,418
-East Asia & Pacific,1,Malaysia,MYS,458
-East Asia & Pacific,1,Marshall Islands,MHL,584
-East Asia & Pacific,1,Mongolia,MNG,496
-East Asia & Pacific,1,Myanmar,MMR,104
-East Asia & Pacific,1,New Caledonia,NCL,540
-East Asia & Pacific,1,New Zealand,NZL,554
-East Asia & Pacific,1,Northern Mariana Islands,MNP,580
-East Asia & Pacific,1,Palau,PLW,585
-East Asia & Pacific,1,Papua New Guinea,PNG,598
-East Asia & Pacific,1,Philippines,PHL,608
-East Asia & Pacific,1,Rep. of Korea,KOR,410
-East Asia & Pacific,1,Samoa,WSM,882
-East Asia & Pacific,1,Singapore,SGP,702
-East Asia & Pacific,1,Solomon Isds,SLB,90
-East Asia & Pacific,1,Taiwan,TWN,490
-East Asia & Pacific,1,Thailand,THA,764
-East Asia & Pacific,1,Timor-Leste,TLS,626
-East Asia & Pacific,1,Tonga,TON,776
-East Asia & Pacific,1,Tuvalu,TUV,798
-East Asia & Pacific,1,Vanuatu,VUT,548
-East Asia & Pacific,1,Viet Nam,VNM,704
-Europe & Central Asia,2,Albania,ALB,8
-Europe & Central Asia,2,Andorra,AND,20
-Europe & Central Asia,2,Armenia,ARM,51
-Europe & Central Asia,2,Austria,AUT,40
-Europe & Central Asia,2,Azerbaijan,AZE,31
-Europe & Central Asia,2,Belarus,BLR,112
-Europe & Central Asia,2,Belgium,BEL,56
-Europe & Central Asia,2,Bosnia Herzegovina,BIH,70
-Europe & Central Asia,2,Bulgaria,BGR,100
-Europe & Central Asia,2,Channel Islands,CHI,830
-Europe & Central Asia,2,Croatia,HRV,191
-Europe & Central Asia,2,Cyprus,CYP,196
-Europe & Central Asia,2,Czechia,CZE,203
-Europe & Central Asia,2,Denmark,DNK,208
-Europe & Central Asia,2,Estonia,EST,233
-Europe & Central Asia,2,Faroe Islands,FRO,234
-Europe & Central Asia,2,Finland,FIN,246
-Europe & Central Asia,2,France,FRA,251
-Europe & Central Asia,2,Georgia,GEO,268
-Europe & Central Asia,2,Germany,DEU,276
-Europe & Central Asia,2,Gibraltar,GIB,292
-Europe & Central Asia,2,Greece,GRC,300
-Europe & Central Asia,2,Greenland,GRL,304
-Europe & Central Asia,2,Guernsey,GGY,831
-Europe & Central Asia,2,Holy See,VAT,336
-Europe & Central Asia,2,Hungary,HUN,348
-Europe & Central Asia,2,Iceland,ISL,352
-Europe & Central Asia,2,Ireland,IRL,372
-Europe & Central Asia,2,Isle of Man,IMN,833
-Europe & Central Asia,2,Italy,ITA,381
-Europe & Central Asia,2,Jersey,JEY,832
-Europe & Central Asia,2,Kazakhstan,KAZ,398
-Europe & Central Asia,2,Kyrgyzstan,KGZ,417
-Europe & Central Asia,2,Latvia,LVA,428
-Europe & Central Asia,2,Liechtenstein,LIE,438
-Europe & Central Asia,2,Lithuania,LTU,440
-Europe & Central Asia,2,Luxembourg,LUX,442
-Europe & Central Asia,2,Monaco,MCO,492
-Europe & Central Asia,2,Montenegro,MNE,499
-Europe & Central Asia,2,Netherlands,NLD,528
-Europe & Central Asia,2,North Macedonia,MKD,807
-Europe & Central Asia,2,Norway,NOR,579
-Europe & Central Asia,2,Poland,POL,616
-Europe & Central Asia,2,Portugal,PRT,620
-Europe & Central Asia,2,Rep. of Moldova,MDA,498
-Europe & Central Asia,2,Romania,ROU,642
-Europe & Central Asia,2,Russian Federation,RUS,643
-Europe & Central Asia,2,San Marino,SMR,674
-Europe & Central Asia,2,Serbia,SRB,688
-Europe & Central Asia,2,Serbia and Montenegro,SCG,891
-Europe & Central Asia,2,Slovakia,SVK,703
-Europe & Central Asia,2,Slovenia,SVN,705
-Europe & Central Asia,2,Spain,ESP,724
-Europe & Central Asia,2,Sweden,SWE,752
-Europe & Central Asia,2,Switzerland,CHE,757
-Europe & Central Asia,2,Tajikistan,TJK,762
-Europe & Central Asia,2,Turkey,TUR,792
-Europe & Central Asia,2,Turkmenistan,TKM,795
-Europe & Central Asia,2,Ukraine,UKR,804
-Europe & Central Asia,2,United Kingdom,GBR,826
-Europe & Central Asia,2,Uzbekistan,UZB,860
-Latin America & Caribbean,3,Anguilla,AIA,660
-Latin America & Caribbean,3,Antigua and Barbuda,ATG,28
-Latin America & Caribbean,3,Argentina,ARG,32
-Latin America & Caribbean,3,Aruba,ABW,533
-Latin America & Caribbean,3,Bahamas,BHS,44
-Latin America & Caribbean,3,Barbados,BRB,52
-Latin America & Caribbean,3,Belize,BLZ,84
-Latin America & Caribbean,3,Bolivia (Plurinational State of),BOL,68
-Latin America & Caribbean,3,"Bonaire, Sint Eustatius and Saba",BES,535
-Latin America & Caribbean,3,Brazil,BRA,76
-Latin America & Caribbean,3,British Virgin Islands,VGB,92
-Latin America & Caribbean,3,Cayman Isds,CYM,136
-Latin America & Caribbean,3,Chile,CHL,152
-Latin America & Caribbean,3,Colombia,COL,170
-Latin America & Caribbean,3,Cook Isds,COK,184
-Latin America & Caribbean,3,Costa Rica,CRI,188
-Latin America & Caribbean,3,Cuba,CUB,192
-Latin America & Caribbean,3,Curacao,CUW,531
-Latin America & Caribbean,3,Dominica,DMA,212
-Latin America & Caribbean,3,Dominican Rep.,DOM,214
-Latin America & Caribbean,3,Ecuador,ECU,218
-Latin America & Caribbean,3,El Salvador,SLV,222
-Latin America & Caribbean,3,Falkland Islands (Malvinas),FLK,238
-Latin America & Caribbean,3,French Guiana,GUF,254
-Latin America & Caribbean,3,Grenada,GRD,308
-Latin America & Caribbean,3,Guadeloupe,GLP,312
-Latin America & Caribbean,3,Guatemala,GTM,320
-Latin America & Caribbean,3,Guyana,GUY,328
-Latin America & Caribbean,3,Haiti,HTI,332
-Latin America & Caribbean,3,Honduras,HND,340
-Latin America & Caribbean,3,Jamaica,JAM,388
-Latin America & Caribbean,3,Martinique,MTQ,474
-Latin America & Caribbean,3,Mayotte,MYT,175
-Latin America & Caribbean,3,Mexico,MEX,484
-Latin America & Caribbean,3,Montserrat,MSR,500
-Latin America & Caribbean,3,Neth. Antilles,ANT,530
-Latin America & Caribbean,3,Nicaragua,NIC,558
-Latin America & Caribbean,3,Panama,PAN,591
-Latin America & Caribbean,3,Paraguay,PRY,600
-Latin America & Caribbean,3,Peru,PER,604
-Latin America & Caribbean,3,Puerto Rico,PRI,630
-Latin America & Caribbean,3,Saint Barthélemy,BLM,652
-Latin America & Caribbean,3,Saint Kitts and Nevis,KNA,659
-Latin America & Caribbean,3,Saint Lucia,LCA,662
-Latin America & Caribbean,3,Saint Vincent and the Grenadines,VCT,670
-Latin America & Caribbean,3,Sint Maarten (Dutch part),SXM,534
-Latin America & Caribbean,3,St. Martin (French part),MAF,663
-Latin America & Caribbean,3,Suriname,SUR,740
-Latin America & Caribbean,3,Trinidad and Tobago,TTO,780
-Latin America & Caribbean,3,Turks and Caicos Isds,TCA,796
-Latin America & Caribbean,3,Uruguay,URY,858
-Latin America & Caribbean,3,Venezuela,VEN,862
-Latin America & Caribbean,3,Virgin Islands (U.S.),VIR,850
-Latin America & Caribbean,3,Wallis and Futuna Isds,WLF,876
-Middle East & North Africa,4,Algeria,DZA,12
-Middle East & North Africa,4,Bahrain,BHR,48
-Middle East & North Africa,4,Djibouti,DJI,262
-Middle East & North Africa,4,Egypt,EGY,818
-Middle East & North Africa,4,Iran,IRN,364
-Middle East & North Africa,4,Iraq,IRQ,368
-Middle East & North Africa,4,Israel,ISR,376
-Middle East & North Africa,4,Jordan,JOR,400
-Middle East & North Africa,4,Kuwait,KWT,414
-Middle East & North Africa,4,Lebanon,LBN,422
-Middle East & North Africa,4,Libya,LBY,434
-Middle East & North Africa,4,Malta,MLT,470
-Middle East & North Africa,4,Morocco,MAR,504
-Middle East & North Africa,4,Oman,OMN,512
-Middle East & North Africa,4,Qatar,QAT,634
-Middle East & North Africa,4,Saudi Arabia,SAU,682
-Middle East & North Africa,4,State of Palestine,PSE,275
-Middle East & North Africa,4,Syria,SYR,760
-Middle East & North Africa,4,Tunisia,TUN,788
-Middle East & North Africa,4,United Arab Emirates,ARE,784
-Middle East & North Africa,4,Yemen,YEM,887
-North America,5,Bermuda,BMU,60
-North America,5,Canada,CAN,124
-North America,5,Saint Pierre and Miquelon,SPM,666
-North America,5,USA,USA,842
-South Asia,6,Afghanistan,AFG,4
-South Asia,6,Bangladesh,BGD,50
-South Asia,6,Bhutan,BTN,64
-South Asia,6,India,IND,699
-South Asia,6,Maldives,MDV,462
-South Asia,6,Nepal,NPL,524
-South Asia,6,Pakistan,PAK,586
-South Asia,6,Sri Lanka,LKA,144
-Sub-Saharan Africa,7,Angola,AGO,24
-Sub-Saharan Africa,7,Benin,BEN,204
-Sub-Saharan Africa,7,Botswana,BWA,72
-Sub-Saharan Africa,7,Burkina Faso,BFA,854
-Sub-Saharan Africa,7,Burundi,BDI,108
-Sub-Saharan Africa,7,Cabo Verde,CPV,132
-Sub-Saharan Africa,7,Cameroon,CMR,120
-Sub-Saharan Africa,7,Central African Rep.,CAF,140
-Sub-Saharan Africa,7,Chad,TCD,148
-Sub-Saharan Africa,7,Comoros,COM,174
-Sub-Saharan Africa,7,Congo,COG,178
-Sub-Saharan Africa,7,"Congo, Dem. Rep.",COD,180
-Sub-Saharan Africa,7,Côte d'Ivoire,CIV,384
-Sub-Saharan Africa,7,Equatorial Guinea,GNQ,226
-Sub-Saharan Africa,7,Eritrea,ERI,232
-Sub-Saharan Africa,7,Eswatini,SWZ,748
-Sub-Saharan Africa,7,Ethiopia,ETH,231
-Sub-Saharan Africa,7,Gabon,GAB,266
-Sub-Saharan Africa,7,Gambia,GMB,270
-Sub-Saharan Africa,7,Ghana,GHA,288
-Sub-Saharan Africa,7,Guinea,GIN,324
-Sub-Saharan Africa,7,Guinea-Bissau,GNB,624
-Sub-Saharan Africa,7,Kenya,KEN,404
-Sub-Saharan Africa,7,Lesotho,LSO,426
-Sub-Saharan Africa,7,Liberia,LBR,430
-Sub-Saharan Africa,7,Madagascar,MDG,450
-Sub-Saharan Africa,7,Malawi,MWI,454
-Sub-Saharan Africa,7,Mali,MLI,466
-Sub-Saharan Africa,7,Mauritania,MRT,478
-Sub-Saharan Africa,7,Mauritius,MUS,480
-Sub-Saharan Africa,7,Mozambique,MOZ,508
-Sub-Saharan Africa,7,Namibia,NAM,516
-Sub-Saharan Africa,7,Niger,NER,562
-Sub-Saharan Africa,7,Nigeria,NGA,566
-Sub-Saharan Africa,7,Rwanda,RWA,646
-Sub-Saharan Africa,7,Réunion,REU,638
-Sub-Saharan Africa,7,Sao Tome and Principe,STP,678
-Sub-Saharan Africa,7,Senegal,SEN,686
-Sub-Saharan Africa,7,Seychelles,SYC,690
-Sub-Saharan Africa,7,Sierra Leone,SLE,694
-Sub-Saharan Africa,7,Somalia,SOM,706
-Sub-Saharan Africa,7,South Africa,ZAF,710
-Sub-Saharan Africa,7,South Sudan,SSD,728
-Sub-Saharan Africa,7,Sudan,SDN,729
-Sub-Saharan Africa,7,Togo,TGO,768
-Sub-Saharan Africa,7,Uganda,UGA,800
-Sub-Saharan Africa,7,United Rep. of Tanzania,TZA,834
-Sub-Saharan Africa,7,Zambia,ZMB,894
-Sub-Saharan Africa,7,Zimbabwe,ZWE,716
+EAS,1,American Samoa,ASM,16
+EAS,1,Australia,AUS,36
+EAS,1,Brunei Darussalam,BRN,96
+EAS,1,Cambodia,KHM,116
+EAS,1,China,CHN,156
+EAS,1,"China, Hong Kong SAR",HKG,344
+EAS,1,"China, Macao SAR",MAC,446
+EAS,1,FS Micronesia,FSM,583
+EAS,1,Fiji,FJI,242
+EAS,1,French Polynesia,PYF,258
+EAS,1,Guam,GUM,316
+EAS,1,Indonesia,IDN,360
+EAS,1,Japan,JPN,392
+EAS,1,Kiribati,KIR,296
+EAS,1,"Korea, Dem. People’s Rep.",PRK,408
+EAS,1,Lao People's Dem. Rep.,LAO,418
+EAS,1,Malaysia,MYS,458
+EAS,1,Marshall Islands,MHL,584
+EAS,1,Mongolia,MNG,496
+EAS,1,Myanmar,MMR,104
+EAS,1,New Caledonia,NCL,540
+EAS,1,New Zealand,NZL,554
+EAS,1,Northern Mariana Islands,MNP,580
+EAS,1,Palau,PLW,585
+EAS,1,Papua New Guinea,PNG,598
+EAS,1,Philippines,PHL,608
+EAS,1,Rep. of Korea,KOR,410
+EAS,1,Samoa,WSM,882
+EAS,1,Singapore,SGP,702
+EAS,1,Solomon Isds,SLB,90
+EAS,1,Taiwan,TWN,490
+EAS,1,Thailand,THA,764
+EAS,1,Timor-Leste,TLS,626
+EAS,1,Tonga,TON,776
+EAS,1,Tuvalu,TUV,798
+EAS,1,Vanuatu,VUT,548
+EAS,1,Viet Nam,VNM,704
+ECS,2,Albania,ALB,8
+ECS,2,Andorra,AND,20
+ECS,2,Armenia,ARM,51
+ECS,2,Austria,AUT,40
+ECS,2,Azerbaijan,AZE,31
+ECS,2,Belarus,BLR,112
+ECS,2,Belgium,BEL,56
+ECS,2,Bosnia Herzegovina,BIH,70
+ECS,2,Bulgaria,BGR,100
+ECS,2,Channel Islands,CHI,830
+ECS,2,Croatia,HRV,191
+ECS,2,Cyprus,CYP,196
+ECS,2,Czechia,CZE,203
+ECS,2,Denmark,DNK,208
+ECS,2,Estonia,EST,233
+ECS,2,Faroe Islands,FRO,234
+ECS,2,Finland,FIN,246
+ECS,2,France,FRA,251
+ECS,2,Georgia,GEO,268
+ECS,2,Germany,DEU,276
+ECS,2,Gibraltar,GIB,292
+ECS,2,Greece,GRC,300
+ECS,2,Greenland,GRL,304
+ECS,2,Guernsey,GGY,831
+ECS,2,Holy See,VAT,336
+ECS,2,Hungary,HUN,348
+ECS,2,Iceland,ISL,352
+ECS,2,Ireland,IRL,372
+ECS,2,Isle of Man,IMN,833
+ECS,2,Italy,ITA,381
+ECS,2,Jersey,JEY,832
+ECS,2,Kazakhstan,KAZ,398
+ECS,2,Kyrgyzstan,KGZ,417
+ECS,2,Latvia,LVA,428
+ECS,2,Liechtenstein,LIE,438
+ECS,2,Lithuania,LTU,440
+ECS,2,Luxembourg,LUX,442
+ECS,2,Monaco,MCO,492
+ECS,2,Montenegro,MNE,499
+ECS,2,Netherlands,NLD,528
+ECS,2,North Macedonia,MKD,807
+ECS,2,Norway,NOR,579
+ECS,2,Poland,POL,616
+ECS,2,Portugal,PRT,620
+ECS,2,Rep. of Moldova,MDA,498
+ECS,2,Romania,ROU,642
+ECS,2,Russian Federation,RUS,643
+ECS,2,San Marino,SMR,674
+ECS,2,Serbia,SRB,688
+ECS,2,Serbia and Montenegro,SCG,891
+ECS,2,Slovakia,SVK,703
+ECS,2,Slovenia,SVN,705
+ECS,2,Spain,ESP,724
+ECS,2,Sweden,SWE,752
+ECS,2,Switzerland,CHE,757
+ECS,2,Tajikistan,TJK,762
+ECS,2,Turkey,TUR,792
+ECS,2,Turkmenistan,TKM,795
+ECS,2,Ukraine,UKR,804
+ECS,2,United Kingdom,GBR,826
+ECS,2,Uzbekistan,UZB,860
+LCN,3,Anguilla,AIA,660
+LCN,3,Antigua and Barbuda,ATG,28
+LCN,3,Argentina,ARG,32
+LCN,3,Aruba,ABW,533
+LCN,3,Bahamas,BHS,44
+LCN,3,Barbados,BRB,52
+LCN,3,Belize,BLZ,84
+LCN,3,Bolivia (Plurinational State of),BOL,68
+LCN,3,"Bonaire, Sint Eustatius and Saba",BES,535
+LCN,3,Brazil,BRA,76
+LCN,3,British Virgin Islands,VGB,92
+LCN,3,Cayman Isds,CYM,136
+LCN,3,Chile,CHL,152
+LCN,3,Colombia,COL,170
+LCN,3,Cook Isds,COK,184
+LCN,3,Costa Rica,CRI,188
+LCN,3,Cuba,CUB,192
+LCN,3,Curacao,CUW,531
+LCN,3,Dominica,DMA,212
+LCN,3,Dominican Rep.,DOM,214
+LCN,3,Ecuador,ECU,218
+LCN,3,El Salvador,SLV,222
+LCN,3,Falkland Islands (Malvinas),FLK,238
+LCN,3,French Guiana,GUF,254
+LCN,3,Grenada,GRD,308
+LCN,3,Guadeloupe,GLP,312
+LCN,3,Guatemala,GTM,320
+LCN,3,Guyana,GUY,328
+LCN,3,Haiti,HTI,332
+LCN,3,Honduras,HND,340
+LCN,3,Jamaica,JAM,388
+LCN,3,Martinique,MTQ,474
+LCN,3,Mayotte,MYT,175
+LCN,3,Mexico,MEX,484
+LCN,3,Montserrat,MSR,500
+LCN,3,Neth. Antilles,ANT,530
+LCN,3,Nicaragua,NIC,558
+LCN,3,Panama,PAN,591
+LCN,3,Paraguay,PRY,600
+LCN,3,Peru,PER,604
+LCN,3,Puerto Rico,PRI,630
+LCN,3,Saint Barthélemy,BLM,652
+LCN,3,Saint Kitts and Nevis,KNA,659
+LCN,3,Saint Lucia,LCA,662
+LCN,3,Saint Vincent and the Grenadines,VCT,670
+LCN,3,Sint Maarten (Dutch part),SXM,534
+LCN,3,Suriname,SUR,740
+LCN,3,Trinidad and Tobago,TTO,780
+LCN,3,Turks and Caicos Isds,TCA,796
+LCN,3,Uruguay,URY,858
+LCN,3,Venezuela,VEN,862
+LCN,3,Virgin Islands (U.S.),VIR,850
+LCN,3,Wallis and Futuna Isds,WLF,876
+MEA,4,Algeria,DZA,12
+MEA,4,Bahrain,BHR,48
+MEA,4,Djibouti,DJI,262
+MEA,4,Egypt,EGY,818
+MEA,4,Iran,IRN,364
+MEA,4,Iraq,IRQ,368
+MEA,4,Israel,ISR,376
+MEA,4,Jordan,JOR,400
+MEA,4,Kuwait,KWT,414
+MEA,4,Lebanon,LBN,422
+MEA,4,Libya,LBY,434
+MEA,4,Malta,MLT,470
+MEA,4,Morocco,MAR,504
+MEA,4,Oman,OMN,512
+MEA,4,Qatar,QAT,634
+MEA,4,Saudi Arabia,SAU,682
+MEA,4,State of Palestine,PSE,275
+MEA,4,Syria,SYR,760
+MEA,4,Tunisia,TUN,788
+MEA,4,United Arab Emirates,ARE,784
+MEA,4,Yemen,YEM,887
+NA,5,Saint Pierre and Miquelon,SPM,666
+NAC,6,Bermuda,BMU,60
+NAC,6,Canada,CAN,124
+NAC,6,USA,USA,842
+SAS,7,Afghanistan,AFG,4
+SAS,7,Bangladesh,BGD,50
+SAS,7,Bhutan,BTN,64
+SAS,7,India,IND,699
+SAS,7,Maldives,MDV,462
+SAS,7,Nepal,NPL,524
+SAS,7,Pakistan,PAK,586
+SAS,7,Réunion,REU,638
+SAS,7,Sri Lanka,LKA,144
+SSF,8,Angola,AGO,24
+SSF,8,Benin,BEN,204
+SSF,8,Botswana,BWA,72
+SSF,8,Burkina Faso,BFA,854
+SSF,8,Burundi,BDI,108
+SSF,8,Cabo Verde,CPV,132
+SSF,8,Cameroon,CMR,120
+SSF,8,Central African Rep.,CAF,140
+SSF,8,Chad,TCD,148
+SSF,8,Comoros,COM,174
+SSF,8,Congo,COG,178
+SSF,8,"Congo, Dem. Rep.",COD,180
+SSF,8,Côte d'Ivoire,CIV,384
+SSF,8,Equatorial Guinea,GNQ,226
+SSF,8,Eritrea,ERI,232
+SSF,8,Eswatini,SWZ,748
+SSF,8,Ethiopia,ETH,231
+SSF,8,Gabon,GAB,266
+SSF,8,Gambia,GMB,270
+SSF,8,Ghana,GHA,288
+SSF,8,Guinea,GIN,324
+SSF,8,Guinea-Bissau,GNB,624
+SSF,8,Kenya,KEN,404
+SSF,8,Lesotho,LSO,426
+SSF,8,Liberia,LBR,430
+SSF,8,Madagascar,MDG,450
+SSF,8,Malawi,MWI,454
+SSF,8,Mali,MLI,466
+SSF,8,Mauritania,MRT,478
+SSF,8,Mauritius,MUS,480
+SSF,8,Mozambique,MOZ,508
+SSF,8,Namibia,NAM,516
+SSF,8,Niger,NER,562
+SSF,8,Nigeria,NGA,566
+SSF,8,Rwanda,RWA,646
+SSF,8,Sao Tome and Principe,STP,678
+SSF,8,Senegal,SEN,686
+SSF,8,Seychelles,SYC,690
+SSF,8,Sierra Leone,SLE,694
+SSF,8,Somalia,SOM,706
+SSF,8,South Africa,ZAF,710
+SSF,8,South Sudan,SSD,728
+SSF,8,Sudan,SDN,729
+SSF,8,Togo,TGO,768
+SSF,8,Uganda,UGA,800
+SSF,8,United Rep. of Tanzania,TZA,834
+SSF,8,Zambia,ZMB,894
+SSF,8,Zimbabwe,ZWE,716
