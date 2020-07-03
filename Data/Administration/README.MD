@@ -13,3 +13,4 @@
 |Myanmar | State & Region | Sub region | | |Myanmar Information Management Unit |http://geonode.themimu.info/layers/|
 |Japan||||||http://data.e-stat.go.jp/lodw/en/provdata/lodRegion#3-2-1|
 |India||||||https://censusindia.gov.in/2011census/censusdata2k11.aspx|
+|Spain||||||https://www.ine.es/CDINEbase/consultar.do?mes=&operacion=Relaci%F3n+de+municipios+y+c%F3digos+por+provincias+y+comunidades+aut%F3nomas&id_oper=Ir&L=1|
