@@ -12,6 +12,13 @@
         Address: 279 Nguyễn Tri Phương Street, Ward 5, District 10, Hồ Chí Minh City, Việt Nam
         University of Economomics Ho Chi Minh City, Vietnam
 
+Facebook: https://www.facebook.com/
+LinkedIn: https://www.linkedin.com/company/hapri/
+Instagram: https://www.instagram.com/hapri_vn/
+Youtube: https://www.youtube.com/channel/UCA6utxO76U_tPSwfyZUlzaw/
+Twitter: https://twitter.com/HAPRIvn
+
+
 # Data Information
 
 ## COVID-19
