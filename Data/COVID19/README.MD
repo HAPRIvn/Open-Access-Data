@@ -17,6 +17,7 @@
 | USA         |   State    |  County  |    csv | John Hopkins University ||
 | Canada      |   State    |          |    csv | John Hopkins University ||
 | Australia   |   State    |          |    csv | John Hopkins University ||
+|Spain|Community|          |    csv | John Hopkins University ||
 
 Data for all countries at national level is contain in file "HAPRI_COVID-19_National.csv"
 
