@@ -1,1257 +1,1257 @@
-country_region,country_region_name,country_name,country_unsd,country_iso,date,state_code,state_name,gid_0,gid_1,case_confirmed,case_deaths,case_recovered
-1,EAS,Australia,36,AUS,27/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,0
-1,EAS,Australia,36,AUS,28/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,0
-1,EAS,Australia,36,AUS,29/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,0
-1,EAS,Australia,36,AUS,30/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,EAS,Australia,36,AUS,31/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,EAS,Australia,36,AUS,01/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,02/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,03/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,04/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,05/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,EAS,Australia,36,AUS,06/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,07/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,08/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,09/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,10/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,11/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,,Australia,36,AUS,12/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2
-1,EAS,Australia,36,AUS,13/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,14/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,15/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,16/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,17/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,18/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,19/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,20/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,21/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,22/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,23/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,24/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,25/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,26/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,27/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,28/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,,Australia,36,AUS,29/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4
-1,EAS,Australia,36,AUS,01/03/2020,1,New South Wales,AUS,AUS.5_1,6,0,4
-1,,Australia,36,AUS,02/03/2020,1,New South Wales,AUS,AUS.5_1,6,0,4
-1,EAS,Australia,36,AUS,03/03/2020,1,New South Wales,AUS,AUS.5_1,13,0,4
-1,EAS,Australia,36,AUS,04/03/2020,1,New South Wales,AUS,AUS.5_1,22,1,4
-1,,Australia,36,AUS,05/03/2020,1,New South Wales,AUS,AUS.5_1,22,1,4
-1,EAS,Australia,36,AUS,06/03/2020,1,New South Wales,AUS,AUS.5_1,26,1,4
-1,EAS,Australia,36,AUS,07/03/2020,1,New South Wales,AUS,AUS.5_1,28,1,4
-1,EAS,Australia,36,AUS,08/03/2020,1,New South Wales,AUS,AUS.5_1,38,3,4
-1,EAS,Australia,36,AUS,09/03/2020,1,New South Wales,AUS,AUS.5_1,48,3,4
-1,EAS,Australia,36,AUS,10/03/2020,1,New South Wales,AUS,AUS.5_1,55,2,4
-1,EAS,Australia,36,AUS,11/03/2020,1,New South Wales,AUS,AUS.5_1,92,2,4
-1,,Australia,36,AUS,12/03/2020,1,New South Wales,AUS,AUS.5_1,92,2,4
-1,,Australia,36,AUS,13/03/2020,1,New South Wales,AUS,AUS.5_1,92,2,4
-1,EAS,Australia,36,AUS,14/03/2020,1,New South Wales,AUS,AUS.5_1,112,2,4
-1,EAS,Australia,36,AUS,15/03/2020,1,New South Wales,AUS,AUS.5_1,134,2,4
-1,EAS,Australia,36,AUS,16/03/2020,1,New South Wales,AUS,AUS.5_1,171,2,4
-1,EAS,Australia,36,AUS,17/03/2020,1,New South Wales,AUS,AUS.5_1,210,4,4
-1,EAS,Australia,36,AUS,18/03/2020,1,New South Wales,AUS,AUS.5_1,267,5,4
-1,EAS,Australia,36,AUS,19/03/2020,1,New South Wales,AUS,AUS.5_1,307,5,4
-1,EAS,Australia,36,AUS,20/03/2020,1,New South Wales,AUS,AUS.5_1,353,6,4
-1,EAS,Australia,36,AUS,21/03/2020,1,New South Wales,AUS,AUS.5_1,436,6,4
-1,EAS,Australia,36,AUS,22/03/2020,1,New South Wales,AUS,AUS.5_1,669,6,4
-1,EAS,Australia,36,AUS,23/03/2020,1,New South Wales,AUS,AUS.5_1,669,6,4
-1,EAS,Australia,36,AUS,24/03/2020,1,New South Wales,AUS,AUS.5_1,818,7,4
-1,EAS,Australia,36,AUS,25/03/2020,1,New South Wales,AUS,AUS.5_1,1029,7,4
-1,EAS,Australia,36,AUS,26/03/2020,1,New South Wales,AUS,AUS.5_1,1219,7,4
-1,EAS,Australia,36,AUS,27/03/2020,1,New South Wales,AUS,AUS.5_1,1405,7,4
-1,EAS,Australia,36,AUS,28/03/2020,1,New South Wales,AUS,AUS.5_1,1617,8,4
-1,EAS,Australia,36,AUS,29/03/2020,1,New South Wales,AUS,AUS.5_1,1791,8,4
-1,EAS,Australia,36,AUS,30/03/2020,1,New South Wales,AUS,AUS.5_1,2032,8,4
-1,EAS,Australia,36,AUS,31/03/2020,1,New South Wales,AUS,AUS.5_1,2032,8,4
-1,EAS,Australia,36,AUS,01/04/2020,1,New South Wales,AUS,AUS.5_1,2182,9,4
-1,EAS,Australia,36,AUS,02/04/2020,1,New South Wales,AUS,AUS.5_1,2298,10,4
-1,EAS,Australia,36,AUS,03/04/2020,1,New South Wales,AUS,AUS.5_1,2389,12,4
-1,EAS,Australia,36,AUS,04/04/2020,1,New South Wales,AUS,AUS.5_1,2493,12,4
-1,EAS,Australia,36,AUS,05/04/2020,1,New South Wales,AUS,AUS.5_1,2580,16,4
-1,EAS,Australia,36,AUS,06/04/2020,1,New South Wales,AUS,AUS.5_1,2637,18,4
-1,EAS,Australia,36,AUS,07/04/2020,1,New South Wales,AUS,AUS.5_1,2686,21,4
-1,EAS,Australia,36,AUS,08/04/2020,1,New South Wales,AUS,AUS.5_1,2734,21,4
-1,EAS,Australia,36,AUS,09/04/2020,1,New South Wales,AUS,AUS.5_1,2773,21,4
-1,EAS,Australia,36,AUS,10/04/2020,1,New South Wales,AUS,AUS.5_1,2822,22,4
-1,EAS,Australia,36,AUS,11/04/2020,1,New South Wales,AUS,AUS.5_1,2857,23,4
-1,EAS,Australia,36,AUS,12/04/2020,1,New South Wales,AUS,AUS.5_1,2857,24,4
-1,EAS,Australia,36,AUS,13/04/2020,1,New South Wales,AUS,AUS.5_1,2863,25,4
-1,EAS,Australia,36,AUS,14/04/2020,1,New South Wales,AUS,AUS.5_1,2870,25,4
-1,EAS,Australia,36,AUS,15/04/2020,1,New South Wales,AUS,AUS.5_1,2886,25,4
-1,EAS,Australia,36,AUS,16/04/2020,1,New South Wales,AUS,AUS.5_1,2897,25,4
-1,EAS,Australia,36,AUS,17/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,EAS,Australia,36,AUS,18/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,EAS,Australia,36,AUS,19/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,EAS,Australia,36,AUS,20/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,EAS,Australia,36,AUS,21/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,EAS,Australia,36,AUS,22/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,,Australia,36,AUS,23/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379
-1,EAS,Australia,36,AUS,24/04/2020,1,New South Wales,AUS,AUS.5_1,2976,31,1379
-1,EAS,Australia,36,AUS,25/04/2020,1,New South Wales,AUS,AUS.5_1,2982,33,1379
-1,EAS,Australia,36,AUS,26/04/2020,1,New South Wales,AUS,AUS.5_1,2994,33,2193
-1,EAS,Australia,36,AUS,27/04/2020,1,New South Wales,AUS,AUS.5_1,3002,34,2208
-1,EAS,Australia,36,AUS,28/04/2020,1,New South Wales,AUS,AUS.5_1,3004,34,2227
-1,EAS,Australia,36,AUS,29/04/2020,1,New South Wales,AUS,AUS.5_1,3016,39,2266
-1,EAS,Australia,36,AUS,30/04/2020,1,New South Wales,AUS,AUS.5_1,3016,40,2284
-1,EAS,Australia,36,AUS,01/05/2020,1,New South Wales,AUS,AUS.5_1,3025,41,2293
-1,EAS,Australia,36,AUS,02/05/2020,1,New South Wales,AUS,AUS.5_1,3030,41,2293
-1,EAS,Australia,36,AUS,03/05/2020,1,New South Wales,AUS,AUS.5_1,3035,42,2306
-1,EAS,Australia,36,AUS,04/05/2020,1,New South Wales,AUS,AUS.5_1,3033,42,2328
-1,EAS,Australia,36,AUS,05/05/2020,1,New South Wales,AUS,AUS.5_1,3035,43,2349
-1,EAS,Australia,36,AUS,06/05/2020,1,New South Wales,AUS,AUS.5_1,3042,44,2418
-1,EAS,Australia,36,AUS,07/05/2020,1,New South Wales,AUS,AUS.5_1,3044,44,2463
-1,EAS,Australia,36,AUS,08/05/2020,1,New South Wales,AUS,AUS.5_1,3047,44,2486
-1,EAS,Australia,36,AUS,09/05/2020,1,New South Wales,AUS,AUS.5_1,3051,44,2504
-1,EAS,Australia,36,AUS,10/05/2020,1,New South Wales,AUS,AUS.5_1,3053,44,2504
-1,EAS,Australia,36,AUS,11/05/2020,1,New South Wales,AUS,AUS.5_1,3053,44,2517
-1,EAS,Australia,36,AUS,12/05/2020,1,New South Wales,AUS,AUS.5_1,3053,44,2543
-1,EAS,Australia,36,AUS,13/05/2020,1,New South Wales,AUS,AUS.5_1,3059,45,2571
-1,EAS,Australia,36,AUS,14/05/2020,1,New South Wales,AUS,AUS.5_1,3063,45,2595
-1,EAS,Australia,36,AUS,15/05/2020,1,New South Wales,AUS,AUS.5_1,3071,45,2605
-1,EAS,Australia,36,AUS,16/05/2020,1,New South Wales,AUS,AUS.5_1,3074,45,2611
-1,EAS,Australia,36,AUS,17/05/2020,1,New South Wales,AUS,AUS.5_1,3075,45,2611
-1,EAS,Australia,36,AUS,18/05/2020,1,New South Wales,AUS,AUS.5_1,3076,46,2612
-1,EAS,Australia,36,AUS,19/05/2020,1,New South Wales,AUS,AUS.5_1,3078,46,2614
-1,EAS,Australia,36,AUS,20/05/2020,1,New South Wales,AUS,AUS.5_1,3081,47,2631
-1,EAS,Australia,36,AUS,21/05/2020,1,New South Wales,AUS,AUS.5_1,3082,47,2648
-1,EAS,Australia,36,AUS,22/05/2020,1,New South Wales,AUS,AUS.5_1,3084,48,2648
-1,EAS,Australia,36,AUS,23/05/2020,1,New South Wales,AUS,AUS.5_1,3086,48,2653
-1,EAS,Australia,36,AUS,24/05/2020,1,New South Wales,AUS,AUS.5_1,3087,48,2653
-1,EAS,Australia,36,AUS,25/05/2020,1,New South Wales,AUS,AUS.5_1,3090,48,2656
-1,EAS,Australia,36,AUS,26/05/2020,1,New South Wales,AUS,AUS.5_1,3092,48,2661
-1,EAS,Australia,36,AUS,27/05/2020,1,New South Wales,AUS,AUS.5_1,3089,48,2663
-1,EAS,Australia,36,AUS,28/05/2020,1,New South Wales,AUS,AUS.5_1,3090,48,2670
-1,EAS,Australia,36,AUS,29/05/2020,1,New South Wales,AUS,AUS.5_1,3092,48,2666
-1,EAS,Australia,36,AUS,30/05/2020,1,New South Wales,AUS,AUS.5_1,3092,48,2683
-1,EAS,Australia,36,AUS,31/05/2020,1,New South Wales,AUS,AUS.5_1,3095,48,2685
-1,EAS,Australia,36,AUS,01/06/2020,1,New South Wales,AUS,AUS.5_1,3098,48,2685
-1,EAS,Australia,36,AUS,02/06/2020,1,New South Wales,AUS,AUS.5_1,3104,48,2687
-1,EAS,Australia,36,AUS,03/06/2020,1,New South Wales,AUS,AUS.5_1,3104,48,2691
-1,EAS,Australia,36,AUS,04/06/2020,1,New South Wales,AUS,AUS.5_1,3106,48,2700
-1,EAS,Australia,36,AUS,05/06/2020,1,New South Wales,AUS,AUS.5_1,3110,48,2714
-1,EAS,Australia,36,AUS,06/06/2020,1,New South Wales,AUS,AUS.5_1,3110,48,2719
-1,EAS,Australia,36,AUS,07/06/2020,1,New South Wales,AUS,AUS.5_1,3109,48,2723
-1,EAS,Australia,36,AUS,08/06/2020,1,New South Wales,AUS,AUS.5_1,3112,48,2724
-1,EAS,Australia,36,AUS,09/06/2020,1,New South Wales,AUS,AUS.5_1,3114,48,2729
-1,EAS,Australia,36,AUS,10/06/2020,1,New South Wales,AUS,AUS.5_1,3117,48,2735
-1,EAS,Australia,36,AUS,11/06/2020,1,New South Wales,AUS,AUS.5_1,3117,48,2738
-1,EAS,Australia,36,AUS,12/06/2020,1,New South Wales,AUS,AUS.5_1,3115,48,2743
-1,EAS,Australia,36,AUS,13/06/2020,1,New South Wales,AUS,AUS.5_1,3119,48,2763
-1,EAS,Australia,36,AUS,14/06/2020,1,New South Wales,AUS,AUS.5_1,3128,48,2766
-1,EAS,Australia,36,AUS,15/06/2020,1,New South Wales,AUS,AUS.5_1,3131,48,2766
-1,EAS,Australia,36,AUS,16/06/2020,1,New South Wales,AUS,AUS.5_1,3134,48,2768
-1,EAS,Australia,36,AUS,17/06/2020,1,New South Wales,AUS,AUS.5_1,3135,48,2770
-1,EAS,Australia,36,AUS,18/06/2020,1,New South Wales,AUS,AUS.5_1,3137,48,2770
-1,EAS,Australia,36,AUS,19/06/2020,1,New South Wales,AUS,AUS.5_1,3143,48,2770
-1,EAS,Australia,36,AUS,20/06/2020,1,New South Wales,AUS,AUS.5_1,3144,48,2771
-1,EAS,Australia,36,AUS,21/06/2020,1,New South Wales,AUS,AUS.5_1,3149,48,2771
-1,EAS,Australia,36,AUS,22/06/2020,1,New South Wales,AUS,AUS.5_1,3151,48,2771
-1,EAS,Australia,36,AUS,23/06/2020,1,New South Wales,AUS,AUS.5_1,3150,48,2771
-1,EAS,Australia,36,AUS,24/06/2020,1,New South Wales,AUS,AUS.5_1,3159,48,2771
-1,EAS,Australia,36,AUS,25/06/2020,1,New South Wales,AUS,AUS.5_1,3162,49,2776
-1,EAS,Australia,36,AUS,26/06/2020,1,New South Wales,AUS,AUS.5_1,3168,49,2782
-1,EAS,Australia,36,AUS,27/06/2020,1,New South Wales,AUS,AUS.5_1,3174,49,2784
-1,EAS,Australia,36,AUS,28/06/2020,1,New South Wales,AUS,AUS.5_1,3177,49,2784
-1,EAS,Australia,36,AUS,29/06/2020,1,New South Wales,AUS,AUS.5_1,3184,49,2784
-1,EAS,Australia,36,AUS,30/06/2020,1,New South Wales,AUS,AUS.5_1,3189,49,2784
-1,EAS,Australia,36,AUS,01/07/2020,1,New South Wales,AUS,AUS.5_1,3203,49,2787
-1,EAS,Australia,36,AUS,27/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0
-1,EAS,Australia,36,AUS,28/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0
-1,EAS,Australia,36,AUS,29/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0
-1,EAS,Australia,36,AUS,30/01/2020,2,Victoria,AUS,AUS.10_1,2,0,0
-1,EAS,Australia,36,AUS,31/01/2020,2,Victoria,AUS,AUS.10_1,3,0,0
-1,EAS,Australia,36,AUS,01/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,02/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,03/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,04/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,05/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,06/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,07/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,08/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,09/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,10/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,11/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,,Australia,36,AUS,12/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0
-1,EAS,Australia,36,AUS,13/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,14/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,15/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,16/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,17/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,18/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,19/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,20/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,21/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,22/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,23/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,24/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,25/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,26/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,27/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,,Australia,36,AUS,28/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4
-1,EAS,Australia,36,AUS,29/02/2020,2,Victoria,AUS,AUS.10_1,7,0,4
-1,,Australia,36,AUS,01/03/2020,2,Victoria,AUS,AUS.10_1,7,0,4
-1,EAS,Australia,36,AUS,02/03/2020,2,Victoria,AUS,AUS.10_1,9,0,4
-1,,Australia,36,AUS,03/03/2020,2,Victoria,AUS,AUS.10_1,9,0,4
-1,EAS,Australia,36,AUS,04/03/2020,2,Victoria,AUS,AUS.10_1,10,0,4
-1,EAS,Australia,36,AUS,05/03/2020,2,Victoria,AUS,AUS.10_1,10,0,7
-1,,Australia,36,AUS,06/03/2020,2,Victoria,AUS,AUS.10_1,10,0,7
-1,EAS,Australia,36,AUS,07/03/2020,2,Victoria,AUS,AUS.10_1,11,0,7
-1,,Australia,36,AUS,08/03/2020,2,Victoria,AUS,AUS.10_1,11,0,7
-1,EAS,Australia,36,AUS,09/03/2020,2,Victoria,AUS,AUS.10_1,15,0,7
-1,EAS,Australia,36,AUS,10/03/2020,2,Victoria,AUS,AUS.10_1,18,0,7
-1,EAS,Australia,36,AUS,11/03/2020,2,Victoria,AUS,AUS.10_1,36,0,8
-1,,Australia,36,AUS,12/03/2020,2,Victoria,AUS,AUS.10_1,36,0,8
-1,,Australia,36,AUS,13/03/2020,2,Victoria,AUS,AUS.10_1,36,0,8
-1,EAS,Australia,36,AUS,14/03/2020,2,Victoria,AUS,AUS.10_1,49,0,8
-1,EAS,Australia,36,AUS,15/03/2020,2,Victoria,AUS,AUS.10_1,57,0,8
-1,EAS,Australia,36,AUS,16/03/2020,2,Victoria,AUS,AUS.10_1,71,0,8
-1,EAS,Australia,36,AUS,17/03/2020,2,Victoria,AUS,AUS.10_1,94,0,8
-1,EAS,Australia,36,AUS,18/03/2020,2,Victoria,AUS,AUS.10_1,121,0,8
-1,,Australia,36,AUS,19/03/2020,2,Victoria,AUS,AUS.10_1,121,0,8
-1,,Australia,36,AUS,20/03/2020,2,Victoria,AUS,AUS.10_1,121,0,8
-1,EAS,Australia,36,AUS,21/03/2020,2,Victoria,AUS,AUS.10_1,229,0,8
-1,EAS,Australia,36,AUS,22/03/2020,2,Victoria,AUS,AUS.10_1,296,0,70
-1,EAS,Australia,36,AUS,23/03/2020,2,Victoria,AUS,AUS.10_1,355,0,97
-1,EAS,Australia,36,AUS,24/03/2020,2,Victoria,AUS,AUS.10_1,411,0,97
-1,EAS,Australia,36,AUS,25/03/2020,2,Victoria,AUS,AUS.10_1,466,0,97
-1,EAS,Australia,36,AUS,26/03/2020,2,Victoria,AUS,AUS.10_1,520,3,149
-1,EAS,Australia,36,AUS,27/03/2020,2,Victoria,AUS,AUS.10_1,574,3,171
-1,EAS,Australia,36,AUS,28/03/2020,2,Victoria,AUS,AUS.10_1,685,3,191
-1,EAS,Australia,36,AUS,29/03/2020,2,Victoria,AUS,AUS.10_1,769,4,191
-1,EAS,Australia,36,AUS,30/03/2020,2,Victoria,AUS,AUS.10_1,821,4,191
-1,EAS,Australia,36,AUS,31/03/2020,2,Victoria,AUS,AUS.10_1,917,4,291
-1,EAS,Australia,36,AUS,01/04/2020,2,Victoria,AUS,AUS.10_1,968,4,343
-1,EAS,Australia,36,AUS,02/04/2020,2,Victoria,AUS,AUS.10_1,1036,5,422
-1,EAS,Australia,36,AUS,03/04/2020,2,Victoria,AUS,AUS.10_1,1085,7,476
-1,EAS,Australia,36,AUS,04/04/2020,2,Victoria,AUS,AUS.10_1,1115,8,527
-1,EAS,Australia,36,AUS,05/04/2020,2,Victoria,AUS,AUS.10_1,1135,8,573
-1,EAS,Australia,36,AUS,06/04/2020,2,Victoria,AUS,AUS.10_1,1158,10,620
-1,EAS,Australia,36,AUS,07/04/2020,2,Victoria,AUS,AUS.10_1,1191,11,620
-1,EAS,Australia,36,AUS,08/04/2020,2,Victoria,AUS,AUS.10_1,1212,12,620
-1,EAS,Australia,36,AUS,09/04/2020,2,Victoria,AUS,AUS.10_1,1228,12,736
-1,EAS,Australia,36,AUS,10/04/2020,2,Victoria,AUS,AUS.10_1,1241,13,926
-1,EAS,Australia,36,AUS,11/04/2020,2,Victoria,AUS,AUS.10_1,1265,14,926
-1,EAS,Australia,36,AUS,12/04/2020,2,Victoria,AUS,AUS.10_1,1268,14,926
-1,EAS,Australia,36,AUS,13/04/2020,2,Victoria,AUS,AUS.10_1,1281,14,926
-1,EAS,Australia,36,AUS,14/04/2020,2,Victoria,AUS,AUS.10_1,1291,14,1118
-1,EAS,Australia,36,AUS,15/04/2020,2,Victoria,AUS,AUS.10_1,1299,14,1118
-1,EAS,Australia,36,AUS,16/04/2020,2,Victoria,AUS,AUS.10_1,1299,14,1137
-1,EAS,Australia,36,AUS,17/04/2020,2,Victoria,AUS,AUS.10_1,1302,14,1159
-1,EAS,Australia,36,AUS,18/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172
-1,EAS,Australia,36,AUS,19/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172
-1,EAS,Australia,36,AUS,20/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172
-1,EAS,Australia,36,AUS,21/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172
-1,EAS,Australia,36,AUS,22/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172
-1,,Australia,36,AUS,23/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172
-1,EAS,Australia,36,AUS,24/04/2020,2,Victoria,AUS,AUS.10_1,1337,16,1172
-1,EAS,Australia,36,AUS,25/04/2020,2,Victoria,AUS,AUS.10_1,1343,16,1172
-1,EAS,Australia,36,AUS,26/04/2020,2,Victoria,AUS,AUS.10_1,1346,16,133
-1,EAS,Australia,36,AUS,27/04/2020,2,Victoria,AUS,AUS.10_1,1349,17,1265
-1,EAS,Australia,36,AUS,28/04/2020,2,Victoria,AUS,AUS.10_1,1349,17,1280
-1,EAS,Australia,36,AUS,29/04/2020,2,Victoria,AUS,AUS.10_1,1354,18,1287
-1,EAS,Australia,36,AUS,30/04/2020,2,Victoria,AUS,AUS.10_1,1361,18,1291
-1,EAS,Australia,36,AUS,01/05/2020,2,Victoria,AUS,AUS.10_1,1364,18,1293
-1,EAS,Australia,36,AUS,02/05/2020,2,Victoria,AUS,AUS.10_1,1371,18,1300
-1,EAS,Australia,36,AUS,03/05/2020,2,Victoria,AUS,AUS.10_1,1384,18,1300
-1,EAS,Australia,36,AUS,04/05/2020,2,Victoria,AUS,AUS.10_1,1406,18,1300
-1,EAS,Australia,36,AUS,05/05/2020,2,Victoria,AUS,AUS.10_1,1423,18,1311
-1,EAS,Australia,36,AUS,06/05/2020,2,Victoria,AUS,AUS.10_1,1440,18,1321
-1,EAS,Australia,36,AUS,07/05/2020,2,Victoria,AUS,AUS.10_1,1454,18,1322
-1,EAS,Australia,36,AUS,08/05/2020,2,Victoria,AUS,AUS.10_1,1467,18,1327
-1,EAS,Australia,36,AUS,09/05/2020,2,Victoria,AUS,AUS.10_1,1468,18,1327
-1,EAS,Australia,36,AUS,10/05/2020,2,Victoria,AUS,AUS.10_1,1487,18,1336
-1,EAS,Australia,36,AUS,11/05/2020,2,Victoria,AUS,AUS.10_1,1496,18,1346
-1,EAS,Australia,36,AUS,12/05/2020,2,Victoria,AUS,AUS.10_1,1511,18,1360
-1,EAS,Australia,36,AUS,13/05/2020,2,Victoria,AUS,AUS.10_1,1514,18,1385
-1,EAS,Australia,36,AUS,14/05/2020,2,Victoria,AUS,AUS.10_1,1521,18,1385
-1,EAS,Australia,36,AUS,15/05/2020,2,Victoria,AUS,AUS.10_1,1540,18,1407
-1,EAS,Australia,36,AUS,16/05/2020,2,Victoria,AUS,AUS.10_1,1551,18,1417
-1,EAS,Australia,36,AUS,17/05/2020,2,Victoria,AUS,AUS.10_1,1558,18,1417
-1,EAS,Australia,36,AUS,18/05/2020,2,Victoria,AUS,AUS.10_1,1564,18,1439
-1,EAS,Australia,36,AUS,19/05/2020,2,Victoria,AUS,AUS.10_1,1573,18,1454
-1,EAS,Australia,36,AUS,20/05/2020,2,Victoria,AUS,AUS.10_1,1573,18,1454
-1,EAS,Australia,36,AUS,21/05/2020,2,Victoria,AUS,AUS.10_1,1581,18,1473
-1,EAS,Australia,36,AUS,22/05/2020,2,Victoria,AUS,AUS.10_1,1593,18,1479
-1,EAS,Australia,36,AUS,23/05/2020,2,Victoria,AUS,AUS.10_1,1593,18,1479
-1,EAS,Australia,36,AUS,24/05/2020,2,Victoria,AUS,AUS.10_1,1603,19,1498
-1,EAS,Australia,36,AUS,25/05/2020,2,Victoria,AUS,AUS.10_1,1605,19,1520
-1,EAS,Australia,36,AUS,26/05/2020,2,Victoria,AUS,AUS.10_1,1610,19,1533
-1,EAS,Australia,36,AUS,27/05/2020,2,Victoria,AUS,AUS.10_1,1618,19,1533
-1,EAS,Australia,36,AUS,28/05/2020,2,Victoria,AUS,AUS.10_1,1628,19,1544
-1,EAS,Australia,36,AUS,29/05/2020,2,Victoria,AUS,AUS.10_1,1634,19,1544
-1,EAS,Australia,36,AUS,30/05/2020,2,Victoria,AUS,AUS.10_1,1645,19,1553
-1,EAS,Australia,36,AUS,31/05/2020,2,Victoria,AUS,AUS.10_1,1649,19,1557
-1,EAS,Australia,36,AUS,01/06/2020,2,Victoria,AUS,AUS.10_1,1653,19,1560
-1,EAS,Australia,36,AUS,02/06/2020,2,Victoria,AUS,AUS.10_1,1663,19,1563
-1,EAS,Australia,36,AUS,03/06/2020,2,Victoria,AUS,AUS.10_1,1670,19,1569
-1,EAS,Australia,36,AUS,04/06/2020,2,Victoria,AUS,AUS.10_1,1678,19,1569
-1,EAS,Australia,36,AUS,05/06/2020,2,Victoria,AUS,AUS.10_1,1681,19,1586
-1,EAS,Australia,36,AUS,06/06/2020,2,Victoria,AUS,AUS.10_1,1681,19,1586
-1,EAS,Australia,36,AUS,07/06/2020,2,Victoria,AUS,AUS.10_1,1685,19,1593
-1,EAS,Australia,36,AUS,08/06/2020,2,Victoria,AUS,AUS.10_1,1687,19,1595
-1,EAS,Australia,36,AUS,09/06/2020,2,Victoria,AUS,AUS.10_1,1687,19,1602
-1,EAS,Australia,36,AUS,10/06/2020,2,Victoria,AUS,AUS.10_1,1691,19,1616
-1,EAS,Australia,36,AUS,11/06/2020,2,Victoria,AUS,AUS.10_1,1699,19,1621
-1,EAS,Australia,36,AUS,12/06/2020,2,Victoria,AUS,AUS.10_1,1703,19,1632
-1,EAS,Australia,36,AUS,13/06/2020,2,Victoria,AUS,AUS.10_1,1703,19,1632
-1,EAS,Australia,36,AUS,14/06/2020,2,Victoria,AUS,AUS.10_1,1720,19,1657
-1,EAS,Australia,36,AUS,15/06/2020,2,Victoria,AUS,AUS.10_1,1732,19,1661
-1,EAS,Australia,36,AUS,16/06/2020,2,Victoria,AUS,AUS.10_1,1741,19,1664
-1,EAS,Australia,36,AUS,17/06/2020,2,Victoria,AUS,AUS.10_1,1762,19,1664
-1,EAS,Australia,36,AUS,18/06/2020,2,Victoria,AUS,AUS.10_1,1780,19,1678
-1,EAS,Australia,36,AUS,19/06/2020,2,Victoria,AUS,AUS.10_1,1792,19,1678
-1,EAS,Australia,36,AUS,20/06/2020,2,Victoria,AUS,AUS.10_1,1792,19,1680
-1,EAS,Australia,36,AUS,21/06/2020,2,Victoria,AUS,AUS.10_1,1836,19,1694
-1,EAS,Australia,36,AUS,22/06/2020,2,Victoria,AUS,AUS.10_1,1847,19,1701
-1,EAS,Australia,36,AUS,23/06/2020,2,Victoria,AUS,AUS.10_1,1864,19,1712
-1,EAS,Australia,36,AUS,24/06/2020,2,Victoria,AUS,AUS.10_1,1884,20,1721
-1,EAS,Australia,36,AUS,25/06/2020,2,Victoria,AUS,AUS.10_1,1917,20,1721
-1,EAS,Australia,36,AUS,26/06/2020,2,Victoria,AUS,AUS.10_1,1947,20,1742
-1,EAS,Australia,36,AUS,27/06/2020,2,Victoria,AUS,AUS.10_1,1947,20,1742
-1,EAS,Australia,36,AUS,28/06/2020,2,Victoria,AUS,AUS.10_1,2028,20,1775
-1,EAS,Australia,36,AUS,29/06/2020,2,Victoria,AUS,AUS.10_1,2099,20,1789
-1,EAS,Australia,36,AUS,30/06/2020,2,Victoria,AUS,AUS.10_1,2159,20,1816
-1,EAS,Australia,36,AUS,01/07/2020,2,Victoria,AUS,AUS.10_1,2231,20,1816
-1,,Australia,36,AUS,27/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0
-1,,Australia,36,AUS,28/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0
-1,,Australia,36,AUS,29/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0
-1,EAS,Australia,36,AUS,30/01/2020,3,Queensland,AUS,AUS.7_1,3,0,0
-1,EAS,Australia,36,AUS,31/01/2020,3,Queensland,AUS,AUS.7_1,2,0,0
-1,EAS,Australia,36,AUS,01/02/2020,3,Queensland,AUS,AUS.7_1,3,0,0
-1,EAS,Australia,36,AUS,02/02/2020,3,Queensland,AUS,AUS.7_1,2,0,0
-1,,Australia,36,AUS,03/02/2020,3,Queensland,AUS,AUS.7_1,2,0,0
-1,EAS,Australia,36,AUS,04/02/2020,3,Queensland,AUS,AUS.7_1,3,0,0
-1,,Australia,36,AUS,05/02/2020,3,Queensland,AUS,AUS.7_1,3,0,0
-1,EAS,Australia,36,AUS,06/02/2020,3,Queensland,AUS,AUS.7_1,4,0,0
-1,EAS,Australia,36,AUS,07/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,08/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,EAS,Australia,36,AUS,09/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,10/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,11/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,12/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,13/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,14/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,15/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,16/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,17/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,18/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,19/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,,Australia,36,AUS,20/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0
-1,EAS,Australia,36,AUS,21/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,22/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,23/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,24/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,25/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,26/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,27/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,,Australia,36,AUS,28/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1
-1,EAS,Australia,36,AUS,29/02/2020,3,Queensland,AUS,AUS.7_1,9,0,1
-1,,Australia,36,AUS,01/03/2020,3,Queensland,AUS,AUS.7_1,9,0,1
-1,,Australia,36,AUS,02/03/2020,3,Queensland,AUS,AUS.7_1,9,0,1
-1,EAS,Australia,36,AUS,03/03/2020,3,Queensland,AUS,AUS.7_1,11,0,1
-1,,Australia,36,AUS,04/03/2020,3,Queensland,AUS,AUS.7_1,11,0,1
-1,EAS,Australia,36,AUS,05/03/2020,3,Queensland,AUS,AUS.7_1,13,0,8
-1,,Australia,36,AUS,06/03/2020,3,Queensland,AUS,AUS.7_1,13,0,8
-1,,Australia,36,AUS,07/03/2020,3,Queensland,AUS,AUS.7_1,13,0,8
-1,EAS,Australia,36,AUS,08/03/2020,3,Queensland,AUS,AUS.7_1,15,0,8
-1,,Australia,36,AUS,09/03/2020,3,Queensland,AUS,AUS.7_1,15,0,8
-1,EAS,Australia,36,AUS,10/03/2020,3,Queensland,AUS,AUS.7_1,18,0,8
-1,EAS,Australia,36,AUS,11/03/2020,3,Queensland,AUS,AUS.7_1,35,0,8
-1,,Australia,36,AUS,12/03/2020,3,Queensland,AUS,AUS.7_1,35,0,8
-1,,Australia,36,AUS,13/03/2020,3,Queensland,AUS,AUS.7_1,35,0,8
-1,EAS,Australia,36,AUS,14/03/2020,3,Queensland,AUS,AUS.7_1,46,0,8
-1,EAS,Australia,36,AUS,15/03/2020,3,Queensland,AUS,AUS.7_1,61,0,8
-1,EAS,Australia,36,AUS,16/03/2020,3,Queensland,AUS,AUS.7_1,68,0,8
-1,EAS,Australia,36,AUS,17/03/2020,3,Queensland,AUS,AUS.7_1,78,0,8
-1,EAS,Australia,36,AUS,18/03/2020,3,Queensland,AUS,AUS.7_1,94,0,8
-1,EAS,Australia,36,AUS,19/03/2020,3,Queensland,AUS,AUS.7_1,144,0,8
-1,EAS,Australia,36,AUS,20/03/2020,3,Queensland,AUS,AUS.7_1,184,0,8
-1,EAS,Australia,36,AUS,21/03/2020,3,Queensland,AUS,AUS.7_1,221,0,8
-1,EAS,Australia,36,AUS,22/03/2020,3,Queensland,AUS,AUS.7_1,259,0,8
-1,EAS,Australia,36,AUS,23/03/2020,3,Queensland,AUS,AUS.7_1,319,0,8
-1,EAS,Australia,36,AUS,24/03/2020,3,Queensland,AUS,AUS.7_1,397,0,8
-1,EAS,Australia,36,AUS,25/03/2020,3,Queensland,AUS,AUS.7_1,443,0,8
-1,EAS,Australia,36,AUS,26/03/2020,3,Queensland,AUS,AUS.7_1,493,1,8
-1,EAS,Australia,36,AUS,27/03/2020,3,Queensland,AUS,AUS.7_1,555,1,8
-1,EAS,Australia,36,AUS,28/03/2020,3,Queensland,AUS,AUS.7_1,625,1,8
-1,EAS,Australia,36,AUS,29/03/2020,3,Queensland,AUS,AUS.7_1,656,2,8
-1,EAS,Australia,36,AUS,30/03/2020,3,Queensland,AUS,AUS.7_1,689,2,8
-1,EAS,Australia,36,AUS,31/03/2020,3,Queensland,AUS,AUS.7_1,743,2,8
-1,EAS,Australia,36,AUS,01/04/2020,3,Queensland,AUS,AUS.7_1,781,2,8
-1,EAS,Australia,36,AUS,02/04/2020,3,Queensland,AUS,AUS.7_1,835,4,8
-1,EAS,Australia,36,AUS,03/04/2020,3,Queensland,AUS,AUS.7_1,873,4,8
-1,EAS,Australia,36,AUS,04/04/2020,3,Queensland,AUS,AUS.7_1,900,4,8
-1,EAS,Australia,36,AUS,05/04/2020,3,Queensland,AUS,AUS.7_1,907,4,8
-1,EAS,Australia,36,AUS,06/04/2020,3,Queensland,AUS,AUS.7_1,921,4,173
-1,EAS,Australia,36,AUS,07/04/2020,3,Queensland,AUS,AUS.7_1,934,4,173
-1,EAS,Australia,36,AUS,08/04/2020,3,Queensland,AUS,AUS.7_1,943,4,173
-1,EAS,Australia,36,AUS,09/04/2020,3,Queensland,AUS,AUS.7_1,953,4,345
-1,EAS,Australia,36,AUS,10/04/2020,3,Queensland,AUS,AUS.7_1,965,4,372
-1,EAS,Australia,36,AUS,11/04/2020,3,Queensland,AUS,AUS.7_1,974,5,372
-1,EAS,Australia,36,AUS,12/04/2020,3,Queensland,AUS,AUS.7_1,983,5,372
-1,EAS,Australia,36,AUS,13/04/2020,3,Queensland,AUS,AUS.7_1,987,5,372
-1,EAS,Australia,36,AUS,14/04/2020,3,Queensland,AUS,AUS.7_1,998,5,442
-1,EAS,Australia,36,AUS,15/04/2020,3,Queensland,AUS,AUS.7_1,999,5,442
-1,EAS,Australia,36,AUS,16/04/2020,3,Queensland,AUS,AUS.7_1,1001,5,442
-1,EAS,Australia,36,AUS,17/04/2020,3,Queensland,AUS,AUS.7_1,1007,5,442
-1,EAS,Australia,36,AUS,18/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738
-1,EAS,Australia,36,AUS,19/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738
-1,EAS,Australia,36,AUS,20/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738
-1,EAS,Australia,36,AUS,21/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738
-1,EAS,Australia,36,AUS,22/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738
-1,,Australia,36,AUS,23/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738
-1,EAS,Australia,36,AUS,24/04/2020,3,Queensland,AUS,AUS.7_1,1026,6,738
-1,EAS,Australia,36,AUS,25/04/2020,3,Queensland,AUS,AUS.7_1,1026,6,738
-1,EAS,Australia,36,AUS,26/04/2020,3,Queensland,AUS,AUS.7_1,1026,6,803
-1,EAS,Australia,36,AUS,27/04/2020,3,Queensland,AUS,AUS.7_1,1030,6,926
-1,EAS,Australia,36,AUS,28/04/2020,3,Queensland,AUS,AUS.7_1,1033,6,926
-1,EAS,Australia,36,AUS,29/04/2020,3,Queensland,AUS,AUS.7_1,1034,6,934
-1,EAS,Australia,36,AUS,30/04/2020,3,Queensland,AUS,AUS.7_1,1033,6,943
-1,EAS,Australia,36,AUS,01/05/2020,3,Queensland,AUS,AUS.7_1,1033,6,948
-1,EAS,Australia,36,AUS,02/05/2020,3,Queensland,AUS,AUS.7_1,1034,6,965
-1,EAS,Australia,36,AUS,03/05/2020,3,Queensland,AUS,AUS.7_1,1035,6,976
-1,EAS,Australia,36,AUS,04/05/2020,3,Queensland,AUS,AUS.7_1,1038,6,980
-1,EAS,Australia,36,AUS,05/05/2020,3,Queensland,AUS,AUS.7_1,1043,6,980
-1,EAS,Australia,36,AUS,06/05/2020,3,Queensland,AUS,AUS.7_1,1043,6,985
-1,EAS,Australia,36,AUS,07/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,989
-1,EAS,Australia,36,AUS,08/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,994
-1,EAS,Australia,36,AUS,09/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,1019
-1,EAS,Australia,36,AUS,10/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,1019
-1,EAS,Australia,36,AUS,11/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,1021
-1,EAS,Australia,36,AUS,12/05/2020,3,Queensland,AUS,AUS.7_1,1051,6,1027
-1,EAS,Australia,36,AUS,13/05/2020,3,Queensland,AUS,AUS.7_1,1052,6,1028
-1,EAS,Australia,36,AUS,14/05/2020,3,Queensland,AUS,AUS.7_1,1051,6,1030
-1,EAS,Australia,36,AUS,15/05/2020,3,Queensland,AUS,AUS.7_1,1054,6,1031
-1,EAS,Australia,36,AUS,16/05/2020,3,Queensland,AUS,AUS.7_1,1055,6,1036
-1,EAS,Australia,36,AUS,17/05/2020,3,Queensland,AUS,AUS.7_1,1055,6,1037
-1,EAS,Australia,36,AUS,18/05/2020,3,Queensland,AUS,AUS.7_1,1057,6,1038
-1,EAS,Australia,36,AUS,19/05/2020,3,Queensland,AUS,AUS.7_1,1057,6,1039
-1,EAS,Australia,36,AUS,20/05/2020,3,Queensland,AUS,AUS.7_1,1058,6,1040
-1,EAS,Australia,36,AUS,21/05/2020,3,Queensland,AUS,AUS.7_1,1058,6,1040
-1,EAS,Australia,36,AUS,22/05/2020,3,Queensland,AUS,AUS.7_1,1058,6,1040
-1,EAS,Australia,36,AUS,23/05/2020,3,Queensland,AUS,AUS.7_1,1060,6,1041
-1,EAS,Australia,36,AUS,24/05/2020,3,Queensland,AUS,AUS.7_1,1061,6,1041
-1,EAS,Australia,36,AUS,25/05/2020,3,Queensland,AUS,AUS.7_1,1056,6,1038
-1,EAS,Australia,36,AUS,26/05/2020,3,Queensland,AUS,AUS.7_1,1057,6,1039
-1,EAS,Australia,36,AUS,27/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1044
-1,EAS,Australia,36,AUS,28/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1045
-1,EAS,Australia,36,AUS,29/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1045
-1,EAS,Australia,36,AUS,30/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1045
-1,EAS,Australia,36,AUS,31/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1046
-1,EAS,Australia,36,AUS,01/06/2020,3,Queensland,AUS,AUS.7_1,1058,7,1046
-1,EAS,Australia,36,AUS,02/06/2020,3,Queensland,AUS,AUS.7_1,1059,6,1048
-1,EAS,Australia,36,AUS,03/06/2020,3,Queensland,AUS,AUS.7_1,1059,6,1047
-1,EAS,Australia,36,AUS,04/06/2020,3,Queensland,AUS,AUS.7_1,1060,6,1046
-1,EAS,Australia,36,AUS,05/06/2020,3,Queensland,AUS,AUS.7_1,1060,6,1049
-1,EAS,Australia,36,AUS,06/06/2020,3,Queensland,AUS,AUS.7_1,1061,6,1049
-1,EAS,Australia,36,AUS,07/06/2020,3,Queensland,AUS,AUS.7_1,1061,6,1050
-1,EAS,Australia,36,AUS,08/06/2020,3,Queensland,AUS,AUS.7_1,1062,6,1050
-1,EAS,Australia,36,AUS,09/06/2020,3,Queensland,AUS,AUS.7_1,1062,6,1051
-1,EAS,Australia,36,AUS,10/06/2020,3,Queensland,AUS,AUS.7_1,1062,6,1051
-1,EAS,Australia,36,AUS,11/06/2020,3,Queensland,AUS,AUS.7_1,1063,6,1051
-1,EAS,Australia,36,AUS,12/06/2020,3,Queensland,AUS,AUS.7_1,1064,6,1051
-1,EAS,Australia,36,AUS,13/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051
-1,EAS,Australia,36,AUS,14/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051
-1,EAS,Australia,36,AUS,15/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051
-1,EAS,Australia,36,AUS,16/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051
-1,EAS,Australia,36,AUS,17/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1052
-1,EAS,Australia,36,AUS,18/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1052
-1,EAS,Australia,36,AUS,19/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
-1,EAS,Australia,36,AUS,20/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
-1,EAS,Australia,36,AUS,21/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
-1,EAS,Australia,36,AUS,22/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
-1,EAS,Australia,36,AUS,23/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
-1,EAS,Australia,36,AUS,24/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053
-1,EAS,Australia,36,AUS,25/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1054
-1,EAS,Australia,36,AUS,26/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
-1,EAS,Australia,36,AUS,27/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
-1,EAS,Australia,36,AUS,28/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
-1,EAS,Australia,36,AUS,29/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
-1,EAS,Australia,36,AUS,30/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
-1,EAS,Australia,36,AUS,01/07/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054
-1,,Australia,36,AUS,27/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
-1,,Australia,36,AUS,28/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
-1,,Australia,36,AUS,29/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
-1,,Australia,36,AUS,30/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
-1,,Australia,36,AUS,31/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0
-1,EAS,Australia,36,AUS,01/02/2020,4,South Australia,AUS,AUS.8_1,1,0,0
-1,EAS,Australia,36,AUS,02/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,03/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,04/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,05/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,06/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,07/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,08/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,09/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,10/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,11/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,12/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,13/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,14/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,15/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,,Australia,36,AUS,16/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0
-1,EAS,Australia,36,AUS,17/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,18/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,19/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,20/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,21/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,22/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,23/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,24/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,25/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,26/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,27/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,,Australia,36,AUS,28/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2
-1,EAS,Australia,36,AUS,29/02/2020,4,South Australia,AUS,AUS.8_1,3,0,2
-1,,Australia,36,AUS,01/03/2020,4,South Australia,AUS,AUS.8_1,3,0,2
-1,,Australia,36,AUS,02/03/2020,4,South Australia,AUS,AUS.8_1,3,0,2
-1,,Australia,36,AUS,03/03/2020,4,South Australia,AUS,AUS.8_1,3,0,2
-1,EAS,Australia,36,AUS,04/03/2020,4,South Australia,AUS,AUS.8_1,5,0,2
-1,,Australia,36,AUS,05/03/2020,4,South Australia,AUS,AUS.8_1,5,0,2
-1,EAS,Australia,36,AUS,06/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2
-1,,Australia,36,AUS,07/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2
-1,,Australia,36,AUS,08/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2
-1,,Australia,36,AUS,09/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2
-1,,Australia,36,AUS,10/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2
-1,EAS,Australia,36,AUS,11/03/2020,4,South Australia,AUS,AUS.8_1,16,0,3
-1,,Australia,36,AUS,12/03/2020,4,South Australia,AUS,AUS.8_1,16,0,3
-1,,Australia,36,AUS,13/03/2020,4,South Australia,AUS,AUS.8_1,16,0,3
-1,EAS,Australia,36,AUS,14/03/2020,4,South Australia,AUS,AUS.8_1,19,0,3
-1,EAS,Australia,36,AUS,15/03/2020,4,South Australia,AUS,AUS.8_1,20,0,3
-1,EAS,Australia,36,AUS,16/03/2020,4,South Australia,AUS,AUS.8_1,29,0,3
-1,,Australia,36,AUS,17/03/2020,4,South Australia,AUS,AUS.8_1,29,0,3
-1,EAS,Australia,36,AUS,18/03/2020,4,South Australia,AUS,AUS.8_1,37,0,3
-1,EAS,Australia,36,AUS,19/03/2020,4,South Australia,AUS,AUS.8_1,42,0,3
-1,EAS,Australia,36,AUS,20/03/2020,4,South Australia,AUS,AUS.8_1,50,0,3
-1,EAS,Australia,36,AUS,21/03/2020,4,South Australia,AUS,AUS.8_1,67,0,3
-1,EAS,Australia,36,AUS,22/03/2020,4,South Australia,AUS,AUS.8_1,100,0,6
-1,EAS,Australia,36,AUS,23/03/2020,4,South Australia,AUS,AUS.8_1,134,0,6
-1,EAS,Australia,36,AUS,24/03/2020,4,South Australia,AUS,AUS.8_1,170,0,6
-1,EAS,Australia,36,AUS,25/03/2020,4,South Australia,AUS,AUS.8_1,170,0,6
-1,EAS,Australia,36,AUS,26/03/2020,4,South Australia,AUS,AUS.8_1,235,0,6
-1,EAS,Australia,36,AUS,27/03/2020,4,South Australia,AUS,AUS.8_1,257,0,6
-1,EAS,Australia,36,AUS,28/03/2020,4,South Australia,AUS,AUS.8_1,287,0,6
-1,EAS,Australia,36,AUS,29/03/2020,4,South Australia,AUS,AUS.8_1,299,0,6
-1,EAS,Australia,36,AUS,30/03/2020,4,South Australia,AUS,AUS.8_1,305,0,6
-1,EAS,Australia,36,AUS,31/03/2020,4,South Australia,AUS,AUS.8_1,337,0,6
-1,EAS,Australia,36,AUS,01/04/2020,4,South Australia,AUS,AUS.8_1,367,0,6
-1,EAS,Australia,36,AUS,02/04/2020,4,South Australia,AUS,AUS.8_1,367,0,6
-1,EAS,Australia,36,AUS,03/04/2020,4,South Australia,AUS,AUS.8_1,396,0,46
-1,EAS,Australia,36,AUS,04/04/2020,4,South Australia,AUS,AUS.8_1,407,0,46
-1,EAS,Australia,36,AUS,05/04/2020,4,South Australia,AUS,AUS.8_1,407,0,46
-1,EAS,Australia,36,AUS,06/04/2020,4,South Australia,AUS,AUS.8_1,411,0,53
-1,EAS,Australia,36,AUS,07/04/2020,4,South Australia,AUS,AUS.8_1,411,1,53
-1,EAS,Australia,36,AUS,08/04/2020,4,South Australia,AUS,AUS.8_1,415,2,53
-1,EAS,Australia,36,AUS,09/04/2020,4,South Australia,AUS,AUS.8_1,420,3,120
-1,EAS,Australia,36,AUS,10/04/2020,4,South Australia,AUS,AUS.8_1,428,3,179
-1,EAS,Australia,36,AUS,11/04/2020,4,South Australia,AUS,AUS.8_1,429,3,179
-1,EAS,Australia,36,AUS,12/04/2020,4,South Australia,AUS,AUS.8_1,429,4,179
-1,EAS,Australia,36,AUS,13/04/2020,4,South Australia,AUS,AUS.8_1,429,4,179
-1,EAS,Australia,36,AUS,14/04/2020,4,South Australia,AUS,AUS.8_1,433,4,240
-1,EAS,Australia,36,AUS,15/04/2020,4,South Australia,AUS,AUS.8_1,433,4,240
-1,EAS,Australia,36,AUS,16/04/2020,4,South Australia,AUS,AUS.8_1,433,4,279
-1,EAS,Australia,36,AUS,17/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,EAS,Australia,36,AUS,18/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,EAS,Australia,36,AUS,19/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,EAS,Australia,36,AUS,20/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,EAS,Australia,36,AUS,21/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,EAS,Australia,36,AUS,22/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,,Australia,36,AUS,23/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331
-1,EAS,Australia,36,AUS,24/04/2020,4,South Australia,AUS,AUS.8_1,438,4,331
-1,EAS,Australia,36,AUS,25/04/2020,4,South Australia,AUS,AUS.8_1,438,4,331
-1,EAS,Australia,36,AUS,26/04/2020,4,South Australia,AUS,AUS.8_1,438,4,401
-1,EAS,Australia,36,AUS,27/04/2020,4,South Australia,AUS,AUS.8_1,438,4,411
-1,EAS,Australia,36,AUS,28/04/2020,4,South Australia,AUS,AUS.8_1,438,4,414
-1,EAS,Australia,36,AUS,29/04/2020,4,South Australia,AUS,AUS.8_1,438,4,420
-1,EAS,Australia,36,AUS,30/04/2020,4,South Australia,AUS,AUS.8_1,438,4,420
-1,EAS,Australia,36,AUS,01/05/2020,4,South Australia,AUS,AUS.8_1,438,4,420
-1,EAS,Australia,36,AUS,02/05/2020,4,South Australia,AUS,AUS.8_1,438,4,422
-1,EAS,Australia,36,AUS,03/05/2020,4,South Australia,AUS,AUS.8_1,438,4,427
-1,EAS,Australia,36,AUS,04/05/2020,4,South Australia,AUS,AUS.8_1,438,4,427
-1,EAS,Australia,36,AUS,05/05/2020,4,South Australia,AUS,AUS.8_1,438,4,427
-1,EAS,Australia,36,AUS,06/05/2020,4,South Australia,AUS,AUS.8_1,438,4,429
-1,EAS,Australia,36,AUS,07/05/2020,4,South Australia,AUS,AUS.8_1,438,4,432
-1,EAS,Australia,36,AUS,08/05/2020,4,South Australia,AUS,AUS.8_1,439,4,433
-1,EAS,Australia,36,AUS,09/05/2020,4,South Australia,AUS,AUS.8_1,439,4,433
-1,EAS,Australia,36,AUS,10/05/2020,4,South Australia,AUS,AUS.8_1,439,4,433
-1,EAS,Australia,36,AUS,11/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434
-1,EAS,Australia,36,AUS,12/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434
-1,EAS,Australia,36,AUS,13/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434
-1,EAS,Australia,36,AUS,14/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434
-1,EAS,Australia,36,AUS,15/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434
-1,EAS,Australia,36,AUS,16/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,17/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,18/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,19/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,20/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,21/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,22/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,23/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,24/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,25/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,26/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435
-1,EAS,Australia,36,AUS,27/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,28/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,29/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,30/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,31/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,01/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,02/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,03/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,04/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435
-1,EAS,Australia,36,AUS,05/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,06/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,07/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,08/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,09/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,10/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,11/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,12/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,13/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,14/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,15/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,16/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,17/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,18/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,19/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,20/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,21/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,22/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,23/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,24/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,25/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,26/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,27/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,28/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,29/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436
-1,EAS,Australia,36,AUS,30/06/2020,4,South Australia,AUS,AUS.8_1,443,4,436
-1,EAS,Australia,36,AUS,01/07/2020,4,South Australia,AUS,AUS.8_1,443,4,436
-1,,Australia,36,AUS,27/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,28/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,29/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,30/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,31/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,01/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,02/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,03/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,04/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,05/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,06/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,07/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,08/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,09/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,10/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,11/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,12/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,13/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,14/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,15/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,16/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,17/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,18/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,19/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,20/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,21/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,22/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,23/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,24/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,25/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,26/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,27/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,,Australia,36,AUS,28/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0
-1,EAS,Australia,36,AUS,29/02/2020,5,Western Australia,AUS,AUS.11_1,2,0,0
-1,EAS,Australia,36,AUS,01/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0
-1,,Australia,36,AUS,02/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0
-1,,Australia,36,AUS,03/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0
-1,,Australia,36,AUS,04/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0
-1,EAS,Australia,36,AUS,05/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0
-1,,Australia,36,AUS,06/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0
-1,,Australia,36,AUS,07/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0
-1,,Australia,36,AUS,08/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0
-1,EAS,Australia,36,AUS,09/03/2020,5,Western Australia,AUS,AUS.11_1,4,1,0
-1,EAS,Australia,36,AUS,10/03/2020,5,Western Australia,AUS,AUS.11_1,6,1,0
-1,EAS,Australia,36,AUS,11/03/2020,5,Western Australia,AUS,AUS.11_1,14,1,0
-1,,Australia,36,AUS,12/03/2020,5,Western Australia,AUS,AUS.11_1,14,1,0
-1,,Australia,36,AUS,13/03/2020,5,Western Australia,AUS,AUS.11_1,14,1,0
-1,EAS,Australia,36,AUS,14/03/2020,5,Western Australia,AUS,AUS.11_1,17,1,0
-1,,Australia,36,AUS,15/03/2020,5,Western Australia,AUS,AUS.11_1,17,1,0
-1,EAS,Australia,36,AUS,16/03/2020,5,Western Australia,AUS,AUS.11_1,28,1,0
-1,EAS,Australia,36,AUS,17/03/2020,5,Western Australia,AUS,AUS.11_1,31,1,0
-1,EAS,Australia,36,AUS,18/03/2020,5,Western Australia,AUS,AUS.11_1,35,1,0
-1,EAS,Australia,36,AUS,19/03/2020,5,Western Australia,AUS,AUS.11_1,52,1,0
-1,EAS,Australia,36,AUS,20/03/2020,5,Western Australia,AUS,AUS.11_1,64,1,0
-1,EAS,Australia,36,AUS,21/03/2020,5,Western Australia,AUS,AUS.11_1,90,1,0
-1,EAS,Australia,36,AUS,22/03/2020,5,Western Australia,AUS,AUS.11_1,120,1,1
-1,EAS,Australia,36,AUS,23/03/2020,5,Western Australia,AUS,AUS.11_1,140,1,1
-1,EAS,Australia,36,AUS,24/03/2020,5,Western Australia,AUS,AUS.11_1,175,1,1
-1,EAS,Australia,36,AUS,25/03/2020,5,Western Australia,AUS,AUS.11_1,175,1,1
-1,EAS,Australia,36,AUS,26/03/2020,5,Western Australia,AUS,AUS.11_1,231,2,1
-1,EAS,Australia,36,AUS,27/03/2020,5,Western Australia,AUS,AUS.11_1,231,2,1
-1,EAS,Australia,36,AUS,28/03/2020,5,Western Australia,AUS,AUS.11_1,278,2,28
-1,EAS,Australia,36,AUS,29/03/2020,5,Western Australia,AUS,AUS.11_1,311,2,28
-1,EAS,Australia,36,AUS,30/03/2020,5,Western Australia,AUS,AUS.11_1,355,2,41
-1,EAS,Australia,36,AUS,31/03/2020,5,Western Australia,AUS,AUS.11_1,364,2,41
-1,EAS,Australia,36,AUS,01/04/2020,5,Western Australia,AUS,AUS.11_1,392,2,48
-1,EAS,Australia,36,AUS,02/04/2020,5,Western Australia,AUS,AUS.11_1,400,2,64
-1,EAS,Australia,36,AUS,03/04/2020,5,Western Australia,AUS,AUS.11_1,400,2,92
-1,EAS,Australia,36,AUS,04/04/2020,5,Western Australia,AUS,AUS.11_1,436,2,92
-1,EAS,Australia,36,AUS,05/04/2020,5,Western Australia,AUS,AUS.11_1,453,3,92
-1,EAS,Australia,36,AUS,06/04/2020,5,Western Australia,AUS,AUS.11_1,460,4,162
-1,EAS,Australia,36,AUS,07/04/2020,5,Western Australia,AUS,AUS.11_1,460,4,162
-1,EAS,Australia,36,AUS,08/04/2020,5,Western Australia,AUS,AUS.11_1,481,6,162
-1,EAS,Australia,36,AUS,09/04/2020,5,Western Australia,AUS,AUS.11_1,495,6,170
-1,EAS,Australia,36,AUS,10/04/2020,5,Western Australia,AUS,AUS.11_1,506,6,203
-1,EAS,Australia,36,AUS,11/04/2020,5,Western Australia,AUS,AUS.11_1,514,6,216
-1,EAS,Australia,36,AUS,12/04/2020,5,Western Australia,AUS,AUS.11_1,514,6,216
-1,EAS,Australia,36,AUS,13/04/2020,5,Western Australia,AUS,AUS.11_1,517,6,216
-1,EAS,Australia,36,AUS,14/04/2020,5,Western Australia,AUS,AUS.11_1,527,6,251
-1,EAS,Australia,36,AUS,15/04/2020,5,Western Australia,AUS,AUS.11_1,527,6,251
-1,EAS,Australia,36,AUS,16/04/2020,5,Western Australia,AUS,AUS.11_1,532,6,338
-1,EAS,Australia,36,AUS,17/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,EAS,Australia,36,AUS,18/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,EAS,Australia,36,AUS,19/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,EAS,Australia,36,AUS,20/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,EAS,Australia,36,AUS,21/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,EAS,Australia,36,AUS,22/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,,Australia,36,AUS,23/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340
-1,EAS,Australia,36,AUS,24/04/2020,5,Western Australia,AUS,AUS.11_1,546,7,340
-1,EAS,Australia,36,AUS,25/04/2020,5,Western Australia,AUS,AUS.11_1,548,8,340
-1,EAS,Australia,36,AUS,26/04/2020,5,Western Australia,AUS,AUS.11_1,549,8,478
-1,EAS,Australia,36,AUS,27/04/2020,5,Western Australia,AUS,AUS.11_1,549,8,486
-1,EAS,Australia,36,AUS,28/04/2020,5,Western Australia,AUS,AUS.11_1,549,8,486
-1,EAS,Australia,36,AUS,29/04/2020,5,Western Australia,AUS,AUS.11_1,550,8,495
-1,EAS,Australia,36,AUS,30/04/2020,5,Western Australia,AUS,AUS.11_1,551,8,507
-1,EAS,Australia,36,AUS,01/05/2020,5,Western Australia,AUS,AUS.11_1,551,8,507
-1,EAS,Australia,36,AUS,02/05/2020,5,Western Australia,AUS,AUS.11_1,551,8,511
-1,EAS,Australia,36,AUS,03/05/2020,5,Western Australia,AUS,AUS.11_1,551,8,520
-1,EAS,Australia,36,AUS,04/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,523
-1,EAS,Australia,36,AUS,05/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,528
-1,EAS,Australia,36,AUS,06/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,528
-1,EAS,Australia,36,AUS,07/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,528
-1,EAS,Australia,36,AUS,08/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,534
-1,EAS,Australia,36,AUS,09/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,534
-1,EAS,Australia,36,AUS,10/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,536
-1,EAS,Australia,36,AUS,11/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,536
-1,EAS,Australia,36,AUS,12/05/2020,5,Western Australia,AUS,AUS.11_1,553,9,536
-1,EAS,Australia,36,AUS,13/05/2020,5,Western Australia,AUS,AUS.11_1,553,9,537
-1,EAS,Australia,36,AUS,14/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,538
-1,EAS,Australia,36,AUS,15/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,538
-1,EAS,Australia,36,AUS,16/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,538
-1,EAS,Australia,36,AUS,17/05/2020,5,Western Australia,AUS,AUS.11_1,553,9,541
-1,EAS,Australia,36,AUS,18/05/2020,5,Western Australia,AUS,AUS.11_1,554,9,543
-1,EAS,Australia,36,AUS,19/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545
-1,EAS,Australia,36,AUS,20/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545
-1,EAS,Australia,36,AUS,21/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545
-1,EAS,Australia,36,AUS,22/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545
-1,EAS,Australia,36,AUS,23/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545
-1,EAS,Australia,36,AUS,24/05/2020,5,Western Australia,AUS,AUS.11_1,560,9,549
-1,EAS,Australia,36,AUS,25/05/2020,5,Western Australia,AUS,AUS.11_1,560,9,549
-1,EAS,Australia,36,AUS,26/05/2020,5,Western Australia,AUS,AUS.11_1,564,9,549
-1,EAS,Australia,36,AUS,27/05/2020,5,Western Australia,AUS,AUS.11_1,570,9,549
-1,EAS,Australia,36,AUS,28/05/2020,5,Western Australia,AUS,AUS.11_1,570,9,549
-1,EAS,Australia,36,AUS,29/05/2020,5,Western Australia,AUS,AUS.11_1,577,9,550
-1,EAS,Australia,36,AUS,30/05/2020,5,Western Australia,AUS,AUS.11_1,585,9,551
-1,EAS,Australia,36,AUS,31/05/2020,5,Western Australia,AUS,AUS.11_1,586,9,552
-1,EAS,Australia,36,AUS,01/06/2020,5,Western Australia,AUS,AUS.11_1,589,9,552
-1,EAS,Australia,36,AUS,02/06/2020,5,Western Australia,AUS,AUS.11_1,591,9,553
-1,EAS,Australia,36,AUS,03/06/2020,5,Western Australia,AUS,AUS.11_1,592,9,553
-1,EAS,Australia,36,AUS,04/06/2020,5,Western Australia,AUS,AUS.11_1,592,9,557
-1,EAS,Australia,36,AUS,05/06/2020,5,Western Australia,AUS,AUS.11_1,592,9,557
-1,EAS,Australia,36,AUS,06/06/2020,5,Western Australia,AUS,AUS.11_1,596,9,557
-1,EAS,Australia,36,AUS,07/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,559
-1,EAS,Australia,36,AUS,08/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,559
-1,EAS,Australia,36,AUS,09/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,560
-1,EAS,Australia,36,AUS,10/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,560
-1,EAS,Australia,36,AUS,11/06/2020,5,Western Australia,AUS,AUS.11_1,601,9,571
-1,EAS,Australia,36,AUS,12/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,575
-1,EAS,Australia,36,AUS,13/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,575
-1,EAS,Australia,36,AUS,14/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,582
-1,EAS,Australia,36,AUS,15/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,591
-1,EAS,Australia,36,AUS,16/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,591
-1,EAS,Australia,36,AUS,17/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,592
-1,EAS,Australia,36,AUS,18/06/2020,5,Western Australia,AUS,AUS.11_1,603,9,592
-1,EAS,Australia,36,AUS,19/06/2020,5,Western Australia,AUS,AUS.11_1,603,9,592
-1,EAS,Australia,36,AUS,20/06/2020,5,Western Australia,AUS,AUS.11_1,604,9,592
-1,EAS,Australia,36,AUS,21/06/2020,5,Western Australia,AUS,AUS.11_1,605,9,593
-1,EAS,Australia,36,AUS,22/06/2020,5,Western Australia,AUS,AUS.11_1,605,9,593
-1,EAS,Australia,36,AUS,23/06/2020,5,Western Australia,AUS,AUS.11_1,607,9,594
-1,EAS,Australia,36,AUS,24/06/2020,5,Western Australia,AUS,AUS.11_1,607,9,594
-1,EAS,Australia,36,AUS,25/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595
-1,EAS,Australia,36,AUS,26/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595
-1,EAS,Australia,36,AUS,27/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595
-1,EAS,Australia,36,AUS,28/06/2020,5,Western Australia,AUS,AUS.11_1,609,9,595
-1,EAS,Australia,36,AUS,29/06/2020,5,Western Australia,AUS,AUS.11_1,609,9,595
-1,EAS,Australia,36,AUS,30/06/2020,5,Western Australia,AUS,AUS.11_1,611,9,598
-1,EAS,Australia,36,AUS,01/07/2020,5,Western Australia,AUS,AUS.11_1,611,9,598
-1,,Australia,36,AUS,27/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,28/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,29/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,30/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,31/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,01/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,02/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,03/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,04/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,05/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,06/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,07/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,08/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,09/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,10/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,11/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,12/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,13/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,14/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,15/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,16/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,17/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,18/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,19/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,20/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,21/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,22/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,23/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,24/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,25/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,26/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,27/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,28/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,29/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,,Australia,36,AUS,01/03/2020,6,Tasmania,AUS,AUS.9_1,0,0,0
-1,EAS,Australia,36,AUS,02/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0
-1,,Australia,36,AUS,03/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0
-1,,Australia,36,AUS,04/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0
-1,,Australia,36,AUS,05/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0
-1,,Australia,36,AUS,06/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0
-1,,Australia,36,AUS,07/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0
-1,EAS,Australia,36,AUS,08/03/2020,6,Tasmania,AUS,AUS.9_1,2,0,0
-1,,Australia,36,AUS,09/03/2020,6,Tasmania,AUS,AUS.9_1,2,0,0
-1,,Australia,36,AUS,10/03/2020,6,Tasmania,AUS,AUS.9_1,2,0,0
-1,EAS,Australia,36,AUS,11/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0
-1,,Australia,36,AUS,12/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0
-1,,Australia,36,AUS,13/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0
-1,EAS,Australia,36,AUS,14/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0
-1,EAS,Australia,36,AUS,15/03/2020,6,Tasmania,AUS,AUS.9_1,6,0,0
-1,EAS,Australia,36,AUS,16/03/2020,6,Tasmania,AUS,AUS.9_1,7,0,0
-1,,Australia,36,AUS,17/03/2020,6,Tasmania,AUS,AUS.9_1,7,0,0
-1,EAS,Australia,36,AUS,18/03/2020,6,Tasmania,AUS,AUS.9_1,10,0,0
-1,EAS,Australia,36,AUS,19/03/2020,6,Tasmania,AUS,AUS.9_1,10,0,3
-1,,Australia,36,AUS,20/03/2020,6,Tasmania,AUS,AUS.9_1,10,0,3
-1,EAS,Australia,36,AUS,21/03/2020,6,Tasmania,AUS,AUS.9_1,16,0,3
-1,EAS,Australia,36,AUS,22/03/2020,6,Tasmania,AUS,AUS.9_1,22,0,3
-1,EAS,Australia,36,AUS,23/03/2020,6,Tasmania,AUS,AUS.9_1,28,0,3
-1,EAS,Australia,36,AUS,24/03/2020,6,Tasmania,AUS,AUS.9_1,28,0,3
-1,EAS,Australia,36,AUS,25/03/2020,6,Tasmania,AUS,AUS.9_1,36,0,3
-1,EAS,Australia,36,AUS,26/03/2020,6,Tasmania,AUS,AUS.9_1,47,0,3
-1,EAS,Australia,36,AUS,27/03/2020,6,Tasmania,AUS,AUS.9_1,47,0,3
-1,EAS,Australia,36,AUS,28/03/2020,6,Tasmania,AUS,AUS.9_1,62,0,5
-1,EAS,Australia,36,AUS,29/03/2020,6,Tasmania,AUS,AUS.9_1,66,0,5
-1,EAS,Australia,36,AUS,30/03/2020,6,Tasmania,AUS,AUS.9_1,66,0,5
-1,EAS,Australia,36,AUS,31/03/2020,6,Tasmania,AUS,AUS.9_1,69,1,5
-1,EAS,Australia,36,AUS,01/04/2020,6,Tasmania,AUS,AUS.9_1,69,2,5
-1,EAS,Australia,36,AUS,02/04/2020,6,Tasmania,AUS,AUS.9_1,72,2,5
-1,EAS,Australia,36,AUS,03/04/2020,6,Tasmania,AUS,AUS.9_1,74,2,5
-1,EAS,Australia,36,AUS,04/04/2020,6,Tasmania,AUS,AUS.9_1,80,2,5
-1,EAS,Australia,36,AUS,05/04/2020,6,Tasmania,AUS,AUS.9_1,82,2,5
-1,EAS,Australia,36,AUS,06/04/2020,6,Tasmania,AUS,AUS.9_1,86,2,26
-1,EAS,Australia,36,AUS,07/04/2020,6,Tasmania,AUS,AUS.9_1,89,2,26
-1,EAS,Australia,36,AUS,08/04/2020,6,Tasmania,AUS,AUS.9_1,98,3,26
-1,EAS,Australia,36,AUS,09/04/2020,6,Tasmania,AUS,AUS.9_1,111,3,48
-1,EAS,Australia,36,AUS,10/04/2020,6,Tasmania,AUS,AUS.9_1,122,4,48
-1,EAS,Australia,36,AUS,11/04/2020,6,Tasmania,AUS,AUS.9_1,133,4,48
-1,EAS,Australia,36,AUS,12/04/2020,6,Tasmania,AUS,AUS.9_1,133,5,48
-1,EAS,Australia,36,AUS,13/04/2020,6,Tasmania,AUS,AUS.9_1,144,5,48
-1,EAS,Australia,36,AUS,14/04/2020,6,Tasmania,AUS,AUS.9_1,165,6,53
-1,EAS,Australia,36,AUS,15/04/2020,6,Tasmania,AUS,AUS.9_1,165,6,53
-1,EAS,Australia,36,AUS,16/04/2020,6,Tasmania,AUS,AUS.9_1,169,6,67
-1,EAS,Australia,36,AUS,17/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,EAS,Australia,36,AUS,18/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,EAS,Australia,36,AUS,19/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,EAS,Australia,36,AUS,20/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,EAS,Australia,36,AUS,21/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,EAS,Australia,36,AUS,22/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,,Australia,36,AUS,23/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67
-1,EAS,Australia,36,AUS,24/04/2020,6,Tasmania,AUS,AUS.9_1,207,8,67
-1,EAS,Australia,36,AUS,25/04/2020,6,Tasmania,AUS,AUS.9_1,207,9,67
-1,EAS,Australia,36,AUS,26/04/2020,6,Tasmania,AUS,AUS.9_1,207,10,117
-1,EAS,Australia,36,AUS,27/04/2020,6,Tasmania,AUS,AUS.9_1,212,11,123
-1,EAS,Australia,36,AUS,28/04/2020,6,Tasmania,AUS,AUS.9_1,214,11,132
-1,EAS,Australia,36,AUS,29/04/2020,6,Tasmania,AUS,AUS.9_1,218,11,137
-1,EAS,Australia,36,AUS,30/04/2020,6,Tasmania,AUS,AUS.9_1,219,12,144
-1,EAS,Australia,36,AUS,01/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,153
-1,EAS,Australia,36,AUS,02/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,157
-1,EAS,Australia,36,AUS,03/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,158
-1,EAS,Australia,36,AUS,04/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,164
-1,EAS,Australia,36,AUS,05/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,165
-1,EAS,Australia,36,AUS,06/05/2020,6,Tasmania,AUS,AUS.9_1,225,13,165
-1,EAS,Australia,36,AUS,07/05/2020,6,Tasmania,AUS,AUS.9_1,226,13,167
-1,EAS,Australia,36,AUS,08/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,174
-1,EAS,Australia,36,AUS,09/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,175
-1,EAS,Australia,36,AUS,10/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,182
-1,EAS,Australia,36,AUS,11/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,182
-1,EAS,Australia,36,AUS,12/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,182
-1,EAS,Australia,36,AUS,13/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,184
-1,EAS,Australia,36,AUS,14/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,184
-1,EAS,Australia,36,AUS,15/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,188
-1,EAS,Australia,36,AUS,16/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,191
-1,EAS,Australia,36,AUS,17/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,192
-1,EAS,Australia,36,AUS,18/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,194
-1,EAS,Australia,36,AUS,19/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,195
-1,EAS,Australia,36,AUS,20/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,195
-1,EAS,Australia,36,AUS,21/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,196
-1,EAS,Australia,36,AUS,22/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,198
-1,EAS,Australia,36,AUS,23/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,199
-1,EAS,Australia,36,AUS,24/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,199
-1,EAS,Australia,36,AUS,25/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,200
-1,EAS,Australia,36,AUS,26/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,202
-1,EAS,Australia,36,AUS,27/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,203
-1,EAS,Australia,36,AUS,28/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,203
-1,EAS,Australia,36,AUS,29/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,203
-1,EAS,Australia,36,AUS,30/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,205
-1,EAS,Australia,36,AUS,31/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,206
-1,EAS,Australia,36,AUS,01/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,207
-1,EAS,Australia,36,AUS,02/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,207
-1,EAS,Australia,36,AUS,03/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208
-1,EAS,Australia,36,AUS,04/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208
-1,EAS,Australia,36,AUS,05/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208
-1,EAS,Australia,36,AUS,06/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208
-1,EAS,Australia,36,AUS,07/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209
-1,EAS,Australia,36,AUS,08/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209
-1,EAS,Australia,36,AUS,09/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209
-1,EAS,Australia,36,AUS,10/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209
-1,EAS,Australia,36,AUS,11/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209
-1,EAS,Australia,36,AUS,12/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,212
-1,EAS,Australia,36,AUS,13/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213
-1,EAS,Australia,36,AUS,14/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213
-1,EAS,Australia,36,AUS,15/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213
-1,EAS,Australia,36,AUS,16/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213
-1,EAS,Australia,36,AUS,17/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213
-1,EAS,Australia,36,AUS,18/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,19/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,20/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,21/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,22/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,23/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,24/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,25/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,26/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,27/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,28/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,29/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,30/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,EAS,Australia,36,AUS,01/07/2020,6,Tasmania,AUS,AUS.9_1,228,13,215
-1,,Australia,36,AUS,27/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,28/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,29/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,30/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,31/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,01/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,02/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,03/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,04/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,05/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,06/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,07/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,08/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,09/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,10/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,11/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,12/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,13/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,14/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,15/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,16/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,17/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,18/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,19/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,20/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,21/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,22/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,23/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,24/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,25/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,26/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,27/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,28/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,29/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,01/03/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,02/03/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,,Australia,36,AUS,03/03/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0
-1,EAS,Australia,36,AUS,04/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,05/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,06/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,07/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,08/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,09/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,EAS,Australia,36,AUS,10/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,EAS,Australia,36,AUS,11/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,12/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,13/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,EAS,Australia,36,AUS,14/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,15/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,16/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,17/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,18/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,,Australia,36,AUS,19/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0
-1,EAS,Australia,36,AUS,20/03/2020,7,Northern Territory,AUS,AUS.6_1,3,0,0
-1,,Australia,36,AUS,21/03/2020,7,Northern Territory,AUS,AUS.6_1,3,0,0
-1,EAS,Australia,36,AUS,22/03/2020,7,Northern Territory,AUS,AUS.6_1,5,0,0
-1,EAS,Australia,36,AUS,23/03/2020,7,Northern Territory,AUS,AUS.6_1,5,0,0
-1,EAS,Australia,36,AUS,24/03/2020,7,Northern Territory,AUS,AUS.6_1,6,0,0
-1,EAS,Australia,36,AUS,25/03/2020,7,Northern Territory,AUS,AUS.6_1,6,0,0
-1,EAS,Australia,36,AUS,26/03/2020,7,Northern Territory,AUS,AUS.6_1,12,0,0
-1,EAS,Australia,36,AUS,27/03/2020,7,Northern Territory,AUS,AUS.6_1,12,0,0
-1,EAS,Australia,36,AUS,28/03/2020,7,Northern Territory,AUS,AUS.6_1,15,0,0
-1,EAS,Australia,36,AUS,29/03/2020,7,Northern Territory,AUS,AUS.6_1,15,0,0
-1,EAS,Australia,36,AUS,30/03/2020,7,Northern Territory,AUS,AUS.6_1,15,0,0
-1,EAS,Australia,36,AUS,31/03/2020,7,Northern Territory,AUS,AUS.6_1,17,0,0
-1,EAS,Australia,36,AUS,01/04/2020,7,Northern Territory,AUS,AUS.6_1,19,0,0
-1,EAS,Australia,36,AUS,02/04/2020,7,Northern Territory,AUS,AUS.6_1,21,0,0
-1,EAS,Australia,36,AUS,03/04/2020,7,Northern Territory,AUS,AUS.6_1,22,0,0
-1,EAS,Australia,36,AUS,04/04/2020,7,Northern Territory,AUS,AUS.6_1,26,0,1
-1,EAS,Australia,36,AUS,05/04/2020,7,Northern Territory,AUS,AUS.6_1,27,0,1
-1,EAS,Australia,36,AUS,06/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,07/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,08/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,09/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,10/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,11/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,12/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,13/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2
-1,EAS,Australia,36,AUS,14/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,6
-1,EAS,Australia,36,AUS,15/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,6
-1,EAS,Australia,36,AUS,16/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,6
-1,EAS,Australia,36,AUS,17/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,18/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,19/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,20/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,21/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,22/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,,Australia,36,AUS,23/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,24/04/2020,7,Northern Territory,AUS,AUS.6_1,27,0,9
-1,EAS,Australia,36,AUS,25/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9
-1,EAS,Australia,36,AUS,26/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,0
-1,EAS,Australia,36,AUS,27/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,23
-1,EAS,Australia,36,AUS,28/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,23
-1,EAS,Australia,36,AUS,29/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,25
-1,EAS,Australia,36,AUS,30/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,25
-1,EAS,Australia,36,AUS,01/05/2020,7,Northern Territory,AUS,AUS.6_1,28,0,25
-1,EAS,Australia,36,AUS,02/05/2020,7,Northern Territory,AUS,AUS.6_1,27,0,24
-1,EAS,Australia,36,AUS,03/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,24
-1,EAS,Australia,36,AUS,04/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,24
-1,EAS,Australia,36,AUS,05/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,24
-1,EAS,Australia,36,AUS,06/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,26
-1,EAS,Australia,36,AUS,07/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,08/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,09/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,10/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,11/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,12/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,13/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,14/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,15/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,16/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,17/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,18/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,19/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,20/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27
-1,EAS,Australia,36,AUS,21/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,22/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,23/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,24/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,25/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,26/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,27/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,28/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,29/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,30/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,31/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,01/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,02/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,03/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,04/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,05/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,06/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,07/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,08/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,09/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,10/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,11/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,12/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,13/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,14/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,15/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,16/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,17/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,18/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,19/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,20/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,21/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,22/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,23/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,24/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,25/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,26/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,27/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,28/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,29/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,30/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,EAS,Australia,36,AUS,01/07/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29
-1,,Australia,36,AUS,27/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,28/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,29/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,30/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,31/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,01/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,02/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,03/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,04/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,05/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,06/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,07/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,08/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,09/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,10/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,11/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,12/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,13/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,14/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,15/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,16/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,17/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,18/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,19/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,20/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,21/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,22/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,23/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,24/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,25/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,26/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,27/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,28/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,29/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,01/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,02/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,03/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,04/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,05/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,06/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,07/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,08/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,09/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,,Australia,36,AUS,10/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0
-1,EAS,Australia,36,AUS,11/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0
-1,,Australia,36,AUS,12/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0
-1,,Australia,36,AUS,13/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0
-1,EAS,Australia,36,AUS,14/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0
-1,,Australia,36,AUS,15/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0
-1,EAS,Australia,36,AUS,16/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,2,0,0
-1,,Australia,36,AUS,17/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,2,0,0
-1,EAS,Australia,36,AUS,18/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,3,0,0
-1,EAS,Australia,36,AUS,19/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,4,0,0
-1,EAS,Australia,36,AUS,20/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,6,0,0
-1,EAS,Australia,36,AUS,21/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,9,0,0
-1,EAS,Australia,36,AUS,22/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,19,0,0
-1,EAS,Australia,36,AUS,23/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,32,0,0
-1,EAS,Australia,36,AUS,24/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,39,0,0
-1,EAS,Australia,36,AUS,25/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,39,0,0
-1,EAS,Australia,36,AUS,26/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,53,0,1
-1,EAS,Australia,36,AUS,27/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,62,0,1
-1,EAS,Australia,36,AUS,28/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,71,0,2
-1,EAS,Australia,36,AUS,29/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,77,0,2
-1,EAS,Australia,36,AUS,30/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,78,1,2
-1,EAS,Australia,36,AUS,31/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,80,1,3
-1,EAS,Australia,36,AUS,01/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,84,1,8
-1,EAS,Australia,36,AUS,02/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,87,1,11
-1,EAS,Australia,36,AUS,03/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,91,1,18
-1,EAS,Australia,36,AUS,04/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,93,2,18
-1,EAS,Australia,36,AUS,05/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,96,2,28
-1,EAS,Australia,36,AUS,06/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,96,2,40
-1,EAS,Australia,36,AUS,07/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,96,2,40
-1,EAS,Australia,36,AUS,08/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,99,2,40
-1,EAS,Australia,36,AUS,09/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,100,2,47
-1,EAS,Australia,36,AUS,10/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,59
-1,EAS,Australia,36,AUS,11/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,59
-1,EAS,Australia,36,AUS,12/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,59
-1,EAS,Australia,36,AUS,13/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,102,2,59
-1,EAS,Australia,36,AUS,14/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,72
-1,EAS,Australia,36,AUS,15/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,72
-1,EAS,Australia,36,AUS,16/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,82
-1,EAS,Australia,36,AUS,17/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,81
-1,EAS,Australia,36,AUS,18/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88
-1,EAS,Australia,36,AUS,19/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88
-1,EAS,Australia,36,AUS,20/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88
-1,EAS,Australia,36,AUS,21/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88
-1,EAS,Australia,36,AUS,22/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88
-1,,Australia,36,AUS,23/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88
-1,EAS,Australia,36,AUS,24/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,104,3,88
-1,EAS,Australia,36,AUS,25/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,105,3,88
-1,EAS,Australia,36,AUS,26/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,98
-1,EAS,Australia,36,AUS,27/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,99
-1,EAS,Australia,36,AUS,28/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,100
-1,EAS,Australia,36,AUS,29/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,101
-1,EAS,Australia,36,AUS,30/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,101
-1,EAS,Australia,36,AUS,01/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103
-1,EAS,Australia,36,AUS,02/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103
-1,EAS,Australia,36,AUS,03/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103
-1,EAS,Australia,36,AUS,04/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103
-1,EAS,Australia,36,AUS,05/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103
-1,EAS,Australia,36,AUS,06/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103
-1,EAS,Australia,36,AUS,07/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103
-1,EAS,Australia,36,AUS,08/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103
-1,EAS,Australia,36,AUS,09/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103
-1,EAS,Australia,36,AUS,10/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,11/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,12/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,13/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,14/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,15/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,16/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,17/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,18/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,19/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,20/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,21/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,22/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,23/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,24/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,25/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,26/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,27/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,28/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,29/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,30/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,31/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,01/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,02/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,03/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,04/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,05/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,06/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104
-1,EAS,Australia,36,AUS,07/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,08/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,09/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,10/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,11/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,12/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,13/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,14/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,15/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,16/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104
-1,EAS,Australia,36,AUS,17/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,18/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,19/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,20/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,21/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,22/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,23/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,24/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,25/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,26/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,27/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,28/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,29/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,30/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
-1,EAS,Australia,36,AUS,01/07/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105
+country_region,country_unsd,country_iso,date,state_code,state_name,gid_0,gid_1,case_confirmed,case_deaths,case_recovered,country_region_name,country_name
+1,36,AUS,27/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,0,EAS,Australia
+1,36,AUS,28/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,0,EAS,Australia
+1,36,AUS,29/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,0,EAS,Australia
+1,36,AUS,30/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,EAS,Australia
+1,36,AUS,31/01/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,EAS,Australia
+1,36,AUS,01/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,EAS,Australia
+1,36,AUS,02/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,03/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,04/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,05/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,06/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,EAS,Australia
+1,36,AUS,07/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,08/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,09/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,10/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,11/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,12/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,2,,Australia
+1,36,AUS,13/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,EAS,Australia
+1,36,AUS,14/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,15/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,16/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,17/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,18/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,19/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,20/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,21/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,22/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,23/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,24/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,25/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,26/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,27/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,28/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,29/02/2020,1,New South Wales,AUS,AUS.5_1,4,0,4,,Australia
+1,36,AUS,01/03/2020,1,New South Wales,AUS,AUS.5_1,6,0,4,EAS,Australia
+1,36,AUS,02/03/2020,1,New South Wales,AUS,AUS.5_1,6,0,4,,Australia
+1,36,AUS,03/03/2020,1,New South Wales,AUS,AUS.5_1,13,0,4,EAS,Australia
+1,36,AUS,04/03/2020,1,New South Wales,AUS,AUS.5_1,22,1,4,EAS,Australia
+1,36,AUS,05/03/2020,1,New South Wales,AUS,AUS.5_1,22,1,4,,Australia
+1,36,AUS,06/03/2020,1,New South Wales,AUS,AUS.5_1,26,1,4,EAS,Australia
+1,36,AUS,07/03/2020,1,New South Wales,AUS,AUS.5_1,28,1,4,EAS,Australia
+1,36,AUS,08/03/2020,1,New South Wales,AUS,AUS.5_1,38,3,4,EAS,Australia
+1,36,AUS,09/03/2020,1,New South Wales,AUS,AUS.5_1,48,3,4,EAS,Australia
+1,36,AUS,10/03/2020,1,New South Wales,AUS,AUS.5_1,55,2,4,EAS,Australia
+1,36,AUS,11/03/2020,1,New South Wales,AUS,AUS.5_1,92,2,4,EAS,Australia
+1,36,AUS,12/03/2020,1,New South Wales,AUS,AUS.5_1,92,2,4,,Australia
+1,36,AUS,13/03/2020,1,New South Wales,AUS,AUS.5_1,92,2,4,,Australia
+1,36,AUS,14/03/2020,1,New South Wales,AUS,AUS.5_1,112,2,4,EAS,Australia
+1,36,AUS,15/03/2020,1,New South Wales,AUS,AUS.5_1,134,2,4,EAS,Australia
+1,36,AUS,16/03/2020,1,New South Wales,AUS,AUS.5_1,171,2,4,EAS,Australia
+1,36,AUS,17/03/2020,1,New South Wales,AUS,AUS.5_1,210,4,4,EAS,Australia
+1,36,AUS,18/03/2020,1,New South Wales,AUS,AUS.5_1,267,5,4,EAS,Australia
+1,36,AUS,19/03/2020,1,New South Wales,AUS,AUS.5_1,307,5,4,EAS,Australia
+1,36,AUS,20/03/2020,1,New South Wales,AUS,AUS.5_1,353,6,4,EAS,Australia
+1,36,AUS,21/03/2020,1,New South Wales,AUS,AUS.5_1,436,6,4,EAS,Australia
+1,36,AUS,22/03/2020,1,New South Wales,AUS,AUS.5_1,669,6,4,EAS,Australia
+1,36,AUS,23/03/2020,1,New South Wales,AUS,AUS.5_1,669,6,4,EAS,Australia
+1,36,AUS,24/03/2020,1,New South Wales,AUS,AUS.5_1,818,7,4,EAS,Australia
+1,36,AUS,25/03/2020,1,New South Wales,AUS,AUS.5_1,1029,7,4,EAS,Australia
+1,36,AUS,26/03/2020,1,New South Wales,AUS,AUS.5_1,1219,7,4,EAS,Australia
+1,36,AUS,27/03/2020,1,New South Wales,AUS,AUS.5_1,1405,7,4,EAS,Australia
+1,36,AUS,28/03/2020,1,New South Wales,AUS,AUS.5_1,1617,8,4,EAS,Australia
+1,36,AUS,29/03/2020,1,New South Wales,AUS,AUS.5_1,1791,8,4,EAS,Australia
+1,36,AUS,30/03/2020,1,New South Wales,AUS,AUS.5_1,2032,8,4,EAS,Australia
+1,36,AUS,31/03/2020,1,New South Wales,AUS,AUS.5_1,2032,8,4,EAS,Australia
+1,36,AUS,01/04/2020,1,New South Wales,AUS,AUS.5_1,2182,9,4,EAS,Australia
+1,36,AUS,02/04/2020,1,New South Wales,AUS,AUS.5_1,2298,10,4,EAS,Australia
+1,36,AUS,03/04/2020,1,New South Wales,AUS,AUS.5_1,2389,12,4,EAS,Australia
+1,36,AUS,04/04/2020,1,New South Wales,AUS,AUS.5_1,2493,12,4,EAS,Australia
+1,36,AUS,05/04/2020,1,New South Wales,AUS,AUS.5_1,2580,16,4,EAS,Australia
+1,36,AUS,06/04/2020,1,New South Wales,AUS,AUS.5_1,2637,18,4,EAS,Australia
+1,36,AUS,07/04/2020,1,New South Wales,AUS,AUS.5_1,2686,21,4,EAS,Australia
+1,36,AUS,08/04/2020,1,New South Wales,AUS,AUS.5_1,2734,21,4,EAS,Australia
+1,36,AUS,09/04/2020,1,New South Wales,AUS,AUS.5_1,2773,21,4,EAS,Australia
+1,36,AUS,10/04/2020,1,New South Wales,AUS,AUS.5_1,2822,22,4,EAS,Australia
+1,36,AUS,11/04/2020,1,New South Wales,AUS,AUS.5_1,2857,23,4,EAS,Australia
+1,36,AUS,12/04/2020,1,New South Wales,AUS,AUS.5_1,2857,24,4,EAS,Australia
+1,36,AUS,13/04/2020,1,New South Wales,AUS,AUS.5_1,2863,25,4,EAS,Australia
+1,36,AUS,14/04/2020,1,New South Wales,AUS,AUS.5_1,2870,25,4,EAS,Australia
+1,36,AUS,15/04/2020,1,New South Wales,AUS,AUS.5_1,2886,25,4,EAS,Australia
+1,36,AUS,16/04/2020,1,New South Wales,AUS,AUS.5_1,2897,25,4,EAS,Australia
+1,36,AUS,17/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,EAS,Australia
+1,36,AUS,18/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,EAS,Australia
+1,36,AUS,19/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,EAS,Australia
+1,36,AUS,20/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,EAS,Australia
+1,36,AUS,21/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,EAS,Australia
+1,36,AUS,22/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,EAS,Australia
+1,36,AUS,23/04/2020,1,New South Wales,AUS,AUS.5_1,2926,26,1379,,Australia
+1,36,AUS,24/04/2020,1,New South Wales,AUS,AUS.5_1,2976,31,1379,EAS,Australia
+1,36,AUS,25/04/2020,1,New South Wales,AUS,AUS.5_1,2982,33,1379,EAS,Australia
+1,36,AUS,26/04/2020,1,New South Wales,AUS,AUS.5_1,2994,33,2193,EAS,Australia
+1,36,AUS,27/04/2020,1,New South Wales,AUS,AUS.5_1,3002,34,2208,EAS,Australia
+1,36,AUS,28/04/2020,1,New South Wales,AUS,AUS.5_1,3004,34,2227,EAS,Australia
+1,36,AUS,29/04/2020,1,New South Wales,AUS,AUS.5_1,3016,39,2266,EAS,Australia
+1,36,AUS,30/04/2020,1,New South Wales,AUS,AUS.5_1,3016,40,2284,EAS,Australia
+1,36,AUS,01/05/2020,1,New South Wales,AUS,AUS.5_1,3025,41,2293,EAS,Australia
+1,36,AUS,02/05/2020,1,New South Wales,AUS,AUS.5_1,3030,41,2293,EAS,Australia
+1,36,AUS,03/05/2020,1,New South Wales,AUS,AUS.5_1,3035,42,2306,EAS,Australia
+1,36,AUS,04/05/2020,1,New South Wales,AUS,AUS.5_1,3033,42,2328,EAS,Australia
+1,36,AUS,05/05/2020,1,New South Wales,AUS,AUS.5_1,3035,43,2349,EAS,Australia
+1,36,AUS,06/05/2020,1,New South Wales,AUS,AUS.5_1,3042,44,2418,EAS,Australia
+1,36,AUS,07/05/2020,1,New South Wales,AUS,AUS.5_1,3044,44,2463,EAS,Australia
+1,36,AUS,08/05/2020,1,New South Wales,AUS,AUS.5_1,3047,44,2486,EAS,Australia
+1,36,AUS,09/05/2020,1,New South Wales,AUS,AUS.5_1,3051,44,2504,EAS,Australia
+1,36,AUS,10/05/2020,1,New South Wales,AUS,AUS.5_1,3053,44,2504,EAS,Australia
+1,36,AUS,11/05/2020,1,New South Wales,AUS,AUS.5_1,3053,44,2517,EAS,Australia
+1,36,AUS,12/05/2020,1,New South Wales,AUS,AUS.5_1,3053,44,2543,EAS,Australia
+1,36,AUS,13/05/2020,1,New South Wales,AUS,AUS.5_1,3059,45,2571,EAS,Australia
+1,36,AUS,14/05/2020,1,New South Wales,AUS,AUS.5_1,3063,45,2595,EAS,Australia
+1,36,AUS,15/05/2020,1,New South Wales,AUS,AUS.5_1,3071,45,2605,EAS,Australia
+1,36,AUS,16/05/2020,1,New South Wales,AUS,AUS.5_1,3074,45,2611,EAS,Australia
+1,36,AUS,17/05/2020,1,New South Wales,AUS,AUS.5_1,3075,45,2611,EAS,Australia
+1,36,AUS,18/05/2020,1,New South Wales,AUS,AUS.5_1,3076,46,2612,EAS,Australia
+1,36,AUS,19/05/2020,1,New South Wales,AUS,AUS.5_1,3078,46,2614,EAS,Australia
+1,36,AUS,20/05/2020,1,New South Wales,AUS,AUS.5_1,3081,47,2631,EAS,Australia
+1,36,AUS,21/05/2020,1,New South Wales,AUS,AUS.5_1,3082,47,2648,EAS,Australia
+1,36,AUS,22/05/2020,1,New South Wales,AUS,AUS.5_1,3084,48,2648,EAS,Australia
+1,36,AUS,23/05/2020,1,New South Wales,AUS,AUS.5_1,3086,48,2653,EAS,Australia
+1,36,AUS,24/05/2020,1,New South Wales,AUS,AUS.5_1,3087,48,2653,EAS,Australia
+1,36,AUS,25/05/2020,1,New South Wales,AUS,AUS.5_1,3090,48,2656,EAS,Australia
+1,36,AUS,26/05/2020,1,New South Wales,AUS,AUS.5_1,3092,48,2661,EAS,Australia
+1,36,AUS,27/05/2020,1,New South Wales,AUS,AUS.5_1,3089,48,2663,EAS,Australia
+1,36,AUS,28/05/2020,1,New South Wales,AUS,AUS.5_1,3090,48,2670,EAS,Australia
+1,36,AUS,29/05/2020,1,New South Wales,AUS,AUS.5_1,3092,48,2666,EAS,Australia
+1,36,AUS,30/05/2020,1,New South Wales,AUS,AUS.5_1,3092,48,2683,EAS,Australia
+1,36,AUS,31/05/2020,1,New South Wales,AUS,AUS.5_1,3095,48,2685,EAS,Australia
+1,36,AUS,01/06/2020,1,New South Wales,AUS,AUS.5_1,3098,48,2685,EAS,Australia
+1,36,AUS,02/06/2020,1,New South Wales,AUS,AUS.5_1,3104,48,2687,EAS,Australia
+1,36,AUS,03/06/2020,1,New South Wales,AUS,AUS.5_1,3104,48,2691,EAS,Australia
+1,36,AUS,04/06/2020,1,New South Wales,AUS,AUS.5_1,3106,48,2700,EAS,Australia
+1,36,AUS,05/06/2020,1,New South Wales,AUS,AUS.5_1,3110,48,2714,EAS,Australia
+1,36,AUS,06/06/2020,1,New South Wales,AUS,AUS.5_1,3110,48,2719,EAS,Australia
+1,36,AUS,07/06/2020,1,New South Wales,AUS,AUS.5_1,3109,48,2723,EAS,Australia
+1,36,AUS,08/06/2020,1,New South Wales,AUS,AUS.5_1,3112,48,2724,EAS,Australia
+1,36,AUS,09/06/2020,1,New South Wales,AUS,AUS.5_1,3114,48,2729,EAS,Australia
+1,36,AUS,10/06/2020,1,New South Wales,AUS,AUS.5_1,3117,48,2735,EAS,Australia
+1,36,AUS,11/06/2020,1,New South Wales,AUS,AUS.5_1,3117,48,2738,EAS,Australia
+1,36,AUS,12/06/2020,1,New South Wales,AUS,AUS.5_1,3115,48,2743,EAS,Australia
+1,36,AUS,13/06/2020,1,New South Wales,AUS,AUS.5_1,3119,48,2763,EAS,Australia
+1,36,AUS,14/06/2020,1,New South Wales,AUS,AUS.5_1,3128,48,2766,EAS,Australia
+1,36,AUS,15/06/2020,1,New South Wales,AUS,AUS.5_1,3131,48,2766,EAS,Australia
+1,36,AUS,16/06/2020,1,New South Wales,AUS,AUS.5_1,3134,48,2768,EAS,Australia
+1,36,AUS,17/06/2020,1,New South Wales,AUS,AUS.5_1,3135,48,2770,EAS,Australia
+1,36,AUS,18/06/2020,1,New South Wales,AUS,AUS.5_1,3137,48,2770,EAS,Australia
+1,36,AUS,19/06/2020,1,New South Wales,AUS,AUS.5_1,3143,48,2770,EAS,Australia
+1,36,AUS,20/06/2020,1,New South Wales,AUS,AUS.5_1,3144,48,2771,EAS,Australia
+1,36,AUS,21/06/2020,1,New South Wales,AUS,AUS.5_1,3149,48,2771,EAS,Australia
+1,36,AUS,22/06/2020,1,New South Wales,AUS,AUS.5_1,3151,48,2771,EAS,Australia
+1,36,AUS,23/06/2020,1,New South Wales,AUS,AUS.5_1,3150,48,2771,EAS,Australia
+1,36,AUS,24/06/2020,1,New South Wales,AUS,AUS.5_1,3159,48,2771,EAS,Australia
+1,36,AUS,25/06/2020,1,New South Wales,AUS,AUS.5_1,3162,49,2776,EAS,Australia
+1,36,AUS,26/06/2020,1,New South Wales,AUS,AUS.5_1,3168,49,2782,EAS,Australia
+1,36,AUS,27/06/2020,1,New South Wales,AUS,AUS.5_1,3174,49,2784,EAS,Australia
+1,36,AUS,28/06/2020,1,New South Wales,AUS,AUS.5_1,3177,49,2784,EAS,Australia
+1,36,AUS,29/06/2020,1,New South Wales,AUS,AUS.5_1,3184,49,2784,EAS,Australia
+1,36,AUS,30/06/2020,1,New South Wales,AUS,AUS.5_1,3189,49,2784,EAS,Australia
+1,36,AUS,01/07/2020,1,New South Wales,AUS,AUS.5_1,3203,49,2787,EAS,Australia
+1,36,AUS,27/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0,EAS,Australia
+1,36,AUS,28/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0,EAS,Australia
+1,36,AUS,29/01/2020,2,Victoria,AUS,AUS.10_1,1,0,0,EAS,Australia
+1,36,AUS,30/01/2020,2,Victoria,AUS,AUS.10_1,2,0,0,EAS,Australia
+1,36,AUS,31/01/2020,2,Victoria,AUS,AUS.10_1,3,0,0,EAS,Australia
+1,36,AUS,01/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,EAS,Australia
+1,36,AUS,02/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,03/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,04/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,05/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,06/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,07/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,08/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,09/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,10/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,11/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,12/02/2020,2,Victoria,AUS,AUS.10_1,4,0,0,,Australia
+1,36,AUS,13/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,EAS,Australia
+1,36,AUS,14/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,15/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,16/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,17/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,18/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,19/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,20/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,21/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,22/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,23/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,24/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,25/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,26/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,27/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,28/02/2020,2,Victoria,AUS,AUS.10_1,4,0,4,,Australia
+1,36,AUS,29/02/2020,2,Victoria,AUS,AUS.10_1,7,0,4,EAS,Australia
+1,36,AUS,01/03/2020,2,Victoria,AUS,AUS.10_1,7,0,4,,Australia
+1,36,AUS,02/03/2020,2,Victoria,AUS,AUS.10_1,9,0,4,EAS,Australia
+1,36,AUS,03/03/2020,2,Victoria,AUS,AUS.10_1,9,0,4,,Australia
+1,36,AUS,04/03/2020,2,Victoria,AUS,AUS.10_1,10,0,4,EAS,Australia
+1,36,AUS,05/03/2020,2,Victoria,AUS,AUS.10_1,10,0,7,EAS,Australia
+1,36,AUS,06/03/2020,2,Victoria,AUS,AUS.10_1,10,0,7,,Australia
+1,36,AUS,07/03/2020,2,Victoria,AUS,AUS.10_1,11,0,7,EAS,Australia
+1,36,AUS,08/03/2020,2,Victoria,AUS,AUS.10_1,11,0,7,,Australia
+1,36,AUS,09/03/2020,2,Victoria,AUS,AUS.10_1,15,0,7,EAS,Australia
+1,36,AUS,10/03/2020,2,Victoria,AUS,AUS.10_1,18,0,7,EAS,Australia
+1,36,AUS,11/03/2020,2,Victoria,AUS,AUS.10_1,36,0,8,EAS,Australia
+1,36,AUS,12/03/2020,2,Victoria,AUS,AUS.10_1,36,0,8,,Australia
+1,36,AUS,13/03/2020,2,Victoria,AUS,AUS.10_1,36,0,8,,Australia
+1,36,AUS,14/03/2020,2,Victoria,AUS,AUS.10_1,49,0,8,EAS,Australia
+1,36,AUS,15/03/2020,2,Victoria,AUS,AUS.10_1,57,0,8,EAS,Australia
+1,36,AUS,16/03/2020,2,Victoria,AUS,AUS.10_1,71,0,8,EAS,Australia
+1,36,AUS,17/03/2020,2,Victoria,AUS,AUS.10_1,94,0,8,EAS,Australia
+1,36,AUS,18/03/2020,2,Victoria,AUS,AUS.10_1,121,0,8,EAS,Australia
+1,36,AUS,19/03/2020,2,Victoria,AUS,AUS.10_1,121,0,8,,Australia
+1,36,AUS,20/03/2020,2,Victoria,AUS,AUS.10_1,121,0,8,,Australia
+1,36,AUS,21/03/2020,2,Victoria,AUS,AUS.10_1,229,0,8,EAS,Australia
+1,36,AUS,22/03/2020,2,Victoria,AUS,AUS.10_1,296,0,70,EAS,Australia
+1,36,AUS,23/03/2020,2,Victoria,AUS,AUS.10_1,355,0,97,EAS,Australia
+1,36,AUS,24/03/2020,2,Victoria,AUS,AUS.10_1,411,0,97,EAS,Australia
+1,36,AUS,25/03/2020,2,Victoria,AUS,AUS.10_1,466,0,97,EAS,Australia
+1,36,AUS,26/03/2020,2,Victoria,AUS,AUS.10_1,520,3,149,EAS,Australia
+1,36,AUS,27/03/2020,2,Victoria,AUS,AUS.10_1,574,3,171,EAS,Australia
+1,36,AUS,28/03/2020,2,Victoria,AUS,AUS.10_1,685,3,191,EAS,Australia
+1,36,AUS,29/03/2020,2,Victoria,AUS,AUS.10_1,769,4,191,EAS,Australia
+1,36,AUS,30/03/2020,2,Victoria,AUS,AUS.10_1,821,4,191,EAS,Australia
+1,36,AUS,31/03/2020,2,Victoria,AUS,AUS.10_1,917,4,291,EAS,Australia
+1,36,AUS,01/04/2020,2,Victoria,AUS,AUS.10_1,968,4,343,EAS,Australia
+1,36,AUS,02/04/2020,2,Victoria,AUS,AUS.10_1,1036,5,422,EAS,Australia
+1,36,AUS,03/04/2020,2,Victoria,AUS,AUS.10_1,1085,7,476,EAS,Australia
+1,36,AUS,04/04/2020,2,Victoria,AUS,AUS.10_1,1115,8,527,EAS,Australia
+1,36,AUS,05/04/2020,2,Victoria,AUS,AUS.10_1,1135,8,573,EAS,Australia
+1,36,AUS,06/04/2020,2,Victoria,AUS,AUS.10_1,1158,10,620,EAS,Australia
+1,36,AUS,07/04/2020,2,Victoria,AUS,AUS.10_1,1191,11,620,EAS,Australia
+1,36,AUS,08/04/2020,2,Victoria,AUS,AUS.10_1,1212,12,620,EAS,Australia
+1,36,AUS,09/04/2020,2,Victoria,AUS,AUS.10_1,1228,12,736,EAS,Australia
+1,36,AUS,10/04/2020,2,Victoria,AUS,AUS.10_1,1241,13,926,EAS,Australia
+1,36,AUS,11/04/2020,2,Victoria,AUS,AUS.10_1,1265,14,926,EAS,Australia
+1,36,AUS,12/04/2020,2,Victoria,AUS,AUS.10_1,1268,14,926,EAS,Australia
+1,36,AUS,13/04/2020,2,Victoria,AUS,AUS.10_1,1281,14,926,EAS,Australia
+1,36,AUS,14/04/2020,2,Victoria,AUS,AUS.10_1,1291,14,1118,EAS,Australia
+1,36,AUS,15/04/2020,2,Victoria,AUS,AUS.10_1,1299,14,1118,EAS,Australia
+1,36,AUS,16/04/2020,2,Victoria,AUS,AUS.10_1,1299,14,1137,EAS,Australia
+1,36,AUS,17/04/2020,2,Victoria,AUS,AUS.10_1,1302,14,1159,EAS,Australia
+1,36,AUS,18/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172,EAS,Australia
+1,36,AUS,19/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172,EAS,Australia
+1,36,AUS,20/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172,EAS,Australia
+1,36,AUS,21/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172,EAS,Australia
+1,36,AUS,22/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172,EAS,Australia
+1,36,AUS,23/04/2020,2,Victoria,AUS,AUS.10_1,1319,14,1172,,Australia
+1,36,AUS,24/04/2020,2,Victoria,AUS,AUS.10_1,1337,16,1172,EAS,Australia
+1,36,AUS,25/04/2020,2,Victoria,AUS,AUS.10_1,1343,16,1172,EAS,Australia
+1,36,AUS,26/04/2020,2,Victoria,AUS,AUS.10_1,1346,16,133,EAS,Australia
+1,36,AUS,27/04/2020,2,Victoria,AUS,AUS.10_1,1349,17,1265,EAS,Australia
+1,36,AUS,28/04/2020,2,Victoria,AUS,AUS.10_1,1349,17,1280,EAS,Australia
+1,36,AUS,29/04/2020,2,Victoria,AUS,AUS.10_1,1354,18,1287,EAS,Australia
+1,36,AUS,30/04/2020,2,Victoria,AUS,AUS.10_1,1361,18,1291,EAS,Australia
+1,36,AUS,01/05/2020,2,Victoria,AUS,AUS.10_1,1364,18,1293,EAS,Australia
+1,36,AUS,02/05/2020,2,Victoria,AUS,AUS.10_1,1371,18,1300,EAS,Australia
+1,36,AUS,03/05/2020,2,Victoria,AUS,AUS.10_1,1384,18,1300,EAS,Australia
+1,36,AUS,04/05/2020,2,Victoria,AUS,AUS.10_1,1406,18,1300,EAS,Australia
+1,36,AUS,05/05/2020,2,Victoria,AUS,AUS.10_1,1423,18,1311,EAS,Australia
+1,36,AUS,06/05/2020,2,Victoria,AUS,AUS.10_1,1440,18,1321,EAS,Australia
+1,36,AUS,07/05/2020,2,Victoria,AUS,AUS.10_1,1454,18,1322,EAS,Australia
+1,36,AUS,08/05/2020,2,Victoria,AUS,AUS.10_1,1467,18,1327,EAS,Australia
+1,36,AUS,09/05/2020,2,Victoria,AUS,AUS.10_1,1468,18,1327,EAS,Australia
+1,36,AUS,10/05/2020,2,Victoria,AUS,AUS.10_1,1487,18,1336,EAS,Australia
+1,36,AUS,11/05/2020,2,Victoria,AUS,AUS.10_1,1496,18,1346,EAS,Australia
+1,36,AUS,12/05/2020,2,Victoria,AUS,AUS.10_1,1511,18,1360,EAS,Australia
+1,36,AUS,13/05/2020,2,Victoria,AUS,AUS.10_1,1514,18,1385,EAS,Australia
+1,36,AUS,14/05/2020,2,Victoria,AUS,AUS.10_1,1521,18,1385,EAS,Australia
+1,36,AUS,15/05/2020,2,Victoria,AUS,AUS.10_1,1540,18,1407,EAS,Australia
+1,36,AUS,16/05/2020,2,Victoria,AUS,AUS.10_1,1551,18,1417,EAS,Australia
+1,36,AUS,17/05/2020,2,Victoria,AUS,AUS.10_1,1558,18,1417,EAS,Australia
+1,36,AUS,18/05/2020,2,Victoria,AUS,AUS.10_1,1564,18,1439,EAS,Australia
+1,36,AUS,19/05/2020,2,Victoria,AUS,AUS.10_1,1573,18,1454,EAS,Australia
+1,36,AUS,20/05/2020,2,Victoria,AUS,AUS.10_1,1573,18,1454,EAS,Australia
+1,36,AUS,21/05/2020,2,Victoria,AUS,AUS.10_1,1581,18,1473,EAS,Australia
+1,36,AUS,22/05/2020,2,Victoria,AUS,AUS.10_1,1593,18,1479,EAS,Australia
+1,36,AUS,23/05/2020,2,Victoria,AUS,AUS.10_1,1593,18,1479,EAS,Australia
+1,36,AUS,24/05/2020,2,Victoria,AUS,AUS.10_1,1603,19,1498,EAS,Australia
+1,36,AUS,25/05/2020,2,Victoria,AUS,AUS.10_1,1605,19,1520,EAS,Australia
+1,36,AUS,26/05/2020,2,Victoria,AUS,AUS.10_1,1610,19,1533,EAS,Australia
+1,36,AUS,27/05/2020,2,Victoria,AUS,AUS.10_1,1618,19,1533,EAS,Australia
+1,36,AUS,28/05/2020,2,Victoria,AUS,AUS.10_1,1628,19,1544,EAS,Australia
+1,36,AUS,29/05/2020,2,Victoria,AUS,AUS.10_1,1634,19,1544,EAS,Australia
+1,36,AUS,30/05/2020,2,Victoria,AUS,AUS.10_1,1645,19,1553,EAS,Australia
+1,36,AUS,31/05/2020,2,Victoria,AUS,AUS.10_1,1649,19,1557,EAS,Australia
+1,36,AUS,01/06/2020,2,Victoria,AUS,AUS.10_1,1653,19,1560,EAS,Australia
+1,36,AUS,02/06/2020,2,Victoria,AUS,AUS.10_1,1663,19,1563,EAS,Australia
+1,36,AUS,03/06/2020,2,Victoria,AUS,AUS.10_1,1670,19,1569,EAS,Australia
+1,36,AUS,04/06/2020,2,Victoria,AUS,AUS.10_1,1678,19,1569,EAS,Australia
+1,36,AUS,05/06/2020,2,Victoria,AUS,AUS.10_1,1681,19,1586,EAS,Australia
+1,36,AUS,06/06/2020,2,Victoria,AUS,AUS.10_1,1681,19,1586,EAS,Australia
+1,36,AUS,07/06/2020,2,Victoria,AUS,AUS.10_1,1685,19,1593,EAS,Australia
+1,36,AUS,08/06/2020,2,Victoria,AUS,AUS.10_1,1687,19,1595,EAS,Australia
+1,36,AUS,09/06/2020,2,Victoria,AUS,AUS.10_1,1687,19,1602,EAS,Australia
+1,36,AUS,10/06/2020,2,Victoria,AUS,AUS.10_1,1691,19,1616,EAS,Australia
+1,36,AUS,11/06/2020,2,Victoria,AUS,AUS.10_1,1699,19,1621,EAS,Australia
+1,36,AUS,12/06/2020,2,Victoria,AUS,AUS.10_1,1703,19,1632,EAS,Australia
+1,36,AUS,13/06/2020,2,Victoria,AUS,AUS.10_1,1703,19,1632,EAS,Australia
+1,36,AUS,14/06/2020,2,Victoria,AUS,AUS.10_1,1720,19,1657,EAS,Australia
+1,36,AUS,15/06/2020,2,Victoria,AUS,AUS.10_1,1732,19,1661,EAS,Australia
+1,36,AUS,16/06/2020,2,Victoria,AUS,AUS.10_1,1741,19,1664,EAS,Australia
+1,36,AUS,17/06/2020,2,Victoria,AUS,AUS.10_1,1762,19,1664,EAS,Australia
+1,36,AUS,18/06/2020,2,Victoria,AUS,AUS.10_1,1780,19,1678,EAS,Australia
+1,36,AUS,19/06/2020,2,Victoria,AUS,AUS.10_1,1792,19,1678,EAS,Australia
+1,36,AUS,20/06/2020,2,Victoria,AUS,AUS.10_1,1792,19,1680,EAS,Australia
+1,36,AUS,21/06/2020,2,Victoria,AUS,AUS.10_1,1836,19,1694,EAS,Australia
+1,36,AUS,22/06/2020,2,Victoria,AUS,AUS.10_1,1847,19,1701,EAS,Australia
+1,36,AUS,23/06/2020,2,Victoria,AUS,AUS.10_1,1864,19,1712,EAS,Australia
+1,36,AUS,24/06/2020,2,Victoria,AUS,AUS.10_1,1884,20,1721,EAS,Australia
+1,36,AUS,25/06/2020,2,Victoria,AUS,AUS.10_1,1917,20,1721,EAS,Australia
+1,36,AUS,26/06/2020,2,Victoria,AUS,AUS.10_1,1947,20,1742,EAS,Australia
+1,36,AUS,27/06/2020,2,Victoria,AUS,AUS.10_1,1947,20,1742,EAS,Australia
+1,36,AUS,28/06/2020,2,Victoria,AUS,AUS.10_1,2028,20,1775,EAS,Australia
+1,36,AUS,29/06/2020,2,Victoria,AUS,AUS.10_1,2099,20,1789,EAS,Australia
+1,36,AUS,30/06/2020,2,Victoria,AUS,AUS.10_1,2159,20,1816,EAS,Australia
+1,36,AUS,01/07/2020,2,Victoria,AUS,AUS.10_1,2231,20,1816,EAS,Australia
+1,36,AUS,27/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0,,Australia
+1,36,AUS,28/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0,,Australia
+1,36,AUS,29/01/2020,3,Queensland,AUS,AUS.7_1,0,0,0,,Australia
+1,36,AUS,30/01/2020,3,Queensland,AUS,AUS.7_1,3,0,0,EAS,Australia
+1,36,AUS,31/01/2020,3,Queensland,AUS,AUS.7_1,2,0,0,EAS,Australia
+1,36,AUS,01/02/2020,3,Queensland,AUS,AUS.7_1,3,0,0,EAS,Australia
+1,36,AUS,02/02/2020,3,Queensland,AUS,AUS.7_1,2,0,0,EAS,Australia
+1,36,AUS,03/02/2020,3,Queensland,AUS,AUS.7_1,2,0,0,,Australia
+1,36,AUS,04/02/2020,3,Queensland,AUS,AUS.7_1,3,0,0,EAS,Australia
+1,36,AUS,05/02/2020,3,Queensland,AUS,AUS.7_1,3,0,0,,Australia
+1,36,AUS,06/02/2020,3,Queensland,AUS,AUS.7_1,4,0,0,EAS,Australia
+1,36,AUS,07/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,EAS,Australia
+1,36,AUS,08/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,09/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,EAS,Australia
+1,36,AUS,10/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,11/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,12/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,13/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,14/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,15/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,16/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,17/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,18/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,19/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,20/02/2020,3,Queensland,AUS,AUS.7_1,5,0,0,,Australia
+1,36,AUS,21/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,EAS,Australia
+1,36,AUS,22/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,23/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,24/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,25/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,26/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,27/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,28/02/2020,3,Queensland,AUS,AUS.7_1,5,0,1,,Australia
+1,36,AUS,29/02/2020,3,Queensland,AUS,AUS.7_1,9,0,1,EAS,Australia
+1,36,AUS,01/03/2020,3,Queensland,AUS,AUS.7_1,9,0,1,,Australia
+1,36,AUS,02/03/2020,3,Queensland,AUS,AUS.7_1,9,0,1,,Australia
+1,36,AUS,03/03/2020,3,Queensland,AUS,AUS.7_1,11,0,1,EAS,Australia
+1,36,AUS,04/03/2020,3,Queensland,AUS,AUS.7_1,11,0,1,,Australia
+1,36,AUS,05/03/2020,3,Queensland,AUS,AUS.7_1,13,0,8,EAS,Australia
+1,36,AUS,06/03/2020,3,Queensland,AUS,AUS.7_1,13,0,8,,Australia
+1,36,AUS,07/03/2020,3,Queensland,AUS,AUS.7_1,13,0,8,,Australia
+1,36,AUS,08/03/2020,3,Queensland,AUS,AUS.7_1,15,0,8,EAS,Australia
+1,36,AUS,09/03/2020,3,Queensland,AUS,AUS.7_1,15,0,8,,Australia
+1,36,AUS,10/03/2020,3,Queensland,AUS,AUS.7_1,18,0,8,EAS,Australia
+1,36,AUS,11/03/2020,3,Queensland,AUS,AUS.7_1,35,0,8,EAS,Australia
+1,36,AUS,12/03/2020,3,Queensland,AUS,AUS.7_1,35,0,8,,Australia
+1,36,AUS,13/03/2020,3,Queensland,AUS,AUS.7_1,35,0,8,,Australia
+1,36,AUS,14/03/2020,3,Queensland,AUS,AUS.7_1,46,0,8,EAS,Australia
+1,36,AUS,15/03/2020,3,Queensland,AUS,AUS.7_1,61,0,8,EAS,Australia
+1,36,AUS,16/03/2020,3,Queensland,AUS,AUS.7_1,68,0,8,EAS,Australia
+1,36,AUS,17/03/2020,3,Queensland,AUS,AUS.7_1,78,0,8,EAS,Australia
+1,36,AUS,18/03/2020,3,Queensland,AUS,AUS.7_1,94,0,8,EAS,Australia
+1,36,AUS,19/03/2020,3,Queensland,AUS,AUS.7_1,144,0,8,EAS,Australia
+1,36,AUS,20/03/2020,3,Queensland,AUS,AUS.7_1,184,0,8,EAS,Australia
+1,36,AUS,21/03/2020,3,Queensland,AUS,AUS.7_1,221,0,8,EAS,Australia
+1,36,AUS,22/03/2020,3,Queensland,AUS,AUS.7_1,259,0,8,EAS,Australia
+1,36,AUS,23/03/2020,3,Queensland,AUS,AUS.7_1,319,0,8,EAS,Australia
+1,36,AUS,24/03/2020,3,Queensland,AUS,AUS.7_1,397,0,8,EAS,Australia
+1,36,AUS,25/03/2020,3,Queensland,AUS,AUS.7_1,443,0,8,EAS,Australia
+1,36,AUS,26/03/2020,3,Queensland,AUS,AUS.7_1,493,1,8,EAS,Australia
+1,36,AUS,27/03/2020,3,Queensland,AUS,AUS.7_1,555,1,8,EAS,Australia
+1,36,AUS,28/03/2020,3,Queensland,AUS,AUS.7_1,625,1,8,EAS,Australia
+1,36,AUS,29/03/2020,3,Queensland,AUS,AUS.7_1,656,2,8,EAS,Australia
+1,36,AUS,30/03/2020,3,Queensland,AUS,AUS.7_1,689,2,8,EAS,Australia
+1,36,AUS,31/03/2020,3,Queensland,AUS,AUS.7_1,743,2,8,EAS,Australia
+1,36,AUS,01/04/2020,3,Queensland,AUS,AUS.7_1,781,2,8,EAS,Australia
+1,36,AUS,02/04/2020,3,Queensland,AUS,AUS.7_1,835,4,8,EAS,Australia
+1,36,AUS,03/04/2020,3,Queensland,AUS,AUS.7_1,873,4,8,EAS,Australia
+1,36,AUS,04/04/2020,3,Queensland,AUS,AUS.7_1,900,4,8,EAS,Australia
+1,36,AUS,05/04/2020,3,Queensland,AUS,AUS.7_1,907,4,8,EAS,Australia
+1,36,AUS,06/04/2020,3,Queensland,AUS,AUS.7_1,921,4,173,EAS,Australia
+1,36,AUS,07/04/2020,3,Queensland,AUS,AUS.7_1,934,4,173,EAS,Australia
+1,36,AUS,08/04/2020,3,Queensland,AUS,AUS.7_1,943,4,173,EAS,Australia
+1,36,AUS,09/04/2020,3,Queensland,AUS,AUS.7_1,953,4,345,EAS,Australia
+1,36,AUS,10/04/2020,3,Queensland,AUS,AUS.7_1,965,4,372,EAS,Australia
+1,36,AUS,11/04/2020,3,Queensland,AUS,AUS.7_1,974,5,372,EAS,Australia
+1,36,AUS,12/04/2020,3,Queensland,AUS,AUS.7_1,983,5,372,EAS,Australia
+1,36,AUS,13/04/2020,3,Queensland,AUS,AUS.7_1,987,5,372,EAS,Australia
+1,36,AUS,14/04/2020,3,Queensland,AUS,AUS.7_1,998,5,442,EAS,Australia
+1,36,AUS,15/04/2020,3,Queensland,AUS,AUS.7_1,999,5,442,EAS,Australia
+1,36,AUS,16/04/2020,3,Queensland,AUS,AUS.7_1,1001,5,442,EAS,Australia
+1,36,AUS,17/04/2020,3,Queensland,AUS,AUS.7_1,1007,5,442,EAS,Australia
+1,36,AUS,18/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738,EAS,Australia
+1,36,AUS,19/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738,EAS,Australia
+1,36,AUS,20/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738,EAS,Australia
+1,36,AUS,21/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738,EAS,Australia
+1,36,AUS,22/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738,EAS,Australia
+1,36,AUS,23/04/2020,3,Queensland,AUS,AUS.7_1,1015,6,738,,Australia
+1,36,AUS,24/04/2020,3,Queensland,AUS,AUS.7_1,1026,6,738,EAS,Australia
+1,36,AUS,25/04/2020,3,Queensland,AUS,AUS.7_1,1026,6,738,EAS,Australia
+1,36,AUS,26/04/2020,3,Queensland,AUS,AUS.7_1,1026,6,803,EAS,Australia
+1,36,AUS,27/04/2020,3,Queensland,AUS,AUS.7_1,1030,6,926,EAS,Australia
+1,36,AUS,28/04/2020,3,Queensland,AUS,AUS.7_1,1033,6,926,EAS,Australia
+1,36,AUS,29/04/2020,3,Queensland,AUS,AUS.7_1,1034,6,934,EAS,Australia
+1,36,AUS,30/04/2020,3,Queensland,AUS,AUS.7_1,1033,6,943,EAS,Australia
+1,36,AUS,01/05/2020,3,Queensland,AUS,AUS.7_1,1033,6,948,EAS,Australia
+1,36,AUS,02/05/2020,3,Queensland,AUS,AUS.7_1,1034,6,965,EAS,Australia
+1,36,AUS,03/05/2020,3,Queensland,AUS,AUS.7_1,1035,6,976,EAS,Australia
+1,36,AUS,04/05/2020,3,Queensland,AUS,AUS.7_1,1038,6,980,EAS,Australia
+1,36,AUS,05/05/2020,3,Queensland,AUS,AUS.7_1,1043,6,980,EAS,Australia
+1,36,AUS,06/05/2020,3,Queensland,AUS,AUS.7_1,1043,6,985,EAS,Australia
+1,36,AUS,07/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,989,EAS,Australia
+1,36,AUS,08/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,994,EAS,Australia
+1,36,AUS,09/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,1019,EAS,Australia
+1,36,AUS,10/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,1019,EAS,Australia
+1,36,AUS,11/05/2020,3,Queensland,AUS,AUS.7_1,1045,6,1021,EAS,Australia
+1,36,AUS,12/05/2020,3,Queensland,AUS,AUS.7_1,1051,6,1027,EAS,Australia
+1,36,AUS,13/05/2020,3,Queensland,AUS,AUS.7_1,1052,6,1028,EAS,Australia
+1,36,AUS,14/05/2020,3,Queensland,AUS,AUS.7_1,1051,6,1030,EAS,Australia
+1,36,AUS,15/05/2020,3,Queensland,AUS,AUS.7_1,1054,6,1031,EAS,Australia
+1,36,AUS,16/05/2020,3,Queensland,AUS,AUS.7_1,1055,6,1036,EAS,Australia
+1,36,AUS,17/05/2020,3,Queensland,AUS,AUS.7_1,1055,6,1037,EAS,Australia
+1,36,AUS,18/05/2020,3,Queensland,AUS,AUS.7_1,1057,6,1038,EAS,Australia
+1,36,AUS,19/05/2020,3,Queensland,AUS,AUS.7_1,1057,6,1039,EAS,Australia
+1,36,AUS,20/05/2020,3,Queensland,AUS,AUS.7_1,1058,6,1040,EAS,Australia
+1,36,AUS,21/05/2020,3,Queensland,AUS,AUS.7_1,1058,6,1040,EAS,Australia
+1,36,AUS,22/05/2020,3,Queensland,AUS,AUS.7_1,1058,6,1040,EAS,Australia
+1,36,AUS,23/05/2020,3,Queensland,AUS,AUS.7_1,1060,6,1041,EAS,Australia
+1,36,AUS,24/05/2020,3,Queensland,AUS,AUS.7_1,1061,6,1041,EAS,Australia
+1,36,AUS,25/05/2020,3,Queensland,AUS,AUS.7_1,1056,6,1038,EAS,Australia
+1,36,AUS,26/05/2020,3,Queensland,AUS,AUS.7_1,1057,6,1039,EAS,Australia
+1,36,AUS,27/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1044,EAS,Australia
+1,36,AUS,28/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1045,EAS,Australia
+1,36,AUS,29/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1045,EAS,Australia
+1,36,AUS,30/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1045,EAS,Australia
+1,36,AUS,31/05/2020,3,Queensland,AUS,AUS.7_1,1058,7,1046,EAS,Australia
+1,36,AUS,01/06/2020,3,Queensland,AUS,AUS.7_1,1058,7,1046,EAS,Australia
+1,36,AUS,02/06/2020,3,Queensland,AUS,AUS.7_1,1059,6,1048,EAS,Australia
+1,36,AUS,03/06/2020,3,Queensland,AUS,AUS.7_1,1059,6,1047,EAS,Australia
+1,36,AUS,04/06/2020,3,Queensland,AUS,AUS.7_1,1060,6,1046,EAS,Australia
+1,36,AUS,05/06/2020,3,Queensland,AUS,AUS.7_1,1060,6,1049,EAS,Australia
+1,36,AUS,06/06/2020,3,Queensland,AUS,AUS.7_1,1061,6,1049,EAS,Australia
+1,36,AUS,07/06/2020,3,Queensland,AUS,AUS.7_1,1061,6,1050,EAS,Australia
+1,36,AUS,08/06/2020,3,Queensland,AUS,AUS.7_1,1062,6,1050,EAS,Australia
+1,36,AUS,09/06/2020,3,Queensland,AUS,AUS.7_1,1062,6,1051,EAS,Australia
+1,36,AUS,10/06/2020,3,Queensland,AUS,AUS.7_1,1062,6,1051,EAS,Australia
+1,36,AUS,11/06/2020,3,Queensland,AUS,AUS.7_1,1063,6,1051,EAS,Australia
+1,36,AUS,12/06/2020,3,Queensland,AUS,AUS.7_1,1064,6,1051,EAS,Australia
+1,36,AUS,13/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051,EAS,Australia
+1,36,AUS,14/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051,EAS,Australia
+1,36,AUS,15/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051,EAS,Australia
+1,36,AUS,16/06/2020,3,Queensland,AUS,AUS.7_1,1065,6,1051,EAS,Australia
+1,36,AUS,17/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1052,EAS,Australia
+1,36,AUS,18/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1052,EAS,Australia
+1,36,AUS,19/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053,EAS,Australia
+1,36,AUS,20/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053,EAS,Australia
+1,36,AUS,21/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053,EAS,Australia
+1,36,AUS,22/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053,EAS,Australia
+1,36,AUS,23/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053,EAS,Australia
+1,36,AUS,24/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1053,EAS,Australia
+1,36,AUS,25/06/2020,3,Queensland,AUS,AUS.7_1,1066,6,1054,EAS,Australia
+1,36,AUS,26/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054,EAS,Australia
+1,36,AUS,27/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054,EAS,Australia
+1,36,AUS,28/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054,EAS,Australia
+1,36,AUS,29/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054,EAS,Australia
+1,36,AUS,30/06/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054,EAS,Australia
+1,36,AUS,01/07/2020,3,Queensland,AUS,AUS.7_1,1067,6,1054,EAS,Australia
+1,36,AUS,27/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0,,Australia
+1,36,AUS,28/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0,,Australia
+1,36,AUS,29/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0,,Australia
+1,36,AUS,30/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0,,Australia
+1,36,AUS,31/01/2020,4,South Australia,AUS,AUS.8_1,0,0,0,,Australia
+1,36,AUS,01/02/2020,4,South Australia,AUS,AUS.8_1,1,0,0,EAS,Australia
+1,36,AUS,02/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,EAS,Australia
+1,36,AUS,03/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,04/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,05/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,06/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,07/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,08/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,09/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,10/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,11/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,12/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,13/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,14/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,15/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,16/02/2020,4,South Australia,AUS,AUS.8_1,2,0,0,,Australia
+1,36,AUS,17/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,EAS,Australia
+1,36,AUS,18/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,19/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,20/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,21/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,22/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,23/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,24/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,25/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,26/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,27/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,28/02/2020,4,South Australia,AUS,AUS.8_1,2,0,2,,Australia
+1,36,AUS,29/02/2020,4,South Australia,AUS,AUS.8_1,3,0,2,EAS,Australia
+1,36,AUS,01/03/2020,4,South Australia,AUS,AUS.8_1,3,0,2,,Australia
+1,36,AUS,02/03/2020,4,South Australia,AUS,AUS.8_1,3,0,2,,Australia
+1,36,AUS,03/03/2020,4,South Australia,AUS,AUS.8_1,3,0,2,,Australia
+1,36,AUS,04/03/2020,4,South Australia,AUS,AUS.8_1,5,0,2,EAS,Australia
+1,36,AUS,05/03/2020,4,South Australia,AUS,AUS.8_1,5,0,2,,Australia
+1,36,AUS,06/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2,EAS,Australia
+1,36,AUS,07/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2,,Australia
+1,36,AUS,08/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2,,Australia
+1,36,AUS,09/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2,,Australia
+1,36,AUS,10/03/2020,4,South Australia,AUS,AUS.8_1,7,0,2,,Australia
+1,36,AUS,11/03/2020,4,South Australia,AUS,AUS.8_1,16,0,3,EAS,Australia
+1,36,AUS,12/03/2020,4,South Australia,AUS,AUS.8_1,16,0,3,,Australia
+1,36,AUS,13/03/2020,4,South Australia,AUS,AUS.8_1,16,0,3,,Australia
+1,36,AUS,14/03/2020,4,South Australia,AUS,AUS.8_1,19,0,3,EAS,Australia
+1,36,AUS,15/03/2020,4,South Australia,AUS,AUS.8_1,20,0,3,EAS,Australia
+1,36,AUS,16/03/2020,4,South Australia,AUS,AUS.8_1,29,0,3,EAS,Australia
+1,36,AUS,17/03/2020,4,South Australia,AUS,AUS.8_1,29,0,3,,Australia
+1,36,AUS,18/03/2020,4,South Australia,AUS,AUS.8_1,37,0,3,EAS,Australia
+1,36,AUS,19/03/2020,4,South Australia,AUS,AUS.8_1,42,0,3,EAS,Australia
+1,36,AUS,20/03/2020,4,South Australia,AUS,AUS.8_1,50,0,3,EAS,Australia
+1,36,AUS,21/03/2020,4,South Australia,AUS,AUS.8_1,67,0,3,EAS,Australia
+1,36,AUS,22/03/2020,4,South Australia,AUS,AUS.8_1,100,0,6,EAS,Australia
+1,36,AUS,23/03/2020,4,South Australia,AUS,AUS.8_1,134,0,6,EAS,Australia
+1,36,AUS,24/03/2020,4,South Australia,AUS,AUS.8_1,170,0,6,EAS,Australia
+1,36,AUS,25/03/2020,4,South Australia,AUS,AUS.8_1,170,0,6,EAS,Australia
+1,36,AUS,26/03/2020,4,South Australia,AUS,AUS.8_1,235,0,6,EAS,Australia
+1,36,AUS,27/03/2020,4,South Australia,AUS,AUS.8_1,257,0,6,EAS,Australia
+1,36,AUS,28/03/2020,4,South Australia,AUS,AUS.8_1,287,0,6,EAS,Australia
+1,36,AUS,29/03/2020,4,South Australia,AUS,AUS.8_1,299,0,6,EAS,Australia
+1,36,AUS,30/03/2020,4,South Australia,AUS,AUS.8_1,305,0,6,EAS,Australia
+1,36,AUS,31/03/2020,4,South Australia,AUS,AUS.8_1,337,0,6,EAS,Australia
+1,36,AUS,01/04/2020,4,South Australia,AUS,AUS.8_1,367,0,6,EAS,Australia
+1,36,AUS,02/04/2020,4,South Australia,AUS,AUS.8_1,367,0,6,EAS,Australia
+1,36,AUS,03/04/2020,4,South Australia,AUS,AUS.8_1,396,0,46,EAS,Australia
+1,36,AUS,04/04/2020,4,South Australia,AUS,AUS.8_1,407,0,46,EAS,Australia
+1,36,AUS,05/04/2020,4,South Australia,AUS,AUS.8_1,407,0,46,EAS,Australia
+1,36,AUS,06/04/2020,4,South Australia,AUS,AUS.8_1,411,0,53,EAS,Australia
+1,36,AUS,07/04/2020,4,South Australia,AUS,AUS.8_1,411,1,53,EAS,Australia
+1,36,AUS,08/04/2020,4,South Australia,AUS,AUS.8_1,415,2,53,EAS,Australia
+1,36,AUS,09/04/2020,4,South Australia,AUS,AUS.8_1,420,3,120,EAS,Australia
+1,36,AUS,10/04/2020,4,South Australia,AUS,AUS.8_1,428,3,179,EAS,Australia
+1,36,AUS,11/04/2020,4,South Australia,AUS,AUS.8_1,429,3,179,EAS,Australia
+1,36,AUS,12/04/2020,4,South Australia,AUS,AUS.8_1,429,4,179,EAS,Australia
+1,36,AUS,13/04/2020,4,South Australia,AUS,AUS.8_1,429,4,179,EAS,Australia
+1,36,AUS,14/04/2020,4,South Australia,AUS,AUS.8_1,433,4,240,EAS,Australia
+1,36,AUS,15/04/2020,4,South Australia,AUS,AUS.8_1,433,4,240,EAS,Australia
+1,36,AUS,16/04/2020,4,South Australia,AUS,AUS.8_1,433,4,279,EAS,Australia
+1,36,AUS,17/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,EAS,Australia
+1,36,AUS,18/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,EAS,Australia
+1,36,AUS,19/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,EAS,Australia
+1,36,AUS,20/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,EAS,Australia
+1,36,AUS,21/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,EAS,Australia
+1,36,AUS,22/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,EAS,Australia
+1,36,AUS,23/04/2020,4,South Australia,AUS,AUS.8_1,435,4,331,,Australia
+1,36,AUS,24/04/2020,4,South Australia,AUS,AUS.8_1,438,4,331,EAS,Australia
+1,36,AUS,25/04/2020,4,South Australia,AUS,AUS.8_1,438,4,331,EAS,Australia
+1,36,AUS,26/04/2020,4,South Australia,AUS,AUS.8_1,438,4,401,EAS,Australia
+1,36,AUS,27/04/2020,4,South Australia,AUS,AUS.8_1,438,4,411,EAS,Australia
+1,36,AUS,28/04/2020,4,South Australia,AUS,AUS.8_1,438,4,414,EAS,Australia
+1,36,AUS,29/04/2020,4,South Australia,AUS,AUS.8_1,438,4,420,EAS,Australia
+1,36,AUS,30/04/2020,4,South Australia,AUS,AUS.8_1,438,4,420,EAS,Australia
+1,36,AUS,01/05/2020,4,South Australia,AUS,AUS.8_1,438,4,420,EAS,Australia
+1,36,AUS,02/05/2020,4,South Australia,AUS,AUS.8_1,438,4,422,EAS,Australia
+1,36,AUS,03/05/2020,4,South Australia,AUS,AUS.8_1,438,4,427,EAS,Australia
+1,36,AUS,04/05/2020,4,South Australia,AUS,AUS.8_1,438,4,427,EAS,Australia
+1,36,AUS,05/05/2020,4,South Australia,AUS,AUS.8_1,438,4,427,EAS,Australia
+1,36,AUS,06/05/2020,4,South Australia,AUS,AUS.8_1,438,4,429,EAS,Australia
+1,36,AUS,07/05/2020,4,South Australia,AUS,AUS.8_1,438,4,432,EAS,Australia
+1,36,AUS,08/05/2020,4,South Australia,AUS,AUS.8_1,439,4,433,EAS,Australia
+1,36,AUS,09/05/2020,4,South Australia,AUS,AUS.8_1,439,4,433,EAS,Australia
+1,36,AUS,10/05/2020,4,South Australia,AUS,AUS.8_1,439,4,433,EAS,Australia
+1,36,AUS,11/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434,EAS,Australia
+1,36,AUS,12/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434,EAS,Australia
+1,36,AUS,13/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434,EAS,Australia
+1,36,AUS,14/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434,EAS,Australia
+1,36,AUS,15/05/2020,4,South Australia,AUS,AUS.8_1,439,4,434,EAS,Australia
+1,36,AUS,16/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,17/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,18/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,19/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,20/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,21/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,22/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,23/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,24/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,25/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,26/05/2020,4,South Australia,AUS,AUS.8_1,439,4,435,EAS,Australia
+1,36,AUS,27/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,28/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,29/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,30/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,31/05/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,01/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,02/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,03/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,04/06/2020,4,South Australia,AUS,AUS.8_1,440,4,435,EAS,Australia
+1,36,AUS,05/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,06/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,07/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,08/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,09/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,10/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,11/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,12/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,13/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,14/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,15/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,16/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,17/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,18/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,19/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,20/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,21/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,22/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,23/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,24/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,25/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,26/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,27/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,28/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,29/06/2020,4,South Australia,AUS,AUS.8_1,440,4,436,EAS,Australia
+1,36,AUS,30/06/2020,4,South Australia,AUS,AUS.8_1,443,4,436,EAS,Australia
+1,36,AUS,01/07/2020,4,South Australia,AUS,AUS.8_1,443,4,436,EAS,Australia
+1,36,AUS,27/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,28/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,29/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,30/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,31/01/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,01/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,02/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,03/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,04/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,05/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,06/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,07/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,08/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,09/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,10/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,11/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,12/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,13/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,14/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,15/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,16/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,17/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,18/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,19/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,20/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,21/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,22/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,23/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,24/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,25/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,26/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,27/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,28/02/2020,5,Western Australia,AUS,AUS.11_1,0,0,0,,Australia
+1,36,AUS,29/02/2020,5,Western Australia,AUS,AUS.11_1,2,0,0,EAS,Australia
+1,36,AUS,01/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0,EAS,Australia
+1,36,AUS,02/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0,,Australia
+1,36,AUS,03/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0,,Australia
+1,36,AUS,04/03/2020,5,Western Australia,AUS,AUS.11_1,2,1,0,,Australia
+1,36,AUS,05/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0,EAS,Australia
+1,36,AUS,06/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0,,Australia
+1,36,AUS,07/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0,,Australia
+1,36,AUS,08/03/2020,5,Western Australia,AUS,AUS.11_1,3,1,0,,Australia
+1,36,AUS,09/03/2020,5,Western Australia,AUS,AUS.11_1,4,1,0,EAS,Australia
+1,36,AUS,10/03/2020,5,Western Australia,AUS,AUS.11_1,6,1,0,EAS,Australia
+1,36,AUS,11/03/2020,5,Western Australia,AUS,AUS.11_1,14,1,0,EAS,Australia
+1,36,AUS,12/03/2020,5,Western Australia,AUS,AUS.11_1,14,1,0,,Australia
+1,36,AUS,13/03/2020,5,Western Australia,AUS,AUS.11_1,14,1,0,,Australia
+1,36,AUS,14/03/2020,5,Western Australia,AUS,AUS.11_1,17,1,0,EAS,Australia
+1,36,AUS,15/03/2020,5,Western Australia,AUS,AUS.11_1,17,1,0,,Australia
+1,36,AUS,16/03/2020,5,Western Australia,AUS,AUS.11_1,28,1,0,EAS,Australia
+1,36,AUS,17/03/2020,5,Western Australia,AUS,AUS.11_1,31,1,0,EAS,Australia
+1,36,AUS,18/03/2020,5,Western Australia,AUS,AUS.11_1,35,1,0,EAS,Australia
+1,36,AUS,19/03/2020,5,Western Australia,AUS,AUS.11_1,52,1,0,EAS,Australia
+1,36,AUS,20/03/2020,5,Western Australia,AUS,AUS.11_1,64,1,0,EAS,Australia
+1,36,AUS,21/03/2020,5,Western Australia,AUS,AUS.11_1,90,1,0,EAS,Australia
+1,36,AUS,22/03/2020,5,Western Australia,AUS,AUS.11_1,120,1,1,EAS,Australia
+1,36,AUS,23/03/2020,5,Western Australia,AUS,AUS.11_1,140,1,1,EAS,Australia
+1,36,AUS,24/03/2020,5,Western Australia,AUS,AUS.11_1,175,1,1,EAS,Australia
+1,36,AUS,25/03/2020,5,Western Australia,AUS,AUS.11_1,175,1,1,EAS,Australia
+1,36,AUS,26/03/2020,5,Western Australia,AUS,AUS.11_1,231,2,1,EAS,Australia
+1,36,AUS,27/03/2020,5,Western Australia,AUS,AUS.11_1,231,2,1,EAS,Australia
+1,36,AUS,28/03/2020,5,Western Australia,AUS,AUS.11_1,278,2,28,EAS,Australia
+1,36,AUS,29/03/2020,5,Western Australia,AUS,AUS.11_1,311,2,28,EAS,Australia
+1,36,AUS,30/03/2020,5,Western Australia,AUS,AUS.11_1,355,2,41,EAS,Australia
+1,36,AUS,31/03/2020,5,Western Australia,AUS,AUS.11_1,364,2,41,EAS,Australia
+1,36,AUS,01/04/2020,5,Western Australia,AUS,AUS.11_1,392,2,48,EAS,Australia
+1,36,AUS,02/04/2020,5,Western Australia,AUS,AUS.11_1,400,2,64,EAS,Australia
+1,36,AUS,03/04/2020,5,Western Australia,AUS,AUS.11_1,400,2,92,EAS,Australia
+1,36,AUS,04/04/2020,5,Western Australia,AUS,AUS.11_1,436,2,92,EAS,Australia
+1,36,AUS,05/04/2020,5,Western Australia,AUS,AUS.11_1,453,3,92,EAS,Australia
+1,36,AUS,06/04/2020,5,Western Australia,AUS,AUS.11_1,460,4,162,EAS,Australia
+1,36,AUS,07/04/2020,5,Western Australia,AUS,AUS.11_1,460,4,162,EAS,Australia
+1,36,AUS,08/04/2020,5,Western Australia,AUS,AUS.11_1,481,6,162,EAS,Australia
+1,36,AUS,09/04/2020,5,Western Australia,AUS,AUS.11_1,495,6,170,EAS,Australia
+1,36,AUS,10/04/2020,5,Western Australia,AUS,AUS.11_1,506,6,203,EAS,Australia
+1,36,AUS,11/04/2020,5,Western Australia,AUS,AUS.11_1,514,6,216,EAS,Australia
+1,36,AUS,12/04/2020,5,Western Australia,AUS,AUS.11_1,514,6,216,EAS,Australia
+1,36,AUS,13/04/2020,5,Western Australia,AUS,AUS.11_1,517,6,216,EAS,Australia
+1,36,AUS,14/04/2020,5,Western Australia,AUS,AUS.11_1,527,6,251,EAS,Australia
+1,36,AUS,15/04/2020,5,Western Australia,AUS,AUS.11_1,527,6,251,EAS,Australia
+1,36,AUS,16/04/2020,5,Western Australia,AUS,AUS.11_1,532,6,338,EAS,Australia
+1,36,AUS,17/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,EAS,Australia
+1,36,AUS,18/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,EAS,Australia
+1,36,AUS,19/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,EAS,Australia
+1,36,AUS,20/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,EAS,Australia
+1,36,AUS,21/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,EAS,Australia
+1,36,AUS,22/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,EAS,Australia
+1,36,AUS,23/04/2020,5,Western Australia,AUS,AUS.11_1,541,7,340,,Australia
+1,36,AUS,24/04/2020,5,Western Australia,AUS,AUS.11_1,546,7,340,EAS,Australia
+1,36,AUS,25/04/2020,5,Western Australia,AUS,AUS.11_1,548,8,340,EAS,Australia
+1,36,AUS,26/04/2020,5,Western Australia,AUS,AUS.11_1,549,8,478,EAS,Australia
+1,36,AUS,27/04/2020,5,Western Australia,AUS,AUS.11_1,549,8,486,EAS,Australia
+1,36,AUS,28/04/2020,5,Western Australia,AUS,AUS.11_1,549,8,486,EAS,Australia
+1,36,AUS,29/04/2020,5,Western Australia,AUS,AUS.11_1,550,8,495,EAS,Australia
+1,36,AUS,30/04/2020,5,Western Australia,AUS,AUS.11_1,551,8,507,EAS,Australia
+1,36,AUS,01/05/2020,5,Western Australia,AUS,AUS.11_1,551,8,507,EAS,Australia
+1,36,AUS,02/05/2020,5,Western Australia,AUS,AUS.11_1,551,8,511,EAS,Australia
+1,36,AUS,03/05/2020,5,Western Australia,AUS,AUS.11_1,551,8,520,EAS,Australia
+1,36,AUS,04/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,523,EAS,Australia
+1,36,AUS,05/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,528,EAS,Australia
+1,36,AUS,06/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,528,EAS,Australia
+1,36,AUS,07/05/2020,5,Western Australia,AUS,AUS.11_1,551,9,528,EAS,Australia
+1,36,AUS,08/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,534,EAS,Australia
+1,36,AUS,09/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,534,EAS,Australia
+1,36,AUS,10/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,536,EAS,Australia
+1,36,AUS,11/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,536,EAS,Australia
+1,36,AUS,12/05/2020,5,Western Australia,AUS,AUS.11_1,553,9,536,EAS,Australia
+1,36,AUS,13/05/2020,5,Western Australia,AUS,AUS.11_1,553,9,537,EAS,Australia
+1,36,AUS,14/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,538,EAS,Australia
+1,36,AUS,15/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,538,EAS,Australia
+1,36,AUS,16/05/2020,5,Western Australia,AUS,AUS.11_1,552,9,538,EAS,Australia
+1,36,AUS,17/05/2020,5,Western Australia,AUS,AUS.11_1,553,9,541,EAS,Australia
+1,36,AUS,18/05/2020,5,Western Australia,AUS,AUS.11_1,554,9,543,EAS,Australia
+1,36,AUS,19/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545,EAS,Australia
+1,36,AUS,20/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545,EAS,Australia
+1,36,AUS,21/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545,EAS,Australia
+1,36,AUS,22/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545,EAS,Australia
+1,36,AUS,23/05/2020,5,Western Australia,AUS,AUS.11_1,557,9,545,EAS,Australia
+1,36,AUS,24/05/2020,5,Western Australia,AUS,AUS.11_1,560,9,549,EAS,Australia
+1,36,AUS,25/05/2020,5,Western Australia,AUS,AUS.11_1,560,9,549,EAS,Australia
+1,36,AUS,26/05/2020,5,Western Australia,AUS,AUS.11_1,564,9,549,EAS,Australia
+1,36,AUS,27/05/2020,5,Western Australia,AUS,AUS.11_1,570,9,549,EAS,Australia
+1,36,AUS,28/05/2020,5,Western Australia,AUS,AUS.11_1,570,9,549,EAS,Australia
+1,36,AUS,29/05/2020,5,Western Australia,AUS,AUS.11_1,577,9,550,EAS,Australia
+1,36,AUS,30/05/2020,5,Western Australia,AUS,AUS.11_1,585,9,551,EAS,Australia
+1,36,AUS,31/05/2020,5,Western Australia,AUS,AUS.11_1,586,9,552,EAS,Australia
+1,36,AUS,01/06/2020,5,Western Australia,AUS,AUS.11_1,589,9,552,EAS,Australia
+1,36,AUS,02/06/2020,5,Western Australia,AUS,AUS.11_1,591,9,553,EAS,Australia
+1,36,AUS,03/06/2020,5,Western Australia,AUS,AUS.11_1,592,9,553,EAS,Australia
+1,36,AUS,04/06/2020,5,Western Australia,AUS,AUS.11_1,592,9,557,EAS,Australia
+1,36,AUS,05/06/2020,5,Western Australia,AUS,AUS.11_1,592,9,557,EAS,Australia
+1,36,AUS,06/06/2020,5,Western Australia,AUS,AUS.11_1,596,9,557,EAS,Australia
+1,36,AUS,07/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,559,EAS,Australia
+1,36,AUS,08/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,559,EAS,Australia
+1,36,AUS,09/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,560,EAS,Australia
+1,36,AUS,10/06/2020,5,Western Australia,AUS,AUS.11_1,599,9,560,EAS,Australia
+1,36,AUS,11/06/2020,5,Western Australia,AUS,AUS.11_1,601,9,571,EAS,Australia
+1,36,AUS,12/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,575,EAS,Australia
+1,36,AUS,13/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,575,EAS,Australia
+1,36,AUS,14/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,582,EAS,Australia
+1,36,AUS,15/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,591,EAS,Australia
+1,36,AUS,16/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,591,EAS,Australia
+1,36,AUS,17/06/2020,5,Western Australia,AUS,AUS.11_1,602,9,592,EAS,Australia
+1,36,AUS,18/06/2020,5,Western Australia,AUS,AUS.11_1,603,9,592,EAS,Australia
+1,36,AUS,19/06/2020,5,Western Australia,AUS,AUS.11_1,603,9,592,EAS,Australia
+1,36,AUS,20/06/2020,5,Western Australia,AUS,AUS.11_1,604,9,592,EAS,Australia
+1,36,AUS,21/06/2020,5,Western Australia,AUS,AUS.11_1,605,9,593,EAS,Australia
+1,36,AUS,22/06/2020,5,Western Australia,AUS,AUS.11_1,605,9,593,EAS,Australia
+1,36,AUS,23/06/2020,5,Western Australia,AUS,AUS.11_1,607,9,594,EAS,Australia
+1,36,AUS,24/06/2020,5,Western Australia,AUS,AUS.11_1,607,9,594,EAS,Australia
+1,36,AUS,25/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595,EAS,Australia
+1,36,AUS,26/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595,EAS,Australia
+1,36,AUS,27/06/2020,5,Western Australia,AUS,AUS.11_1,608,9,595,EAS,Australia
+1,36,AUS,28/06/2020,5,Western Australia,AUS,AUS.11_1,609,9,595,EAS,Australia
+1,36,AUS,29/06/2020,5,Western Australia,AUS,AUS.11_1,609,9,595,EAS,Australia
+1,36,AUS,30/06/2020,5,Western Australia,AUS,AUS.11_1,611,9,598,EAS,Australia
+1,36,AUS,01/07/2020,5,Western Australia,AUS,AUS.11_1,611,9,598,EAS,Australia
+1,36,AUS,27/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,28/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,29/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,30/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,31/01/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,01/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,02/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,03/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,04/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,05/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,06/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,07/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,08/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,09/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,10/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,11/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,12/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,13/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,14/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,15/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,16/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,17/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,18/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,19/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,20/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,21/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,22/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,23/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,24/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,25/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,26/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,27/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,28/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,29/02/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,01/03/2020,6,Tasmania,AUS,AUS.9_1,0,0,0,,Australia
+1,36,AUS,02/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0,EAS,Australia
+1,36,AUS,03/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0,,Australia
+1,36,AUS,04/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0,,Australia
+1,36,AUS,05/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0,,Australia
+1,36,AUS,06/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0,,Australia
+1,36,AUS,07/03/2020,6,Tasmania,AUS,AUS.9_1,1,0,0,,Australia
+1,36,AUS,08/03/2020,6,Tasmania,AUS,AUS.9_1,2,0,0,EAS,Australia
+1,36,AUS,09/03/2020,6,Tasmania,AUS,AUS.9_1,2,0,0,,Australia
+1,36,AUS,10/03/2020,6,Tasmania,AUS,AUS.9_1,2,0,0,,Australia
+1,36,AUS,11/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0,EAS,Australia
+1,36,AUS,12/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0,,Australia
+1,36,AUS,13/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0,,Australia
+1,36,AUS,14/03/2020,6,Tasmania,AUS,AUS.9_1,5,0,0,EAS,Australia
+1,36,AUS,15/03/2020,6,Tasmania,AUS,AUS.9_1,6,0,0,EAS,Australia
+1,36,AUS,16/03/2020,6,Tasmania,AUS,AUS.9_1,7,0,0,EAS,Australia
+1,36,AUS,17/03/2020,6,Tasmania,AUS,AUS.9_1,7,0,0,,Australia
+1,36,AUS,18/03/2020,6,Tasmania,AUS,AUS.9_1,10,0,0,EAS,Australia
+1,36,AUS,19/03/2020,6,Tasmania,AUS,AUS.9_1,10,0,3,EAS,Australia
+1,36,AUS,20/03/2020,6,Tasmania,AUS,AUS.9_1,10,0,3,,Australia
+1,36,AUS,21/03/2020,6,Tasmania,AUS,AUS.9_1,16,0,3,EAS,Australia
+1,36,AUS,22/03/2020,6,Tasmania,AUS,AUS.9_1,22,0,3,EAS,Australia
+1,36,AUS,23/03/2020,6,Tasmania,AUS,AUS.9_1,28,0,3,EAS,Australia
+1,36,AUS,24/03/2020,6,Tasmania,AUS,AUS.9_1,28,0,3,EAS,Australia
+1,36,AUS,25/03/2020,6,Tasmania,AUS,AUS.9_1,36,0,3,EAS,Australia
+1,36,AUS,26/03/2020,6,Tasmania,AUS,AUS.9_1,47,0,3,EAS,Australia
+1,36,AUS,27/03/2020,6,Tasmania,AUS,AUS.9_1,47,0,3,EAS,Australia
+1,36,AUS,28/03/2020,6,Tasmania,AUS,AUS.9_1,62,0,5,EAS,Australia
+1,36,AUS,29/03/2020,6,Tasmania,AUS,AUS.9_1,66,0,5,EAS,Australia
+1,36,AUS,30/03/2020,6,Tasmania,AUS,AUS.9_1,66,0,5,EAS,Australia
+1,36,AUS,31/03/2020,6,Tasmania,AUS,AUS.9_1,69,1,5,EAS,Australia
+1,36,AUS,01/04/2020,6,Tasmania,AUS,AUS.9_1,69,2,5,EAS,Australia
+1,36,AUS,02/04/2020,6,Tasmania,AUS,AUS.9_1,72,2,5,EAS,Australia
+1,36,AUS,03/04/2020,6,Tasmania,AUS,AUS.9_1,74,2,5,EAS,Australia
+1,36,AUS,04/04/2020,6,Tasmania,AUS,AUS.9_1,80,2,5,EAS,Australia
+1,36,AUS,05/04/2020,6,Tasmania,AUS,AUS.9_1,82,2,5,EAS,Australia
+1,36,AUS,06/04/2020,6,Tasmania,AUS,AUS.9_1,86,2,26,EAS,Australia
+1,36,AUS,07/04/2020,6,Tasmania,AUS,AUS.9_1,89,2,26,EAS,Australia
+1,36,AUS,08/04/2020,6,Tasmania,AUS,AUS.9_1,98,3,26,EAS,Australia
+1,36,AUS,09/04/2020,6,Tasmania,AUS,AUS.9_1,111,3,48,EAS,Australia
+1,36,AUS,10/04/2020,6,Tasmania,AUS,AUS.9_1,122,4,48,EAS,Australia
+1,36,AUS,11/04/2020,6,Tasmania,AUS,AUS.9_1,133,4,48,EAS,Australia
+1,36,AUS,12/04/2020,6,Tasmania,AUS,AUS.9_1,133,5,48,EAS,Australia
+1,36,AUS,13/04/2020,6,Tasmania,AUS,AUS.9_1,144,5,48,EAS,Australia
+1,36,AUS,14/04/2020,6,Tasmania,AUS,AUS.9_1,165,6,53,EAS,Australia
+1,36,AUS,15/04/2020,6,Tasmania,AUS,AUS.9_1,165,6,53,EAS,Australia
+1,36,AUS,16/04/2020,6,Tasmania,AUS,AUS.9_1,169,6,67,EAS,Australia
+1,36,AUS,17/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,EAS,Australia
+1,36,AUS,18/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,EAS,Australia
+1,36,AUS,19/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,EAS,Australia
+1,36,AUS,20/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,EAS,Australia
+1,36,AUS,21/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,EAS,Australia
+1,36,AUS,22/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,EAS,Australia
+1,36,AUS,23/04/2020,6,Tasmania,AUS,AUS.9_1,180,7,67,,Australia
+1,36,AUS,24/04/2020,6,Tasmania,AUS,AUS.9_1,207,8,67,EAS,Australia
+1,36,AUS,25/04/2020,6,Tasmania,AUS,AUS.9_1,207,9,67,EAS,Australia
+1,36,AUS,26/04/2020,6,Tasmania,AUS,AUS.9_1,207,10,117,EAS,Australia
+1,36,AUS,27/04/2020,6,Tasmania,AUS,AUS.9_1,212,11,123,EAS,Australia
+1,36,AUS,28/04/2020,6,Tasmania,AUS,AUS.9_1,214,11,132,EAS,Australia
+1,36,AUS,29/04/2020,6,Tasmania,AUS,AUS.9_1,218,11,137,EAS,Australia
+1,36,AUS,30/04/2020,6,Tasmania,AUS,AUS.9_1,219,12,144,EAS,Australia
+1,36,AUS,01/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,153,EAS,Australia
+1,36,AUS,02/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,157,EAS,Australia
+1,36,AUS,03/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,158,EAS,Australia
+1,36,AUS,04/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,164,EAS,Australia
+1,36,AUS,05/05/2020,6,Tasmania,AUS,AUS.9_1,221,13,165,EAS,Australia
+1,36,AUS,06/05/2020,6,Tasmania,AUS,AUS.9_1,225,13,165,EAS,Australia
+1,36,AUS,07/05/2020,6,Tasmania,AUS,AUS.9_1,226,13,167,EAS,Australia
+1,36,AUS,08/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,174,EAS,Australia
+1,36,AUS,09/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,175,EAS,Australia
+1,36,AUS,10/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,182,EAS,Australia
+1,36,AUS,11/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,182,EAS,Australia
+1,36,AUS,12/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,182,EAS,Australia
+1,36,AUS,13/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,184,EAS,Australia
+1,36,AUS,14/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,184,EAS,Australia
+1,36,AUS,15/05/2020,6,Tasmania,AUS,AUS.9_1,227,13,188,EAS,Australia
+1,36,AUS,16/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,191,EAS,Australia
+1,36,AUS,17/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,192,EAS,Australia
+1,36,AUS,18/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,194,EAS,Australia
+1,36,AUS,19/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,195,EAS,Australia
+1,36,AUS,20/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,195,EAS,Australia
+1,36,AUS,21/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,196,EAS,Australia
+1,36,AUS,22/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,198,EAS,Australia
+1,36,AUS,23/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,199,EAS,Australia
+1,36,AUS,24/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,199,EAS,Australia
+1,36,AUS,25/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,200,EAS,Australia
+1,36,AUS,26/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,202,EAS,Australia
+1,36,AUS,27/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,203,EAS,Australia
+1,36,AUS,28/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,203,EAS,Australia
+1,36,AUS,29/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,203,EAS,Australia
+1,36,AUS,30/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,205,EAS,Australia
+1,36,AUS,31/05/2020,6,Tasmania,AUS,AUS.9_1,228,13,206,EAS,Australia
+1,36,AUS,01/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,207,EAS,Australia
+1,36,AUS,02/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,207,EAS,Australia
+1,36,AUS,03/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208,EAS,Australia
+1,36,AUS,04/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208,EAS,Australia
+1,36,AUS,05/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208,EAS,Australia
+1,36,AUS,06/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,208,EAS,Australia
+1,36,AUS,07/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209,EAS,Australia
+1,36,AUS,08/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209,EAS,Australia
+1,36,AUS,09/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209,EAS,Australia
+1,36,AUS,10/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209,EAS,Australia
+1,36,AUS,11/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,209,EAS,Australia
+1,36,AUS,12/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,212,EAS,Australia
+1,36,AUS,13/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213,EAS,Australia
+1,36,AUS,14/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213,EAS,Australia
+1,36,AUS,15/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213,EAS,Australia
+1,36,AUS,16/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213,EAS,Australia
+1,36,AUS,17/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,213,EAS,Australia
+1,36,AUS,18/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,19/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,20/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,21/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,22/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,23/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,24/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,25/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,26/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,27/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,28/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,29/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,30/06/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,01/07/2020,6,Tasmania,AUS,AUS.9_1,228,13,215,EAS,Australia
+1,36,AUS,27/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,28/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,29/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,30/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,31/01/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,01/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,02/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,03/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,04/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,05/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,06/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,07/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,08/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,09/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,10/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,11/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,12/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,13/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,14/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,15/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,16/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,17/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,18/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,19/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,20/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,21/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,22/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,23/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,24/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,25/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,26/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,27/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,28/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,29/02/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,01/03/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,02/03/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,03/03/2020,7,Northern Territory,AUS,AUS.6_1,0,0,0,,Australia
+1,36,AUS,04/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,EAS,Australia
+1,36,AUS,05/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,06/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,07/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,08/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,09/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,10/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,EAS,Australia
+1,36,AUS,11/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,EAS,Australia
+1,36,AUS,12/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,13/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,14/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,EAS,Australia
+1,36,AUS,15/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,16/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,17/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,18/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,19/03/2020,7,Northern Territory,AUS,AUS.6_1,1,0,0,,Australia
+1,36,AUS,20/03/2020,7,Northern Territory,AUS,AUS.6_1,3,0,0,EAS,Australia
+1,36,AUS,21/03/2020,7,Northern Territory,AUS,AUS.6_1,3,0,0,,Australia
+1,36,AUS,22/03/2020,7,Northern Territory,AUS,AUS.6_1,5,0,0,EAS,Australia
+1,36,AUS,23/03/2020,7,Northern Territory,AUS,AUS.6_1,5,0,0,EAS,Australia
+1,36,AUS,24/03/2020,7,Northern Territory,AUS,AUS.6_1,6,0,0,EAS,Australia
+1,36,AUS,25/03/2020,7,Northern Territory,AUS,AUS.6_1,6,0,0,EAS,Australia
+1,36,AUS,26/03/2020,7,Northern Territory,AUS,AUS.6_1,12,0,0,EAS,Australia
+1,36,AUS,27/03/2020,7,Northern Territory,AUS,AUS.6_1,12,0,0,EAS,Australia
+1,36,AUS,28/03/2020,7,Northern Territory,AUS,AUS.6_1,15,0,0,EAS,Australia
+1,36,AUS,29/03/2020,7,Northern Territory,AUS,AUS.6_1,15,0,0,EAS,Australia
+1,36,AUS,30/03/2020,7,Northern Territory,AUS,AUS.6_1,15,0,0,EAS,Australia
+1,36,AUS,31/03/2020,7,Northern Territory,AUS,AUS.6_1,17,0,0,EAS,Australia
+1,36,AUS,01/04/2020,7,Northern Territory,AUS,AUS.6_1,19,0,0,EAS,Australia
+1,36,AUS,02/04/2020,7,Northern Territory,AUS,AUS.6_1,21,0,0,EAS,Australia
+1,36,AUS,03/04/2020,7,Northern Territory,AUS,AUS.6_1,22,0,0,EAS,Australia
+1,36,AUS,04/04/2020,7,Northern Territory,AUS,AUS.6_1,26,0,1,EAS,Australia
+1,36,AUS,05/04/2020,7,Northern Territory,AUS,AUS.6_1,27,0,1,EAS,Australia
+1,36,AUS,06/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,07/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,08/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,09/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,10/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,11/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,12/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,13/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,2,EAS,Australia
+1,36,AUS,14/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,6,EAS,Australia
+1,36,AUS,15/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,6,EAS,Australia
+1,36,AUS,16/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,6,EAS,Australia
+1,36,AUS,17/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,18/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,19/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,20/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,21/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,22/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,23/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,,Australia
+1,36,AUS,24/04/2020,7,Northern Territory,AUS,AUS.6_1,27,0,9,EAS,Australia
+1,36,AUS,25/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,9,EAS,Australia
+1,36,AUS,26/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,0,EAS,Australia
+1,36,AUS,27/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,23,EAS,Australia
+1,36,AUS,28/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,23,EAS,Australia
+1,36,AUS,29/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,25,EAS,Australia
+1,36,AUS,30/04/2020,7,Northern Territory,AUS,AUS.6_1,28,0,25,EAS,Australia
+1,36,AUS,01/05/2020,7,Northern Territory,AUS,AUS.6_1,28,0,25,EAS,Australia
+1,36,AUS,02/05/2020,7,Northern Territory,AUS,AUS.6_1,27,0,24,EAS,Australia
+1,36,AUS,03/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,24,EAS,Australia
+1,36,AUS,04/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,24,EAS,Australia
+1,36,AUS,05/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,24,EAS,Australia
+1,36,AUS,06/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,26,EAS,Australia
+1,36,AUS,07/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,08/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,09/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,10/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,11/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,12/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,13/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,14/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,15/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,16/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,17/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,18/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,19/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,20/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,27,EAS,Australia
+1,36,AUS,21/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,22/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,23/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,24/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,25/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,26/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,27/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,28/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,29/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,30/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,31/05/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,01/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,02/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,03/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,04/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,05/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,06/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,07/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,08/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,09/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,10/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,11/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,12/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,13/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,14/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,15/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,16/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,17/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,18/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,19/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,20/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,21/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,22/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,23/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,24/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,25/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,26/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,27/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,28/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,29/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,30/06/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,01/07/2020,7,Northern Territory,AUS,AUS.6_1,29,0,29,EAS,Australia
+1,36,AUS,27/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,28/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,29/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,30/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,31/01/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,01/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,02/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,03/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,04/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,05/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,06/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,07/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,08/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,09/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,10/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,11/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,12/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,13/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,14/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,15/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,16/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,17/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,18/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,19/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,20/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,21/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,22/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,23/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,24/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,25/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,26/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,27/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,28/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,29/02/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,01/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,02/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,03/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,04/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,05/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,06/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,07/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,08/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,09/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,10/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,0,0,0,,Australia
+1,36,AUS,11/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0,EAS,Australia
+1,36,AUS,12/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0,,Australia
+1,36,AUS,13/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0,,Australia
+1,36,AUS,14/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0,EAS,Australia
+1,36,AUS,15/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,1,0,0,,Australia
+1,36,AUS,16/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,2,0,0,EAS,Australia
+1,36,AUS,17/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,2,0,0,,Australia
+1,36,AUS,18/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,3,0,0,EAS,Australia
+1,36,AUS,19/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,4,0,0,EAS,Australia
+1,36,AUS,20/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,6,0,0,EAS,Australia
+1,36,AUS,21/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,9,0,0,EAS,Australia
+1,36,AUS,22/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,19,0,0,EAS,Australia
+1,36,AUS,23/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,32,0,0,EAS,Australia
+1,36,AUS,24/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,39,0,0,EAS,Australia
+1,36,AUS,25/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,39,0,0,EAS,Australia
+1,36,AUS,26/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,53,0,1,EAS,Australia
+1,36,AUS,27/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,62,0,1,EAS,Australia
+1,36,AUS,28/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,71,0,2,EAS,Australia
+1,36,AUS,29/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,77,0,2,EAS,Australia
+1,36,AUS,30/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,78,1,2,EAS,Australia
+1,36,AUS,31/03/2020,8,Australian Capital Territory,AUS,AUS.2_1,80,1,3,EAS,Australia
+1,36,AUS,01/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,84,1,8,EAS,Australia
+1,36,AUS,02/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,87,1,11,EAS,Australia
+1,36,AUS,03/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,91,1,18,EAS,Australia
+1,36,AUS,04/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,93,2,18,EAS,Australia
+1,36,AUS,05/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,96,2,28,EAS,Australia
+1,36,AUS,06/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,96,2,40,EAS,Australia
+1,36,AUS,07/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,96,2,40,EAS,Australia
+1,36,AUS,08/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,99,2,40,EAS,Australia
+1,36,AUS,09/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,100,2,47,EAS,Australia
+1,36,AUS,10/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,59,EAS,Australia
+1,36,AUS,11/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,59,EAS,Australia
+1,36,AUS,12/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,59,EAS,Australia
+1,36,AUS,13/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,102,2,59,EAS,Australia
+1,36,AUS,14/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,2,72,EAS,Australia
+1,36,AUS,15/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,72,EAS,Australia
+1,36,AUS,16/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,82,EAS,Australia
+1,36,AUS,17/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,81,EAS,Australia
+1,36,AUS,18/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88,EAS,Australia
+1,36,AUS,19/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88,EAS,Australia
+1,36,AUS,20/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88,EAS,Australia
+1,36,AUS,21/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88,EAS,Australia
+1,36,AUS,22/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88,EAS,Australia
+1,36,AUS,23/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,103,3,88,,Australia
+1,36,AUS,24/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,104,3,88,EAS,Australia
+1,36,AUS,25/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,105,3,88,EAS,Australia
+1,36,AUS,26/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,98,EAS,Australia
+1,36,AUS,27/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,99,EAS,Australia
+1,36,AUS,28/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,100,EAS,Australia
+1,36,AUS,29/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,101,EAS,Australia
+1,36,AUS,30/04/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,101,EAS,Australia
+1,36,AUS,01/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103,EAS,Australia
+1,36,AUS,02/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103,EAS,Australia
+1,36,AUS,03/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103,EAS,Australia
+1,36,AUS,04/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,106,3,103,EAS,Australia
+1,36,AUS,05/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103,EAS,Australia
+1,36,AUS,06/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103,EAS,Australia
+1,36,AUS,07/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103,EAS,Australia
+1,36,AUS,08/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103,EAS,Australia
+1,36,AUS,09/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,103,EAS,Australia
+1,36,AUS,10/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,11/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,12/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,13/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,14/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,15/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,16/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,17/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,18/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,19/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,20/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,21/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,22/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,23/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,24/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,25/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,26/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,27/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,28/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,29/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,30/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,31/05/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,01/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,02/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,03/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,04/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,05/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,06/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,107,3,104,EAS,Australia
+1,36,AUS,07/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,08/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,09/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,10/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,11/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,12/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,13/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,14/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,15/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,16/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,104,EAS,Australia
+1,36,AUS,17/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,18/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,19/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,20/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,21/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,22/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,23/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,24/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,25/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,26/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,27/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,28/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,29/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,30/06/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
+1,36,AUS,01/07/2020,8,Australian Capital Territory,AUS,AUS.2_1,108,3,105,EAS,Australia
