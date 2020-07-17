@@ -3147,8 +3147,8 @@ country_region,country_region_name,country_name,country_iso,country_unsd,zone_co
 1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,11/07/2020,0,125,0,122,0,0,0,3,VNM.27_1
 1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,12/07/2020,1,126,0,122,0,0,0,3,VNM.27_1
 1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,13/07/2020,0,126,0,122,0,0,0,3,VNM.27_1
-1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,14/07/2020,0,126,0,122,0,0,0,3,VNM.27_1
-1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,15/07/2020,0,126,0,122,0,0,0,3,VNM.27_1
+1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,14/07/2020,1,127,0,122,0,0,0,3,VNM.27_1
+1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,1,Ha Noi,Hà Nội,15/07/2020,0,127,0,122,0,0,0,3,VNM.27_1
 1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,35,Ha Nam,Hà Nam,23/01/2020,0,0,0,0,0,0,0,0,VNM.28_1
 1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,35,Ha Nam,Hà Nam,24/01/2020,0,0,0,0,0,0,0,0,VNM.28_1
 1,EAS,Viet Nam,VNM,704,1,Northern,3,Red River Delta,35,Ha Nam,Hà Nam,25/01/2020,0,0,0,0,0,0,0,0,VNM.28_1
@@ -4541,14 +4541,14 @@ country_region,country_region_name,country_name,country_iso,country_unsd,zone_co
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,05/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,06/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,07/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,08/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,09/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,10/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,11/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,12/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,13/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,14/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,15/07/2020,0,10,0,8,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,08/07/2020,0,10,1,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,09/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,10/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,11/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,12/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,13/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,14/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,42,Ha Tinh,Hà Tĩnh,15/07/2020,0,10,0,9,0,0,0,0,VNM.29_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,23/01/2020,0,0,0,0,0,0,0,0,VNM.41_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,24/01/2020,0,0,0,0,0,0,0,0,VNM.41_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,25/01/2020,0,0,0,0,0,0,0,0,VNM.41_1
@@ -4716,14 +4716,14 @@ country_region,country_region_name,country_name,country_iso,country_unsd,zone_co
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,05/07/2020,0,15,0,12,0,0,0,1,VNM.41_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,06/07/2020,0,15,0,12,0,0,0,1,VNM.41_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,07/07/2020,0,15,1,13,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,08/07/2020,0,15,1,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,09/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,10/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,11/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,12/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,13/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,14/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,15/07/2020,0,15,0,14,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,08/07/2020,0,15,2,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,09/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,10/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,11/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,12/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,13/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,14/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,40,Nghe An,Nghệ An,15/07/2020,0,15,0,15,0,0,0,1,VNM.41_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,44,Quang Binh,Quảng Bình,23/01/2020,0,0,0,0,0,0,0,0,VNM.46_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,44,Quang Binh,Quảng Bình,24/01/2020,0,0,0,0,0,0,0,0,VNM.46_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,44,Quang Binh,Quảng Bình,25/01/2020,0,0,0,0,0,0,0,0,VNM.46_1
@@ -5422,8 +5422,8 @@ country_region,country_region_name,country_name,country_iso,country_unsd,zone_co
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,11/07/2020,0,12,0,9,0,0,0,0,VNM.57_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,12/07/2020,0,12,0,9,0,0,0,0,VNM.57_1
 1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,13/07/2020,0,12,0,9,0,0,0,0,VNM.57_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,14/07/2020,0,12,0,9,0,0,0,0,VNM.57_1
-1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,15/07/2020,0,12,0,9,0,0,0,0,VNM.57_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,14/07/2020,0,12,1,10,0,0,0,0,VNM.57_1
+1,EAS,Viet Nam,VNM,704,2,Central,4,North Central Coast,38,Thanh Hoa,Thanh Hóa,15/07/2020,0,12,0,10,0,0,0,0,VNM.57_1
 1,EAS,Viet Nam,VNM,704,2,Central,5,South Central Coast,60,Binh Thuan,Bình Thuận,23/01/2020,0,0,0,0,0,0,0,0,VNM.11_1
 1,EAS,Viet Nam,VNM,704,2,Central,5,South Central Coast,60,Binh Thuan,Bình Thuận,24/01/2020,0,0,0,0,0,0,0,0,VNM.11_1
 1,EAS,Viet Nam,VNM,704,2,Central,5,South Central Coast,60,Binh Thuan,Bình Thuận,25/01/2020,0,0,0,0,0,0,0,0,VNM.11_1
@@ -8197,33 +8197,33 @@ country_region,country_region_name,country_name,country_iso,country_unsd,zone_co
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,16/06/2020,0,63,1,60,0,0,0,10,VNM.25_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,17/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,18/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,19/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,20/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,21/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,22/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,23/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,24/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,25/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,26/06/2020,0,63,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,27/06/2020,1,64,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,28/06/2020,0,64,0,60,0,0,0,10,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,29/06/2020,0,64,0,60,0,0,1,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,30/06/2020,0,64,0,60,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,01/07/2020,0,64,0,60,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,02/07/2020,0,64,1,61,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,03/07/2020,0,64,0,61,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,04/07/2020,0,64,0,61,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,05/07/2020,0,64,0,61,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,06/07/2020,3,67,1,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,07/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,08/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,09/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,10/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,11/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,12/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,13/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,14/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,15/07/2020,0,67,0,62,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,19/06/2020,0,63,1,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,20/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,21/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,22/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,23/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,24/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,25/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,26/06/2020,0,63,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,27/06/2020,1,64,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,28/06/2020,0,64,0,61,0,0,0,10,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,29/06/2020,0,64,0,61,0,0,1,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,30/06/2020,0,64,0,61,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,01/07/2020,0,64,0,61,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,02/07/2020,0,64,1,62,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,03/07/2020,0,64,0,62,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,04/07/2020,0,64,0,62,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,05/07/2020,0,64,0,62,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,06/07/2020,3,67,1,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,07/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,08/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,09/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,10/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,11/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,12/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,13/07/2020,0,67,0,63,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,14/07/2020,0,67,1,64,0,0,0,11,VNM.25_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,79,Ho Chi Minh,Hồ Chí Minh,15/07/2020,0,67,0,64,0,0,0,11,VNM.25_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,72,Tay Ninh,Tây Ninh,23/01/2020,0,0,0,0,0,0,0,0,VNM.53_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,72,Tay Ninh,Tây Ninh,24/01/2020,0,0,0,0,0,0,0,0,VNM.53_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,72,Tay Ninh,Tây Ninh,25/01/2020,0,0,0,0,0,0,0,0,VNM.53_1
@@ -8548,32 +8548,32 @@ country_region,country_region_name,country_name,country_iso,country_unsd,zone_co
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,17/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,18/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,19/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,20/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,21/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,22/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,23/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,24/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,25/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,26/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,27/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,28/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,29/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,30/06/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,01/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,02/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,03/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,04/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,05/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,06/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,07/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,08/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,09/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,10/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,11/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,12/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,13/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,14/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
-1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,15/07/2020,0,4,0,3,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,20/06/2020,0,4,1,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,21/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,22/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,23/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,24/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,25/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,26/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,27/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,28/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,29/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,30/06/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,01/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,02/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,03/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,04/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,05/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,06/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,07/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,08/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,09/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,10/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,11/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,12/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,13/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,14/07/2020,0,4,0,4,0,0,0,0,VNM.7_1
+1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,77,Ba Ria - Vung Tau,Bà Rịa - Vũng Tàu,15/07/2020,8,12,0,4,0,0,0,0,VNM.7_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,74,Binh Duong,Bình Dương,23/01/2020,0,0,0,0,0,0,0,0,VNM.9_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,74,Binh Duong,Bình Dương,24/01/2020,0,0,0,0,0,0,0,0,VNM.9_1
 1,EAS,Viet Nam,VNM,704,3,Southern,7,South-east,74,Binh Duong,Bình Dương,25/01/2020,0,0,0,0,0,0,0,0,VNM.9_1

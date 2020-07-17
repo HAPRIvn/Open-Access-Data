@@ -1,0 +1,157 @@
+country_name,country_iso,country_unsd,id_infected,date_infected,date_relapsed,date_recovered,province_name,province_code,age,gender,country_national_name,country_national_unsd,country_returned_name,country_returned_unsd,country_region_name,country_region
+Cambodia,KHM,116,1,27/01/2020,,10/02/2020,Preah Sihanouk,18,60,1,China,156,China,156,EAS,1
+Cambodia,KHM,116,2,07/03/2020,,30/03/2020,Siem Reap,17,38,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,3,10/03/2020,,22/03/2020,Kampong Cham,3,65,0,United Kingdom,826,Viet Nam,704,ECS,1
+Cambodia,KHM,116,4,12/03/2020,,29/03/2020,Kampong Cham,3,73,1,United Kingdom,826,Viet Nam,704,ECS,1
+Cambodia,KHM,116,5,12/03/2020,,29/03/2020,Kampong Cham,3,69,0,United Kingdom,826,Viet Nam,704,ECS,1
+Cambodia,KHM,116,6,13/03/2020,,18/04/2020,Phnom Penh,12,49,1,Canada,124,Thailand,764,NAC,1
+Cambodia,KHM,116,7,13/03/2020,,02/04/2020,Phnom Penh,12,33,1,Belgium,56,,,ECS,1
+Cambodia,KHM,116,8,15/03/2020,,27/04/2020,Phnom Penh,12,35,1,France,251,Singapore,702,ECS,1
+Cambodia,KHM,116,9,15/03/2020,,03/04/2020,Phnom Penh,12,.33333334,1,France,251,Singapore,702,ECS,1
+Cambodia,KHM,116,10,15/03/2020,,04/04/2020,Phnom Penh,12,39,1,Cambodia,116,France,251,EAS,1
+Cambodia,KHM,116,11,15/03/2020,,10/04/2020,Preah Vihear,13,35,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,12,15/03/2020,,29/03/2020,Preah Vihear,13,39,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,13,17/03/2020,,30/03/2020,Banteay Meanchey,1,38,1,Cambodia,116,Thailand,764,EAS,1
+Cambodia,KHM,116,14,17/03/2020,,27/03/2020,Banteay Meanchey,1,41,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,15,17/03/2020,,29/03/2020,Phnom Penh,12,63,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,16,17/03/2020,,27/03/2020,Phnom Penh,12,64,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,17,17/03/2020,,12/05/2020,Kampong Chhnang,4,75,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,18,17/03/2020,,07/04/2020,Kampong Chhnang,4,28,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,19,17/03/2020,,25/03/2020,Battambang,2,38,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,20,17/03/2020,,24/03/2020,Battambang,2,41,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,21,17/03/2020,,24/03/2020,Battambang,2,42,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,22,17/03/2020,,15/04/2020,Battambang,2,45,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,23,17/03/2020,,01/04/2020,Kep,23,30,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,24,17/03/2020,,24/03/2020,Tboung Khmum,25,61,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,25,17/03/2020,,02/04/2020,Siem Reap,17,40,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,26,17/03/2020,,29/03/2020,Phnom Penh,12,27,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,27,17/03/2020,09/04/2020,15/04/2020,Phnom Penh,12,40,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,28,17/03/2020,,29/03/2020,Kampong Chhnang,4,36,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,29,17/03/2020,,10/04/2020,Kep,23,58,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,30,17/03/2020,,01/04/2020,Kep,23,61,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,31,17/03/2020,,25/04/2020,Kep,23,66,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,32,17/03/2020,,26/03/2020,Koh Kong,9,57,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,33,17/03/2020,,24/03/2020,Tboung Khmum,25,53,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,34,18/03/2020,,04/04/2020,Kampot,7,60,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,35,18/03/2020,,04/04/2020,Kampot,7,64,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,36,18/03/2020,,25/03/2020,Tboung Khmum,25,71,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,37,18/03/2020,,25/03/2020,Tboung Khmum,25,52,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,38,19/03/2020,,04/04/2020,Battambang,2,35,0,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,39,19/03/2020,,15/04/2020,Battambang,2,41,0,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,40,19/03/2020,,04/04/2020,Kandal,8,60,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,41,19/03/2020,,29/03/2020,Phnom Penh,12,34,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,42,19/03/2020,,06/04/2020,Kampong Cham,3,26,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,43,19/03/2020,,12/04/2020,Kampong Cham,3,34,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,44,19/03/2020,,15/04/2020,Kampong Cham,3,34,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,45,19/03/2020,,15/04/2020,Kampong Cham,3,51,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,46,19/03/2020,,12/04/2020,Kampong Cham,3,58,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,47,19/03/2020,,05/04/2020,Kampong Cham,3,62,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,48,20/03/2020,,06/04/2020,Kampong Cham,3,39,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,49,20/03/2020,,25/03/2020,Phnom Penh,12,33,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,50,20/03/2020,,18/04/2020,Battambang,2,38,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,51,20/03/2020,,20/04/2020,Battambang,2,48,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,52,21/03/2020,,08/04/2020,Preah Sihanouk,18,67,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,53,21/03/2020,,16/04/2020,Preah Sihanouk,18,80,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,54,22/03/2020,,11/04/2020,Preah Sihanouk,18,48,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,55,22/03/2020,,02/04/2020,Preah Sihanouk,18,59,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,56,22/03/2020,,14/04/2020,Preah Sihanouk,18,66,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,57,22/03/2020,,02/04/2020,Preah Sihanouk,18,61,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,58,22/03/2020,,02/04/2020,Preah Sihanouk,18,63,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,59,22/03/2020,,04/04/2020,Preah Sihanouk,18,52,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,60,22/03/2020,,02/04/2020,Preah Sihanouk,18,62,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,61,22/03/2020,,04/04/2020,Preah Sihanouk,18,66,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,62,22/03/2020,,09/04/2020,Preah Sihanouk,18,59,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,63,22/03/2020,,09/04/2020,Preah Sihanouk,18,63,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,64,22/03/2020,,04/04/2020,Preah Sihanouk,18,76,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,65,22/03/2020,,14/04/2020,Preah Sihanouk,18,60,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,66,22/03/2020,,04/04/2020,Preah Sihanouk,18,63,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,67,22/03/2020,,14/04/2020,Preah Sihanouk,18,60,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,68,22/03/2020,,02/04/2020,Preah Sihanouk,18,69,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,69,22/03/2020,,14/04/2020,Preah Sihanouk,18,69,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,70,22/03/2020,,14/04/2020,Preah Sihanouk,18,59,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,71,22/03/2020,,02/04/2020,Preah Sihanouk,18,66,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,72,22/03/2020,,04/04/2020,Preah Sihanouk,18,57,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,73,22/03/2020,,04/04/2020,Preah Sihanouk,18,70,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,74,22/03/2020,,04/04/2020,Preah Sihanouk,18,70,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,75,22/03/2020,,08/04/2020,Preah Sihanouk,18,63,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,76,22/03/2020,,09/04/2020,Preah Sihanouk,18,63,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,77,22/03/2020,,04/04/2020,Preah Sihanouk,18,63,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,78,22/03/2020,,02/04/2020,Preah Sihanouk,18,52,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,79,22/03/2020,,20/04/2020,Preah Sihanouk,18,64,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,80,22/03/2020,,09/04/2020,Preah Sihanouk,18,62,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,81,22/03/2020,,14/04/2020,Preah Sihanouk,18,61,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,82,22/03/2020,,14/04/2020,Preah Sihanouk,18,58,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,83,22/03/2020,,04/04/2020,Preah Sihanouk,18,39,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,84,22/03/2020,,14/04/2020,Preah Sihanouk,18,33,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,85,23/03/2020,,10/04/2020,Kampong Cham,3,45,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,86,23/03/2020,,11/04/2020,Koh Kong,9,36,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,87,23/03/2020,,27/04/2020,Phnom Penh,12,28,0,France,251,Singapore,702,ECS,1
+Cambodia,KHM,116,88,24/03/2020,,18/04/2020,Kampong Cham,3,61,1,United Kingdom,826,Viet Nam,704,ECS,1
+Cambodia,KHM,116,89,24/03/2020,,09/04/2020,Kampong Cham,3,79,0,United Kingdom,826,Viet Nam,704,ECS,1
+Cambodia,KHM,116,90,24/03/2020,,18/04/2020,Kampong Cham,3,59,1,USA,842,Viet Nam,704,NAC,1
+Cambodia,KHM,116,91,24/03/2020,,18/04/2020,Kampong Cham,3,62,0,USA,842,Viet Nam,704,NAC,1
+Cambodia,KHM,116,92,25/03/2020,,04/04/2020,Preah Sihanouk,18,64,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,93,25/03/2020,,14/04/2020,Preah Sihanouk,18,60,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,94,25/03/2020,,08/04/2020,Phnom Penh,12,27,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,95,25/03/2020,,10/04/2020,Kandal,8,59,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,96,25/03/2020,,27/04/2020,Siem Reap,17,37,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,97,26/03/2020,,14/04/2020,Siem Reap,17,41,1,Indonesia,360,Thailand,764,EAS,1
+Cambodia,KHM,116,98,26/03/2020,,14/04/2020,Siem Reap,17,44,1,Indonesia,360,Thailand,764,EAS,1
+Cambodia,KHM,116,99,28/03/2020,,11/04/2020,Phnom Penh,12,62,1,Cambodia,116,France,251,EAS,1
+Cambodia,KHM,116,100,28/03/2020,,07/04/2020,Phnom Penh,12,61,0,Cambodia,116,France,251,EAS,1
+Cambodia,KHM,116,101,28/03/2020,,14/04/2020,Phnom Penh,12,39,1,Cambodia,116,France,251,EAS,1
+Cambodia,KHM,116,102,28/03/2020,,08/04/2020,Phnom Penh,12,37,0,Cambodia,116,France,251,EAS,1
+Cambodia,KHM,116,103,29/03/2020,,16/05/2020,Banteay Meanchey,1,36,0,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,104,30/03/2020,,07/04/2020,Banteay Meanchey,1,30,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,105,30/03/2020,,08/04/2020,Phnom Penh,12,36,1,Cambodia,116,Japan,392,EAS,1
+Cambodia,KHM,116,106,30/03/2020,,25/04/2020,Phnom Penh,12,20,0,Cambodia,116,United Kingdom,826,EAS,1
+Cambodia,KHM,116,107,30/03/2020,,16/04/2020,Phnom Penh,12,61,1,France,251,Guyana,328,ECS,1
+Cambodia,KHM,116,108,31/03/2020,,07/04/2020,Siem Reap,17,39,0,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,109,31/03/2020,,19/04/2020,Siem Reap,17,12,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,110,02/04/2020,,02/05/2020,Preah Sihanouk,18,58,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,111,03/04/2020,,14/04/2020,Preah Sihanouk,18,67,1,France,251,France,251,ECS,1
+Cambodia,KHM,116,112,03/04/2020,,09/04/2020,Preah Sihanouk,18,67,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,113,03/04/2020,,14/04/2020,Preah Sihanouk,18,59,0,France,251,France,251,ECS,1
+Cambodia,KHM,116,114,03/04/2020,,06/04/2020,Kampong Cham,3,40,1,Malaysia,458,Malaysia,458,EAS,1
+Cambodia,KHM,116,115,07/04/2020,,25/04/2020,Phnom Penh,12,27,0,Viet Nam,704,Viet Nam,704,EAS,1
+Cambodia,KHM,116,116,08/04/2020,,21/04/2020,Phnom Penh,12,47,1,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,117,08/04/2020,,21/04/2020,Phnom Penh,12,45,0,Cambodia,116,,,EAS,1
+Cambodia,KHM,116,118,09/04/2020,,25/04/2020,Phnom Penh,12,30,0,China,156,,,EAS,1
+Cambodia,KHM,116,119,10/04/2020,,19/04/2020,Phnom Penh,12,34,0,Viet Nam,704,,,EAS,1
+Cambodia,KHM,116,120,11/04/2020,,25/04/2020,Phnom Penh,12,31,0,China,156,,,EAS,1
+Cambodia,KHM,116,121,12/04/2020,,25/04/2020,Phnom Penh,12,24,0,Viet Nam,704,,,EAS,1
+Cambodia,KHM,116,122,12/04/2020,,21/04/2020,Phnom Penh,12,50,1,Canada,124,,,NAC,1
+Cambodia,KHM,116,123,21/05/2020,,17/06/2020,Phnom Penh,12,26,1,Cambodia,116,South Korea Philippines,,EAS,1
+Cambodia,KHM,116,124,23/05/2020,,29/05/2020,Phnom Penh,12,39,0,Cambodia,116,United States South Korea,,EAS,1
+Cambodia,KHM,116,125,30/05/2020,,08/06/2020,Banteay Meanchey,1,26,1,Cambodia,116,Thailand,764,EAS,1
+Cambodia,KHM,116,126,07/06/2020,,10/06/2020,Phnom Penh,12,30,1,Cambodia,116,France,251,EAS,1
+Cambodia,KHM,116,127,14/06/2020,,29/06/2020,Phnom Penh,12,29,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,128,14/06/2020,,21/06/2020,Phnom Penh,12,22,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,129,18/06/2020,,24/06/2020,Phnom Penh,12,21,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,130,23/06/2020,,27/06/2020,Phnom Penh,12,66,1,Cambodia,116,United States,,EAS,1
+Cambodia,KHM,116,131,27/06/2020,,,Phnom Penh,12,24,0,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,132,27/06/2020,,,Phnom Penh,12,23,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,133,27/06/2020,,,Phnom Penh,12,24,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,134,27/06/2020,,,Phnom Penh,12,25,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,135,27/06/2020,,,Phnom Penh,12,25,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,136,27/06/2020,,,Phnom Penh,12,26,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,137,27/06/2020,,,Phnom Penh,12,26,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,138,27/06/2020,,,Phnom Penh,12,26,1,Cambodia,116,Indonesia,360,EAS,1
+Cambodia,KHM,116,139,27/06/2020,,01/07/2020,Phnom Penh,12,22,1,Indonesia,360,Indonesia,360,EAS,1
+Cambodia,KHM,116,140,28/06/2020,,11/07/2020,Phnom Penh,12,23,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,141,28/06/2020,,11/07/2020,Phnom Penh,12,15,1,Cambodia,116,Malaysia,458,EAS,1
+Cambodia,KHM,116,142,12/07/2020,,,Phnom Penh,12,26,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,143,12/07/2020,,,Phnom Penh,12,29,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,144,12/07/2020,,,Phnom Penh,12,26,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,145,12/07/2020,,,Phnom Penh,12,23,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,146,12/07/2020,,,Phnom Penh,12,21,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,147,12/07/2020,,,Phnom Penh,12,31,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,148,12/07/2020,,,Phnom Penh,12,29,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,149,12/07/2020,,,Phnom Penh,12,24,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,150,12/07/2020,,,Phnom Penh,12,30,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,151,12/07/2020,,,Phnom Penh,12,27,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,152,12/07/2020,,,Phnom Penh,12,21,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,153,12/07/2020,,,Phnom Penh,12,28,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,154,12/07/2020,,,Phnom Penh,12,33,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,155,12/07/2020,,,Phnom Penh,12,26,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1
+Cambodia,KHM,116,156,12/07/2020,,,Phnom Penh,12,22,1,Cambodia,116,Saudi Arabia Malaysia,,EAS,1

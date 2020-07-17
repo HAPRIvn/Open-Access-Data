@@ -1,0 +1,20 @@
+country_name,country_iso,country_unsd,id_infected,date_infected,date_recovered,province_name,province_code,province_name_lao,age,gender,country_national_unsd,country_returned_ubsd,country_region_name
+Lao People's Dem. Rep.,LAO,418,1,3/24/2020,4/25/2020,Vientiane Prefecture,10,ວຽງຈັນ,28,1,418,764,EAS
+Lao People's Dem. Rep.,LAO,418,2,3/24/2020,5/2/2020,Vientiane Prefecture,10,ວຽງຈັນ,36,0,418,,EAS
+Lao People's Dem. Rep.,LAO,418,3,3/25/2020,5/9/2020,Vientiane Prefecture,10,ວຽງຈັນ,26,1,418,,EAS
+Lao People's Dem. Rep.,LAO,418,4,3/26/2020,4/30/2020,Louangphabang,6,ຫຼວງພະບາງ,42,1,418,,EAS
+Lao People's Dem. Rep.,LAO,418,5,3/26/2020,4/23/2020,Louangphabang,6,ຫຼວງພະບາງ,52,1,418,,EAS
+Lao People's Dem. Rep.,LAO,418,6,3/26/2020,5/9/2020,Vientiane Prefecture,10,ວຽງຈັນ,41,1,418,,EAS
+Lao People's Dem. Rep.,LAO,418,7,3/28/2020,4/23/2020,Louangphabang,6,ຫຼວງພະບາງ,50,0,418,,EAS
+Lao People's Dem. Rep.,LAO,418,8,3/28/2020,6/9/2020,Vientiane Prefecture,10,ວຽງຈັນ,18,1,418,,EAS
+Lao People's Dem. Rep.,LAO,418,9,3/29/2020,5/9/2020,Vientiane Prefecture,10,ວຽງຈັນ,22,0,418,764,EAS
+Lao People's Dem. Rep.,LAO,418,10,3/25/2020,6/3/2020,Vientiane Prefecture,10,ວຽງຈັນ,21,0,418,,EAS
+Lao People's Dem. Rep.,LAO,418,11,4/5/2020,4/25/2020,Vientiane Prefecture,10,ວຽງຈັນ,55,1,598,598,EAS
+Lao People's Dem. Rep.,LAO,418,12,4/6/2020,4/14/2020,Vientiane Prefecture,10,ວຽງຈັນ,20,0,418,826,EAS
+Lao People's Dem. Rep.,LAO,418,13,4/7/2020,5/2/2020,Vientiane Prefecture,10,ວຽງຈັນ,40,1,418,,EAS
+Lao People's Dem. Rep.,LAO,418,14,4/7/2020,5/13/2020,Vientiane Prefecture,10,ວຽງຈັນ,19,0,418,826,EAS
+Lao People's Dem. Rep.,LAO,418,15,4/8/2020,4/25/2020,Vientiane Prefecture,10,ວຽງຈັນ,20,0,418,826,EAS
+Lao People's Dem. Rep.,LAO,418,16,4/10/2020,5/27/2020,Vientiane Prefecture,10,ວຽງຈັນ,23,0,418,,EAS
+Lao People's Dem. Rep.,LAO,418,17,4/11/2020,6/3/2020,Vientiane Prefecture,10,ວຽງຈັນ,32,0,418,,EAS
+Lao People's Dem. Rep.,LAO,418,18,4/11/2020,5/27/2020,Vientiane Prefecture,10,ວຽງຈັນ,32,0,418,,EAS
+Lao People's Dem. Rep.,LAO,418,19,4/12/2020,5/9/2020,Vientiane Prefecture,10,ວຽງຈັນ,21,1,418,,EAS
