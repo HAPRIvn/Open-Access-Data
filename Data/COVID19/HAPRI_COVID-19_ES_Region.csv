@@ -62,6 +62,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,1,Andalucía,ESP,ESP.1_1,13510,1435,10671
 2,ECS,Spain,724,ESP,15/07/2020,1,Andalucía,ESP,ESP.1_1,13540,1435,10671
 2,ECS,Spain,724,ESP,16/07/2020,1,Andalucía,ESP,ESP.1_1,13573,1435,10671
+2,ECS,Spain,724,ESP,17/07/2020,1,Andalucía,ESP,ESP.1_1,13663,1435,10671
+2,ECS,Spain,724,ESP,18/07/2020,1,Andalucía,ESP,ESP.1_1,13731,1435,10671
+2,ECS,Spain,724,ESP,19/07/2020,1,Andalucía,ESP,ESP.1_1,13731,1435,10671
+2,ECS,Spain,724,ESP,20/07/2020,1,Andalucía,ESP,ESP.1_1,13731,1435,10671
 2,ECS,Spain,724,ESP,15/05/2020,2,Aragón,ESP,ESP.2_1,5389,836,3471
 2,ECS,Spain,724,ESP,16/05/2020,2,Aragón,ESP,ESP.2_1,5432,837,3534
 2,ECS,Spain,724,ESP,17/05/2020,2,Aragón,ESP,ESP.2_1,5456,838,3655
@@ -125,6 +129,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,2,Aragón,ESP,ESP.2_1,6861,915,3772
 2,ECS,Spain,724,ESP,15/07/2020,2,Aragón,ESP,ESP.2_1,6945,915,3772
 2,ECS,Spain,724,ESP,16/07/2020,2,Aragón,ESP,ESP.2_1,7111,915,3772
+2,ECS,Spain,724,ESP,17/07/2020,2,Aragón,ESP,ESP.2_1,7384,915,3772
+2,ECS,Spain,724,ESP,18/07/2020,2,Aragón,ESP,ESP.2_1,7639,915,3772
+2,ECS,Spain,724,ESP,19/07/2020,2,Aragón,ESP,ESP.2_1,7639,915,3772
+2,ECS,Spain,724,ESP,20/07/2020,2,Aragón,ESP,ESP.2_1,7639,915,3772
 2,ECS,Spain,724,ESP,15/05/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2356,308,1046
 2,ECS,Spain,724,ESP,16/05/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2359,310,1053
 2,ECS,Spain,724,ESP,17/05/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2366,313,1055
@@ -188,6 +196,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2437,334,1063
 2,ECS,Spain,724,ESP,15/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2442,334,1063
 2,ECS,Spain,724,ESP,16/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2442,334,1063
+2,ECS,Spain,724,ESP,17/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2442,334,1063
+2,ECS,Spain,724,ESP,18/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2442,334,1063
+2,ECS,Spain,724,ESP,19/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2442,334,1063
+2,ECS,Spain,724,ESP,20/07/2020,3,"Asturias, Principado de",ESP,ESP.17_1,2442,334,1063
 2,ECS,Spain,724,ESP,15/05/2020,4,"Balears, Illes",ESP,ESP.13_1,1958,216,1492
 2,ECS,Spain,724,ESP,16/05/2020,4,"Balears, Illes",ESP,ESP.13_1,1967,216,1513
 2,ECS,Spain,724,ESP,17/05/2020,4,"Balears, Illes",ESP,ESP.13_1,1982,216,1519
@@ -251,6 +263,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2270,224,1533
 2,ECS,Spain,724,ESP,15/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2271,224,1533
 2,ECS,Spain,724,ESP,16/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2271,224,1533
+2,ECS,Spain,724,ESP,17/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2277,224,1533
+2,ECS,Spain,724,ESP,18/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2290,224,1533
+2,ECS,Spain,724,ESP,19/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2290,224,1533
+2,ECS,Spain,724,ESP,20/07/2020,4,"Balears, Illes",ESP,ESP.13_1,2290,224,1533
 2,ECS,Spain,724,ESP,15/05/2020,5,Canarias,ESP,ESP.14_1,2275,151,1496
 2,ECS,Spain,724,ESP,16/05/2020,5,Canarias,ESP,ESP.14_1,2280,151,1506
 2,ECS,Spain,724,ESP,17/05/2020,5,Canarias,ESP,ESP.14_1,2284,151,1524
@@ -314,6 +330,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,5,Canarias,ESP,ESP.14_1,2457,162,1537
 2,ECS,Spain,724,ESP,15/07/2020,5,Canarias,ESP,ESP.14_1,2461,162,1537
 2,ECS,Spain,724,ESP,16/07/2020,5,Canarias,ESP,ESP.14_1,2467,162,1537
+2,ECS,Spain,724,ESP,17/07/2020,5,Canarias,ESP,ESP.14_1,2481,162,1537
+2,ECS,Spain,724,ESP,18/07/2020,5,Canarias,ESP,ESP.14_1,2483,162,1537
+2,ECS,Spain,724,ESP,19/07/2020,5,Canarias,ESP,ESP.14_1,2483,162,1537
+2,ECS,Spain,724,ESP,20/07/2020,5,Canarias,ESP,ESP.14_1,2483,162,1537
 2,ECS,Spain,724,ESP,15/05/2020,6,Cantabria,ESP,ESP.3_1,2256,205,2110
 2,ECS,Spain,724,ESP,16/05/2020,6,Cantabria,ESP,ESP.3_1,2263,206,2152
 2,ECS,Spain,724,ESP,17/05/2020,6,Cantabria,ESP,ESP.3_1,2265,206,2195
@@ -377,6 +397,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,6,Cantabria,ESP,ESP.3_1,2374,216,2287
 2,ECS,Spain,724,ESP,15/07/2020,6,Cantabria,ESP,ESP.3_1,2375,216,2287
 2,ECS,Spain,724,ESP,16/07/2020,6,Cantabria,ESP,ESP.3_1,2378,216,2287
+2,ECS,Spain,724,ESP,17/07/2020,6,Cantabria,ESP,ESP.3_1,2380,216,2287
+2,ECS,Spain,724,ESP,18/07/2020,6,Cantabria,ESP,ESP.3_1,2381,217,2287
+2,ECS,Spain,724,ESP,19/07/2020,6,Cantabria,ESP,ESP.3_1,2381,217,2287
+2,ECS,Spain,724,ESP,20/07/2020,6,Cantabria,ESP,ESP.3_1,2381,217,2287
 2,ECS,Spain,724,ESP,15/05/2020,7,Castilla y León,ESP,ESP.5_1,18173,1925,7621
 2,ECS,Spain,724,ESP,16/05/2020,7,Castilla y León,ESP,ESP.5_1,18272,1930,7672
 2,ECS,Spain,724,ESP,17/05/2020,7,Castilla y León,ESP,ESP.5_1,18369,1940,7735
@@ -440,6 +464,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,7,Castilla y León,ESP,ESP.5_1,19790,2792,8716
 2,ECS,Spain,724,ESP,15/07/2020,7,Castilla y León,ESP,ESP.5_1,19826,2793,8716
 2,ECS,Spain,724,ESP,16/07/2020,7,Castilla y León,ESP,ESP.5_1,19836,2793,8716
+2,ECS,Spain,724,ESP,17/07/2020,7,Castilla y León,ESP,ESP.5_1,19855,2793,8716
+2,ECS,Spain,724,ESP,18/07/2020,7,Castilla y León,ESP,ESP.5_1,19870,2793,8716
+2,ECS,Spain,724,ESP,19/07/2020,7,Castilla y León,ESP,ESP.5_1,19870,2793,8716
+2,ECS,Spain,724,ESP,20/07/2020,7,Castilla y León,ESP,ESP.5_1,19870,2793,8716
 2,ECS,Spain,724,ESP,15/05/2020,8,Castilla - La Mancha,ESP,ESP.4_1,16470,2852,6244
 2,ECS,Spain,724,ESP,16/05/2020,8,Castilla - La Mancha,ESP,ESP.4_1,16513,2870,6294
 2,ECS,Spain,724,ESP,17/05/2020,8,Castilla - La Mancha,ESP,ESP.4_1,16587,2883,6328
@@ -503,6 +531,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18392,3030,6392
 2,ECS,Spain,724,ESP,15/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18393,3030,6392
 2,ECS,Spain,724,ESP,16/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18399,3031,6392
+2,ECS,Spain,724,ESP,17/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18413,3032,6392
+2,ECS,Spain,724,ESP,18/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18431,3034,6392
+2,ECS,Spain,724,ESP,19/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18431,3034,6392
+2,ECS,Spain,724,ESP,20/07/2020,8,Castilla - La Mancha,ESP,ESP.4_1,18431,3034,6392
 2,ECS,Spain,724,ESP,15/05/2020,9,Cataluña,ESP,ESP.6_1,55482,5823,25849
 2,ECS,Spain,724,ESP,16/05/2020,9,Cataluña,ESP,ESP.6_1,55464,5882,25904
 2,ECS,Spain,724,ESP,17/05/2020,9,Cataluña,ESP,ESP.6_1,55685,5915,26067
@@ -566,6 +598,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,9,Cataluña,ESP,ESP.6_1,65086,5676,26203
 2,ECS,Spain,724,ESP,15/07/2020,9,Cataluña,ESP,ESP.6_1,65429,5677,26203
 2,ECS,Spain,724,ESP,16/07/2020,9,Cataluña,ESP,ESP.6_1,65852,5678,26203
+2,ECS,Spain,724,ESP,17/07/2020,9,Cataluña,ESP,ESP.6_1,66570,5678,26203
+2,ECS,Spain,724,ESP,18/07/2020,9,Cataluña,ESP,ESP.6_1,67217,5678,26203
+2,ECS,Spain,724,ESP,19/07/2020,9,Cataluña,ESP,ESP.6_1,67217,5678,26203
+2,ECS,Spain,724,ESP,20/07/2020,9,Cataluña,ESP,ESP.6_1,67217,5678,26203
 2,ECS,Spain,724,ESP,15/05/2020,10,Comunitat Valenciana,ESP,ESP.10_1,10784,1349,9490
 2,ECS,Spain,724,ESP,16/05/2020,10,Comunitat Valenciana,ESP,ESP.10_1,10813,1358,9708
 2,ECS,Spain,724,ESP,17/05/2020,10,Comunitat Valenciana,ESP,ESP.10_1,10850,1365,9761
@@ -629,6 +665,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11794,1432,9970
 2,ECS,Spain,724,ESP,15/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11831,1432,9970
 2,ECS,Spain,724,ESP,16/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11854,1432,9970
+2,ECS,Spain,724,ESP,17/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11892,1432,9970
+2,ECS,Spain,724,ESP,18/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11933,1432,9970
+2,ECS,Spain,724,ESP,19/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11933,1432,9970
+2,ECS,Spain,724,ESP,20/07/2020,10,Comunitat Valenciana,ESP,ESP.10_1,11933,1432,9970
 2,ECS,Spain,724,ESP,15/05/2020,11,Extremadura,ESP,ESP.11_1,2923,492,2482
 2,ECS,Spain,724,ESP,16/05/2020,11,Extremadura,ESP,ESP.11_1,2933,494,2587
 2,ECS,Spain,724,ESP,17/05/2020,11,Extremadura,ESP,ESP.11_1,2958,497,2609
@@ -692,6 +732,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,11,Extremadura,ESP,ESP.11_1,3191,519,2652
 2,ECS,Spain,724,ESP,15/07/2020,11,Extremadura,ESP,ESP.11_1,3202,519,2652
 2,ECS,Spain,724,ESP,16/07/2020,11,Extremadura,ESP,ESP.11_1,3208,519,2652
+2,ECS,Spain,724,ESP,17/07/2020,11,Extremadura,ESP,ESP.11_1,3218,519,2652
+2,ECS,Spain,724,ESP,18/07/2020,11,Extremadura,ESP,ESP.11_1,3243,519,2652
+2,ECS,Spain,724,ESP,19/07/2020,11,Extremadura,ESP,ESP.11_1,3243,519,2652
+2,ECS,Spain,724,ESP,20/07/2020,11,Extremadura,ESP,ESP.11_1,3243,519,2652
 2,ECS,Spain,724,ESP,15/05/2020,12,Galicia,ESP,ESP.12_1,9317,601,8157
 2,ECS,Spain,724,ESP,16/05/2020,12,Galicia,ESP,ESP.12_1,9323,601,8283
 2,ECS,Spain,724,ESP,17/05/2020,12,Galicia,ESP,ESP.12_1,9041,604,8409
@@ -755,6 +799,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,12,Galicia,ESP,ESP.12_1,9454,619,9204
 2,ECS,Spain,724,ESP,15/07/2020,12,Galicia,ESP,ESP.12_1,9461,619,9204
 2,ECS,Spain,724,ESP,16/07/2020,12,Galicia,ESP,ESP.12_1,9471,619,9204
+2,ECS,Spain,724,ESP,17/07/2020,12,Galicia,ESP,ESP.12_1,9479,619,9204
+2,ECS,Spain,724,ESP,18/07/2020,12,Galicia,ESP,ESP.12_1,9494,619,9204
+2,ECS,Spain,724,ESP,19/07/2020,12,Galicia,ESP,ESP.12_1,9494,619,9204
+2,ECS,Spain,724,ESP,20/07/2020,12,Galicia,ESP,ESP.12_1,9494,619,9204
 2,ECS,Spain,724,ESP,15/05/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,65693,8779,40199
 2,ECS,Spain,724,ESP,16/05/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,66005,8809,40383
 2,ECS,Spain,724,ESP,17/05/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,66210,8826,40586
@@ -818,6 +866,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,72649,8442,40736
 2,ECS,Spain,724,ESP,15/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,72695,8442,40736
 2,ECS,Spain,724,ESP,16/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,72797,8444,40736
+2,ECS,Spain,724,ESP,17/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,72882,8445,40736
+2,ECS,Spain,724,ESP,18/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,73026,8446,40736
+2,ECS,Spain,724,ESP,19/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,73026,8446,40736
+2,ECS,Spain,724,ESP,20/07/2020,13,"Madrid, Comunidad de",ESP,ESP.8_1,73026,8446,40736
 2,ECS,Spain,724,ESP,15/05/2020,14,"Murcia, Región de",ESP,ESP.18_1,1532,142,1998
 2,ECS,Spain,724,ESP,16/05/2020,14,"Murcia, Región de",ESP,ESP.18_1,1534,143,2034
 2,ECS,Spain,724,ESP,17/05/2020,14,"Murcia, Región de",ESP,ESP.18_1,1542,144,2073
@@ -881,6 +933,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1753,148,2180
 2,ECS,Spain,724,ESP,15/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1760,148,2180
 2,ECS,Spain,724,ESP,16/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1766,148,2180
+2,ECS,Spain,724,ESP,17/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1771,148,2180
+2,ECS,Spain,724,ESP,18/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1786,148,2180
+2,ECS,Spain,724,ESP,19/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1786,148,2180
+2,ECS,Spain,724,ESP,20/07/2020,14,"Murcia, Región de",ESP,ESP.18_1,1786,148,2180
 2,ECS,Spain,724,ESP,15/05/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5105,498,3400
 2,ECS,Spain,724,ESP,16/05/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5116,500,3550
 2,ECS,Spain,724,ESP,17/05/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5137,501,3658
@@ -944,6 +1000,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5589,528,3905
 2,ECS,Spain,724,ESP,15/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5606,528,3905
 2,ECS,Spain,724,ESP,16/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5627,528,3905
+2,ECS,Spain,724,ESP,17/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5649,529,3905
+2,ECS,Spain,724,ESP,18/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5708,529,3905
+2,ECS,Spain,724,ESP,19/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5708,529,3905
+2,ECS,Spain,724,ESP,20/07/2020,15,"Navarra, Comunidad Foral de",ESP,ESP.9_1,5708,529,3905
 2,ECS,Spain,724,ESP,15/05/2020,16,País Vasco,ESP,ESP.16_1,13219,1454,15256
 2,ECS,Spain,724,ESP,16/05/2020,16,País Vasco,ESP,ESP.16_1,13257,1454,15256
 2,ECS,Spain,724,ESP,17/05/2020,16,País Vasco,ESP,ESP.16_1,13291,1455,15678
@@ -1007,6 +1067,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,16,País Vasco,ESP,ESP.16_1,13955,1562,16160
 2,ECS,Spain,724,ESP,15/07/2020,16,País Vasco,ESP,ESP.16_1,13989,1563,16160
 2,ECS,Spain,724,ESP,16/07/2020,16,País Vasco,ESP,ESP.16_1,14043,1563,16160
+2,ECS,Spain,724,ESP,17/07/2020,16,País Vasco,ESP,ESP.16_1,14099,1563,16160
+2,ECS,Spain,724,ESP,18/07/2020,16,País Vasco,ESP,ESP.16_1,14177,1563,16160
+2,ECS,Spain,724,ESP,19/07/2020,16,País Vasco,ESP,ESP.16_1,14177,1563,16160
+2,ECS,Spain,724,ESP,20/07/2020,16,País Vasco,ESP,ESP.16_1,14177,1563,16160
 2,ECS,Spain,724,ESP,15/05/2020,17,"Rioja, La",ESP,ESP.15_1,4014,348,2867
 2,ECS,Spain,724,ESP,16/05/2020,17,"Rioja, La",ESP,ESP.15_1,4016,348,2927
 2,ECS,Spain,724,ESP,17/05/2020,17,"Rioja, La",ESP,ESP.15_1,4020,348,2990
@@ -1070,6 +1134,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,17,"Rioja, La",ESP,ESP.15_1,4102,366,3107
 2,ECS,Spain,724,ESP,15/07/2020,17,"Rioja, La",ESP,ESP.15_1,4104,366,3107
 2,ECS,Spain,724,ESP,16/07/2020,17,"Rioja, La",ESP,ESP.15_1,4107,366,3107
+2,ECS,Spain,724,ESP,17/07/2020,17,"Rioja, La",ESP,ESP.15_1,4108,366,3107
+2,ECS,Spain,724,ESP,18/07/2020,17,"Rioja, La",ESP,ESP.15_1,4111,366,3107
+2,ECS,Spain,724,ESP,19/07/2020,17,"Rioja, La",ESP,ESP.15_1,4111,366,3107
+2,ECS,Spain,724,ESP,20/07/2020,17,"Rioja, La",ESP,ESP.15_1,4111,366,3107
 2,ECS,Spain,724,ESP,15/05/2020,18,Ceuta,ESP,ESP.21_1,116,4,159
 2,ECS,Spain,724,ESP,16/05/2020,18,Ceuta,ESP,ESP.21_1,116,4,160
 2,ECS,Spain,724,ESP,17/05/2020,18,Ceuta,ESP,ESP.21_1,116,4,163
@@ -1133,6 +1201,10 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,18,Ceuta,ESP,ESP.21_1,163,4,163
 2,ECS,Spain,724,ESP,15/07/2020,18,Ceuta,ESP,ESP.21_1,163,4,163
 2,ECS,Spain,724,ESP,16/07/2020,18,Ceuta,ESP,ESP.21_1,164,4,163
+2,ECS,Spain,724,ESP,17/07/2020,18,Ceuta,ESP,ESP.21_1,164,4,163
+2,ECS,Spain,724,ESP,18/07/2020,18,Ceuta,ESP,ESP.21_1,164,4,163
+2,ECS,Spain,724,ESP,19/07/2020,18,Ceuta,ESP,ESP.21_1,164,4,163
+2,ECS,Spain,724,ESP,20/07/2020,18,Ceuta,ESP,ESP.21_1,164,4,163
 2,ECS,Spain,724,ESP,15/05/2020,19,Melilla,ESP,ESP.22_1,119,2,119
 2,ECS,Spain,724,ESP,16/05/2020,19,Melilla,ESP,ESP.22_1,119,2,119
 2,ECS,Spain,724,ESP,17/05/2020,19,Melilla,ESP,ESP.22_1,119,2,122
@@ -1196,3 +1268,7 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,re
 2,ECS,Spain,724,ESP,14/07/2020,19,Melilla,ESP,ESP.22_1,126,2,125
 2,ECS,Spain,724,ESP,15/07/2020,19,Melilla,ESP,ESP.22_1,126,2,125
 2,ECS,Spain,724,ESP,16/07/2020,19,Melilla,ESP,ESP.22_1,128,2,125
+2,ECS,Spain,724,ESP,17/07/2020,19,Melilla,ESP,ESP.22_1,128,2,125
+2,ECS,Spain,724,ESP,18/07/2020,19,Melilla,ESP,ESP.22_1,129,2,125
+2,ECS,Spain,724,ESP,19/07/2020,19,Melilla,ESP,ESP.22_1,129,2,125
+2,ECS,Spain,724,ESP,20/07/2020,19,Melilla,ESP,ESP.22_1,129,2,125
