@@ -128,6 +128,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,4,Afghanistan,AFG,18/07/2020,35229,1147,23151,
 7,SAS,4,Afghanistan,AFG,19/07/2020,35301,1164,23273,
 7,SAS,4,Afghanistan,AFG,20/07/2020,35475,1181,23634,
+7,SAS,4,Afghanistan,AFG,21/07/2020,35526,1185,23741,
+7,SAS,4,Afghanistan,AFG,22/07/2020,35615,1186,23741,
+7,SAS,4,Afghanistan,AFG,23/07/2020,35727,1190,23924,
 2,ECS,8,Albania,ALB,09/03/2020,2,0,0,
 2,ECS,8,Albania,ALB,10/03/2020,10,0,0,
 2,ECS,8,Albania,ALB,11/03/2020,45,2,0,
@@ -260,6 +263,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,8,Albania,ALB,18/07/2020,3906,107,2214,
 2,ECS,8,Albania,ALB,19/07/2020,4008,111,2264,
 2,ECS,8,Albania,ALB,20/07/2020,4090,112,2311,
+2,ECS,8,Albania,ALB,21/07/2020,4171,113,2352,
+2,ECS,8,Albania,ALB,22/07/2020,4290,117,2397,
+2,ECS,8,Albania,ALB,23/07/2020,4358,120,2463,
 4,MEA,12,Algeria,DZA,25/02/2020,1,0,0,
 4,MEA,12,Algeria,DZA,02/03/2020,3,0,0,
 4,MEA,12,Algeria,DZA,03/03/2020,5,0,0,
@@ -397,6 +403,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,12,Algeria,DZA,18/07/2020,21948,1057,15430,
 4,MEA,12,Algeria,DZA,19/07/2020,22549,1068,15744,
 4,MEA,12,Algeria,DZA,20/07/2020,23084,1078,16051,
+4,MEA,12,Algeria,DZA,21/07/2020,23691,1087,16400,
+4,MEA,12,Algeria,DZA,22/07/2020,24278,1100,16646,
+4,MEA,12,Algeria,DZA,23/07/2020,24872,1111,16983,
 2,ECS,20,Andorra,AND,02/03/2020,1,0,0,
 2,ECS,20,Andorra,AND,11/03/2020,1,0,0,
 2,ECS,20,Andorra,AND,12/03/2020,1,0,1,
@@ -526,6 +535,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,20,Andorra,AND,18/07/2020,880,52,803,
 2,ECS,20,Andorra,AND,19/07/2020,880,52,803,
 2,ECS,20,Andorra,AND,20/07/2020,880,52,803,
+2,ECS,20,Andorra,AND,21/07/2020,884,52,803,
+2,ECS,20,Andorra,AND,22/07/2020,884,52,803,
+2,ECS,20,Andorra,AND,23/07/2020,889,52,803,
 8,SSF,24,Angola,AGO,20/03/2020,1,0,0,
 8,SSF,24,Angola,AGO,21/03/2020,2,0,0,
 8,SSF,24,Angola,AGO,22/03/2020,2,0,0,
@@ -648,6 +660,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,24,Angola,AGO,18/07/2020,638,29,199,
 8,SSF,24,Angola,AGO,19/07/2020,687,29,210,
 8,SSF,24,Angola,AGO,20/07/2020,705,29,221,
+8,SSF,24,Angola,AGO,21/07/2020,749,29,221,
+8,SSF,24,Angola,AGO,22/07/2020,779,30,221,
+8,SSF,24,Angola,AGO,23/07/2020,812,33,221,
 3,LCN,28,Antigua and Barbuda,ATG,11/03/2020,1,0,0,
 3,LCN,28,Antigua and Barbuda,ATG,13/03/2020,1,0,0,
 3,LCN,28,Antigua and Barbuda,ATG,15/03/2020,1,0,0,
@@ -771,6 +786,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,28,Antigua and Barbuda,ATG,18/07/2020,76,3,57,
 3,LCN,28,Antigua and Barbuda,ATG,19/07/2020,76,3,57,
 3,LCN,28,Antigua and Barbuda,ATG,20/07/2020,76,3,57,
+3,LCN,28,Antigua and Barbuda,ATG,21/07/2020,76,3,57,
+3,LCN,28,Antigua and Barbuda,ATG,22/07/2020,76,3,57,
+3,LCN,28,Antigua and Barbuda,ATG,23/07/2020,76,3,58,
 2,ECS,31,Azerbaijan,AZE,28/02/2020,1,0,0,
 2,ECS,31,Azerbaijan,AZE,01/03/2020,3,0,0,
 2,ECS,31,Azerbaijan,AZE,05/03/2020,6,0,0,
@@ -902,6 +920,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,31,Azerbaijan,AZE,18/07/2020,26636,341,17805,
 2,ECS,31,Azerbaijan,AZE,19/07/2020,27133,349,18450,
 2,ECS,31,Azerbaijan,AZE,20/07/2020,27521,354,18967,
+2,ECS,31,Azerbaijan,AZE,21/07/2020,27890,363,19490,
+2,ECS,31,Azerbaijan,AZE,22/07/2020,28242,376,19939,
+2,ECS,31,Azerbaijan,AZE,23/07/2020,28633,385,20443,
 3,LCN,32,Argentina,ARG,03/03/2020,1,0,0,
 3,LCN,32,Argentina,ARG,04/03/2020,1,0,0,
 3,LCN,32,Argentina,ARG,06/03/2020,2,0,0,
@@ -1037,6 +1058,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,32,Argentina,ARG,18/07/2020,119301,2178,49780,
 3,LCN,32,Argentina,ARG,19/07/2020,122524,2220,52607,
 3,LCN,32,Argentina,ARG,20/07/2020,126755,2260,54105,
+3,LCN,32,Argentina,ARG,21/07/2020,130774,2373,55913,
+3,LCN,32,Argentina,ARG,22/07/2020,136118,2490,58598,
+3,LCN,32,Argentina,ARG,23/07/2020,141900,2588,60531,
 1,EAS,36,Australia,AUS,27/01/2020,5,,0,0
 1,EAS,36,Australia,AUS,28/01/2020,5,,0,0
 1,EAS,36,Australia,AUS,29/01/2020,5,,0,0
@@ -1054,23 +1078,23 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,36,Australia,AUS,10/02/2020,15,,2,0
 1,EAS,36,Australia,AUS,11/02/2020,15,,2,0
 1,EAS,36,Australia,AUS,12/02/2020,15,,2,0
-1,EAS,36,Australia,AUS,13/02/2020,15,,6,0
-1,EAS,36,Australia,AUS,14/02/2020,15,,6,0
-1,EAS,36,Australia,AUS,15/02/2020,15,,6,0
-1,EAS,36,Australia,AUS,16/02/2020,15,,6,0
-1,EAS,36,Australia,AUS,17/02/2020,15,,8,0
-1,EAS,36,Australia,AUS,18/02/2020,15,,8,0
-1,EAS,36,Australia,AUS,19/02/2020,15,,8,0
-1,EAS,36,Australia,AUS,20/02/2020,15,,8,0
-1,EAS,36,Australia,AUS,21/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,22/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,23/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,24/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,25/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,26/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,27/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,28/02/2020,15,,9,0
-1,EAS,36,Australia,AUS,29/02/2020,25,,9,0
+1,EAS,36,Australia,AUS,13/02/2020,15,,4,0
+1,EAS,36,Australia,AUS,14/02/2020,15,,4,0
+1,EAS,36,Australia,AUS,15/02/2020,15,,4,0
+1,EAS,36,Australia,AUS,16/02/2020,15,,4,0
+1,EAS,36,Australia,AUS,17/02/2020,15,,6,0
+1,EAS,36,Australia,AUS,18/02/2020,15,,6,0
+1,EAS,36,Australia,AUS,19/02/2020,15,,6,0
+1,EAS,36,Australia,AUS,20/02/2020,15,,6,0
+1,EAS,36,Australia,AUS,21/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,22/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,23/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,24/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,25/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,26/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,27/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,28/02/2020,15,,7,0
+1,EAS,36,Australia,AUS,29/02/2020,25,,11,0
 1,EAS,36,Australia,AUS,01/03/2020,27,,11,1
 1,EAS,36,Australia,AUS,02/03/2020,30,,11,1
 1,EAS,36,Australia,AUS,03/03/2020,39,,11,1
@@ -1213,6 +1237,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,36,Australia,AUS,18/07/2020,11441,,8162,118
 1,EAS,36,Australia,AUS,19/07/2020,11802,,8274,122
 1,EAS,36,Australia,AUS,20/07/2020,12069,,8395,123
+1,EAS,36,Australia,AUS,21/07/2020,12428,,8398,126
+1,EAS,36,Australia,AUS,22/07/2020,12894,,8545,128
+1,EAS,36,Australia,AUS,23/07/2020,13305,,8775,133
 2,ECS,40,Austria,AUT,26/02/2020,2,0,0,
 2,ECS,40,Austria,AUT,27/02/2020,3,0,0,
 2,ECS,40,Austria,AUT,29/02/2020,9,0,0,
@@ -1356,6 +1383,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,40,Austria,AUT,18/07/2020,19439,711,17335,
 2,ECS,40,Austria,AUT,19/07/2020,19573,711,17501,
 2,ECS,40,Austria,AUT,20/07/2020,19655,711,17599,
+2,ECS,40,Austria,AUT,21/07/2020,19743,711,17659,
+2,ECS,40,Austria,AUT,22/07/2020,19827,710,17716,
+2,ECS,40,Austria,AUT,23/07/2020,19929,711,17849,
 3,LCN,44,Bahamas,BHS,16/03/2020,1,0,0,
 3,LCN,44,Bahamas,BHS,19/03/2020,3,0,0,
 3,LCN,44,Bahamas,BHS,21/03/2020,4,0,0,
@@ -1479,6 +1509,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,44,Bahamas,BHS,18/07/2020,129,11,91,
 3,LCN,44,Bahamas,BHS,19/07/2020,138,11,91,
 3,LCN,44,Bahamas,BHS,20/07/2020,153,11,91,
+3,LCN,44,Bahamas,BHS,21/07/2020,174,11,91,
+3,LCN,44,Bahamas,BHS,22/07/2020,194,11,91,
+3,LCN,44,Bahamas,BHS,23/07/2020,219,11,91,
 4,MEA,48,Bahrain,BHR,24/02/2020,1,0,0,
 4,MEA,48,Bahrain,BHR,25/02/2020,23,0,0,
 4,MEA,48,Bahrain,BHR,26/02/2020,33,0,0,
@@ -1620,6 +1653,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,48,Bahrain,BHR,18/07/2020,35473,124,31188,
 4,MEA,48,Bahrain,BHR,19/07/2020,36004,124,31765,
 4,MEA,48,Bahrain,BHR,20/07/2020,36422,126,32372,
+4,MEA,48,Bahrain,BHR,21/07/2020,36936,128,32965,
+4,MEA,48,Bahrain,BHR,22/07/2020,37316,129,33455,
+4,MEA,48,Bahrain,BHR,23/07/2020,37637,130,33894,
 7,SAS,50,Bangladesh,BGD,08/03/2020,3,0,0,
 7,SAS,50,Bangladesh,BGD,10/03/2020,3,0,0,
 7,SAS,50,Bangladesh,BGD,11/03/2020,3,0,0,
@@ -1751,6 +1787,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,50,Bangladesh,BGD,18/07/2020,199357,2547,108725,
 7,SAS,50,Bangladesh,BGD,19/07/2020,202066,2581,110098,
 7,SAS,50,Bangladesh,BGD,20/07/2020,204525,2618,111642,
+7,SAS,50,Bangladesh,BGD,21/07/2020,207453,2668,113556,
+7,SAS,50,Bangladesh,BGD,22/07/2020,210510,2709,115397,
+7,SAS,50,Bangladesh,BGD,23/07/2020,213254,2751,117202,
 2,ECS,51,Armenia,ARM,01/03/2020,1,0,0,
 2,ECS,51,Armenia,ARM,11/03/2020,8,0,0,
 2,ECS,51,Armenia,ARM,12/03/2020,4,0,0,
@@ -1882,6 +1921,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,51,Armenia,ARM,18/07/2020,34001,620,22492,
 2,ECS,51,Armenia,ARM,19/07/2020,34462,631,23123,
 2,ECS,51,Armenia,ARM,20/07/2020,34877,641,23294,
+2,ECS,51,Armenia,ARM,21/07/2020,34981,650,23502,
+2,ECS,51,Armenia,ARM,22/07/2020,35254,662,24206,
+2,ECS,51,Armenia,ARM,23/07/2020,35693,678,24766,
 3,LCN,52,Barbados,BRB,17/03/2020,2,0,0,
 3,LCN,52,Barbados,BRB,18/03/2020,2,0,0,
 3,LCN,52,Barbados,BRB,19/03/2020,5,0,0,
@@ -2006,6 +2048,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,52,Barbados,BRB,18/07/2020,104,7,91,
 3,LCN,52,Barbados,BRB,19/07/2020,104,7,91,
 3,LCN,52,Barbados,BRB,20/07/2020,105,7,91,
+3,LCN,52,Barbados,BRB,21/07/2020,106,7,91,
+3,LCN,52,Barbados,BRB,22/07/2020,106,7,91,
+3,LCN,52,Barbados,BRB,23/07/2020,106,7,94,
 2,ECS,56,Belgium,BEL,04/02/2020,1,0,0,
 2,ECS,56,Belgium,BEL,17/02/2020,1,0,1,
 2,ECS,56,Belgium,BEL,01/03/2020,2,0,1,
@@ -2147,6 +2192,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,56,Belgium,BEL,18/07/2020,63499,9800,17289,
 2,ECS,56,Belgium,BEL,19/07/2020,63706,9800,17289,
 2,ECS,56,Belgium,BEL,20/07/2020,63706,9800,17289,
+2,ECS,56,Belgium,BEL,21/07/2020,64094,9805,17321,
+2,ECS,56,Belgium,BEL,22/07/2020,64258,9805,17330,
+2,ECS,56,Belgium,BEL,23/07/2020,64627,9808,17347,
 6,NAC,60,Bermuda,BMU,19/03/2020,2,0,0,
 6,NAC,60,Bermuda,BMU,21/03/2020,2,0,0,
 6,NAC,60,Bermuda,BMU,22/03/2020,2,0,0,
@@ -2269,6 +2317,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 6,NAC,60,Bermuda,BMU,18/07/2020,152,9,137,
 6,NAC,60,Bermuda,BMU,19/07/2020,153,9,137,
 6,NAC,60,Bermuda,BMU,20/07/2020,153,9,137,
+6,NAC,60,Bermuda,BMU,21/07/2020,153,9,137,
+6,NAC,60,Bermuda,BMU,22/07/2020,153,9,137,
+6,NAC,60,Bermuda,BMU,23/07/2020,153,9,139,
 7,SAS,64,Bhutan,BTN,06/03/2020,1,0,0,
 7,SAS,64,Bhutan,BTN,11/03/2020,1,0,0,
 7,SAS,64,Bhutan,BTN,13/03/2020,1,0,0,
@@ -2393,6 +2444,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,64,Bhutan,BTN,18/07/2020,87,0,78,
 7,SAS,64,Bhutan,BTN,19/07/2020,87,0,78,
 7,SAS,64,Bhutan,BTN,20/07/2020,89,0,82,
+7,SAS,64,Bhutan,BTN,21/07/2020,90,0,83,
+7,SAS,64,Bhutan,BTN,22/07/2020,92,0,83,
+7,SAS,64,Bhutan,BTN,23/07/2020,92,0,83,
 3,LCN,68,Bolivia (Plurinational State of),BOL,11/03/2020,5,0,0,
 3,LCN,68,Bolivia (Plurinational State of),BOL,14/03/2020,10,0,0,
 3,LCN,68,Bolivia (Plurinational State of),BOL,16/03/2020,11,0,0,
@@ -2519,6 +2573,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,68,Bolivia (Plurinational State of),BOL,18/07/2020,56102,2049,17882,
 3,LCN,68,Bolivia (Plurinational State of),BOL,19/07/2020,58138,2106,18200,
 3,LCN,68,Bolivia (Plurinational State of),BOL,20/07/2020,59582,2151,18553,
+3,LCN,68,Bolivia (Plurinational State of),BOL,21/07/2020,60991,2218,18875,
+3,LCN,68,Bolivia (Plurinational State of),BOL,22/07/2020,62357,2273,19290,
+3,LCN,68,Bolivia (Plurinational State of),BOL,23/07/2020,64135,2328,19721,
 2,ECS,70,Bosnia Herzegovina,BIH,05/03/2020,2,0,0,
 2,ECS,70,Bosnia Herzegovina,BIH,07/03/2020,3,0,0,
 2,ECS,70,Bosnia Herzegovina,BIH,10/03/2020,5,0,0,
@@ -2652,6 +2709,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,70,Bosnia Herzegovina,BIH,18/07/2020,7908,245,3612,
 2,ECS,70,Bosnia Herzegovina,BIH,19/07/2020,8161,246,3648,
 2,ECS,70,Bosnia Herzegovina,BIH,20/07/2020,8340,249,3669,
+2,ECS,70,Bosnia Herzegovina,BIH,21/07/2020,8479,255,3755,
+2,ECS,70,Bosnia Herzegovina,BIH,22/07/2020,8787,264,4003,
+2,ECS,70,Bosnia Herzegovina,BIH,23/07/2020,9115,268,4159,
 8,SSF,72,Botswana,BWA,30/03/2020,3,0,0,
 8,SSF,72,Botswana,BWA,31/03/2020,4,1,0,
 8,SSF,72,Botswana,BWA,01/04/2020,4,1,0,
@@ -2764,6 +2824,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,72,Botswana,BWA,18/07/2020,522,1,48,
 8,SSF,72,Botswana,BWA,19/07/2020,522,1,48,
 8,SSF,72,Botswana,BWA,20/07/2020,522,1,48,
+8,SSF,72,Botswana,BWA,21/07/2020,522,1,48,
+8,SSF,72,Botswana,BWA,22/07/2020,522,1,48,
+8,SSF,72,Botswana,BWA,23/07/2020,522,1,48,
 3,LCN,76,Brazil,BRA,26/02/2020,1,0,0,
 3,LCN,76,Brazil,BRA,29/02/2020,2,0,0,
 3,LCN,76,Brazil,BRA,04/03/2020,4,0,0,
@@ -2959,16 +3022,17 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,84,Belize,BLZ,18/07/2020,40,2,22,
 3,LCN,84,Belize,BLZ,19/07/2020,40,2,22,
 3,LCN,84,Belize,BLZ,20/07/2020,40,2,22,
+3,LCN,84,Belize,BLZ,21/07/2020,40,2,22,
+3,LCN,84,Belize,BLZ,22/07/2020,42,2,22,
+3,LCN,84,Belize,BLZ,23/07/2020,43,2,23,
 3,LCN,92,British Virgin Islands,VGB,28/03/2020,2,0,0,
+3,LCN,92,British Virgin Islands,VGB,29/03/2020,2,0,0,
 3,LCN,92,British Virgin Islands,VGB,30/03/2020,2,0,0,
 3,LCN,92,British Virgin Islands,VGB,31/03/2020,3,0,0,
 3,LCN,92,British Virgin Islands,VGB,01/04/2020,3,0,0,
 3,LCN,92,British Virgin Islands,VGB,03/04/2020,3,0,0,
-3,LCN,92,British Virgin Islands,VGB,04/04/2020,3,0,0,
 3,LCN,92,British Virgin Islands,VGB,05/04/2020,3,0,0,
 3,LCN,92,British Virgin Islands,VGB,06/04/2020,3,0,0,
-3,LCN,92,British Virgin Islands,VGB,07/04/2020,3,0,0,
-3,LCN,92,British Virgin Islands,VGB,09/04/2020,3,0,0,
 3,LCN,92,British Virgin Islands,VGB,11/04/2020,3,0,2,
 3,LCN,92,British Virgin Islands,VGB,12/04/2020,3,0,2,
 3,LCN,92,British Virgin Islands,VGB,13/04/2020,3,0,2,
@@ -3069,6 +3133,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,92,British Virgin Islands,VGB,18/07/2020,8,1,7,
 3,LCN,92,British Virgin Islands,VGB,19/07/2020,8,1,7,
 3,LCN,92,British Virgin Islands,VGB,20/07/2020,8,1,7,
+3,LCN,92,British Virgin Islands,VGB,21/07/2020,8,1,7,
+3,LCN,92,British Virgin Islands,VGB,22/07/2020,8,1,7,
+3,LCN,92,British Virgin Islands,VGB,23/07/2020,8,1,7,
 1,EAS,96,Brunei Darussalam,BRN,09/03/2020,1,0,0,
 1,EAS,96,Brunei Darussalam,BRN,10/03/2020,1,0,0,
 1,EAS,96,Brunei Darussalam,BRN,11/03/2020,48,0,0,
@@ -3200,6 +3267,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,96,Brunei Darussalam,BRN,18/07/2020,141,3,138,
 1,EAS,96,Brunei Darussalam,BRN,19/07/2020,141,3,138,
 1,EAS,96,Brunei Darussalam,BRN,20/07/2020,141,3,138,
+1,EAS,96,Brunei Darussalam,BRN,21/07/2020,141,3,138,
+1,EAS,96,Brunei Darussalam,BRN,22/07/2020,141,3,138,
+1,EAS,96,Brunei Darussalam,BRN,23/07/2020,141,3,138,
 2,ECS,100,Bulgaria,BGR,08/03/2020,4,0,0,
 2,ECS,100,Bulgaria,BGR,09/03/2020,4,0,0,
 2,ECS,100,Bulgaria,BGR,11/03/2020,30,2,0,
@@ -3331,6 +3401,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,100,Bulgaria,BGR,18/07/2020,8442,297,4033,
 2,ECS,100,Bulgaria,BGR,19/07/2020,8638,299,4081,
 2,ECS,100,Bulgaria,BGR,20/07/2020,8733,300,4106,
+2,ECS,100,Bulgaria,BGR,21/07/2020,8929,308,4205,
+2,ECS,100,Bulgaria,BGR,22/07/2020,9254,313,4521,
+2,ECS,100,Bulgaria,BGR,23/07/2020,9584,321,4643,
 1,EAS,104,Myanmar,MMR,27/03/2020,8,0,0,
 1,EAS,104,Myanmar,MMR,28/03/2020,8,0,0,
 1,EAS,104,Myanmar,MMR,29/03/2020,10,0,0,
@@ -3446,6 +3519,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,104,Myanmar,MMR,18/07/2020,339,6,271,
 1,EAS,104,Myanmar,MMR,19/07/2020,340,6,273,
 1,EAS,104,Myanmar,MMR,20/07/2020,341,6,276,
+1,EAS,104,Myanmar,MMR,21/07/2020,341,6,278,
+1,EAS,104,Myanmar,MMR,22/07/2020,341,6,280,
+1,EAS,104,Myanmar,MMR,23/07/2020,343,6,280,
 8,SSF,108,Burundi,BDI,31/03/2020,2,0,0,
 8,SSF,108,Burundi,BDI,01/04/2020,2,0,0,
 8,SSF,108,Burundi,BDI,02/04/2020,3,0,0,
@@ -3557,6 +3633,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,108,Burundi,BDI,18/07/2020,310,1,207,
 8,SSF,108,Burundi,BDI,19/07/2020,310,1,207,
 8,SSF,108,Burundi,BDI,20/07/2020,310,1,207,
+8,SSF,108,Burundi,BDI,21/07/2020,322,1,207,
+8,SSF,108,Burundi,BDI,22/07/2020,328,1,207,
+8,SSF,108,Burundi,BDI,23/07/2020,328,1,207,
 2,ECS,112,Belarus,BLR,28/02/2020,1,0,0,
 2,ECS,112,Belarus,BLR,04/03/2020,6,0,0,
 2,ECS,112,Belarus,BLR,09/03/2020,6,0,1,
@@ -3688,6 +3767,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,112,Belarus,BLR,18/07/2020,65782,491,57370,
 2,ECS,112,Belarus,BLR,19/07/2020,65953,495,57856,
 2,ECS,112,Belarus,BLR,20/07/2020,66095,499,58204,
+2,ECS,112,Belarus,BLR,21/07/2020,66213,503,58290,
+2,ECS,112,Belarus,BLR,22/07/2020,66348,507,58592,
+2,ECS,112,Belarus,BLR,23/07/2020,66521,513,59061,
 1,EAS,116,Cambodia,KHM,27/01/2020,1,0,0,
 1,EAS,116,Cambodia,KHM,28/01/2020,1,0,0,
 1,EAS,116,Cambodia,KHM,29/01/2020,1,0,0,
@@ -3822,6 +3904,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,116,Cambodia,KHM,18/07/2020,171,0,133,
 1,EAS,116,Cambodia,KHM,19/07/2020,171,0,133,
 1,EAS,116,Cambodia,KHM,20/07/2020,171,0,136,
+1,EAS,116,Cambodia,KHM,21/07/2020,171,0,136,
+1,EAS,116,Cambodia,KHM,22/07/2020,197,0,140,
+1,EAS,116,Cambodia,KHM,23/07/2020,198,0,142,
 8,SSF,120,Cameroon,CMR,06/03/2020,1,0,0,
 8,SSF,120,Cameroon,CMR,08/03/2020,2,0,0,
 8,SSF,120,Cameroon,CMR,11/03/2020,2,0,0,
@@ -3951,10 +4036,13 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,120,Cameroon,CMR,18/07/2020,16157,373,13728,
 8,SSF,120,Cameroon,CMR,19/07/2020,16157,373,13728,
 8,SSF,120,Cameroon,CMR,20/07/2020,16157,373,13728,
+8,SSF,120,Cameroon,CMR,21/07/2020,16157,373,13728,
+8,SSF,120,Cameroon,CMR,22/07/2020,16522,382,13728,
+8,SSF,120,Cameroon,CMR,23/07/2020,16522,382,13728,
 6,NAC,124,Canada,CAN,26/01/2020,1,,0,0
 6,NAC,124,Canada,CAN,27/01/2020,1,,0,0
-6,NAC,124,Canada,CAN,28/01/2020,2,,0,0
-6,NAC,124,Canada,CAN,29/01/2020,2,,0,0
+6,NAC,124,Canada,CAN,28/01/2020,1,,0,0
+6,NAC,124,Canada,CAN,29/01/2020,1,,0,0
 6,NAC,124,Canada,CAN,30/01/2020,3,,0,0
 6,NAC,124,Canada,CAN,31/01/2020,3,,0,0
 6,NAC,124,Canada,CAN,01/02/2020,4,,0,0
@@ -3996,9 +4084,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 6,NAC,124,Canada,CAN,08/03/2020,30,,4,0
 6,NAC,124,Canada,CAN,09/03/2020,76,,8,1
 6,NAC,124,Canada,CAN,10/03/2020,79,,8,1
-6,NAC,124,Canada,CAN,11/03/2020,191,,8,1
-6,NAC,124,Canada,CAN,12/03/2020,133,,8,1
-6,NAC,124,Canada,CAN,13/03/2020,141,,8,1
+6,NAC,124,Canada,CAN,11/03/2020,189,,8,1
+6,NAC,124,Canada,CAN,12/03/2020,131,,8,1
+6,NAC,124,Canada,CAN,13/03/2020,139,,8,1
 6,NAC,124,Canada,CAN,14/03/2020,196,,8,1
 6,NAC,124,Canada,CAN,15/03/2020,249,,8,1
 6,NAC,124,Canada,CAN,16/03/2020,407,,9,4
@@ -4128,6 +4216,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 6,NAC,124,Canada,CAN,18/07/2020,111546,,98268,8883
 6,NAC,124,Canada,CAN,19/07/2020,111862,,98423,8891
 6,NAC,124,Canada,CAN,20/07/2020,112155,,98551,8895
+6,NAC,124,Canada,CAN,21/07/2020,112925,,98962,8901
+6,NAC,124,Canada,CAN,22/07/2020,113460,,99235,8907
+6,NAC,124,Canada,CAN,23/07/2020,113777,,99488,8912
 8,SSF,132,Cabo Verde,CPV,20/03/2020,1,0,0,
 8,SSF,132,Cabo Verde,CPV,21/03/2020,4,0,0,
 8,SSF,132,Cabo Verde,CPV,22/03/2020,3,0,0,
@@ -4250,6 +4341,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,132,Cabo Verde,CPV,18/07/2020,1939,19,902,
 8,SSF,132,Cabo Verde,CPV,19/07/2020,2014,21,913,
 8,SSF,132,Cabo Verde,CPV,20/07/2020,2045,21,973,
+8,SSF,132,Cabo Verde,CPV,21/07/2020,2071,21,1063,
+8,SSF,132,Cabo Verde,CPV,22/07/2020,2107,21,1100,
+8,SSF,132,Cabo Verde,CPV,23/07/2020,2154,21,1132,
 3,LCN,136,Cayman Isds,CYM,11/03/2020,1,0,0,
 3,LCN,136,Cayman Isds,CYM,13/03/2020,1,0,0,
 8,SSF,140,Central African Rep.,CAF,15/03/2020,1,0,0,
@@ -4375,6 +4469,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,140,Central African Rep.,CAF,18/07/2020,4389,53,1288,
 8,SSF,140,Central African Rep.,CAF,19/07/2020,4485,55,1348,
 8,SSF,140,Central African Rep.,CAF,20/07/2020,4485,55,1348,
+8,SSF,140,Central African Rep.,CAF,21/07/2020,4548,55,1400,
+8,SSF,140,Central African Rep.,CAF,22/07/2020,4561,55,1411,
+8,SSF,140,Central African Rep.,CAF,23/07/2020,4574,57,1437,
 7,SAS,144,Sri Lanka,LKA,27/01/2020,1,0,0,
 7,SAS,144,Sri Lanka,LKA,28/01/2020,1,0,0,
 7,SAS,144,Sri Lanka,LKA,29/01/2020,1,0,0,
@@ -4511,6 +4608,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,144,Sri Lanka,LKA,18/07/2020,2697,11,2012,
 7,SAS,144,Sri Lanka,LKA,19/07/2020,2703,11,2023,
 7,SAS,144,Sri Lanka,LKA,20/07/2020,2724,11,2035,
+7,SAS,144,Sri Lanka,LKA,21/07/2020,2730,11,2041,
+7,SAS,144,Sri Lanka,LKA,22/07/2020,2730,11,2048,
+7,SAS,144,Sri Lanka,LKA,23/07/2020,2752,11,2064,
 8,SSF,148,Chad,TCD,19/03/2020,1,0,0,
 8,SSF,148,Chad,TCD,21/03/2020,1,0,0,
 8,SSF,148,Chad,TCD,22/03/2020,1,0,0,
@@ -4633,6 +4733,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,148,Chad,TCD,18/07/2020,887,75,800,
 8,SSF,148,Chad,TCD,19/07/2020,889,75,800,
 8,SSF,148,Chad,TCD,20/07/2020,889,75,801,
+8,SSF,148,Chad,TCD,21/07/2020,889,75,801,
+8,SSF,148,Chad,TCD,22/07/2020,889,75,803,
+8,SSF,148,Chad,TCD,23/07/2020,889,75,805,
 3,LCN,152,Chile,CHL,03/03/2020,1,0,0,
 3,LCN,152,Chile,CHL,04/03/2020,1,0,0,
 3,LCN,152,Chile,CHL,05/03/2020,4,0,0,
@@ -4705,12 +4808,12 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,152,Chile,CHL,19/05/2020,46059,478,20165,
 3,LCN,152,Chile,CHL,20/05/2020,49579,509,21507,
 1,EAS,156,China,CHN,22/01/2020,521,,28,17
-1,EAS,156,China,CHN,23/01/2020,597,,30,18
-1,EAS,156,China,CHN,24/01/2020,886,,36,26
-1,EAS,156,China,CHN,25/01/2020,1393,,39,42
+1,EAS,156,China,CHN,23/01/2020,598,,30,18
+1,EAS,156,China,CHN,24/01/2020,878,,36,26
+1,EAS,156,China,CHN,25/01/2020,1380,,39,42
 1,EAS,156,China,CHN,26/01/2020,2034,,49,56
-1,EAS,156,China,CHN,27/01/2020,2857,,58,82
-1,EAS,156,China,CHN,28/01/2020,5482,,101,131
+1,EAS,156,China,CHN,27/01/2020,2854,,58,82
+1,EAS,156,China,CHN,28/01/2020,5479,,101,131
 1,EAS,156,China,CHN,29/01/2020,6070,,120,133
 1,EAS,156,China,CHN,30/01/2020,8124,,135,171
 1,EAS,156,China,CHN,31/01/2020,9783,,214,213
@@ -4885,6 +4988,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,156,China,CHN,18/07/2020,83613,,78719,4634
 1,EAS,156,China,CHN,19/07/2020,83613,,78719,4634
 1,EAS,156,China,CHN,20/07/2020,83613,,78719,4634
+1,EAS,156,China,CHN,21/07/2020,83613,,78719,4634
+1,EAS,156,China,CHN,22/07/2020,83613,,78719,4634
+1,EAS,156,China,CHN,23/07/2020,83729,,78854,4634
 3,LCN,170,Colombia,COL,06/03/2020,1,0,0,
 3,LCN,170,Colombia,COL,07/03/2020,1,0,0,
 3,LCN,170,Colombia,COL,10/03/2020,3,0,0,
@@ -5045,6 +5151,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,174,Comoros,COM,18/07/2020,328,7,311,
 8,SSF,174,Comoros,COM,19/07/2020,328,7,311,
 8,SSF,174,Comoros,COM,20/07/2020,334,7,313,
+8,SSF,174,Comoros,COM,21/07/2020,334,7,313,
+8,SSF,174,Comoros,COM,22/07/2020,337,7,319,
+8,SSF,174,Comoros,COM,23/07/2020,337,7,319,
 3,LCN,175,Mayotte,MYT,16/03/2020,2,0,0,
 3,LCN,175,Mayotte,MYT,18/03/2020,3,0,0,
 3,LCN,175,Mayotte,MYT,20/03/2020,6,0,0,
@@ -5169,6 +5278,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,175,Mayotte,MYT,18/07/2020,2782,37,2591,
 3,LCN,175,Mayotte,MYT,19/07/2020,2782,37,2591,
 3,LCN,175,Mayotte,MYT,20/07/2020,2782,37,2591,
+3,LCN,175,Mayotte,MYT,21/07/2020,2808,38,2591,
+3,LCN,175,Mayotte,MYT,22/07/2020,2824,38,2614,
+3,LCN,175,Mayotte,MYT,23/07/2020,2839,38,2614,
 8,SSF,178,Congo,COG,15/03/2020,1,0,0,
 8,SSF,178,Congo,COG,16/03/2020,2,0,0,
 8,SSF,178,Congo,COG,19/03/2020,3,0,0,
@@ -5292,6 +5404,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,178,Congo,COG,18/07/2020,2633,49,626,
 8,SSF,178,Congo,COG,19/07/2020,2633,49,626,
 8,SSF,178,Congo,COG,20/07/2020,2633,49,626,
+8,SSF,178,Congo,COG,21/07/2020,2851,50,666,
+8,SSF,178,Congo,COG,22/07/2020,2851,50,666,
+8,SSF,178,Congo,COG,23/07/2020,2851,50,666,
 8,SSF,180,"Congo, Dem. Rep.",COD,11/03/2020,3,0,0,
 8,SSF,180,"Congo, Dem. Rep.",COD,13/03/2020,2,0,0,
 8,SSF,180,"Congo, Dem. Rep.",COD,17/03/2020,3,0,0,
@@ -5419,6 +5534,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,180,"Congo, Dem. Rep.",COD,18/07/2020,8249,193,4248,
 8,SSF,180,"Congo, Dem. Rep.",COD,19/07/2020,8324,193,4313,
 8,SSF,180,"Congo, Dem. Rep.",COD,20/07/2020,8403,194,4335,
+8,SSF,180,"Congo, Dem. Rep.",COD,21/07/2020,8443,194,4335,
+8,SSF,180,"Congo, Dem. Rep.",COD,22/07/2020,8534,196,4528,
+8,SSF,180,"Congo, Dem. Rep.",COD,23/07/2020,8626,197,4790,
 3,LCN,188,Costa Rica,CRI,06/03/2020,1,0,0,
 3,LCN,188,Costa Rica,CRI,07/03/2020,1,0,0,
 3,LCN,188,Costa Rica,CRI,08/03/2020,5,0,0,
@@ -5553,6 +5671,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,188,Costa Rica,CRI,18/07/2020,9969,47,2818,
 3,LCN,188,Costa Rica,CRI,19/07/2020,10551,54,2902,
 3,LCN,188,Costa Rica,CRI,20/07/2020,11114,62,2966,
+3,LCN,188,Costa Rica,CRI,21/07/2020,11534,66,3019,
+3,LCN,188,Costa Rica,CRI,22/07/2020,11811,68,3194,
+3,LCN,188,Costa Rica,CRI,23/07/2020,12361,71,3322,
 2,ECS,191,Croatia,HRV,25/02/2020,1,0,0,
 2,ECS,191,Croatia,HRV,26/02/2020,3,0,0,
 2,ECS,191,Croatia,HRV,28/02/2020,5,0,0,
@@ -5692,6 +5813,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,191,Croatia,HRV,18/07/2020,4137,120,2825,
 2,ECS,191,Croatia,HRV,19/07/2020,4253,120,2929,
 2,ECS,191,Croatia,HRV,20/07/2020,4345,120,3018,
+2,ECS,191,Croatia,HRV,21/07/2020,4370,122,3101,
+2,ECS,191,Croatia,HRV,22/07/2020,4422,123,3183,
+2,ECS,191,Croatia,HRV,23/07/2020,4530,125,3278,
 3,LCN,192,Cuba,CUB,11/03/2020,4,0,0,
 3,LCN,192,Cuba,CUB,12/03/2020,3,0,0,
 3,LCN,192,Cuba,CUB,13/03/2020,4,0,0,
@@ -5820,6 +5944,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,192,Cuba,CUB,18/07/2020,2444,87,2300,
 3,LCN,192,Cuba,CUB,19/07/2020,2445,87,2304,
 3,LCN,192,Cuba,CUB,20/07/2020,2446,87,2308,
+3,LCN,192,Cuba,CUB,21/07/2020,2446,87,2308,
+3,LCN,192,Cuba,CUB,22/07/2020,2449,87,2321,
+3,LCN,192,Cuba,CUB,23/07/2020,2462,87,2326,
 2,ECS,196,Cyprus,CYP,09/03/2020,2,0,0,
 2,ECS,196,Cyprus,CYP,10/03/2020,3,0,0,
 2,ECS,196,Cyprus,CYP,11/03/2020,20,0,0,
@@ -5949,6 +6076,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,196,Cyprus,CYP,18/07/2020,1033,19,845,
 2,ECS,196,Cyprus,CYP,19/07/2020,1037,19,845,
 2,ECS,196,Cyprus,CYP,20/07/2020,1038,19,845,
+2,ECS,196,Cyprus,CYP,21/07/2020,1038,19,847,
+2,ECS,196,Cyprus,CYP,22/07/2020,1040,19,847,
+2,ECS,196,Cyprus,CYP,23/07/2020,1040,19,847,
 2,ECS,203,Czechia,CZE,01/03/2020,3,0,0,
 2,ECS,203,Czechia,CZE,02/03/2020,3,0,0,
 2,ECS,203,Czechia,CZE,03/03/2020,5,0,0,
@@ -6088,6 +6218,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,203,Czechia,CZE,18/07/2020,13742,358,8725,
 2,ECS,203,Czechia,CZE,19/07/2020,13855,358,8733,
 2,ECS,203,Czechia,CZE,20/07/2020,13945,359,8761,
+2,ECS,203,Czechia,CZE,21/07/2020,14098,359,8836,
+2,ECS,203,Czechia,CZE,22/07/2020,14324,360,8918,
+2,ECS,203,Czechia,CZE,23/07/2020,14570,364,9144,
 8,SSF,204,Benin,BEN,16/03/2020,1,0,0,
 8,SSF,204,Benin,BEN,18/03/2020,2,0,0,
 8,SSF,204,Benin,BEN,22/03/2020,2,0,0,
@@ -6210,6 +6343,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,204,Benin,BEN,18/07/2020,1602,31,782,
 8,SSF,204,Benin,BEN,19/07/2020,1602,31,782,
 8,SSF,204,Benin,BEN,20/07/2020,1602,31,782,
+8,SSF,204,Benin,BEN,21/07/2020,1602,31,782,
+8,SSF,204,Benin,BEN,22/07/2020,1602,31,782,
+8,SSF,204,Benin,BEN,23/07/2020,1690,34,782,
 2,ECS,208,Denmark,DNK,27/02/2020,1,0,0,
 2,ECS,208,Denmark,DNK,29/02/2020,3,0,0,
 2,ECS,208,Denmark,DNK,01/03/2020,4,0,0,
@@ -6349,6 +6485,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,208,Denmark,DNK,18/07/2020,13173,611,12209,
 2,ECS,208,Denmark,DNK,19/07/2020,13173,611,12209,
 2,ECS,208,Denmark,DNK,20/07/2020,13173,611,12209,
+2,ECS,208,Denmark,DNK,21/07/2020,13262,611,12251,
+2,ECS,208,Denmark,DNK,22/07/2020,13302,611,12261,
+2,ECS,208,Denmark,DNK,23/07/2020,13350,611,12274,
 3,LCN,212,Dominica,DMA,22/03/2020,1,0,0,
 3,LCN,212,Dominica,DMA,23/03/2020,2,0,0,
 3,LCN,212,Dominica,DMA,24/03/2020,2,0,0,
@@ -6469,6 +6608,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,212,Dominica,DMA,18/07/2020,18,0,18,
 3,LCN,212,Dominica,DMA,19/07/2020,18,0,18,
 3,LCN,212,Dominica,DMA,20/07/2020,18,0,18,
+3,LCN,212,Dominica,DMA,21/07/2020,18,0,18,
+3,LCN,212,Dominica,DMA,22/07/2020,18,0,18,
+3,LCN,212,Dominica,DMA,23/07/2020,18,0,18,
 3,LCN,214,Dominican Rep.,DOM,01/03/2020,1,0,0,
 3,LCN,214,Dominican Rep.,DOM,02/03/2020,1,0,0,
 3,LCN,214,Dominican Rep.,DOM,06/03/2020,2,0,0,
@@ -6599,6 +6741,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,214,Dominican Rep.,DOM,18/07/2020,50113,942,24423,
 3,LCN,214,Dominican Rep.,DOM,19/07/2020,51519,971,24607,
 3,LCN,214,Dominican Rep.,DOM,20/07/2020,52855,981,25094,
+3,LCN,214,Dominican Rep.,DOM,21/07/2020,53956,993,25561,
+3,LCN,214,Dominican Rep.,DOM,22/07/2020,54797,999,25976,
+3,LCN,214,Dominican Rep.,DOM,23/07/2020,56043,1005,26466,
 3,LCN,218,Ecuador,ECU,01/03/2020,6,0,0,
 3,LCN,218,Ecuador,ECU,03/03/2020,7,0,0,
 3,LCN,218,Ecuador,ECU,04/03/2020,10,0,0,
@@ -6733,6 +6878,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,218,Ecuador,ECU,18/07/2020,72444,5250,31404,
 3,LCN,218,Ecuador,ECU,19/07/2020,73382,5282,31757,
 3,LCN,218,Ecuador,ECU,20/07/2020,74013,5313,31901,
+3,LCN,218,Ecuador,ECU,21/07/2020,74620,5318,31955,
+3,LCN,218,Ecuador,ECU,22/07/2020,76217,5366,32725,
+3,LCN,218,Ecuador,ECU,23/07/2020,77257,5418,33125,
 3,LCN,222,El Salvador,SLV,19/03/2020,1,0,0,
 3,LCN,222,El Salvador,SLV,21/03/2020,3,0,0,
 3,LCN,222,El Salvador,SLV,22/03/2020,3,0,0,
@@ -6855,6 +7003,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,222,El Salvador,SLV,18/07/2020,11207,309,6422,
 3,LCN,222,El Salvador,SLV,19/07/2020,11508,324,6560,
 3,LCN,222,El Salvador,SLV,20/07/2020,11846,335,6705,
+3,LCN,222,El Salvador,SLV,21/07/2020,12207,344,6831,
+3,LCN,222,El Salvador,SLV,22/07/2020,12582,352,6965,
+3,LCN,222,El Salvador,SLV,23/07/2020,12975,363,7119,
 8,SSF,226,Equatorial Guinea,GNQ,15/03/2020,1,0,0,
 8,SSF,226,Equatorial Guinea,GNQ,18/03/2020,4,0,0,
 8,SSF,226,Equatorial Guinea,GNQ,19/03/2020,6,0,0,
@@ -6978,6 +7129,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,226,Equatorial Guinea,GNQ,18/07/2020,3071,51,842,
 8,SSF,226,Equatorial Guinea,GNQ,19/07/2020,3071,51,842,
 8,SSF,226,Equatorial Guinea,GNQ,20/07/2020,3071,51,842,
+8,SSF,226,Equatorial Guinea,GNQ,21/07/2020,3071,51,842,
+8,SSF,226,Equatorial Guinea,GNQ,22/07/2020,3071,51,842,
+8,SSF,226,Equatorial Guinea,GNQ,23/07/2020,3071,51,842,
 8,SSF,231,Ethiopia,ETH,11/03/2020,1,0,0,
 8,SSF,231,Ethiopia,ETH,13/03/2020,1,0,0,
 8,SSF,231,Ethiopia,ETH,16/03/2020,5,0,0,
@@ -7103,6 +7257,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,231,Ethiopia,ETH,18/07/2020,8803,150,2430,
 8,SSF,231,Ethiopia,ETH,19/07/2020,9147,163,2430,
 8,SSF,231,Ethiopia,ETH,20/07/2020,9503,167,2430,
+8,SSF,231,Ethiopia,ETH,21/07/2020,10207,170,2430,
+8,SSF,231,Ethiopia,ETH,22/07/2020,11072,180,5448,
+8,SSF,231,Ethiopia,ETH,23/07/2020,11524,188,5506,
 8,SSF,232,Eritrea,ERI,21/03/2020,1,0,0,
 8,SSF,232,Eritrea,ERI,22/03/2020,1,0,0,
 8,SSF,232,Eritrea,ERI,23/03/2020,1,0,0,
@@ -7224,6 +7381,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,232,Eritrea,ERI,18/07/2020,251,0,155,
 8,SSF,232,Eritrea,ERI,19/07/2020,251,0,155,
 8,SSF,232,Eritrea,ERI,20/07/2020,251,0,155,
+8,SSF,232,Eritrea,ERI,21/07/2020,251,0,155,
+8,SSF,232,Eritrea,ERI,22/07/2020,251,0,155,
+8,SSF,232,Eritrea,ERI,23/07/2020,251,0,155,
 2,ECS,233,Estonia,EST,27/02/2020,1,0,0,
 2,ECS,233,Estonia,EST,03/03/2020,2,0,0,
 2,ECS,233,Estonia,EST,05/03/2020,3,0,0,
@@ -7358,6 +7518,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,233,Estonia,EST,18/07/2020,2020,69,1910,
 2,ECS,233,Estonia,EST,19/07/2020,2021,69,1912,
 2,ECS,233,Estonia,EST,20/07/2020,2021,69,1912,
+2,ECS,233,Estonia,EST,21/07/2020,2021,69,1912,
+2,ECS,233,Estonia,EST,22/07/2020,2022,69,1912,
+2,ECS,233,Estonia,EST,23/07/2020,2025,69,1912,
 2,ECS,234,Faroe Islands,FRO,04/03/2020,1,0,0,
 2,ECS,234,Faroe Islands,FRO,08/03/2020,2,0,0,
 2,ECS,234,Faroe Islands,FRO,11/03/2020,5,0,0,
@@ -7489,6 +7652,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,234,Faroe Islands,FRO,18/07/2020,188,0,188,
 2,ECS,234,Faroe Islands,FRO,19/07/2020,188,0,188,
 2,ECS,234,Faroe Islands,FRO,20/07/2020,191,0,188,
+2,ECS,234,Faroe Islands,FRO,21/07/2020,191,0,188,
+2,ECS,234,Faroe Islands,FRO,22/07/2020,191,0,188,
+2,ECS,234,Faroe Islands,FRO,23/07/2020,191,0,188,
 3,LCN,238,Falkland Islands (Malvinas),FLK,07/04/2020,2,0,0,
 3,LCN,238,Falkland Islands (Malvinas),FLK,08/04/2020,5,0,1,
 3,LCN,238,Falkland Islands (Malvinas),FLK,09/04/2020,5,0,1,
@@ -7496,9 +7662,8 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,238,Falkland Islands (Malvinas),FLK,11/04/2020,5,0,1,
 3,LCN,238,Falkland Islands (Malvinas),FLK,12/04/2020,5,0,1,
 3,LCN,238,Falkland Islands (Malvinas),FLK,13/04/2020,5,0,1,
-3,LCN,238,Falkland Islands (Malvinas),FLK,14/04/2020,11,0,1,
 3,LCN,238,Falkland Islands (Malvinas),FLK,15/04/2020,11,0,1,
-3,LCN,238,Falkland Islands (Malvinas),FLK,17/04/2020,11,0,1,
+3,LCN,238,Falkland Islands (Malvinas),FLK,16/04/2020,11,0,1,
 3,LCN,238,Falkland Islands (Malvinas),FLK,18/04/2020,11,0,3,
 3,LCN,238,Falkland Islands (Malvinas),FLK,19/04/2020,11,0,3,
 3,LCN,238,Falkland Islands (Malvinas),FLK,20/04/2020,11,0,3,
@@ -7592,6 +7757,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,238,Falkland Islands (Malvinas),FLK,18/07/2020,13,0,13,
 3,LCN,238,Falkland Islands (Malvinas),FLK,19/07/2020,13,0,13,
 3,LCN,238,Falkland Islands (Malvinas),FLK,20/07/2020,13,0,13,
+3,LCN,238,Falkland Islands (Malvinas),FLK,21/07/2020,13,0,13,
+3,LCN,238,Falkland Islands (Malvinas),FLK,22/07/2020,13,0,13,
+3,LCN,238,Falkland Islands (Malvinas),FLK,23/07/2020,13,0,13,
 1,EAS,242,Fiji,FJI,19/03/2020,1,0,0,
 1,EAS,242,Fiji,FJI,22/03/2020,2,0,0,
 1,EAS,242,Fiji,FJI,23/03/2020,3,0,0,
@@ -7713,6 +7881,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,242,Fiji,FJI,18/07/2020,26,0,18,
 1,EAS,242,Fiji,FJI,19/07/2020,26,0,18,
 1,EAS,242,Fiji,FJI,20/07/2020,27,0,18,
+1,EAS,242,Fiji,FJI,21/07/2020,27,0,18,
+1,EAS,242,Fiji,FJI,22/07/2020,27,0,18,
+1,EAS,242,Fiji,FJI,23/07/2020,27,0,18,
 2,ECS,246,Finland,FIN,29/01/2020,1,0,0,
 2,ECS,246,Finland,FIN,30/01/2020,1,0,0,
 2,ECS,246,Finland,FIN,31/01/2020,2,0,0,
@@ -7854,6 +8025,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,246,Finland,FIN,18/07/2020,7301,328,6880,
 2,ECS,246,Finland,FIN,19/07/2020,7318,328,6880,
 2,ECS,246,Finland,FIN,20/07/2020,7335,328,6880,
+2,ECS,246,Finland,FIN,21/07/2020,7340,328,6880,
+2,ECS,246,Finland,FIN,22/07/2020,7351,328,6880,
+2,ECS,246,Finland,FIN,23/07/2020,7362,328,6920,
 2,ECS,251,France,FRA,24/01/2020,2,0,0,
 2,ECS,251,France,FRA,25/01/2020,3,0,0,
 2,ECS,251,France,FRA,26/01/2020,3,0,0,
@@ -8002,6 +8176,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,251,France,FRA,18/07/2020,201448,30049,71979,
 2,ECS,251,France,FRA,19/07/2020,201285,30046,71639,
 2,ECS,251,France,FRA,20/07/2020,201281,30046,71639,
+2,ECS,251,France,FRA,21/07/2020,203242,30069,71494,
+2,ECS,251,France,FRA,22/07/2020,203696,30056,71382,
+2,ECS,251,France,FRA,23/07/2020,204641,30063,71238,
 3,LCN,254,French Guiana,GUF,07/03/2020,5,0,0,
 3,LCN,254,French Guiana,GUF,11/03/2020,5,0,0,
 3,LCN,254,French Guiana,GUF,15/03/2020,7,0,0,
@@ -8129,6 +8306,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,254,French Guiana,GUF,18/07/2020,6509,34,3932,
 3,LCN,254,French Guiana,GUF,19/07/2020,6655,37,4272,
 3,LCN,254,French Guiana,GUF,20/07/2020,6655,37,4272,
+3,LCN,254,French Guiana,GUF,21/07/2020,6745,38,4714,
+3,LCN,254,French Guiana,GUF,22/07/2020,6851,39,4996,
+3,LCN,254,French Guiana,GUF,23/07/2020,6883,39,5277,
 1,EAS,258,French Polynesia,PYF,11/03/2020,3,0,0,
 1,EAS,258,French Polynesia,PYF,14/03/2020,3,0,0,
 1,EAS,258,French Polynesia,PYF,15/03/2020,3,0,0,
@@ -8255,6 +8435,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,258,French Polynesia,PYF,18/07/2020,62,0,60,
 1,EAS,258,French Polynesia,PYF,19/07/2020,62,0,60,
 1,EAS,258,French Polynesia,PYF,20/07/2020,62,0,60,
+1,EAS,258,French Polynesia,PYF,21/07/2020,62,0,60,
+1,EAS,258,French Polynesia,PYF,22/07/2020,62,0,60,
+1,EAS,258,French Polynesia,PYF,23/07/2020,62,0,60,
 4,MEA,262,Djibouti,DJI,18/03/2020,1,0,0,
 4,MEA,262,Djibouti,DJI,19/03/2020,1,0,0,
 4,MEA,262,Djibouti,DJI,22/03/2020,1,0,0,
@@ -8377,6 +8560,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,262,Djibouti,DJI,18/07/2020,5003,56,4809,
 4,MEA,262,Djibouti,DJI,19/07/2020,5003,56,4809,
 4,MEA,262,Djibouti,DJI,20/07/2020,5011,56,4838,
+4,MEA,262,Djibouti,DJI,21/07/2020,5020,56,4868,
+4,MEA,262,Djibouti,DJI,22/07/2020,5027,56,4884,
+4,MEA,262,Djibouti,DJI,23/07/2020,5030,58,4904,
 8,SSF,266,Gabon,GAB,14/03/2020,1,0,0,
 8,SSF,266,Gabon,GAB,20/03/2020,3,1,0,
 8,SSF,266,Gabon,GAB,21/03/2020,4,1,0,
@@ -8500,6 +8686,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,266,Gabon,GAB,18/07/2020,6315,46,3865,
 8,SSF,266,Gabon,GAB,19/07/2020,6315,46,3865,
 8,SSF,266,Gabon,GAB,20/07/2020,6315,46,3865,
+8,SSF,266,Gabon,GAB,21/07/2020,6433,46,4034,
+8,SSF,266,Gabon,GAB,22/07/2020,6433,46,4034,
+8,SSF,266,Gabon,GAB,23/07/2020,6588,47,4235,
 2,ECS,268,Georgia,GEO,26/02/2020,1,0,0,
 2,ECS,268,Georgia,GEO,27/02/2020,1,0,0,
 2,ECS,268,Georgia,GEO,01/03/2020,3,0,0,
@@ -8634,6 +8823,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,268,Georgia,GEO,18/07/2020,1010,15,885,
 2,ECS,268,Georgia,GEO,19/07/2020,1018,15,895,
 2,ECS,268,Georgia,GEO,20/07/2020,1028,15,899,
+2,ECS,268,Georgia,GEO,21/07/2020,1039,16,900,
+2,ECS,268,Georgia,GEO,22/07/2020,1049,16,903,
+2,ECS,268,Georgia,GEO,23/07/2020,1073,16,907,
 8,SSF,270,Gambia,GMB,17/03/2020,1,0,0,
 8,SSF,270,Gambia,GMB,18/03/2020,1,0,0,
 8,SSF,270,Gambia,GMB,22/03/2020,1,0,0,
@@ -8756,6 +8948,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,270,Gambia,GMB,18/07/2020,78,3,34,
 8,SSF,270,Gambia,GMB,19/07/2020,93,4,49,
 8,SSF,270,Gambia,GMB,20/07/2020,93,4,49,
+8,SSF,270,Gambia,GMB,21/07/2020,112,4,57,
+8,SSF,270,Gambia,GMB,22/07/2020,112,4,57,
+8,SSF,270,Gambia,GMB,23/07/2020,146,5,57,
 4,MEA,275,State of Palestine,PSE,05/03/2020,4,0,0,
 4,MEA,275,State of Palestine,PSE,06/03/2020,16,0,0,
 4,MEA,275,State of Palestine,PSE,07/03/2020,22,0,0,
@@ -8876,6 +9071,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,275,State of Palestine,PSE,18/07/2020,7764,53,1492,
 4,MEA,275,State of Palestine,PSE,19/07/2020,8204,59,1596,
 4,MEA,275,State of Palestine,PSE,20/07/2020,8549,62,1921,
+4,MEA,275,State of Palestine,PSE,21/07/2020,8916,63,1921,
+4,MEA,275,State of Palestine,PSE,22/07/2020,9228,64,1932,
+4,MEA,275,State of Palestine,PSE,23/07/2020,9398,66,1950,
 2,ECS,276,Germany,DEU,01/02/2020,8,0,0,
 2,ECS,276,Germany,DEU,02/02/2020,10,0,0,
 2,ECS,276,Germany,DEU,03/02/2020,12,0,0,
@@ -9089,6 +9287,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,288,Ghana,GHA,18/07/2020,26572,144,22915,
 8,SSF,288,Ghana,GHA,19/07/2020,27060,145,23044,
 8,SSF,288,Ghana,GHA,20/07/2020,27667,148,23249,
+8,SSF,288,Ghana,GHA,21/07/2020,28430,153,24901,
+8,SSF,288,Ghana,GHA,22/07/2020,28989,153,25331,
+8,SSF,288,Ghana,GHA,23/07/2020,29672,153,26090,
 2,ECS,292,Gibraltar,GIB,04/03/2020,1,0,0,
 2,ECS,292,Gibraltar,GIB,10/03/2020,1,0,1,
 2,ECS,292,Gibraltar,GIB,11/03/2020,1,0,1,
@@ -9216,6 +9417,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,292,Gibraltar,GIB,18/07/2020,180,0,180,
 2,ECS,292,Gibraltar,GIB,19/07/2020,180,0,180,
 2,ECS,292,Gibraltar,GIB,20/07/2020,180,0,180,
+2,ECS,292,Gibraltar,GIB,21/07/2020,180,0,180,
+2,ECS,292,Gibraltar,GIB,22/07/2020,180,0,180,
+2,ECS,292,Gibraltar,GIB,23/07/2020,182,0,180,
 2,ECS,300,Greece,GRC,26/02/2020,1,0,0,
 2,ECS,300,Greece,GRC,27/02/2020,3,0,0,
 2,ECS,300,Greece,GRC,28/02/2020,4,0,0,
@@ -9355,6 +9559,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,300,Greece,GRC,18/07/2020,3964,194,1374,
 2,ECS,300,Greece,GRC,19/07/2020,3983,194,1374,
 2,ECS,300,Greece,GRC,20/07/2020,4007,194,1374,
+2,ECS,300,Greece,GRC,21/07/2020,4012,195,1374,
+2,ECS,300,Greece,GRC,22/07/2020,4048,197,1374,
+2,ECS,300,Greece,GRC,23/07/2020,4077,200,1374,
 2,ECS,304,Greenland,GRL,16/03/2020,1,0,0,
 2,ECS,304,Greenland,GRL,19/03/2020,2,0,0,
 2,ECS,304,Greenland,GRL,22/03/2020,4,0,0,
@@ -9477,6 +9684,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,304,Greenland,GRL,18/07/2020,13,0,13,
 2,ECS,304,Greenland,GRL,19/07/2020,13,0,13,
 2,ECS,304,Greenland,GRL,20/07/2020,13,0,13,
+2,ECS,304,Greenland,GRL,21/07/2020,13,0,13,
+2,ECS,304,Greenland,GRL,22/07/2020,13,0,13,
+2,ECS,304,Greenland,GRL,23/07/2020,13,0,13,
 3,LCN,308,Grenada,GRD,22/03/2020,1,0,0,
 3,LCN,308,Grenada,GRD,23/03/2020,1,0,0,
 3,LCN,308,Grenada,GRD,24/03/2020,1,0,0,
@@ -9597,6 +9807,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,308,Grenada,GRD,18/07/2020,23,0,23,
 3,LCN,308,Grenada,GRD,19/07/2020,23,0,23,
 3,LCN,308,Grenada,GRD,20/07/2020,23,0,23,
+3,LCN,308,Grenada,GRD,21/07/2020,23,0,23,
+3,LCN,308,Grenada,GRD,22/07/2020,23,0,23,
+3,LCN,308,Grenada,GRD,23/07/2020,23,0,23,
 3,LCN,312,Guadeloupe,GLP,11/03/2020,1,0,0,
 3,LCN,312,Guadeloupe,GLP,13/03/2020,4,0,0,
 3,LCN,312,Guadeloupe,GLP,16/03/2020,6,0,0,
@@ -9725,6 +9938,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,312,Guadeloupe,GLP,18/07/2020,195,14,172,
 3,LCN,312,Guadeloupe,GLP,19/07/2020,195,14,172,
 3,LCN,312,Guadeloupe,GLP,20/07/2020,195,14,172,
+3,LCN,312,Guadeloupe,GLP,21/07/2020,195,14,172,
+3,LCN,312,Guadeloupe,GLP,22/07/2020,195,14,172,
+3,LCN,312,Guadeloupe,GLP,23/07/2020,195,14,172,
 1,EAS,316,Guam,GUM,16/03/2020,3,0,0,
 3,LCN,320,Guatemala,GTM,14/03/2020,1,0,0,
 3,LCN,320,Guatemala,GTM,16/03/2020,2,1,0,
@@ -9851,6 +10067,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,320,Guatemala,GTM,17/07/2020,32939,1404,4807,
 3,LCN,320,Guatemala,GTM,18/07/2020,71851,2892,28354,
 3,LCN,320,Guatemala,GTM,20/07/2020,38677,1485,23365,
+3,LCN,320,Guatemala,GTM,21/07/2020,39039,1502,25539,
+3,LCN,320,Guatemala,GTM,22/07/2020,40229,1531,26685,
+3,LCN,320,Guatemala,GTM,23/07/2020,41135,1573,27756,
 8,SSF,324,Guinea,GIN,11/03/2020,1,0,0,
 8,SSF,324,Guinea,GIN,13/03/2020,1,0,0,
 8,SSF,324,Guinea,GIN,15/03/2020,1,0,0,
@@ -9975,6 +10194,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,324,Guinea,GIN,18/07/2020,6430,39,5233,
 8,SSF,324,Guinea,GIN,19/07/2020,6491,39,5257,
 8,SSF,324,Guinea,GIN,20/07/2020,6544,39,5511,
+8,SSF,324,Guinea,GIN,21/07/2020,6590,40,5591,
+8,SSF,324,Guinea,GIN,22/07/2020,6652,41,5771,
+8,SSF,324,Guinea,GIN,23/07/2020,6747,41,5891,
 3,LCN,328,Guyana,GUY,11/03/2020,1,1,0,
 3,LCN,328,Guyana,GUY,12/03/2020,1,1,0,
 3,LCN,328,Guyana,GUY,14/03/2020,1,1,0,
@@ -10100,6 +10322,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,328,Guyana,GUY,18/07/2020,320,19,156,
 3,LCN,328,Guyana,GUY,19/07/2020,327,19,163,
 3,LCN,328,Guyana,GUY,20/07/2020,336,19,163,
+3,LCN,328,Guyana,GUY,21/07/2020,337,19,163,
+3,LCN,328,Guyana,GUY,22/07/2020,339,19,163,
+3,LCN,328,Guyana,GUY,23/07/2020,350,19,165,
 3,LCN,332,Haiti,HTI,20/03/2020,2,0,0,
 3,LCN,332,Haiti,HTI,21/03/2020,2,0,0,
 3,LCN,332,Haiti,HTI,22/03/2020,2,0,0,
@@ -10222,6 +10447,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,332,Haiti,HTI,18/07/2020,6975,146,3738,
 3,LCN,332,Haiti,HTI,19/07/2020,7053,146,3877,
 3,LCN,332,Haiti,HTI,20/07/2020,7053,146,3877,
+3,LCN,332,Haiti,HTI,21/07/2020,7053,146,3877,
+3,LCN,332,Haiti,HTI,22/07/2020,7100,151,4095,
+3,LCN,332,Haiti,HTI,23/07/2020,7167,154,4095,
 2,ECS,336,Holy See,VAT,06/03/2020,1,0,0,
 2,ECS,336,Holy See,VAT,10/03/2020,1,0,0,
 2,ECS,336,Holy See,VAT,11/03/2020,1,0,0,
@@ -10346,6 +10574,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,336,Holy See,VAT,18/07/2020,12,0,12,
 2,ECS,336,Holy See,VAT,19/07/2020,12,0,12,
 2,ECS,336,Holy See,VAT,20/07/2020,12,0,12,
+2,ECS,336,Holy See,VAT,21/07/2020,12,0,12,
+2,ECS,336,Holy See,VAT,22/07/2020,12,0,12,
+2,ECS,336,Holy See,VAT,23/07/2020,12,0,12,
 3,LCN,340,Honduras,HND,11/03/2020,2,0,0,
 3,LCN,340,Honduras,HND,13/03/2020,2,0,0,
 3,LCN,340,Honduras,HND,15/03/2020,3,0,0,
@@ -10474,6 +10705,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,340,Honduras,HND,18/07/2020,31745,857,3565,
 3,LCN,340,Honduras,HND,19/07/2020,32793,891,3661,
 3,LCN,340,Honduras,HND,20/07/2020,33835,900,3801,
+3,LCN,340,Honduras,HND,21/07/2020,34611,935,3905,
+3,LCN,340,Honduras,HND,22/07/2020,35345,988,4144,
+3,LCN,340,Honduras,HND,23/07/2020,36102,1006,4315,
 1,EAS,344,"China, Hong Kong SAR",HKG,23/01/2020,2,0,0,
 1,EAS,344,"China, Hong Kong SAR",HKG,24/01/2020,2,0,0,
 1,EAS,344,"China, Hong Kong SAR",HKG,25/01/2020,5,0,0,
@@ -10650,6 +10884,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,344,"China, Hong Kong SAR",HKG,18/07/2020,1655,10,1254,
 1,EAS,344,"China, Hong Kong SAR",HKG,19/07/2020,1655,10,1254,
 1,EAS,344,"China, Hong Kong SAR",HKG,20/07/2020,1655,10,1254,
+1,EAS,344,"China, Hong Kong SAR",HKG,21/07/2020,1655,10,1254,
+1,EAS,344,"China, Hong Kong SAR",HKG,22/07/2020,1655,10,1254,
+1,EAS,344,"China, Hong Kong SAR",HKG,23/07/2020,2131,14,1344,
 2,ECS,348,Hungary,HUN,04/03/2020,2,0,0,
 2,ECS,348,Hungary,HUN,05/03/2020,2,0,0,
 2,ECS,348,Hungary,HUN,07/03/2020,4,0,0,
@@ -10784,6 +11021,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,348,Hungary,HUN,18/07/2020,4293,595,3220,
 2,ECS,348,Hungary,HUN,19/07/2020,4315,596,3222,
 2,ECS,348,Hungary,HUN,20/07/2020,4333,596,3223,
+2,ECS,348,Hungary,HUN,21/07/2020,4339,596,3232,
+2,ECS,348,Hungary,HUN,22/07/2020,4347,596,3257,
+2,ECS,348,Hungary,HUN,23/07/2020,4366,596,3283,
 2,ECS,352,Iceland,ISL,28/02/2020,1,0,0,
 2,ECS,352,Iceland,ISL,29/02/2020,1,0,0,
 2,ECS,352,Iceland,ISL,01/03/2020,3,0,0,
@@ -10925,6 +11165,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,352,Iceland,ISL,18/07/2020,1916,10,1895,
 2,ECS,352,Iceland,ISL,19/07/2020,1922,10,1902,
 2,ECS,352,Iceland,ISL,20/07/2020,1930,10,1907,
+2,ECS,352,Iceland,ISL,21/07/2020,1930,10,1907,
+2,ECS,352,Iceland,ISL,22/07/2020,1839,10,1821,
+2,ECS,352,Iceland,ISL,23/07/2020,1840,10,1822,
 1,EAS,360,Indonesia,IDN,02/03/2020,2,0,0,
 1,EAS,360,Indonesia,IDN,06/03/2020,4,0,0,
 1,EAS,360,Indonesia,IDN,08/03/2020,6,0,0,
@@ -11059,6 +11302,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,360,Indonesia,IDN,18/07/2020,83130,3957,41834,
 1,EAS,360,Indonesia,IDN,19/07/2020,84882,4016,43268,
 1,EAS,360,Indonesia,IDN,20/07/2020,86521,4143,45401,
+1,EAS,360,Indonesia,IDN,21/07/2020,88214,4239,46977,
+1,EAS,360,Indonesia,IDN,22/07/2020,89869,4320,48466,
+1,EAS,360,Indonesia,IDN,23/07/2020,91751,4459,50255,
 4,MEA,364,Iran,IRN,19/02/2020,2,2,0,
 4,MEA,364,Iran,IRN,20/02/2020,5,2,0,
 4,MEA,364,Iran,IRN,21/02/2020,18,4,0,
@@ -11210,6 +11456,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,364,Iran,IRN,18/07/2020,269440,13791,232873,
 4,MEA,364,Iran,IRN,19/07/2020,271606,13979,235300,
 4,MEA,364,Iran,IRN,20/07/2020,273788,14188,237788,
+4,MEA,364,Iran,IRN,21/07/2020,276202,14405,240087,
+4,MEA,364,Iran,IRN,22/07/2020,278827,14634,242351,
+4,MEA,364,Iran,IRN,23/07/2020,281413,14853,244840,
 4,MEA,368,Iraq,IRQ,24/02/2020,1,0,0,
 4,MEA,368,Iraq,IRQ,26/02/2020,5,0,0,
 4,MEA,368,Iraq,IRQ,27/02/2020,7,0,0,
@@ -11352,6 +11601,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,368,Iraq,IRQ,18/07/2020,88171,3616,56495,
 4,MEA,368,Iraq,IRQ,19/07/2020,90220,3691,58492,
 4,MEA,368,Iraq,IRQ,20/07/2020,92530,3781,60528,
+4,MEA,368,Iraq,IRQ,21/07/2020,94693,3869,62836,
+4,MEA,368,Iraq,IRQ,22/07/2020,97159,3950,64950,
+4,MEA,368,Iraq,IRQ,23/07/2020,99865,4042,67147,
 2,ECS,372,Ireland,IRL,29/02/2020,1,0,0,
 2,ECS,372,Ireland,IRL,01/03/2020,1,0,0,
 2,ECS,372,Ireland,IRL,03/03/2020,2,0,0,
@@ -11488,6 +11740,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,372,Ireland,IRL,18/07/2020,25730,1752,23364,
 2,ECS,372,Ireland,IRL,19/07/2020,25750,1753,23364,
 2,ECS,372,Ireland,IRL,20/07/2020,25760,1753,23364,
+2,ECS,372,Ireland,IRL,21/07/2020,25766,1753,23364,
+2,ECS,372,Ireland,IRL,22/07/2020,25802,1753,23364,
+2,ECS,372,Ireland,IRL,23/07/2020,25819,1754,23364,
 4,MEA,376,Israel,ISR,26/02/2020,2,0,0,
 4,MEA,376,Israel,ISR,27/02/2020,3,0,1,
 4,MEA,376,Israel,ISR,28/02/2020,4,0,1,
@@ -11629,6 +11884,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,376,Israel,ISR,18/07/2020,47459,392,20744,
 4,MEA,376,Israel,ISR,19/07/2020,49365,401,21348,
 4,MEA,376,Israel,ISR,20/07/2020,50289,409,21675,
+4,MEA,376,Israel,ISR,21/07/2020,52003,415,22154,
+4,MEA,376,Israel,ISR,22/07/2020,54042,425,22743,
+4,MEA,376,Israel,ISR,23/07/2020,56085,430,23310,
 2,ECS,381,Italy,ITA,31/01/2020,4,0,0,
 2,ECS,381,Italy,ITA,07/02/2020,3,0,0,
 2,ECS,381,Italy,ITA,21/02/2020,20,1,0,
@@ -11840,6 +12098,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,388,Jamaica,JAM,18/07/2020,768,10,678,
 3,LCN,388,Jamaica,JAM,19/07/2020,774,10,679,
 3,LCN,388,Jamaica,JAM,20/07/2020,790,10,693,
+3,LCN,388,Jamaica,JAM,21/07/2020,809,10,706,
+3,LCN,388,Jamaica,JAM,22/07/2020,810,10,709,
+3,LCN,388,Jamaica,JAM,23/07/2020,816,10,710,
 1,EAS,392,Japan,JPN,22/01/2020,2,0,0,
 1,EAS,392,Japan,JPN,23/01/2020,1,0,0,
 1,EAS,392,Japan,JPN,24/01/2020,2,0,0,
@@ -12090,6 +12351,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,398,Kazakhstan,KAZ,18/07/2020,68703,375,40256,
 2,ECS,398,Kazakhstan,KAZ,19/07/2020,68703,375,40256,
 2,ECS,398,Kazakhstan,KAZ,20/07/2020,71838,375,43029,
+2,ECS,398,Kazakhstan,KAZ,21/07/2020,73468,585,43401,
+2,ECS,398,Kazakhstan,KAZ,22/07/2020,75153,585,46790,
+2,ECS,398,Kazakhstan,KAZ,23/07/2020,76799,585,48220,
 4,MEA,400,Jordan,JOR,03/03/2020,1,0,0,
 4,MEA,400,Jordan,JOR,11/03/2020,1,0,1,
 4,MEA,400,Jordan,JOR,14/03/2020,1,0,1,
@@ -12219,6 +12483,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,400,Jordan,JOR,18/07/2020,1209,10,1021,
 4,MEA,400,Jordan,JOR,19/07/2020,1214,11,1022,
 4,MEA,400,Jordan,JOR,20/07/2020,1218,11,1024,
+4,MEA,400,Jordan,JOR,21/07/2020,1223,11,1028,
+4,MEA,400,Jordan,JOR,22/07/2020,1113,11,1034,
+4,MEA,400,Jordan,JOR,23/07/2020,1120,11,1035,
 8,SSF,404,Kenya,KEN,11/03/2020,1,0,0,
 8,SSF,404,Kenya,KEN,13/03/2020,4,0,0,
 8,SSF,404,Kenya,KEN,16/03/2020,3,0,0,
@@ -12343,6 +12610,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,404,Kenya,KEN,18/07/2020,12062,222,3983,
 8,SSF,404,Kenya,KEN,19/07/2020,12750,225,4440,
 8,SSF,404,Kenya,KEN,20/07/2020,13353,234,5122,
+8,SSF,404,Kenya,KEN,21/07/2020,13771,238,5616,
+8,SSF,404,Kenya,KEN,22/07/2020,14168,250,6258,
+8,SSF,404,Kenya,KEN,23/07/2020,14805,260,6757,
 1,EAS,410,Rep. of Korea,KOR,22/01/2020,1,0,0,
 1,EAS,410,Rep. of Korea,KOR,23/01/2020,1,0,0,
 1,EAS,410,Rep. of Korea,KOR,24/01/2020,2,0,0,
@@ -12517,6 +12787,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,410,Rep. of Korea,KOR,18/07/2020,13711,294,12519,
 1,EAS,410,Rep. of Korea,KOR,19/07/2020,13745,295,12556,
 1,EAS,410,Rep. of Korea,KOR,20/07/2020,13771,296,12572,
+1,EAS,410,Rep. of Korea,KOR,21/07/2020,13816,296,12643,
+1,EAS,410,Rep. of Korea,KOR,22/07/2020,13879,297,12698,
+1,EAS,410,Rep. of Korea,KOR,23/07/2020,13938,297,12758,
 4,MEA,414,Kuwait,KWT,24/02/2020,1,0,0,
 4,MEA,414,Kuwait,KWT,25/02/2020,11,0,0,
 4,MEA,414,Kuwait,KWT,26/02/2020,26,0,0,
@@ -12657,6 +12930,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,414,Kuwait,KWT,18/07/2020,58221,404,48381,
 4,MEA,414,Kuwait,KWT,19/07/2020,58904,407,49020,
 4,MEA,414,Kuwait,KWT,20/07/2020,59204,408,49687,
+4,MEA,414,Kuwait,KWT,21/07/2020,59763,408,50339,
+4,MEA,414,Kuwait,KWT,22/07/2020,60434,412,50919,
+4,MEA,414,Kuwait,KWT,23/07/2020,61185,417,51520,
 2,ECS,417,Kyrgyzstan,KGZ,18/03/2020,3,0,0,
 2,ECS,417,Kyrgyzstan,KGZ,20/03/2020,6,0,0,
 2,ECS,417,Kyrgyzstan,KGZ,21/03/2020,14,0,0,
@@ -12780,6 +13056,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,417,Kyrgyzstan,KGZ,18/07/2020,13101,173,3821,
 2,ECS,417,Kyrgyzstan,KGZ,19/07/2020,24606,900,10704,
 2,ECS,417,Kyrgyzstan,KGZ,20/07/2020,27143,1037,13109,
+2,ECS,417,Kyrgyzstan,KGZ,21/07/2020,27143,1037,13109,
+2,ECS,417,Kyrgyzstan,KGZ,22/07/2020,28251,1079,14776,
+2,ECS,417,Kyrgyzstan,KGZ,23/07/2020,30349,1169,16791,
 1,EAS,418,Lao People's Dem. Rep.,LAO,24/03/2020,2,0,0,
 1,EAS,418,Lao People's Dem. Rep.,LAO,25/03/2020,3,0,0,
 1,EAS,418,Lao People's Dem. Rep.,LAO,26/03/2020,6,0,0,
@@ -12898,6 +13177,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,418,Lao People's Dem. Rep.,LAO,18/07/2020,19,0,19,
 1,EAS,418,Lao People's Dem. Rep.,LAO,19/07/2020,19,0,19,
 1,EAS,418,Lao People's Dem. Rep.,LAO,20/07/2020,19,0,19,
+1,EAS,418,Lao People's Dem. Rep.,LAO,21/07/2020,19,0,19,
+1,EAS,418,Lao People's Dem. Rep.,LAO,22/07/2020,19,0,19,
+1,EAS,418,Lao People's Dem. Rep.,LAO,23/07/2020,19,0,19,
 4,MEA,422,Lebanon,LBN,22/02/2020,1,0,0,
 4,MEA,422,Lebanon,LBN,26/02/2020,2,0,0,
 4,MEA,422,Lebanon,LBN,29/02/2020,4,0,0,
@@ -13038,6 +13320,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,422,Lebanon,LBN,18/07/2020,2700,40,1485,
 4,MEA,422,Lebanon,LBN,19/07/2020,2775,40,1485,
 4,MEA,422,Lebanon,LBN,20/07/2020,2859,40,1515,
+4,MEA,422,Lebanon,LBN,21/07/2020,2905,41,1562,
+4,MEA,422,Lebanon,LBN,22/07/2020,2980,41,1577,
+4,MEA,422,Lebanon,LBN,23/07/2020,3104,43,1607,
 8,SSF,426,Lesotho,LSO,14/05/2020,1,0,0,
 8,SSF,426,Lesotho,LSO,15/05/2020,1,0,0,
 8,SSF,426,Lesotho,LSO,16/05/2020,1,0,0,
@@ -13106,6 +13391,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,426,Lesotho,LSO,18/07/2020,311,6,69,
 8,SSF,426,Lesotho,LSO,19/07/2020,359,6,69,
 8,SSF,426,Lesotho,LSO,20/07/2020,359,6,69,
+8,SSF,426,Lesotho,LSO,21/07/2020,359,6,69,
+8,SSF,426,Lesotho,LSO,22/07/2020,359,6,69,
+8,SSF,426,Lesotho,LSO,23/07/2020,359,6,69,
 2,ECS,428,Latvia,LVA,02/03/2020,1,0,0,
 2,ECS,428,Latvia,LVA,04/03/2020,1,0,0,
 2,ECS,428,Latvia,LVA,08/03/2020,2,0,0,
@@ -13240,6 +13528,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,428,Latvia,LVA,18/07/2020,1185,31,1022,
 2,ECS,428,Latvia,LVA,19/07/2020,1189,31,1022,
 2,ECS,428,Latvia,LVA,20/07/2020,1192,31,1022,
+2,ECS,428,Latvia,LVA,21/07/2020,1192,31,1022,
+2,ECS,428,Latvia,LVA,22/07/2020,1193,31,1045,
+2,ECS,428,Latvia,LVA,23/07/2020,1197,31,1045,
 8,SSF,430,Liberia,LBR,16/03/2020,1,0,0,
 8,SSF,430,Liberia,LBR,17/03/2020,1,0,0,
 8,SSF,430,Liberia,LBR,18/03/2020,2,0,0,
@@ -13364,6 +13655,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,430,Liberia,LBR,18/07/2020,1085,69,496,
 8,SSF,430,Liberia,LBR,19/07/2020,1088,70,519,
 8,SSF,430,Liberia,LBR,20/07/2020,1091,70,534,
+8,SSF,430,Liberia,LBR,21/07/2020,1107,70,547,
+8,SSF,430,Liberia,LBR,22/07/2020,1108,70,575,
+8,SSF,430,Liberia,LBR,23/07/2020,1114,70,592,
 4,MEA,434,Libya,LBY,24/03/2020,1,0,0,
 4,MEA,434,Libya,LBY,25/03/2020,1,0,0,
 4,MEA,434,Libya,LBY,26/03/2020,1,0,0,
@@ -13482,6 +13776,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,434,Libya,LBY,18/07/2020,1704,47,380,
 4,MEA,434,Libya,LBY,19/07/2020,1791,48,385,
 4,MEA,434,Libya,LBY,20/07/2020,1866,48,418,
+4,MEA,434,Libya,LBY,21/07/2020,1980,49,441,
+4,MEA,434,Libya,LBY,22/07/2020,2088,50,479,
+4,MEA,434,Libya,LBY,23/07/2020,2176,53,489,
 2,ECS,438,Liechtenstein,LIE,04/03/2020,1,0,0,
 2,ECS,438,Liechtenstein,LIE,11/03/2020,1,0,0,
 2,ECS,438,Liechtenstein,LIE,14/03/2020,4,0,0,
@@ -13608,6 +13905,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,438,Liechtenstein,LIE,18/07/2020,85,1,81,
 2,ECS,438,Liechtenstein,LIE,19/07/2020,86,1,81,
 2,ECS,438,Liechtenstein,LIE,20/07/2020,86,1,81,
+2,ECS,438,Liechtenstein,LIE,21/07/2020,86,1,81,
+2,ECS,438,Liechtenstein,LIE,22/07/2020,86,1,81,
+2,ECS,438,Liechtenstein,LIE,23/07/2020,86,1,81,
 2,ECS,440,Lithuania,LTU,28/02/2020,1,0,0,
 2,ECS,440,Lithuania,LTU,11/03/2020,9,0,0,
 2,ECS,440,Lithuania,LTU,14/03/2020,8,0,0,
@@ -13738,6 +14038,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,440,Lithuania,LTU,18/07/2020,1908,79,1595,
 2,ECS,440,Lithuania,LTU,19/07/2020,1915,80,1600,
 2,ECS,440,Lithuania,LTU,20/07/2020,1932,80,1600,
+2,ECS,440,Lithuania,LTU,21/07/2020,1947,80,1601,
+2,ECS,440,Lithuania,LTU,22/07/2020,1949,80,1601,
+2,ECS,440,Lithuania,LTU,23/07/2020,1951,80,1607,
 2,ECS,442,Luxembourg,LUX,29/02/2020,1,0,0,
 2,ECS,442,Luxembourg,LUX,01/03/2020,1,0,0,
 2,ECS,442,Luxembourg,LUX,03/03/2020,1,0,0,
@@ -13874,6 +14177,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,442,Luxembourg,LUX,18/07/2020,5409,111,4333,
 2,ECS,442,Luxembourg,LUX,19/07/2020,5483,111,4333,
 2,ECS,442,Luxembourg,LUX,20/07/2020,5605,111,4333,
+2,ECS,442,Luxembourg,LUX,21/07/2020,5639,111,4464,
+2,ECS,442,Luxembourg,LUX,22/07/2020,5725,111,4479,
+2,ECS,442,Luxembourg,LUX,23/07/2020,5854,111,4530,
 1,EAS,446,"China, Macao SAR",MAC,22/01/2020,1,0,0,
 1,EAS,446,"China, Macao SAR",MAC,23/01/2020,2,0,0,
 1,EAS,446,"China, Macao SAR",MAC,24/01/2020,2,0,0,
@@ -14006,6 +14312,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,446,"China, Macao SAR",MAC,18/07/2020,46,0,45,
 1,EAS,446,"China, Macao SAR",MAC,19/07/2020,46,0,45,
 1,EAS,446,"China, Macao SAR",MAC,20/07/2020,46,0,45,
+1,EAS,446,"China, Macao SAR",MAC,21/07/2020,46,0,45,
+1,EAS,446,"China, Macao SAR",MAC,22/07/2020,46,0,45,
+1,EAS,446,"China, Macao SAR",MAC,23/07/2020,46,0,46,
 8,SSF,450,Madagascar,MDG,20/03/2020,3,0,0,
 8,SSF,450,Madagascar,MDG,22/03/2020,3,0,0,
 8,SSF,450,Madagascar,MDG,23/03/2020,12,0,0,
@@ -14127,6 +14436,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,450,Madagascar,MDG,18/07/2020,6467,54,3108,
 8,SSF,450,Madagascar,MDG,19/07/2020,6849,55,3339,
 8,SSF,450,Madagascar,MDG,20/07/2020,7049,59,3498,
+8,SSF,450,Madagascar,MDG,21/07/2020,7153,62,3788,
+8,SSF,450,Madagascar,MDG,22/07/2020,7548,65,4286,
+8,SSF,450,Madagascar,MDG,23/07/2020,8162,69,4662,
 8,SSF,454,Malawi,MWI,02/04/2020,3,0,0,
 8,SSF,454,Malawi,MWI,03/04/2020,3,0,0,
 8,SSF,454,Malawi,MWI,04/04/2020,4,0,0,
@@ -14236,6 +14548,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,454,Malawi,MWI,18/07/2020,2805,55,1107,
 8,SSF,454,Malawi,MWI,19/07/2020,2810,55,1111,
 8,SSF,454,Malawi,MWI,20/07/2020,2907,59,1135,
+8,SSF,454,Malawi,MWI,21/07/2020,2992,62,1153,
+8,SSF,454,Malawi,MWI,22/07/2020,3045,64,1180,
+8,SSF,454,Malawi,MWI,23/07/2020,3302,76,1282,
 1,EAS,458,Malaysia,MYS,25/01/2020,3,0,0,
 1,EAS,458,Malaysia,MYS,26/01/2020,4,0,0,
 1,EAS,458,Malaysia,MYS,27/01/2020,4,0,0,
@@ -14393,6 +14708,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,458,Malaysia,MYS,18/07/2020,8755,122,8541,
 1,EAS,458,Malaysia,MYS,19/07/2020,8764,122,8546,
 1,EAS,458,Malaysia,MYS,20/07/2020,8779,123,8553,
+1,EAS,458,Malaysia,MYS,21/07/2020,8800,123,8555,
+1,EAS,458,Malaysia,MYS,22/07/2020,8815,123,8562,
+1,EAS,458,Malaysia,MYS,23/07/2020,8831,123,8566,
 7,SAS,462,Maldives,MDV,08/03/2020,4,0,0,
 7,SAS,462,Maldives,MDV,10/03/2020,6,0,0,
 7,SAS,462,Maldives,MDV,11/03/2020,17,0,0,
@@ -14518,6 +14836,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,462,Maldives,MDV,18/07/2020,2913,15,2340,
 7,SAS,462,Maldives,MDV,19/07/2020,2930,15,2354,
 7,SAS,462,Maldives,MDV,20/07/2020,2966,15,2362,
+7,SAS,462,Maldives,MDV,21/07/2020,2999,15,2369,
+7,SAS,462,Maldives,MDV,22/07/2020,3044,15,2397,
+7,SAS,462,Maldives,MDV,23/07/2020,3103,15,2397,
 8,SSF,466,Mali,MLI,25/03/2020,2,0,0,
 8,SSF,466,Mali,MLI,26/03/2020,4,0,0,
 8,SSF,466,Mali,MLI,27/03/2020,11,0,0,
@@ -14635,6 +14956,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,466,Mali,MLI,18/07/2020,2467,121,1791,
 8,SSF,466,Mali,MLI,19/07/2020,2472,121,1809,
 8,SSF,466,Mali,MLI,20/07/2020,2475,121,1828,
+8,SSF,466,Mali,MLI,21/07/2020,2475,121,1851,
+8,SSF,466,Mali,MLI,22/07/2020,2477,122,1856,
+8,SSF,466,Mali,MLI,23/07/2020,2494,123,1869,
 4,MEA,470,Malta,MLT,07/03/2020,3,0,0,
 4,MEA,470,Malta,MLT,08/03/2020,3,0,0,
 4,MEA,470,Malta,MLT,10/03/2020,5,0,0,
@@ -14766,6 +15090,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,470,Malta,MLT,18/07/2020,674,9,662,
 4,MEA,470,Malta,MLT,19/07/2020,675,9,662,
 4,MEA,470,Malta,MLT,20/07/2020,677,9,662,
+4,MEA,470,Malta,MLT,21/07/2020,677,9,664,
+4,MEA,470,Malta,MLT,22/07/2020,677,9,664,
+4,MEA,470,Malta,MLT,23/07/2020,679,9,665,
 3,LCN,474,Martinique,MTQ,07/03/2020,2,0,0,
 3,LCN,474,Martinique,MTQ,11/03/2020,3,0,0,
 3,LCN,474,Martinique,MTQ,14/03/2020,9,0,0,
@@ -14894,6 +15221,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,474,Martinique,MTQ,18/07/2020,255,15,98,
 3,LCN,474,Martinique,MTQ,19/07/2020,262,15,98,
 3,LCN,474,Martinique,MTQ,20/07/2020,262,15,98,
+3,LCN,474,Martinique,MTQ,21/07/2020,262,15,98,
+3,LCN,474,Martinique,MTQ,22/07/2020,262,15,98,
+3,LCN,474,Martinique,MTQ,23/07/2020,262,15,98,
 8,SSF,478,Mauritania,MRT,14/03/2020,1,0,0,
 8,SSF,478,Mauritania,MRT,15/03/2020,1,0,0,
 8,SSF,478,Mauritania,MRT,19/03/2020,2,0,0,
@@ -15017,6 +15347,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,478,Mauritania,MRT,18/07/2020,5710,151,3153,
 8,SSF,478,Mauritania,MRT,19/07/2020,5813,153,3279,
 8,SSF,478,Mauritania,MRT,20/07/2020,5873,155,3436,
+8,SSF,478,Mauritania,MRT,21/07/2020,5923,155,3632,
+8,SSF,478,Mauritania,MRT,22/07/2020,5985,155,3826,
+8,SSF,478,Mauritania,MRT,23/07/2020,6027,155,3977,
 8,SSF,480,Mauritius,MUS,18/03/2020,3,0,0,
 8,SSF,480,Mauritius,MUS,19/03/2020,3,0,0,
 8,SSF,480,Mauritius,MUS,20/03/2020,12,0,0,
@@ -15141,6 +15474,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,480,Mauritius,MUS,18/07/2020,343,10,331,
 8,SSF,480,Mauritius,MUS,19/07/2020,343,10,331,
 8,SSF,480,Mauritius,MUS,20/07/2020,343,10,331,
+8,SSF,480,Mauritius,MUS,21/07/2020,343,10,332,
+8,SSF,480,Mauritius,MUS,22/07/2020,343,10,332,
+8,SSF,480,Mauritius,MUS,23/07/2020,343,10,332,
 3,LCN,484,Mexico,MEX,28/02/2020,1,0,0,
 3,LCN,484,Mexico,MEX,29/02/2020,4,0,0,
 3,LCN,484,Mexico,MEX,01/03/2020,5,0,0,
@@ -15278,6 +15614,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,484,Mexico,MEX,18/07/2020,45366,5596,37356,
 3,LCN,484,Mexico,MEX,19/07/2020,46018,5651,37953,
 3,LCN,484,Mexico,MEX,20/07/2020,46280,5665,36050,
+3,LCN,484,Mexico,MEX,21/07/2020,46443,5688,36601,
+3,LCN,484,Mexico,MEX,22/07/2020,47253,5814,37104,
+3,LCN,484,Mexico,MEX,23/07/2020,47989,5899,37460,
 1,EAS,490,Taiwan,TWN,22/01/2020,1,0,0,
 1,EAS,490,Taiwan,TWN,23/01/2020,1,0,0,
 1,EAS,490,Taiwan,TWN,24/01/2020,3,0,0,
@@ -15442,6 +15781,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,490,Taiwan,TWN,18/07/2020,451,7,440,
 1,EAS,490,Taiwan,TWN,19/07/2020,451,7,440,
 1,EAS,490,Taiwan,TWN,20/07/2020,451,7,440,
+1,EAS,490,Taiwan,TWN,21/07/2020,451,7,440,
+1,EAS,490,Taiwan,TWN,22/07/2020,451,7,440,
+1,EAS,490,Taiwan,TWN,23/07/2020,455,7,440,
 2,ECS,492,Monaco,MCO,29/02/2020,1,0,0,
 2,ECS,492,Monaco,MCO,11/03/2020,2,0,0,
 2,ECS,492,Monaco,MCO,12/03/2020,2,0,0,
@@ -15569,6 +15911,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,492,Monaco,MCO,18/07/2020,109,4,98,
 2,ECS,492,Monaco,MCO,19/07/2020,109,4,98,
 2,ECS,492,Monaco,MCO,20/07/2020,109,4,98,
+2,ECS,492,Monaco,MCO,21/07/2020,109,4,100,
+2,ECS,492,Monaco,MCO,22/07/2020,111,4,100,
+2,ECS,492,Monaco,MCO,23/07/2020,112,4,100,
 1,EAS,496,Mongolia,MNG,10/03/2020,1,0,0,
 1,EAS,496,Mongolia,MNG,11/03/2020,1,0,0,
 1,EAS,496,Mongolia,MNG,13/03/2020,1,0,0,
@@ -15695,6 +16040,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,496,Mongolia,MNG,18/07/2020,287,0,211,
 1,EAS,496,Mongolia,MNG,19/07/2020,287,0,213,
 1,EAS,496,Mongolia,MNG,20/07/2020,287,0,213,
+1,EAS,496,Mongolia,MNG,21/07/2020,287,0,213,
+1,EAS,496,Mongolia,MNG,22/07/2020,287,0,213,
+1,EAS,496,Mongolia,MNG,23/07/2020,287,0,214,
 2,ECS,498,Rep. of Moldova,MDA,08/03/2020,1,0,0,
 2,ECS,498,Rep. of Moldova,MDA,09/03/2020,1,0,0,
 2,ECS,498,Rep. of Moldova,MDA,10/03/2020,3,0,0,
@@ -15826,6 +16174,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,498,Rep. of Moldova,MDA,18/07/2020,20494,675,13913,
 2,ECS,498,Rep. of Moldova,MDA,19/07/2020,20794,680,14183,
 2,ECS,498,Rep. of Moldova,MDA,20/07/2020,20980,684,14376,
+2,ECS,498,Rep. of Moldova,MDA,21/07/2020,21115,695,14467,
+2,ECS,498,Rep. of Moldova,MDA,22/07/2020,21442,707,14599,
+2,ECS,498,Rep. of Moldova,MDA,23/07/2020,21798,712,14856,
 2,ECS,499,Montenegro,MNE,17/03/2020,2,0,0,
 2,ECS,499,Montenegro,MNE,18/03/2020,1,0,0,
 2,ECS,499,Montenegro,MNE,19/03/2020,3,0,0,
@@ -15950,6 +16301,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,499,Montenegro,MNE,18/07/2020,1965,26,357,
 2,ECS,499,Montenegro,MNE,19/07/2020,2072,30,378,
 2,ECS,499,Montenegro,MNE,20/07/2020,2188,32,385,
+2,ECS,499,Montenegro,MNE,21/07/2020,2188,32,385,
+2,ECS,499,Montenegro,MNE,22/07/2020,2381,35,426,
+2,ECS,499,Montenegro,MNE,23/07/2020,2472,39,426,
 3,LCN,500,Montserrat,MSR,18/03/2020,1,0,0,
 3,LCN,500,Montserrat,MSR,22/03/2020,1,0,0,
 3,LCN,500,Montserrat,MSR,23/03/2020,1,0,0,
@@ -15959,6 +16313,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,500,Montserrat,MSR,27/03/2020,5,0,0,
 3,LCN,500,Montserrat,MSR,28/03/2020,5,0,0,
 3,LCN,500,Montserrat,MSR,29/03/2020,5,0,0,
+3,LCN,500,Montserrat,MSR,30/03/2020,5,0,0,
 3,LCN,500,Montserrat,MSR,31/03/2020,5,0,0,
 3,LCN,500,Montserrat,MSR,01/04/2020,5,0,0,
 3,LCN,500,Montserrat,MSR,03/04/2020,6,0,0,
@@ -15972,7 +16327,8 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,500,Montserrat,MSR,11/04/2020,9,0,0,
 3,LCN,500,Montserrat,MSR,12/04/2020,9,0,0,
 3,LCN,500,Montserrat,MSR,13/04/2020,11,0,1,
-3,LCN,500,Montserrat,MSR,16/04/2020,11,0,1,
+3,LCN,500,Montserrat,MSR,14/04/2020,11,0,1,
+3,LCN,500,Montserrat,MSR,17/04/2020,11,0,1,
 3,LCN,500,Montserrat,MSR,18/04/2020,11,0,2,
 3,LCN,500,Montserrat,MSR,19/04/2020,11,0,2,
 3,LCN,500,Montserrat,MSR,20/04/2020,11,0,2,
@@ -16066,6 +16422,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,500,Montserrat,MSR,18/07/2020,12,1,10,
 3,LCN,500,Montserrat,MSR,19/07/2020,12,1,10,
 3,LCN,500,Montserrat,MSR,20/07/2020,12,1,10,
+3,LCN,500,Montserrat,MSR,21/07/2020,12,1,10,
+3,LCN,500,Montserrat,MSR,22/07/2020,12,1,10,
+3,LCN,500,Montserrat,MSR,23/07/2020,12,1,10,
 4,MEA,504,Morocco,MAR,02/03/2020,1,0,0,
 4,MEA,504,Morocco,MAR,03/03/2020,1,0,0,
 4,MEA,504,Morocco,MAR,05/03/2020,2,0,0,
@@ -16200,6 +16559,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,504,Morocco,MAR,18/07/2020,16726,264,14360,
 4,MEA,504,Morocco,MAR,19/07/2020,17015,269,14620,
 4,MEA,504,Morocco,MAR,20/07/2020,17236,273,14921,
+4,MEA,504,Morocco,MAR,21/07/2020,17562,276,15132,
+4,MEA,504,Morocco,MAR,22/07/2020,17742,280,15389,
+4,MEA,504,Morocco,MAR,23/07/2020,17962,285,15636,
 8,SSF,508,Mozambique,MOZ,22/03/2020,1,0,0,
 8,SSF,508,Mozambique,MOZ,23/03/2020,1,0,0,
 8,SSF,508,Mozambique,MOZ,24/03/2020,3,0,0,
@@ -16320,6 +16682,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,508,Mozambique,MOZ,18/07/2020,1402,9,397,
 8,SSF,508,Mozambique,MOZ,19/07/2020,1435,10,408,
 8,SSF,508,Mozambique,MOZ,20/07/2020,1491,10,472,
+8,SSF,508,Mozambique,MOZ,21/07/2020,1507,11,505,
+8,SSF,508,Mozambique,MOZ,22/07/2020,1536,11,506,
+8,SSF,508,Mozambique,MOZ,23/07/2020,1557,11,523,
 4,MEA,512,Oman,OMN,24/02/2020,2,0,0,
 4,MEA,512,Oman,OMN,25/02/2020,2,0,0,
 4,MEA,512,Oman,OMN,26/02/2020,4,0,0,
@@ -16456,6 +16821,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,512,Oman,OMN,18/07/2020,64193,298,41450,
 4,MEA,512,Oman,OMN,19/07/2020,65504,308,42772,
 4,MEA,512,Oman,OMN,20/07/2020,66661,318,44004,
+4,MEA,512,Oman,OMN,21/07/2020,68400,326,45150,
+4,MEA,512,Oman,OMN,22/07/2020,69887,337,46608,
+4,MEA,512,Oman,OMN,23/07/2020,71547,349,47922,
 8,SSF,516,Namibia,NAM,14/03/2020,2,0,0,
 8,SSF,516,Namibia,NAM,19/03/2020,3,0,0,
 8,SSF,516,Namibia,NAM,22/03/2020,3,0,0,
@@ -16578,6 +16946,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,516,Namibia,NAM,18/07/2020,1078,2,32,
 8,SSF,516,Namibia,NAM,19/07/2020,1203,2,32,
 8,SSF,516,Namibia,NAM,20/07/2020,1247,3,35,
+8,SSF,516,Namibia,NAM,21/07/2020,1344,4,42,
+8,SSF,516,Namibia,NAM,22/07/2020,1366,7,57,
+8,SSF,516,Namibia,NAM,23/07/2020,1402,7,64,
 7,SAS,524,Nepal,NPL,25/01/2020,1,0,0,
 7,SAS,524,Nepal,NPL,26/01/2020,1,0,0,
 7,SAS,524,Nepal,NPL,27/01/2020,1,0,0,
@@ -16709,6 +17080,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,524,Nepal,NPL,18/07/2020,17445,40,11534,
 7,SAS,524,Nepal,NPL,19/07/2020,17502,40,11637,
 7,SAS,524,Nepal,NPL,20/07/2020,17658,40,11695,
+7,SAS,524,Nepal,NPL,21/07/2020,17844,40,11868,
+7,SAS,524,Nepal,NPL,22/07/2020,17994,40,12477,
+7,SAS,524,Nepal,NPL,23/07/2020,18094,42,12684,
 2,ECS,528,Netherlands,NLD,27/02/2020,1,0,0,
 2,ECS,528,Netherlands,NLD,28/02/2020,1,0,0,
 2,ECS,528,Netherlands,NLD,29/02/2020,6,0,0,
@@ -16972,6 +17346,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,531,Curacao,CUW,18/07/2020,28,1,24,
 3,LCN,531,Curacao,CUW,19/07/2020,28,1,24,
 3,LCN,531,Curacao,CUW,20/07/2020,28,1,24,
+3,LCN,531,Curacao,CUW,21/07/2020,28,1,24,
+3,LCN,531,Curacao,CUW,22/07/2020,28,1,24,
+3,LCN,531,Curacao,CUW,23/07/2020,28,1,24,
 3,LCN,533,Aruba,ABW,11/03/2020,2,0,0,
 3,LCN,533,Aruba,ABW,13/03/2020,2,0,0,
 3,LCN,533,Aruba,ABW,17/03/2020,3,0,0,
@@ -17097,6 +17474,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,533,Aruba,ABW,18/07/2020,111,3,100,
 3,LCN,533,Aruba,ABW,19/07/2020,111,3,100,
 3,LCN,533,Aruba,ABW,20/07/2020,113,3,100,
+3,LCN,533,Aruba,ABW,21/07/2020,115,3,100,
+3,LCN,533,Aruba,ABW,22/07/2020,117,3,100,
+3,LCN,533,Aruba,ABW,23/07/2020,117,3,100,
 3,LCN,534,Sint Maarten (Dutch part),SXM,20/03/2020,1,0,0,
 3,LCN,534,Sint Maarten (Dutch part),SXM,22/03/2020,1,0,0,
 3,LCN,534,Sint Maarten (Dutch part),SXM,23/03/2020,2,0,0,
@@ -17218,6 +17598,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,534,Sint Maarten (Dutch part),SXM,18/07/2020,79,15,63,
 3,LCN,534,Sint Maarten (Dutch part),SXM,19/07/2020,79,15,63,
 3,LCN,534,Sint Maarten (Dutch part),SXM,20/07/2020,79,15,63,
+3,LCN,534,Sint Maarten (Dutch part),SXM,21/07/2020,79,15,63,
+3,LCN,534,Sint Maarten (Dutch part),SXM,22/07/2020,79,15,63,
+3,LCN,534,Sint Maarten (Dutch part),SXM,23/07/2020,79,15,63,
 3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,02/04/2020,2,0,0,
 3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,03/04/2020,2,0,0,
 3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,04/04/2020,2,0,0,
@@ -17327,6 +17710,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,18/07/2020,10,0,7,
 3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,19/07/2020,10,0,7,
 3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,20/07/2020,10,0,7,
+3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,21/07/2020,10,0,7,
+3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,22/07/2020,10,0,7,
+3,LCN,535,"Bonaire, Sint Eustatius and Saba",BES,23/07/2020,10,0,7,
 1,EAS,540,New Caledonia,NCL,19/03/2020,2,0,0,
 1,EAS,540,New Caledonia,NCL,21/03/2020,4,0,0,
 1,EAS,540,New Caledonia,NCL,22/03/2020,4,0,0,
@@ -17449,6 +17835,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,540,New Caledonia,NCL,18/07/2020,22,0,21,
 1,EAS,540,New Caledonia,NCL,19/07/2020,22,0,21,
 1,EAS,540,New Caledonia,NCL,20/07/2020,22,0,21,
+1,EAS,540,New Caledonia,NCL,21/07/2020,22,0,21,
+1,EAS,540,New Caledonia,NCL,22/07/2020,22,0,21,
+1,EAS,540,New Caledonia,NCL,23/07/2020,22,0,21,
 1,EAS,554,New Zealand,NZL,28/02/2020,1,0,0,
 1,EAS,554,New Zealand,NZL,04/03/2020,3,0,0,
 1,EAS,554,New Zealand,NZL,06/03/2020,4,0,0,
@@ -17581,6 +17970,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,554,New Zealand,NZL,18/07/2020,1550,22,1506,
 1,EAS,554,New Zealand,NZL,19/07/2020,1553,22,1506,
 1,EAS,554,New Zealand,NZL,20/07/2020,1554,22,1506,
+1,EAS,554,New Zealand,NZL,21/07/2020,1555,22,1506,
+1,EAS,554,New Zealand,NZL,22/07/2020,1555,22,1506,
+1,EAS,554,New Zealand,NZL,23/07/2020,1555,22,1511,
 3,LCN,558,Nicaragua,NIC,19/03/2020,1,0,0,
 3,LCN,558,Nicaragua,NIC,21/03/2020,2,0,0,
 3,LCN,558,Nicaragua,NIC,22/03/2020,2,0,0,
@@ -17703,6 +18095,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,558,Nicaragua,NIC,18/07/2020,3147,99,2282,
 3,LCN,558,Nicaragua,NIC,19/07/2020,3147,99,2282,
 3,LCN,558,Nicaragua,NIC,20/07/2020,3147,99,2282,
+3,LCN,558,Nicaragua,NIC,21/07/2020,3147,99,2282,
+3,LCN,558,Nicaragua,NIC,22/07/2020,3439,108,2492,
+3,LCN,558,Nicaragua,NIC,23/07/2020,3439,108,2492,
 8,SSF,562,Niger,NER,20/03/2020,1,0,0,
 8,SSF,562,Niger,NER,22/03/2020,2,0,0,
 8,SSF,562,Niger,NER,23/03/2020,3,0,0,
@@ -17824,6 +18219,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,562,Niger,NER,18/07/2020,1102,69,1013,
 8,SSF,562,Niger,NER,19/07/2020,1104,69,1014,
 8,SSF,562,Niger,NER,20/07/2020,1104,69,1014,
+8,SSF,562,Niger,NER,21/07/2020,1105,69,1014,
+8,SSF,562,Niger,NER,22/07/2020,1113,69,1018,
+8,SSF,562,Niger,NER,23/07/2020,1122,69,1018,
 8,SSF,566,Nigeria,NGA,28/02/2020,1,0,0,
 8,SSF,566,Nigeria,NGA,09/03/2020,2,0,0,
 8,SSF,566,Nigeria,NGA,11/03/2020,2,0,0,
@@ -17952,6 +18350,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,566,Nigeria,NGA,18/07/2020,35454,772,14633,
 8,SSF,566,Nigeria,NGA,19/07/2020,36107,778,14938,
 8,SSF,566,Nigeria,NGA,20/07/2020,36663,789,15105,
+8,SSF,566,Nigeria,NGA,21/07/2020,37225,801,15333,
+8,SSF,566,Nigeria,NGA,22/07/2020,37801,805,15677,
+8,SSF,566,Nigeria,NGA,23/07/2020,38344,813,15815,
 2,ECS,579,Norway,NOR,26/02/2020,1,0,0,
 2,ECS,579,Norway,NOR,27/02/2020,1,0,0,
 2,ECS,579,Norway,NOR,28/02/2020,6,0,0,
@@ -18096,6 +18497,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,579,Norway,NOR,18/07/2020,9025,255,8138,
 2,ECS,579,Norway,NOR,19/07/2020,9028,255,8138,
 2,ECS,579,Norway,NOR,20/07/2020,9028,255,8138,
+2,ECS,579,Norway,NOR,21/07/2020,9034,255,8138,
+2,ECS,579,Norway,NOR,22/07/2020,9053,255,8138,
+2,ECS,579,Norway,NOR,23/07/2020,9059,255,8138,
 7,SAS,586,Pakistan,PAK,26/02/2020,2,0,0,
 7,SAS,586,Pakistan,PAK,29/02/2020,4,0,0,
 7,SAS,586,Pakistan,PAK,03/03/2020,5,0,0,
@@ -18323,6 +18727,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,591,Panama,PAN,18/07/2020,51408,1038,26520,
 3,LCN,591,Panama,PAN,19/07/2020,52261,1071,27494,
 3,LCN,591,Panama,PAN,20/07/2020,53468,1096,28482,
+3,LCN,591,Panama,PAN,21/07/2020,54426,1127,29164,
+3,LCN,591,Panama,PAN,22/07/2020,55153,1159,30075,
+3,LCN,591,Panama,PAN,23/07/2020,55906,1180,31122,
 1,EAS,598,Papua New Guinea,PNG,20/03/2020,1,0,0,
 1,EAS,598,Papua New Guinea,PNG,21/03/2020,1,0,0,
 1,EAS,598,Papua New Guinea,PNG,22/03/2020,1,0,0,
@@ -18445,6 +18852,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,598,Papua New Guinea,PNG,18/07/2020,15,0,8,
 1,EAS,598,Papua New Guinea,PNG,19/07/2020,16,0,8,
 1,EAS,598,Papua New Guinea,PNG,20/07/2020,16,0,8,
+1,EAS,598,Papua New Guinea,PNG,21/07/2020,19,1,8,
+1,EAS,598,Papua New Guinea,PNG,22/07/2020,27,1,8,
+1,EAS,598,Papua New Guinea,PNG,23/07/2020,30,0,8,
 3,LCN,600,Paraguay,PRY,08/03/2020,1,0,0,
 3,LCN,600,Paraguay,PRY,11/03/2020,11,0,0,
 3,LCN,600,Paraguay,PRY,13/03/2020,6,0,0,
@@ -18573,6 +18983,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,600,Paraguay,PRY,18/07/2020,3457,28,1481,
 3,LCN,600,Paraguay,PRY,19/07/2020,3629,29,1643,
 3,LCN,600,Paraguay,PRY,20/07/2020,3721,31,1918,
+3,LCN,600,Paraguay,PRY,21/07/2020,3748,33,2171,
+3,LCN,600,Paraguay,PRY,22/07/2020,3817,35,2307,
+3,LCN,600,Paraguay,PRY,23/07/2020,4000,36,2391,
 3,LCN,604,Peru,PER,06/03/2020,1,0,0,
 3,LCN,604,Peru,PER,08/03/2020,6,0,0,
 3,LCN,604,Peru,PER,09/03/2020,7,0,0,
@@ -18795,6 +19208,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,608,Philippines,PHL,18/07/2020,63001,1660,21748,
 1,EAS,608,Philippines,PHL,19/07/2020,65304,1773,22067,
 1,EAS,608,Philippines,PHL,20/07/2020,67456,1831,22465,
+1,EAS,608,Philippines,PHL,21/07/2020,68898,1835,23072,
+1,EAS,608,Philippines,PHL,22/07/2020,70764,1837,23281,
+1,EAS,608,Philippines,PHL,23/07/2020,72269,1843,23623,
 2,ECS,616,Poland,POL,04/03/2020,1,0,0,
 2,ECS,616,Poland,POL,06/03/2020,5,0,0,
 2,ECS,616,Poland,POL,08/03/2020,11,0,0,
@@ -18930,6 +19346,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,616,Poland,POL,18/07/2020,39407,1612,29505,
 2,ECS,616,Poland,POL,19/07/2020,39746,1618,29924,
 2,ECS,616,Poland,POL,20/07/2020,40104,1624,30292,
+2,ECS,616,Poland,POL,21/07/2020,40383,1627,30539,
+2,ECS,616,Poland,POL,22/07/2020,40782,1636,30771,
+2,ECS,616,Poland,POL,23/07/2020,41162,1642,31139,
 2,ECS,620,Portugal,PRT,02/03/2020,2,0,0,
 2,ECS,620,Portugal,PRT,03/03/2020,2,0,0,
 2,ECS,620,Portugal,PRT,04/03/2020,5,0,0,
@@ -19067,6 +19486,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,620,Portugal,PRT,18/07/2020,48077,1682,32790,
 2,ECS,620,Portugal,PRT,19/07/2020,48390,1684,33153,
 2,ECS,620,Portugal,PRT,20/07/2020,48636,1689,33369,
+2,ECS,620,Portugal,PRT,21/07/2020,48771,1691,33547,
+2,ECS,620,Portugal,PRT,22/07/2020,48898,1697,33769,
+2,ECS,620,Portugal,PRT,23/07/2020,49150,1702,33999,
 8,SSF,624,Guinea-Bissau,GNB,25/03/2020,2,0,0,
 8,SSF,624,Guinea-Bissau,GNB,26/03/2020,2,0,0,
 8,SSF,624,Guinea-Bissau,GNB,27/03/2020,2,0,0,
@@ -19184,6 +19606,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,624,Guinea-Bissau,GNB,18/07/2020,1927,26,773,
 8,SSF,624,Guinea-Bissau,GNB,19/07/2020,1949,26,803,
 8,SSF,624,Guinea-Bissau,GNB,20/07/2020,1949,26,803,
+8,SSF,624,Guinea-Bissau,GNB,21/07/2020,1949,26,803,
+8,SSF,624,Guinea-Bissau,GNB,22/07/2020,1954,26,803,
+8,SSF,624,Guinea-Bissau,GNB,23/07/2020,1954,26,803,
 1,EAS,626,Timor-Leste,TLS,21/03/2020,1,0,0,
 1,EAS,626,Timor-Leste,TLS,22/03/2020,1,0,0,
 1,EAS,626,Timor-Leste,TLS,23/03/2020,1,0,0,
@@ -19305,6 +19730,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,626,Timor-Leste,TLS,18/07/2020,24,0,24,
 1,EAS,626,Timor-Leste,TLS,19/07/2020,24,0,24,
 1,EAS,626,Timor-Leste,TLS,20/07/2020,24,0,24,
+1,EAS,626,Timor-Leste,TLS,21/07/2020,24,0,24,
+1,EAS,626,Timor-Leste,TLS,22/07/2020,24,0,24,
+1,EAS,626,Timor-Leste,TLS,23/07/2020,24,0,24,
 3,LCN,630,Puerto Rico,PRI,16/03/2020,3,0,0,
 4,MEA,634,Qatar,QAT,29/02/2020,1,0,0,
 4,MEA,634,Qatar,QAT,01/03/2020,3,0,0,
@@ -19440,6 +19868,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,634,Qatar,QAT,18/07/2020,105898,153,102597,
 4,MEA,634,Qatar,QAT,19/07/2020,106308,154,103023,
 4,MEA,634,Qatar,QAT,20/07/2020,106648,157,103377,
+4,MEA,634,Qatar,QAT,21/07/2020,107037,159,103782,
+4,MEA,634,Qatar,QAT,22/07/2020,107430,160,104191,
+4,MEA,634,Qatar,QAT,23/07/2020,107871,163,104641,
 7,SAS,638,Réunion,REU,11/03/2020,6,0,0,
 7,SAS,638,Réunion,REU,14/03/2020,6,0,0,
 7,SAS,638,Réunion,REU,15/03/2020,7,0,0,
@@ -19569,6 +20000,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 7,SAS,638,Réunion,REU,18/07/2020,614,3,472,
 7,SAS,638,Réunion,REU,19/07/2020,624,3,472,
 7,SAS,638,Réunion,REU,20/07/2020,628,3,472,
+7,SAS,638,Réunion,REU,21/07/2020,631,3,472,
+7,SAS,638,Réunion,REU,22/07/2020,639,3,472,
+7,SAS,638,Réunion,REU,23/07/2020,645,3,558,
 2,ECS,642,Romania,ROU,26/02/2020,1,0,0,
 2,ECS,642,Romania,ROU,27/02/2020,1,0,0,
 2,ECS,642,Romania,ROU,28/02/2020,3,0,0,
@@ -19709,6 +20143,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,642,Romania,ROU,18/07/2020,35802,1988,22312,
 2,ECS,642,Romania,ROU,19/07/2020,36691,2009,22488,
 2,ECS,642,Romania,ROU,20/07/2020,37458,2026,22617,
+2,ECS,642,Romania,ROU,21/07/2020,38139,2038,22747,
+2,ECS,642,Romania,ROU,22/07/2020,39133,2074,24454,
+2,ECS,642,Romania,ROU,23/07/2020,40163,2101,24663,
 2,ECS,643,Russian Federation,RUS,31/01/2020,4,0,0,
 2,ECS,643,Russian Federation,RUS,12/02/2020,2,0,2,
 2,ECS,643,Russian Federation,RUS,02/03/2020,3,0,2,
@@ -19923,6 +20360,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,646,Rwanda,RWA,18/07/2020,1485,4,811,
 8,SSF,646,Rwanda,RWA,19/07/2020,1539,5,819,
 8,SSF,646,Rwanda,RWA,20/07/2020,1582,5,834,
+8,SSF,646,Rwanda,RWA,21/07/2020,1629,5,838,
+8,SSF,646,Rwanda,RWA,22/07/2020,1655,5,848,
+8,SSF,646,Rwanda,RWA,23/07/2020,1689,5,867,
 3,LCN,652,Saint Barthélemy,BLM,04/03/2020,3,0,0,
 3,LCN,652,Saint Barthélemy,BLM,09/03/2020,1,0,0,
 3,LCN,652,Saint Barthélemy,BLM,11/03/2020,1,0,0,
@@ -20048,6 +20488,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,652,Saint Barthélemy,BLM,18/07/2020,6,0,6,
 3,LCN,652,Saint Barthélemy,BLM,19/07/2020,6,0,6,
 3,LCN,652,Saint Barthélemy,BLM,20/07/2020,6,0,6,
+3,LCN,652,Saint Barthélemy,BLM,21/07/2020,6,0,6,
+3,LCN,652,Saint Barthélemy,BLM,22/07/2020,6,0,6,
+3,LCN,652,Saint Barthélemy,BLM,23/07/2020,6,0,6,
 3,LCN,659,Saint Kitts and Nevis,KNA,25/03/2020,2,0,0,
 3,LCN,659,Saint Kitts and Nevis,KNA,26/03/2020,2,0,0,
 3,LCN,659,Saint Kitts and Nevis,KNA,27/03/2020,2,0,0,
@@ -20165,11 +20608,16 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,659,Saint Kitts and Nevis,KNA,18/07/2020,17,0,15,
 3,LCN,659,Saint Kitts and Nevis,KNA,19/07/2020,17,0,15,
 3,LCN,659,Saint Kitts and Nevis,KNA,20/07/2020,17,0,15,
-3,LCN,660,Anguilla,AIA,29/03/2020,2,0,0,
+3,LCN,659,Saint Kitts and Nevis,KNA,21/07/2020,17,0,15,
+3,LCN,659,Saint Kitts and Nevis,KNA,22/07/2020,17,0,15,
+3,LCN,659,Saint Kitts and Nevis,KNA,23/07/2020,17,0,15,
 3,LCN,660,Anguilla,AIA,31/03/2020,2,0,0,
 3,LCN,660,Anguilla,AIA,01/04/2020,2,0,0,
 3,LCN,660,Anguilla,AIA,02/04/2020,3,0,0,
+3,LCN,660,Anguilla,AIA,04/04/2020,3,0,0,
+3,LCN,660,Anguilla,AIA,07/04/2020,3,0,0,
 3,LCN,660,Anguilla,AIA,08/04/2020,3,0,0,
+3,LCN,660,Anguilla,AIA,09/04/2020,3,0,0,
 3,LCN,660,Anguilla,AIA,10/04/2020,3,0,0,
 3,LCN,660,Anguilla,AIA,11/04/2020,3,0,0,
 3,LCN,660,Anguilla,AIA,12/04/2020,3,0,0,
@@ -20271,6 +20719,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,660,Anguilla,AIA,18/07/2020,3,0,3,
 3,LCN,660,Anguilla,AIA,19/07/2020,3,0,3,
 3,LCN,660,Anguilla,AIA,20/07/2020,3,0,3,
+3,LCN,660,Anguilla,AIA,21/07/2020,3,0,3,
+3,LCN,660,Anguilla,AIA,22/07/2020,3,0,3,
+3,LCN,660,Anguilla,AIA,23/07/2020,3,0,3,
 3,LCN,662,Saint Lucia,LCA,14/03/2020,3,0,0,
 3,LCN,662,Saint Lucia,LCA,16/03/2020,2,0,0,
 3,LCN,662,Saint Lucia,LCA,17/03/2020,2,0,0,
@@ -20394,6 +20845,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,662,Saint Lucia,LCA,18/07/2020,23,0,19,
 3,LCN,662,Saint Lucia,LCA,19/07/2020,23,0,19,
 3,LCN,662,Saint Lucia,LCA,20/07/2020,23,0,19,
+3,LCN,662,Saint Lucia,LCA,21/07/2020,23,0,19,
+3,LCN,662,Saint Lucia,LCA,22/07/2020,23,0,19,
+3,LCN,662,Saint Lucia,LCA,23/07/2020,23,0,19,
 5,NA,666,Saint Pierre and Miquelon,SPM,05/04/2020,1,0,0,
 5,NA,666,Saint Pierre and Miquelon,SPM,06/04/2020,1,0,0,
 5,NA,666,Saint Pierre and Miquelon,SPM,07/04/2020,1,0,0,
@@ -20500,6 +20954,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 5,NA,666,Saint Pierre and Miquelon,SPM,18/07/2020,4,0,1,
 5,NA,666,Saint Pierre and Miquelon,SPM,19/07/2020,4,0,1,
 5,NA,666,Saint Pierre and Miquelon,SPM,20/07/2020,4,0,1,
+5,NA,666,Saint Pierre and Miquelon,SPM,21/07/2020,4,0,1,
+5,NA,666,Saint Pierre and Miquelon,SPM,22/07/2020,4,0,1,
+5,NA,666,Saint Pierre and Miquelon,SPM,23/07/2020,4,0,1,
 3,LCN,670,Saint Vincent and the Grenadines,VCT,14/03/2020,1,0,0,
 3,LCN,670,Saint Vincent and the Grenadines,VCT,22/03/2020,1,0,0,
 3,LCN,670,Saint Vincent and the Grenadines,VCT,23/03/2020,1,0,0,
@@ -20621,6 +21078,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,670,Saint Vincent and the Grenadines,VCT,18/07/2020,35,0,29,
 3,LCN,670,Saint Vincent and the Grenadines,VCT,19/07/2020,38,0,29,
 3,LCN,670,Saint Vincent and the Grenadines,VCT,20/07/2020,44,0,29,
+3,LCN,670,Saint Vincent and the Grenadines,VCT,21/07/2020,50,0,29,
+3,LCN,670,Saint Vincent and the Grenadines,VCT,22/07/2020,50,0,29,
+3,LCN,670,Saint Vincent and the Grenadines,VCT,23/07/2020,52,0,37,
 2,ECS,674,San Marino,SMR,27/02/2020,1,0,0,
 2,ECS,674,San Marino,SMR,01/03/2020,1,0,0,
 2,ECS,674,San Marino,SMR,02/03/2020,8,0,0,
@@ -20758,6 +21218,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,674,San Marino,SMR,18/07/2020,699,42,656,
 2,ECS,674,San Marino,SMR,19/07/2020,699,42,656,
 2,ECS,674,San Marino,SMR,20/07/2020,699,42,656,
+2,ECS,674,San Marino,SMR,21/07/2020,699,42,656,
+2,ECS,674,San Marino,SMR,22/07/2020,699,42,656,
+2,ECS,674,San Marino,SMR,23/07/2020,699,42,656,
 8,SSF,678,Sao Tome and Principe,STP,06/04/2020,4,0,0,
 8,SSF,678,Sao Tome and Principe,STP,07/04/2020,4,0,0,
 8,SSF,678,Sao Tome and Principe,STP,08/04/2020,4,0,0,
@@ -20863,6 +21326,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,678,Sao Tome and Principe,STP,18/07/2020,741,14,325,
 8,SSF,678,Sao Tome and Principe,STP,19/07/2020,743,14,337,
 8,SSF,678,Sao Tome and Principe,STP,20/07/2020,746,14,451,
+8,SSF,678,Sao Tome and Principe,STP,21/07/2020,746,14,536,
+8,SSF,678,Sao Tome and Principe,STP,22/07/2020,746,14,588,
+8,SSF,678,Sao Tome and Principe,STP,23/07/2020,747,14,601,
 4,MEA,682,Saudi Arabia,SAU,02/03/2020,1,0,0,
 4,MEA,682,Saudi Arabia,SAU,05/03/2020,5,0,0,
 4,MEA,682,Saudi Arabia,SAU,08/03/2020,11,0,0,
@@ -20996,6 +21462,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,682,Saudi Arabia,SAU,18/07/2020,245851,2407,191161,
 4,MEA,682,Saudi Arabia,SAU,19/07/2020,248416,2447,194218,
 4,MEA,682,Saudi Arabia,SAU,20/07/2020,250920,2486,197735,
+4,MEA,682,Saudi Arabia,SAU,21/07/2020,253349,2523,203259,
+4,MEA,682,Saudi Arabia,SAU,22/07/2020,255825,2557,207259,
+4,MEA,682,Saudi Arabia,SAU,23/07/2020,258156,2601,210398,
 8,SSF,686,Senegal,SEN,02/03/2020,1,0,0,
 8,SSF,686,Senegal,SEN,03/03/2020,2,0,0,
 8,SSF,686,Senegal,SEN,04/03/2020,4,0,0,
@@ -21127,6 +21596,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,686,Senegal,SEN,18/07/2020,8544,160,5809,
 8,SSF,686,Senegal,SEN,19/07/2020,8669,163,5859,
 8,SSF,686,Senegal,SEN,20/07/2020,8810,167,5948,
+8,SSF,686,Senegal,SEN,21/07/2020,8948,170,6002,
+8,SSF,686,Senegal,SEN,22/07/2020,8985,174,6044,
+8,SSF,686,Senegal,SEN,23/07/2020,9121,177,6108,
 2,ECS,688,Serbia,SRB,06/03/2020,1,0,0,
 2,ECS,688,Serbia,SRB,10/03/2020,5,0,0,
 2,ECS,688,Serbia,SRB,11/03/2020,47,0,0,
@@ -21258,6 +21730,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,688,Serbia,SRB,18/07/2020,20109,452,14799,
 2,ECS,688,Serbia,SRB,19/07/2020,20498,461,15179,
 2,ECS,688,Serbia,SRB,20/07/2020,20894,472,15564,
+2,ECS,688,Serbia,SRB,21/07/2020,21253,482,0,
+2,ECS,688,Serbia,SRB,22/07/2020,21605,491,0,
+2,ECS,688,Serbia,SRB,23/07/2020,22031,499,0,
 8,SSF,690,Seychelles,SYC,14/03/2020,2,0,0,
 8,SSF,690,Seychelles,SYC,15/03/2020,2,0,0,
 8,SSF,690,Seychelles,SYC,16/03/2020,3,0,0,
@@ -21384,6 +21859,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,690,Seychelles,SYC,18/07/2020,108,0,27,
 8,SSF,690,Seychelles,SYC,19/07/2020,108,0,27,
 8,SSF,690,Seychelles,SYC,20/07/2020,108,0,27,
+8,SSF,690,Seychelles,SYC,21/07/2020,108,0,27,
+8,SSF,690,Seychelles,SYC,22/07/2020,108,0,27,
+8,SSF,690,Seychelles,SYC,23/07/2020,108,0,27,
 8,SSF,694,Sierra Leone,SLE,31/03/2020,1,0,0,
 8,SSF,694,Sierra Leone,SLE,01/04/2020,2,0,0,
 8,SSF,694,Sierra Leone,SLE,02/04/2020,2,0,0,
@@ -21495,6 +21973,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,694,Sierra Leone,SLE,18/07/2020,1688,65,1219,
 8,SSF,694,Sierra Leone,SLE,19/07/2020,1701,65,1237,
 8,SSF,694,Sierra Leone,SLE,20/07/2020,1711,65,1237,
+8,SSF,694,Sierra Leone,SLE,21/07/2020,1711,66,1261,
+8,SSF,694,Sierra Leone,SLE,22/07/2020,1727,66,1273,
+8,SSF,694,Sierra Leone,SLE,23/07/2020,1731,66,1288,
 7,SAS,699,India,IND,30/01/2020,1,0,0,
 7,SAS,699,India,IND,31/01/2020,2,0,0,
 7,SAS,699,India,IND,02/02/2020,2,0,0,
@@ -21767,6 +22248,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,702,Singapore,SGP,18/07/2020,47453,27,43577,
 1,EAS,702,Singapore,SGP,19/07/2020,47655,27,43833,
 1,EAS,702,Singapore,SGP,20/07/2020,47912,27,44086,
+1,EAS,702,Singapore,SGP,21/07/2020,48035,27,44371,
+1,EAS,702,Singapore,SGP,22/07/2020,48434,27,44584,
+1,EAS,702,Singapore,SGP,23/07/2020,48744,27,44795,
 2,ECS,703,Slovakia,SVK,06/03/2020,1,0,0,
 2,ECS,703,Slovakia,SVK,08/03/2020,3,0,0,
 2,ECS,703,Slovakia,SVK,10/03/2020,7,0,0,
@@ -21900,6 +22384,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,703,Slovakia,SVK,18/07/2020,1965,28,1523,
 2,ECS,703,Slovakia,SVK,19/07/2020,1976,28,1523,
 2,ECS,703,Slovakia,SVK,20/07/2020,1979,28,1530,
+2,ECS,703,Slovakia,SVK,21/07/2020,1980,28,1538,
+2,ECS,703,Slovakia,SVK,22/07/2020,2021,28,1538,
+2,ECS,703,Slovakia,SVK,23/07/2020,2058,28,1556,
 1,EAS,704,Viet Nam,VNM,23/01/2020,2,0,0,
 1,EAS,704,Viet Nam,VNM,24/01/2020,2,0,0,
 1,EAS,704,Viet Nam,VNM,25/01/2020,2,0,0,
@@ -22051,6 +22538,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,704,Viet Nam,VNM,18/07/2020,382,0,356,
 1,EAS,704,Viet Nam,VNM,19/07/2020,382,0,357,
 1,EAS,704,Viet Nam,VNM,20/07/2020,383,0,357,
+1,EAS,704,Viet Nam,VNM,21/07/2020,384,0,360,
+1,EAS,704,Viet Nam,VNM,22/07/2020,401,0,365,
+1,EAS,704,Viet Nam,VNM,23/07/2020,408,0,365,
 2,ECS,705,Slovenia,SVN,05/03/2020,2,0,0,
 2,ECS,705,Slovenia,SVN,06/03/2020,7,0,0,
 2,ECS,705,Slovenia,SVN,08/03/2020,16,0,0,
@@ -22184,6 +22674,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,705,Slovenia,SVN,18/07/2020,1916,111,1522,
 2,ECS,705,Slovenia,SVN,19/07/2020,1940,111,1568,
 2,ECS,705,Slovenia,SVN,20/07/2020,1946,112,1568,
+2,ECS,705,Slovenia,SVN,21/07/2020,1953,113,1603,
+2,ECS,705,Slovenia,SVN,22/07/2020,1977,114,1625,
+2,ECS,705,Slovenia,SVN,23/07/2020,2006,115,1648,
 8,SSF,706,Somalia,SOM,16/03/2020,1,0,0,
 8,SSF,706,Somalia,SOM,18/03/2020,1,0,0,
 8,SSF,706,Somalia,SOM,22/03/2020,1,0,0,
@@ -22306,6 +22799,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,706,Somalia,SOM,18/07/2020,3106,93,1444,
 8,SSF,706,Somalia,SOM,19/07/2020,3111,93,1452,
 8,SSF,706,Somalia,SOM,20/07/2020,3119,93,1457,
+8,SSF,706,Somalia,SOM,21/07/2020,3130,93,1462,
+8,SSF,706,Somalia,SOM,22/07/2020,3135,93,1464,
+8,SSF,706,Somalia,SOM,23/07/2020,3161,93,1495,
 8,SSF,710,South Africa,ZAF,05/03/2020,1,0,0,
 8,SSF,710,South Africa,ZAF,06/03/2020,1,0,0,
 8,SSF,710,South Africa,ZAF,08/03/2020,3,0,0,
@@ -22439,6 +22935,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,710,South Africa,ZAF,18/07/2020,337594,4804,178183,
 8,SSF,710,South Africa,ZAF,19/07/2020,350879,4948,182230,
 8,SSF,710,South Africa,ZAF,20/07/2020,364328,5033,191059,
+8,SSF,710,South Africa,ZAF,21/07/2020,373628,5173,194865,
+8,SSF,710,South Africa,ZAF,22/07/2020,381798,5368,208144,
+8,SSF,710,South Africa,ZAF,23/07/2020,394948,5940,229175,
 8,SSF,716,Zimbabwe,ZWE,20/03/2020,1,0,0,
 8,SSF,716,Zimbabwe,ZWE,21/03/2020,3,0,0,
 8,SSF,716,Zimbabwe,ZWE,22/03/2020,3,0,0,
@@ -22561,6 +23060,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,716,Zimbabwe,ZWE,18/07/2020,1420,24,438,
 8,SSF,716,Zimbabwe,ZWE,19/07/2020,1478,25,439,
 8,SSF,716,Zimbabwe,ZWE,20/07/2020,1611,25,472,
+8,SSF,716,Zimbabwe,ZWE,21/07/2020,1713,26,472,
+8,SSF,716,Zimbabwe,ZWE,22/07/2020,1820,26,488,
+8,SSF,716,Zimbabwe,ZWE,23/07/2020,2034,26,510,
 2,ECS,724,Spain,ESP,01/02/2020,1,,0,0
 2,ECS,724,Spain,ESP,09/02/2020,2,,0,0
 2,ECS,724,Spain,ESP,15/02/2020,2,,2,0
@@ -22709,6 +23211,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,724,Spain,ESP,18/07/2020,260255,,150376,28420
 2,ECS,724,Spain,ESP,19/07/2020,260255,,150376,28420
 2,ECS,724,Spain,ESP,20/07/2020,260255,,150376,28420
+2,ECS,724,Spain,ESP,21/07/2020,264836,,150376,28422
+2,ECS,724,Spain,ESP,22/07/2020,266194,,150376,28424
+2,ECS,724,Spain,ESP,23/07/2020,267551,,150376,28426
 8,SSF,728,South Sudan,SSD,05/04/2020,1,0,0,
 8,SSF,728,South Sudan,SSD,06/04/2020,1,0,0,
 8,SSF,728,South Sudan,SSD,07/04/2020,2,0,0,
@@ -22815,6 +23320,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,728,South Sudan,SSD,18/07/2020,2191,43,1175,
 8,SSF,728,South Sudan,SSD,19/07/2020,2191,43,1175,
 8,SSF,728,South Sudan,SSD,20/07/2020,2200,43,1175,
+8,SSF,728,South Sudan,SSD,21/07/2020,2211,45,1175,
+8,SSF,728,South Sudan,SSD,22/07/2020,2211,45,1175,
+8,SSF,728,South Sudan,SSD,23/07/2020,2211,45,1175,
 8,SSF,729,Sudan,SDN,11/03/2020,1,1,0,
 8,SSF,729,Sudan,SDN,14/03/2020,1,1,0,
 8,SSF,729,Sudan,SDN,18/03/2020,2,1,0,
@@ -22938,6 +23446,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,729,Sudan,SDN,18/07/2020,10527,668,5601,
 8,SSF,729,Sudan,SDN,19/07/2020,10682,673,5637,
 8,SSF,729,Sudan,SDN,20/07/2020,10992,693,5707,
+8,SSF,729,Sudan,SDN,21/07/2020,10992,693,5707,
+8,SSF,729,Sudan,SDN,22/07/2020,10992,693,5707,
+8,SSF,729,Sudan,SDN,23/07/2020,11237,708,5835,
 3,LCN,740,Suriname,SUR,14/03/2020,1,0,0,
 3,LCN,740,Suriname,SUR,20/03/2020,4,0,0,
 3,LCN,740,Suriname,SUR,22/03/2020,5,0,0,
@@ -23060,6 +23571,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,740,Suriname,SUR,18/07/2020,943,19,600,
 3,LCN,740,Suriname,SUR,19/07/2020,1001,20,610,
 3,LCN,740,Suriname,SUR,20/07/2020,1029,21,627,
+3,LCN,740,Suriname,SUR,21/07/2020,1079,21,656,
+3,LCN,740,Suriname,SUR,22/07/2020,1131,21,705,
+3,LCN,740,Suriname,SUR,23/07/2020,1176,21,739,
 8,SSF,748,Eswatini,SWZ,14/03/2020,1,0,0,
 8,SSF,748,Eswatini,SWZ,15/03/2020,1,0,0,
 8,SSF,748,Eswatini,SWZ,22/03/2020,4,0,0,
@@ -23182,6 +23696,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,748,Eswatini,SWZ,18/07/2020,1619,21,769,
 8,SSF,748,Eswatini,SWZ,19/07/2020,1729,21,788,
 8,SSF,748,Eswatini,SWZ,20/07/2020,1793,21,822,
+8,SSF,748,Eswatini,SWZ,21/07/2020,1826,23,850,
+8,SSF,748,Eswatini,SWZ,22/07/2020,1894,24,855,
+8,SSF,748,Eswatini,SWZ,23/07/2020,1938,25,876,
 2,ECS,752,Sweden,SWE,31/01/2020,1,0,0,
 2,ECS,752,Sweden,SWE,01/02/2020,1,0,0,
 2,ECS,752,Sweden,SWE,26/02/2020,2,0,0,
@@ -23423,6 +23940,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,757,Switzerland,CHE,18/07/2020,33382,1969,29900,
 2,ECS,757,Switzerland,CHE,19/07/2020,33492,1969,29900,
 2,ECS,757,Switzerland,CHE,20/07/2020,33591,1969,30300,
+2,ECS,757,Switzerland,CHE,21/07/2020,33634,1971,30300,
+2,ECS,757,Switzerland,CHE,22/07/2020,33742,1972,30300,
+2,ECS,757,Switzerland,CHE,23/07/2020,33883,1972,30500,
 4,MEA,760,Syria,SYR,22/03/2020,1,0,0,
 4,MEA,760,Syria,SYR,23/03/2020,1,0,0,
 4,MEA,760,Syria,SYR,24/03/2020,1,0,0,
@@ -23543,6 +24063,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,760,Syria,SYR,18/07/2020,496,25,144,
 4,MEA,760,Syria,SYR,19/07/2020,496,25,144,
 4,MEA,760,Syria,SYR,20/07/2020,496,25,144,
+4,MEA,760,Syria,SYR,21/07/2020,522,29,154,
+4,MEA,760,Syria,SYR,22/07/2020,540,31,160,
+4,MEA,760,Syria,SYR,23/07/2020,561,32,165,
 2,ECS,762,Tajikistan,TJK,01/05/2020,15,0,0,
 2,ECS,762,Tajikistan,TJK,02/05/2020,15,0,0,
 2,ECS,762,Tajikistan,TJK,03/05/2020,76,2,0,
@@ -23624,6 +24147,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,762,Tajikistan,TJK,18/07/2020,6786,56,5483,
 2,ECS,762,Tajikistan,TJK,19/07/2020,6834,57,5529,
 2,ECS,762,Tajikistan,TJK,20/07/2020,6878,57,5578,
+2,ECS,762,Tajikistan,TJK,21/07/2020,6921,57,5629,
+2,ECS,762,Tajikistan,TJK,22/07/2020,6967,57,5683,
+2,ECS,762,Tajikistan,TJK,23/07/2020,7015,58,5741,
 1,EAS,764,Thailand,THA,22/01/2020,2,0,0,
 1,EAS,764,Thailand,THA,23/01/2020,3,0,0,
 1,EAS,764,Thailand,THA,24/01/2020,5,0,0,
@@ -23782,6 +24308,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 1,EAS,764,Thailand,THA,18/07/2020,3239,58,3096,
 1,EAS,764,Thailand,THA,19/07/2020,3246,58,3096,
 1,EAS,764,Thailand,THA,20/07/2020,3250,58,3096,
+1,EAS,764,Thailand,THA,21/07/2020,3250,58,3096,
+1,EAS,764,Thailand,THA,22/07/2020,3255,58,3105,
+1,EAS,764,Thailand,THA,23/07/2020,3269,58,3105,
 8,SSF,768,Togo,TGO,06/03/2020,1,0,0,
 8,SSF,768,Togo,TGO,07/03/2020,1,0,0,
 8,SSF,768,Togo,TGO,11/03/2020,1,0,0,
@@ -23908,6 +24437,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,768,Togo,TGO,18/07/2020,766,15,546,
 8,SSF,768,Togo,TGO,19/07/2020,774,15,548,
 8,SSF,768,Togo,TGO,20/07/2020,778,15,551,
+8,SSF,768,Togo,TGO,21/07/2020,783,15,554,
+8,SSF,768,Togo,TGO,22/07/2020,790,15,560,
+8,SSF,768,Togo,TGO,23/07/2020,806,16,578,
 3,LCN,780,Trinidad and Tobago,TTO,14/03/2020,2,0,0,
 3,LCN,780,Trinidad and Tobago,TTO,16/03/2020,4,0,0,
 3,LCN,780,Trinidad and Tobago,TTO,17/03/2020,5,0,0,
@@ -24034,6 +24566,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,780,Trinidad and Tobago,TTO,18/07/2020,136,8,124,
 3,LCN,780,Trinidad and Tobago,TTO,19/07/2020,137,8,124,
 3,LCN,780,Trinidad and Tobago,TTO,20/07/2020,137,8,124,
+3,LCN,780,Trinidad and Tobago,TTO,21/07/2020,137,8,124,
+3,LCN,780,Trinidad and Tobago,TTO,22/07/2020,139,8,124,
+3,LCN,780,Trinidad and Tobago,TTO,23/07/2020,141,8,127,
 4,MEA,784,United Arab Emirates,ARE,29/01/2020,4,0,0,
 4,MEA,784,United Arab Emirates,ARE,30/01/2020,4,0,0,
 4,MEA,784,United Arab Emirates,ARE,31/01/2020,8,0,0,
@@ -24179,6 +24714,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,784,United Arab Emirates,ARE,18/07/2020,56422,337,48448,
 4,MEA,784,United Arab Emirates,ARE,19/07/2020,56711,338,48917,
 4,MEA,784,United Arab Emirates,ARE,20/07/2020,56922,339,49269,
+4,MEA,784,United Arab Emirates,ARE,21/07/2020,57193,340,49621,
+4,MEA,784,United Arab Emirates,ARE,22/07/2020,57498,341,49964,
+4,MEA,784,United Arab Emirates,ARE,23/07/2020,57734,342,50354,
 4,MEA,788,Tunisia,TUN,04/03/2020,1,0,0,
 4,MEA,788,Tunisia,TUN,08/03/2020,2,0,0,
 4,MEA,788,Tunisia,TUN,10/03/2020,5,0,0,
@@ -24310,6 +24848,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,788,Tunisia,TUN,18/07/2020,1336,50,1095,
 4,MEA,788,Tunisia,TUN,19/07/2020,1348,50,1095,
 4,MEA,788,Tunisia,TUN,20/07/2020,1374,50,1097,
+4,MEA,788,Tunisia,TUN,21/07/2020,1381,50,1099,
+4,MEA,788,Tunisia,TUN,22/07/2020,1389,50,1103,
+4,MEA,788,Tunisia,TUN,23/07/2020,1394,50,1108,
 2,ECS,792,Turkey,TUR,11/03/2020,6,0,0,
 2,ECS,792,Turkey,TUR,13/03/2020,5,0,0,
 2,ECS,792,Turkey,TUR,15/03/2020,6,0,0,
@@ -24439,6 +24980,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,792,Turkey,TUR,18/07/2020,217799,5458,199834,
 2,ECS,792,Turkey,TUR,19/07/2020,218717,5475,201013,
 2,ECS,792,Turkey,TUR,20/07/2020,219641,5491,202010,
+2,ECS,792,Turkey,TUR,21/07/2020,220572,5508,203002,
+2,ECS,792,Turkey,TUR,22/07/2020,221500,5526,204011,
+2,ECS,792,Turkey,TUR,23/07/2020,222402,5545,205214,
 8,SSF,800,Uganda,UGA,21/03/2020,1,0,0,
 8,SSF,800,Uganda,UGA,22/03/2020,1,0,0,
 8,SSF,800,Uganda,UGA,23/03/2020,9,0,0,
@@ -24560,6 +25104,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,800,Uganda,UGA,18/07/2020,1056,0,1023,
 8,SSF,800,Uganda,UGA,19/07/2020,1062,0,1023,
 8,SSF,800,Uganda,UGA,20/07/2020,1065,0,1023,
+8,SSF,800,Uganda,UGA,21/07/2020,1069,0,1071,
+8,SSF,800,Uganda,UGA,22/07/2020,1072,0,958,
+8,SSF,800,Uganda,UGA,23/07/2020,1075,0,958,
 2,ECS,804,Ukraine,UKR,03/03/2020,1,0,0,
 2,ECS,804,Ukraine,UKR,11/03/2020,3,1,0,
 2,ECS,804,Ukraine,UKR,13/03/2020,3,1,0,
@@ -24771,6 +25318,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,807,North Macedonia,MKD,18/07/2020,8786,406,4676,
 2,ECS,807,North Macedonia,MKD,19/07/2020,9026,414,4727,
 2,ECS,807,North Macedonia,MKD,20/07/2020,9153,422,4810,
+2,ECS,807,North Macedonia,MKD,21/07/2020,9249,432,4871,
+2,ECS,807,North Macedonia,MKD,22/07/2020,9412,432,4940,
+2,ECS,807,North Macedonia,MKD,23/07/2020,9547,442,5071,
 4,MEA,818,Egypt,EGY,14/02/2020,1,0,0,
 4,MEA,818,Egypt,EGY,21/02/2020,1,0,0,
 4,MEA,818,Egypt,EGY,28/02/2020,1,0,1,
@@ -24910,6 +25460,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,818,Egypt,EGY,18/07/2020,86474,4188,27302,
 4,MEA,818,Egypt,EGY,19/07/2020,87172,4251,27868,
 4,MEA,818,Egypt,EGY,20/07/2020,87775,4302,28380,
+4,MEA,818,Egypt,EGY,21/07/2020,88402,4352,28924,
+4,MEA,818,Egypt,EGY,22/07/2020,89078,4399,29473,
+4,MEA,818,Egypt,EGY,23/07/2020,89745,4440,30075,
 2,ECS,826,United Kingdom,GBR,31/01/2020,2,0,0,
 2,ECS,826,United Kingdom,GBR,01/02/2020,2,0,0,
 2,ECS,826,United Kingdom,GBR,07/02/2020,3,0,0,
@@ -25146,6 +25699,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,830,Channel Islands,CHI,18/07/2020,583,47,529,
 2,ECS,830,Channel Islands,CHI,19/07/2020,583,47,529,
 2,ECS,830,Channel Islands,CHI,20/07/2020,583,47,529,
+2,ECS,830,Channel Islands,CHI,21/07/2020,583,47,529,
+2,ECS,830,Channel Islands,CHI,22/07/2020,583,47,529,
+2,ECS,830,Channel Islands,CHI,23/07/2020,583,47,529,
 2,ECS,831,Guernsey,GGY,13/03/2020,1,0,0,
 2,ECS,832,Jersey,JEY,14/03/2020,2,0,0,
 2,ECS,833,Isle of Man,IMN,20/03/2020,1,0,0,
@@ -25269,6 +25825,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,833,Isle of Man,IMN,18/07/2020,336,24,312,
 2,ECS,833,Isle of Man,IMN,19/07/2020,336,24,312,
 2,ECS,833,Isle of Man,IMN,20/07/2020,336,24,312,
+2,ECS,833,Isle of Man,IMN,21/07/2020,336,24,312,
+2,ECS,833,Isle of Man,IMN,22/07/2020,336,24,312,
+2,ECS,833,Isle of Man,IMN,23/07/2020,336,24,312,
 8,SSF,834,United Rep. of Tanzania,TZA,16/03/2020,1,0,0,
 8,SSF,834,United Rep. of Tanzania,TZA,17/03/2020,1,0,0,
 8,SSF,834,United Rep. of Tanzania,TZA,18/03/2020,3,0,0,
@@ -25393,6 +25952,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,834,United Rep. of Tanzania,TZA,18/07/2020,509,21,183,
 8,SSF,834,United Rep. of Tanzania,TZA,19/07/2020,509,21,183,
 8,SSF,834,United Rep. of Tanzania,TZA,20/07/2020,509,21,183,
+8,SSF,834,United Rep. of Tanzania,TZA,21/07/2020,509,21,183,
+8,SSF,834,United Rep. of Tanzania,TZA,22/07/2020,509,21,183,
+8,SSF,834,United Rep. of Tanzania,TZA,23/07/2020,509,21,183,
 6,NAC,842,USA,USA,22/01/2020,1,,0,0
 6,NAC,842,USA,USA,23/01/2020,1,,0,0
 6,NAC,842,USA,USA,25/01/2020,1,,0,0
@@ -25407,7 +25969,7 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 6,NAC,842,USA,USA,08/03/2020,12,,0,0
 6,NAC,842,USA,USA,09/03/2020,19,,0,0
 6,NAC,842,USA,USA,10/03/2020,820,,8,28
-6,NAC,842,USA,USA,11/03/2020,1939,,12,47
+6,NAC,842,USA,USA,11/03/2020,1951,,12,47
 6,NAC,842,USA,USA,12/03/2020,1509,,11,39
 6,NAC,842,USA,USA,14/03/2020,2636,,12,54
 6,NAC,842,USA,USA,15/03/2020,2788,,10,60
@@ -25417,127 +25979,130 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 6,NAC,842,USA,USA,19/03/2020,13453,,0,199
 6,NAC,842,USA,USA,20/03/2020,18873,,0,244
 6,NAC,842,USA,USA,21/03/2020,25340,,0,304
-6,NAC,842,USA,USA,22/03/2020,28037,,0,325
-6,NAC,842,USA,USA,23/03/2020,36747,,0,434
-6,NAC,842,USA,USA,24/03/2020,45315,,0,540
-6,NAC,842,USA,USA,25/03/2020,55867,,0,742
-6,NAC,842,USA,USA,26/03/2020,71859,,0,958
-6,NAC,842,USA,USA,27/03/2020,87698,,0,1228
-6,NAC,842,USA,USA,28/03/2020,106169,,0,1649
-6,NAC,842,USA,USA,29/03/2020,122988,,0,2038
-6,NAC,842,USA,USA,30/03/2020,142292,,0,2361
-6,NAC,842,USA,USA,31/03/2020,168171,,0,2862
-6,NAC,842,USA,USA,01/04/2020,190609,,0,3832
-6,NAC,842,USA,USA,02/04/2020,218601,,0,4819
-6,NAC,842,USA,USA,03/04/2020,249359,,0,5681
-6,NAC,842,USA,USA,04/04/2020,281611,,0,6736
-6,NAC,842,USA,USA,05/04/2020,310011,,0,7812
-6,NAC,842,USA,USA,06/04/2020,338986,,0,9911
-6,NAC,842,USA,USA,07/04/2020,369693,,0,11958
-6,NAC,842,USA,USA,08/04/2020,400500,,0,13832
-6,NAC,842,USA,USA,09/04/2020,432718,,0,15594
-6,NAC,842,USA,USA,10/04/2020,466435,,0,17566
-6,NAC,842,USA,USA,11/04/2020,495380,,0,19586
-6,NAC,842,USA,USA,12/04/2020,523414,,0,21151
-6,NAC,842,USA,USA,13/04/2020,547249,,0,22595
-6,NAC,842,USA,USA,14/04/2020,573239,,0,24774
-6,NAC,842,USA,USA,15/04/2020,603439,,0,27352
-6,NAC,842,USA,USA,16/04/2020,631456,,0,31771
-6,NAC,842,USA,USA,17/04/2020,665341,,0,35130
-6,NAC,842,USA,USA,18/04/2020,697744,,0,36528
-6,NAC,842,USA,USA,19/04/2020,723851,,0,39149
-6,NAC,842,USA,USA,20/04/2020,748711,,0,40810
-6,NAC,842,USA,USA,21/04/2020,773500,,0,42883
-6,NAC,842,USA,USA,22/04/2020,806182,,0,45352
-6,NAC,842,USA,USA,23/04/2020,661885,,0,30525
-6,NAC,842,USA,USA,24/04/2020,839965,,0,48460
-6,NAC,842,USA,USA,25/04/2020,879051,,0,50264
-6,NAC,842,USA,USA,26/04/2020,903186,,0,52545
-6,NAC,842,USA,USA,27/04/2020,798563,,0,48340
-6,NAC,842,USA,USA,28/04/2020,818687,,0,49753
-6,NAC,842,USA,USA,29/04/2020,973320,,0,56895
-6,NAC,842,USA,USA,30/04/2020,999355,,0,59490
-6,NAC,842,USA,USA,01/05/2020,1030557,,0,61509
-6,NAC,842,USA,USA,02/05/2020,1064107,,0,63490
-6,NAC,842,USA,USA,03/05/2020,1091088,,0,64864
-6,NAC,842,USA,USA,04/05/2020,1115737,,0,66150
-6,NAC,842,USA,USA,05/05/2020,1139169,,0,67378
-6,NAC,842,USA,USA,06/05/2020,1161405,,0,69480
-6,NAC,842,USA,USA,07/05/2020,1185525,,0,71720
-6,NAC,842,USA,USA,08/05/2020,1214712,,0,73943
+6,NAC,842,USA,USA,22/03/2020,28158,,0,327
+6,NAC,842,USA,USA,23/03/2020,36670,,0,433
+6,NAC,842,USA,USA,24/03/2020,45339,,0,540
+6,NAC,842,USA,USA,25/03/2020,55912,,0,745
+6,NAC,842,USA,USA,26/03/2020,71750,,0,956
+6,NAC,842,USA,USA,27/03/2020,88134,,0,1230
+6,NAC,842,USA,USA,28/03/2020,106233,,0,1650
+6,NAC,842,USA,USA,29/03/2020,122884,,0,2037
+6,NAC,842,USA,USA,30/03/2020,142328,,0,2368
+6,NAC,842,USA,USA,31/03/2020,167896,,0,2861
+6,NAC,842,USA,USA,01/04/2020,190842,,0,3835
+6,NAC,842,USA,USA,02/04/2020,218681,,0,4821
+6,NAC,842,USA,USA,03/04/2020,249355,,0,5681
+6,NAC,842,USA,USA,04/04/2020,281879,,0,6742
+6,NAC,842,USA,USA,05/04/2020,309958,,0,7812
+6,NAC,842,USA,USA,06/04/2020,339063,,0,9913
+6,NAC,842,USA,USA,07/04/2020,369557,,0,11955
+6,NAC,842,USA,USA,08/04/2020,399910,,0,13818
+6,NAC,842,USA,USA,09/04/2020,432570,,0,15591
+6,NAC,842,USA,USA,10/04/2020,466505,,0,17567
+6,NAC,842,USA,USA,11/04/2020,495474,,0,19588
+6,NAC,842,USA,USA,12/04/2020,523465,,0,21152
+6,NAC,842,USA,USA,13/04/2020,547277,,0,22595
+6,NAC,842,USA,USA,14/04/2020,572985,,0,24772
+6,NAC,842,USA,USA,15/04/2020,603487,,0,27352
+6,NAC,842,USA,USA,16/04/2020,631487,,0,31769
+6,NAC,842,USA,USA,17/04/2020,665382,,0,35136
+6,NAC,842,USA,USA,18/04/2020,697748,,0,36526
+6,NAC,842,USA,USA,19/04/2020,724019,,0,39152
+6,NAC,842,USA,USA,20/04/2020,748995,,0,40809
+6,NAC,842,USA,USA,21/04/2020,773425,,0,42883
+6,NAC,842,USA,USA,22/04/2020,806151,,0,45352
+6,NAC,842,USA,USA,23/04/2020,661897,,0,30529
+6,NAC,842,USA,USA,24/04/2020,839714,,0,48456
+6,NAC,842,USA,USA,25/04/2020,879084,,0,50262
+6,NAC,842,USA,USA,26/04/2020,903189,,0,52538
+6,NAC,842,USA,USA,27/04/2020,799478,,0,48371
+6,NAC,842,USA,USA,28/04/2020,818931,,0,49761
+6,NAC,842,USA,USA,29/04/2020,973268,,0,56893
+6,NAC,842,USA,USA,30/04/2020,999357,,0,59489
+6,NAC,842,USA,USA,01/05/2020,1030260,,0,61495
+6,NAC,842,USA,USA,02/05/2020,1064160,,0,63491
+6,NAC,842,USA,USA,03/05/2020,1091001,,0,64859
+6,NAC,842,USA,USA,04/05/2020,1115799,,0,66151
+6,NAC,842,USA,USA,05/05/2020,1139351,,0,67380
+6,NAC,842,USA,USA,06/05/2020,1161522,,0,69485
+6,NAC,842,USA,USA,07/05/2020,1185767,,0,71729
+6,NAC,842,USA,USA,08/05/2020,1214779,,0,73944
 6,NAC,842,USA,USA,09/05/2020,1239030,,0,75393
-6,NAC,842,USA,USA,10/05/2020,1266023,,0,76958
-6,NAC,842,USA,USA,11/05/2020,1282895,,0,77676
-6,NAC,842,USA,USA,12/05/2020,1303462,,0,78843
-6,NAC,842,USA,USA,13/05/2020,1324618,,0,80479
-6,NAC,842,USA,USA,14/05/2020,1342493,,0,82070
-6,NAC,842,USA,USA,15/05/2020,1372311,,0,84015
-6,NAC,842,USA,USA,16/05/2020,1396979,,0,85585
-6,NAC,842,USA,USA,17/05/2020,1419725,,0,86758
-6,NAC,842,USA,USA,18/05/2020,1437711,,0,87580
-6,NAC,842,USA,USA,19/05/2020,1456755,,0,88245
-6,NAC,842,USA,USA,20/05/2020,1478465,,0,89882
-6,NAC,842,USA,USA,21/05/2020,1500279,,0,91337
-6,NAC,842,USA,USA,22/05/2020,1525546,,0,92640
-6,NAC,842,USA,USA,23/05/2020,1550541,,0,93878
-6,NAC,842,USA,USA,24/05/2020,1571920,,0,94988
-6,NAC,842,USA,USA,25/05/2020,1589964,,0,95521
-6,NAC,842,USA,USA,26/05/2020,1608384,,0,96074
-6,NAC,842,USA,USA,27/05/2020,1629455,,0,96829
-6,NAC,842,USA,USA,28/05/2020,1646576,,0,98230
-6,NAC,842,USA,USA,29/05/2020,1669166,,0,99404
-6,NAC,842,USA,USA,30/05/2020,1690951,,0,100580
-6,NAC,842,USA,USA,31/05/2020,1715536,,0,101532
-6,NAC,842,USA,USA,01/06/2020,1736380,,0,102200
-6,NAC,842,USA,USA,02/06/2020,1754060,,0,102905
-6,NAC,842,USA,USA,03/06/2020,1772694,,0,103881
-6,NAC,842,USA,USA,04/06/2020,1795952,,0,104959
-6,NAC,842,USA,USA,05/06/2020,1814784,,0,105934
-6,NAC,842,USA,USA,06/06/2020,1845389,,0,107154
-6,NAC,842,USA,USA,07/06/2020,1867263,,0,107879
-6,NAC,842,USA,USA,08/06/2020,1881787,,0,108212
-6,NAC,842,USA,USA,09/06/2020,1901325,,0,108730
-6,NAC,842,USA,USA,10/06/2020,1916585,,0,109632
-6,NAC,842,USA,USA,11/06/2020,1940576,,0,110636
-6,NAC,842,USA,USA,12/06/2020,1961423,,0,111483
-6,NAC,842,USA,USA,13/06/2020,1985963,,0,112325
-6,NAC,842,USA,USA,14/06/2020,2012906,,0,113134
-6,NAC,842,USA,USA,15/06/2020,2031356,,0,113459
-6,NAC,842,USA,USA,16/06/2020,2051108,,0,113744
-6,NAC,842,USA,USA,17/06/2020,2074359,,0,114613
-6,NAC,842,USA,USA,18/06/2020,2095672,,0,115268
-6,NAC,842,USA,USA,19/06/2020,2126639,,0,116127
-6,NAC,842,USA,USA,20/06/2020,2157203,,0,116781
-6,NAC,842,USA,USA,21/06/2020,2187735,,0,117395
-6,NAC,842,USA,USA,22/06/2020,2215250,,0,117690
-6,NAC,842,USA,USA,23/06/2020,2243555,,0,118053
-6,NAC,842,USA,USA,24/06/2020,2278122,,0,118872
-6,NAC,842,USA,USA,25/06/2020,2308723,,0,119498
-6,NAC,842,USA,USA,26/06/2020,2349137,,0,121927
-6,NAC,842,USA,USA,27/06/2020,2396689,,0,122630
-6,NAC,842,USA,USA,28/06/2020,2436567,,0,123105
-6,NAC,842,USA,USA,29/06/2020,2474006,,0,123409
-6,NAC,842,USA,USA,30/06/2020,2300409,,0,101239
-6,NAC,842,USA,USA,01/07/2020,2559459,,0,125008
-6,NAC,842,USA,USA,02/07/2020,2606813,,0,125599
-6,NAC,842,USA,USA,03/07/2020,2661152,,0,126271
-6,NAC,842,USA,USA,04/07/2020,2713124,,0,126986
-6,NAC,842,USA,USA,05/07/2020,2759917,,0,127302
-6,NAC,842,USA,USA,06/07/2020,2805987,,0,127569
-6,NAC,842,USA,USA,07/07/2020,2853558,,0,127942
-6,NAC,842,USA,USA,08/07/2020,2911781,,0,128844
-6,NAC,842,USA,USA,09/07/2020,2963358,,0,129544
-6,NAC,842,USA,USA,10/07/2020,3027517,,0,130620
-6,NAC,842,USA,USA,11/07/2020,3092294,,0,131395
-6,NAC,842,USA,USA,12/07/2020,3157488,,0,132157
-6,NAC,842,USA,USA,13/07/2020,3210981,,0,132563
-6,NAC,842,USA,USA,14/07/2020,3268702,,0,132926
-6,NAC,842,USA,USA,15/07/2020,3333282,,0,133838
-6,NAC,842,USA,USA,16/07/2020,3400737,,0,134725
-6,NAC,842,USA,USA,17/07/2020,3476331,,0,135680
-6,NAC,842,USA,USA,18/07/2020,3547680,,0,136678
-6,NAC,842,USA,USA,19/07/2020,3610028,,0,137505
-6,NAC,842,USA,USA,20/07/2020,3667084,,0,137963
+6,NAC,842,USA,USA,10/05/2020,1265970,,0,76953
+6,NAC,842,USA,USA,11/05/2020,1282723,,0,77674
+6,NAC,842,USA,USA,12/05/2020,1303373,,0,78843
+6,NAC,842,USA,USA,13/05/2020,1324180,,0,80470
+6,NAC,842,USA,USA,14/05/2020,1342550,,0,82078
+6,NAC,842,USA,USA,15/05/2020,1372169,,0,84016
+6,NAC,842,USA,USA,16/05/2020,1396721,,0,85583
+6,NAC,842,USA,USA,17/05/2020,1419957,,0,86759
+6,NAC,842,USA,USA,18/05/2020,1437913,,0,87581
+6,NAC,842,USA,USA,19/05/2020,1457005,,0,88246
+6,NAC,842,USA,USA,20/05/2020,1478753,,0,89887
+6,NAC,842,USA,USA,21/05/2020,1500303,,0,91337
+6,NAC,842,USA,USA,22/05/2020,1525829,,0,92646
+6,NAC,842,USA,USA,23/05/2020,1550571,,0,93878
+6,NAC,842,USA,USA,24/05/2020,1571846,,0,94991
+6,NAC,842,USA,USA,25/05/2020,1589782,,0,95511
+6,NAC,842,USA,USA,26/05/2020,1608627,,0,96078
+6,NAC,842,USA,USA,27/05/2020,1629210,,0,96826
+6,NAC,842,USA,USA,28/05/2020,1646510,,0,98229
+6,NAC,842,USA,USA,29/05/2020,1669388,,0,99407
+6,NAC,842,USA,USA,30/05/2020,1690951,,0,100573
+6,NAC,842,USA,USA,31/05/2020,1715282,,0,101536
+6,NAC,842,USA,USA,01/06/2020,1736228,,0,102205
+6,NAC,842,USA,USA,02/06/2020,1753919,,0,102895
+6,NAC,842,USA,USA,03/06/2020,1772645,,0,103881
+6,NAC,842,USA,USA,04/06/2020,1795740,,0,104958
+6,NAC,842,USA,USA,05/06/2020,1814452,,0,105933
+6,NAC,842,USA,USA,06/06/2020,1845319,,0,107154
+6,NAC,842,USA,USA,07/06/2020,1867329,,0,107877
+6,NAC,842,USA,USA,08/06/2020,1881635,,0,108211
+6,NAC,842,USA,USA,09/06/2020,1901293,,0,108730
+6,NAC,842,USA,USA,10/06/2020,1916593,,0,109633
+6,NAC,842,USA,USA,11/06/2020,1940513,,0,110633
+6,NAC,842,USA,USA,12/06/2020,1961700,,0,111481
+6,NAC,842,USA,USA,13/06/2020,1985839,,0,112325
+6,NAC,842,USA,USA,14/06/2020,2012941,,0,113135
+6,NAC,842,USA,USA,15/06/2020,2031795,,0,113460
+6,NAC,842,USA,USA,16/06/2020,2050743,,0,113740
+6,NAC,842,USA,USA,17/06/2020,2074603,,0,114616
+6,NAC,842,USA,USA,18/06/2020,2095726,,0,115269
+6,NAC,842,USA,USA,19/06/2020,2126554,,0,116129
+6,NAC,842,USA,USA,20/06/2020,2157539,,0,116781
+6,NAC,842,USA,USA,21/06/2020,2187703,,0,117390
+6,NAC,842,USA,USA,22/06/2020,2215303,,0,117690
+6,NAC,842,USA,USA,23/06/2020,2243563,,0,118053
+6,NAC,842,USA,USA,24/06/2020,2277735,,0,118864
+6,NAC,842,USA,USA,25/06/2020,2308749,,0,119498
+6,NAC,842,USA,USA,26/06/2020,2348955,,0,121922
+6,NAC,842,USA,USA,27/06/2020,2396662,,0,122630
+6,NAC,842,USA,USA,28/06/2020,2436869,,0,123106
+6,NAC,842,USA,USA,29/06/2020,2474252,,0,123409
+6,NAC,842,USA,USA,30/06/2020,2300345,,0,101239
+6,NAC,842,USA,USA,01/07/2020,2559310,,0,125005
+6,NAC,842,USA,USA,02/07/2020,2606998,,0,125601
+6,NAC,842,USA,USA,03/07/2020,2660896,,0,126262
+6,NAC,842,USA,USA,04/07/2020,2713330,,0,126987
+6,NAC,842,USA,USA,05/07/2020,2759852,,0,127295
+6,NAC,842,USA,USA,06/07/2020,2806013,,0,127569
+6,NAC,842,USA,USA,07/07/2020,2853325,,0,127942
+6,NAC,842,USA,USA,08/07/2020,2911848,,0,128850
+6,NAC,842,USA,USA,09/07/2020,2963174,,0,129543
+6,NAC,842,USA,USA,10/07/2020,3027805,,0,130629
+6,NAC,842,USA,USA,11/07/2020,3092331,,0,131400
+6,NAC,842,USA,USA,12/07/2020,3157408,,0,132156
+6,NAC,842,USA,USA,13/07/2020,3210688,,0,132560
+6,NAC,842,USA,USA,14/07/2020,3268780,,0,132924
+6,NAC,842,USA,USA,15/07/2020,3331671,,0,133830
+6,NAC,842,USA,USA,16/07/2020,3400589,,0,134725
+6,NAC,842,USA,USA,17/07/2020,3476768,,0,135681
+6,NAC,842,USA,USA,18/07/2020,3547412,,0,136675
+6,NAC,842,USA,USA,19/07/2020,3611241,,0,137509
+6,NAC,842,USA,USA,20/07/2020,3667292,,0,137963
+6,NAC,842,USA,USA,21/07/2020,3726399,,0,138370
+6,NAC,842,USA,USA,22/07/2020,3788099,,0,139483
+6,NAC,842,USA,USA,23/07/2020,3852279,,0,140539
 8,SSF,854,Burkina Faso,BFA,10/03/2020,1,0,0,
 8,SSF,854,Burkina Faso,BFA,11/03/2020,2,0,0,
 8,SSF,854,Burkina Faso,BFA,13/03/2020,5,0,0,
@@ -25666,6 +26231,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,854,Burkina Faso,BFA,18/07/2020,1045,53,887,
 8,SSF,854,Burkina Faso,BFA,19/07/2020,1047,53,887,
 8,SSF,854,Burkina Faso,BFA,20/07/2020,1052,53,901,
+8,SSF,854,Burkina Faso,BFA,21/07/2020,1065,53,901,
+8,SSF,854,Burkina Faso,BFA,22/07/2020,1065,53,901,
+8,SSF,854,Burkina Faso,BFA,23/07/2020,1066,53,917,
 3,LCN,858,Uruguay,URY,14/03/2020,4,0,0,
 3,LCN,858,Uruguay,URY,16/03/2020,8,0,0,
 3,LCN,858,Uruguay,URY,17/03/2020,29,0,0,
@@ -25793,6 +26361,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,858,Uruguay,URY,18/07/2020,1037,32,917,
 3,LCN,858,Uruguay,URY,19/07/2020,1044,33,921,
 3,LCN,858,Uruguay,URY,20/07/2020,1054,33,922,
+3,LCN,858,Uruguay,URY,21/07/2020,1064,33,927,
+3,LCN,858,Uruguay,URY,22/07/2020,1096,33,929,
+3,LCN,858,Uruguay,URY,23/07/2020,1117,34,934,
 2,ECS,860,Uzbekistan,UZB,15/03/2020,1,0,0,
 2,ECS,860,Uzbekistan,UZB,16/03/2020,6,0,0,
 2,ECS,860,Uzbekistan,UZB,17/03/2020,10,0,0,
@@ -25920,6 +26491,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 2,ECS,860,Uzbekistan,UZB,18/07/2020,15607,79,9003,
 2,ECS,860,Uzbekistan,UZB,19/07/2020,16186,83,9127,
 2,ECS,860,Uzbekistan,UZB,20/07/2020,16752,87,9279,
+2,ECS,860,Uzbekistan,UZB,21/07/2020,17149,90,9387,
+2,ECS,860,Uzbekistan,UZB,22/07/2020,17881,95,9521,
+2,ECS,860,Uzbekistan,UZB,23/07/2020,18379,98,9872,
 3,LCN,862,Venezuela,VEN,14/03/2020,2,0,0,
 3,LCN,862,Venezuela,VEN,15/03/2020,10,0,0,
 3,LCN,862,Venezuela,VEN,16/03/2020,17,0,0,
@@ -26047,6 +26621,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 3,LCN,862,Venezuela,VEN,18/07/2020,11191,107,3852,
 3,LCN,862,Venezuela,VEN,19/07/2020,11483,110,3972,
 3,LCN,862,Venezuela,VEN,20/07/2020,11891,112,3972,
+3,LCN,862,Venezuela,VEN,21/07/2020,12334,116,6844,
+3,LCN,862,Venezuela,VEN,22/07/2020,12774,120,6983,
+3,LCN,862,Venezuela,VEN,23/07/2020,13164,124,7471,
 4,MEA,887,Yemen,YEM,10/04/2020,1,0,0,
 4,MEA,887,Yemen,YEM,11/04/2020,1,0,0,
 4,MEA,887,Yemen,YEM,12/04/2020,1,0,0,
@@ -26148,6 +26725,9 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 4,MEA,887,Yemen,YEM,18/07/2020,1576,440,695,
 4,MEA,887,Yemen,YEM,19/07/2020,1581,443,701,
 4,MEA,887,Yemen,YEM,20/07/2020,1606,445,712,
+4,MEA,887,Yemen,YEM,21/07/2020,1619,447,714,
+4,MEA,887,Yemen,YEM,22/07/2020,1629,456,741,
+4,MEA,887,Yemen,YEM,23/07/2020,1640,458,751,
 8,SSF,894,Zambia,ZMB,18/03/2020,2,0,0,
 8,SSF,894,Zambia,ZMB,19/03/2020,2,0,0,
 8,SSF,894,Zambia,ZMB,22/03/2020,3,0,0,
@@ -26270,3 +26850,6 @@ country_region,country_region_name,country_unsd,country_name,country_iso,date,ca
 8,SSF,894,Zambia,ZMB,18/07/2020,2810,109,1450,
 8,SSF,894,Zambia,ZMB,19/07/2020,2980,120,1462,
 8,SSF,894,Zambia,ZMB,20/07/2020,2980,120,1462,
+8,SSF,894,Zambia,ZMB,21/07/2020,3326,128,1620,
+8,SSF,894,Zambia,ZMB,22/07/2020,3386,128,1620,
+8,SSF,894,Zambia,ZMB,23/07/2020,3583,128,1677,
