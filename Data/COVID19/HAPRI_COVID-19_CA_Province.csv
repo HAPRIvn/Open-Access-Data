@@ -179,6 +179,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,262,3,259,1
 6,NAC,Canada,124,CAN,22/07/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,263,3,259,1
 6,NAC,Canada,124,CAN,23/07/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,264,3,259,1
+6,NAC,Canada,124,CAN,24/07/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,264,3,259,1
+6,NAC,Canada,124,CAN,25/07/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,265,3,259,1
+6,NAC,Canada,124,CAN,26/07/2020,10,Newfoundland and Labrador,CAN,CAN.5_1,265,3,259,1
 6,,Canada,124,CAN,26/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
 6,,Canada,124,CAN,27/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
 6,,Canada,124,CAN,28/01/2020,11,Prince Edward Island,CAN,CAN.10_1,0,0,0,1
@@ -359,6 +362,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,11,Prince Edward Island,CAN,CAN.10_1,36,0,31,1
 6,NAC,Canada,124,CAN,22/07/2020,11,Prince Edward Island,CAN,CAN.10_1,36,0,33,1
 6,NAC,Canada,124,CAN,23/07/2020,11,Prince Edward Island,CAN,CAN.10_1,36,0,34,1
+6,NAC,Canada,124,CAN,24/07/2020,11,Prince Edward Island,CAN,CAN.10_1,36,0,34,1
+6,NAC,Canada,124,CAN,25/07/2020,11,Prince Edward Island,CAN,CAN.10_1,36,0,34,1
+6,NAC,Canada,124,CAN,26/07/2020,11,Prince Edward Island,CAN,CAN.10_1,36,0,34,1
 6,,Canada,124,CAN,26/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
 6,,Canada,124,CAN,27/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
 6,,Canada,124,CAN,28/01/2020,12,Nova Scotia,CAN,CAN.7_1,0,0,0,1
@@ -539,6 +545,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,12,Nova Scotia,CAN,CAN.7_1,1067,63,1003,1
 6,NAC,Canada,124,CAN,22/07/2020,12,Nova Scotia,CAN,CAN.7_1,1067,63,1003,1
 6,NAC,Canada,124,CAN,23/07/2020,12,Nova Scotia,CAN,CAN.7_1,1067,63,1003,1
+6,NAC,Canada,124,CAN,24/07/2020,12,Nova Scotia,CAN,CAN.7_1,1067,63,1003,1
+6,NAC,Canada,124,CAN,25/07/2020,12,Nova Scotia,CAN,CAN.7_1,1067,63,1003,1
+6,NAC,Canada,124,CAN,26/07/2020,12,Nova Scotia,CAN,CAN.7_1,1067,63,1003,1
 6,,Canada,124,CAN,26/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
 6,,Canada,124,CAN,27/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
 6,,Canada,124,CAN,28/01/2020,13,New Brunswick,CAN,CAN.4_1,0,0,0,1
@@ -719,6 +728,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,13,New Brunswick,CAN,CAN.4_1,170,2,163,1
 6,NAC,Canada,124,CAN,22/07/2020,13,New Brunswick,CAN,CAN.4_1,170,2,163,1
 6,NAC,Canada,124,CAN,23/07/2020,13,New Brunswick,CAN,CAN.4_1,170,2,165,1
+6,NAC,Canada,124,CAN,24/07/2020,13,New Brunswick,CAN,CAN.4_1,170,2,165,1
+6,NAC,Canada,124,CAN,25/07/2020,13,New Brunswick,CAN,CAN.4_1,170,2,165,1
+6,NAC,Canada,124,CAN,26/07/2020,13,New Brunswick,CAN,CAN.4_1,170,2,165,1
 6,,Canada,124,CAN,26/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
 6,,Canada,124,CAN,27/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
 6,,Canada,124,CAN,28/01/2020,24,Québec,CAN,CAN.11_1,0,0,0,2
@@ -899,10 +911,13 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,24,Québec,CAN,CAN.11_1,57616,5657,50190,2
 6,NAC,Canada,124,CAN,22/07/2020,24,Québec,CAN,CAN.11_1,57796,5658,50298,2
 6,NAC,Canada,124,CAN,23/07/2020,24,Québec,CAN,CAN.11_1,57938,5662,50373,2
+6,NAC,Canada,124,CAN,24/07/2020,24,Québec,CAN,CAN.11_1,58080,5662,50505,2
+6,NAC,Canada,124,CAN,25/07/2020,24,Québec,CAN,CAN.11_1,58243,5663,50615,2
+6,NAC,Canada,124,CAN,26/07/2020,24,Québec,CAN,CAN.11_1,58414,5666,50713,2
 6,NAC,Canada,124,CAN,26/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
 6,NAC,Canada,124,CAN,27/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
 6,NAC,Canada,124,CAN,28/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
-6,NAC,Canada,124,CAN,29/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
+6,,Canada,124,CAN,29/01/2020,35,Ontario,CAN,CAN.9_1,1,0,0,3
 6,NAC,Canada,124,CAN,30/01/2020,35,Ontario,CAN,CAN.9_1,2,0,0,3
 6,NAC,Canada,124,CAN,31/01/2020,35,Ontario,CAN,CAN.9_1,2,0,0,3
 6,NAC,Canada,124,CAN,01/02/2020,35,Ontario,CAN,CAN.9_1,3,0,0,3
@@ -1079,6 +1094,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,35,Ontario,CAN,CAN.9_1,39553,2795,35014,3
 6,NAC,Canada,124,CAN,22/07/2020,35,Ontario,CAN,CAN.9_1,39718,2798,35096,3
 6,NAC,Canada,124,CAN,23/07/2020,35,Ontario,CAN,CAN.9_1,39824,2799,35259,3
+6,NAC,Canada,124,CAN,24/07/2020,35,Ontario,CAN,CAN.9_1,39936,2799,35381,3
+6,NAC,Canada,124,CAN,25/07/2020,35,Ontario,CAN,CAN.9_1,40341,2800,35767,3
+6,NAC,Canada,124,CAN,26/07/2020,35,Ontario,CAN,CAN.9_1,40457,2802,35880,3
 6,,Canada,124,CAN,26/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
 6,,Canada,124,CAN,27/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
 6,,Canada,124,CAN,28/01/2020,46,Manitoba,CAN,CAN.3_1,0,0,0,4
@@ -1259,6 +1277,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,46,Manitoba,CAN,CAN.3_1,354,7,318,4
 6,NAC,Canada,124,CAN,22/07/2020,46,Manitoba,CAN,CAN.3_1,366,7,318,4
 6,NAC,Canada,124,CAN,23/07/2020,46,Manitoba,CAN,CAN.3_1,374,7,318,4
+6,NAC,Canada,124,CAN,24/07/2020,46,Manitoba,CAN,CAN.3_1,375,7,319,4
+6,NAC,Canada,124,CAN,25/07/2020,46,Manitoba,CAN,CAN.3_1,384,7,319,4
+6,NAC,Canada,124,CAN,26/07/2020,46,Manitoba,CAN,CAN.3_1,388,7,319,4
 6,,Canada,124,CAN,26/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
 6,,Canada,124,CAN,27/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
 6,,Canada,124,CAN,28/01/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
@@ -1304,9 +1325,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,,Canada,124,CAN,08/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
 6,,Canada,124,CAN,09/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
 6,,Canada,124,CAN,10/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
-6,,Canada,124,CAN,11/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
-6,,Canada,124,CAN,12/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
-6,,Canada,124,CAN,13/03/2020,47,Saskatchewan,CAN,CAN.12_1,0,0,0,4
+6,NAC,Canada,124,CAN,11/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+6,,Canada,124,CAN,12/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
+6,,Canada,124,CAN,13/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
 6,NAC,Canada,124,CAN,14/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
 6,,Canada,124,CAN,15/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
 6,,Canada,124,CAN,16/03/2020,47,Saskatchewan,CAN,CAN.12_1,2,0,0,4
@@ -1439,6 +1460,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,47,Saskatchewan,CAN,CAN.12_1,962,15,802,4
 6,NAC,Canada,124,CAN,22/07/2020,47,Saskatchewan,CAN,CAN.12_1,970,15,813,4
 6,NAC,Canada,124,CAN,23/07/2020,47,Saskatchewan,CAN,CAN.12_1,1030,15,825,4
+6,NAC,Canada,124,CAN,24/07/2020,47,Saskatchewan,CAN,CAN.12_1,1072,16,838,4
+6,NAC,Canada,124,CAN,25/07/2020,47,Saskatchewan,CAN,CAN.12_1,1099,16,848,4
+6,NAC,Canada,124,CAN,26/07/2020,47,Saskatchewan,CAN,CAN.12_1,1136,16,862,4
 6,,Canada,124,CAN,26/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
 6,,Canada,124,CAN,27/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
 6,,Canada,124,CAN,28/01/2020,48,Alberta,CAN,CAN.1_1,0,0,0,4
@@ -1619,10 +1643,13 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,48,Alberta,CAN,CAN.1_1,9587,170,8308,4
 6,NAC,Canada,124,CAN,22/07/2020,48,Alberta,CAN,CAN.1_1,9728,172,8363,4
 6,NAC,Canada,124,CAN,23/07/2020,48,Alberta,CAN,CAN.1_1,9728,172,8363,4
+6,NAC,Canada,124,CAN,24/07/2020,48,Alberta,CAN,CAN.1_1,9975,176,8506,4
+6,NAC,Canada,124,CAN,25/07/2020,48,Alberta,CAN,CAN.1_1,10086,178,8567,4
+6,NAC,Canada,124,CAN,26/07/2020,48,Alberta,CAN,CAN.1_1,10086,178,8567,4
 6,,Canada,124,CAN,26/01/2020,59,British Columbia,CAN,CAN.2_1,0,0,0,5
 6,,Canada,124,CAN,27/01/2020,59,British Columbia,CAN,CAN.2_1,0,0,0,5
 6,,Canada,124,CAN,28/01/2020,59,British Columbia,CAN,CAN.2_1,0,0,0,5
-6,,Canada,124,CAN,29/01/2020,59,British Columbia,CAN,CAN.2_1,0,0,0,5
+6,NAC,Canada,124,CAN,29/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
 6,NAC,Canada,124,CAN,30/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
 6,NAC,Canada,124,CAN,31/01/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
 6,NAC,Canada,124,CAN,01/02/2020,59,British Columbia,CAN,CAN.2_1,1,0,0,5
@@ -1799,6 +1826,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,59,British Columbia,CAN,CAN.2_1,3300,189,2858,5
 6,NAC,Canada,124,CAN,22/07/2020,59,British Columbia,CAN,CAN.2_1,3328,189,2873,5
 6,NAC,Canada,124,CAN,23/07/2020,59,British Columbia,CAN,CAN.2_1,3328,189,2873,5
+6,NAC,Canada,124,CAN,24/07/2020,59,British Columbia,CAN,CAN.2_1,3392,190,2898,5
+6,NAC,Canada,124,CAN,25/07/2020,59,British Columbia,CAN,CAN.2_1,3392,190,2898,5
+6,NAC,Canada,124,CAN,26/07/2020,59,British Columbia,CAN,CAN.2_1,3419,191,2934,5
 6,,Canada,124,CAN,26/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
 6,,Canada,124,CAN,27/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
 6,,Canada,124,CAN,28/01/2020,60,Yukon,CAN,CAN.13_1,0,0,0,6
@@ -1979,6 +2009,9 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,60,Yukon,CAN,CAN.13_1,13,0,11,6
 6,NAC,Canada,124,CAN,22/07/2020,60,Yukon,CAN,CAN.13_1,13,0,11,6
 6,NAC,Canada,124,CAN,23/07/2020,60,Yukon,CAN,CAN.13_1,13,0,11,6
+6,NAC,Canada,124,CAN,24/07/2020,60,Yukon,CAN,CAN.13_1,13,0,11,6
+6,NAC,Canada,124,CAN,25/07/2020,60,Yukon,CAN,CAN.13_1,14,0,11,6
+6,NAC,Canada,124,CAN,26/07/2020,60,Yukon,CAN,CAN.13_1,14,0,11,6
 6,,Canada,124,CAN,26/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
 6,,Canada,124,CAN,27/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
 6,,Canada,124,CAN,28/01/2020,61,Northwest Territories,CAN,CAN.6_1,0,0,0,6
@@ -2159,3 +2192,6 @@ country_region,country_region_name,country_name,country_unsd,country_iso,date,pr
 6,NAC,Canada,124,CAN,21/07/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,5,6
 6,NAC,Canada,124,CAN,22/07/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,5,6
 6,NAC,Canada,124,CAN,23/07/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,5,6
+6,NAC,Canada,124,CAN,24/07/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,5,6
+6,NAC,Canada,124,CAN,25/07/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,5,6
+6,NAC,Canada,124,CAN,26/07/2020,61,Northwest Territories,CAN,CAN.6_1,5,0,5,6
