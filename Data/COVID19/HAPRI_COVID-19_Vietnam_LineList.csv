@@ -1,0 +1,432 @@
+id_infected,date_infected,date_recovered,date_relapsed,date_relapsed_recovered,date_death,age,age_group,gender,quarantine_reason,health_status,cluster_infected,flight,district_patient,commune_patient,gid_1_patient,province_patient,district_treatment,commune_treatment,facility_treatment,gid_1_treatment,province_treatment,country_national_name,country_national_region_name,country_national_region,country_national_iso,country_national_unsd,country_returned_name,country_returned_region_name,country_returned_region,country_returned_iso,country_returned_unsd
+379,15/07/2020,,,,,31,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+408,22/07/2020,,,,,42,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+378,15/07/2020,,,,,35,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+402,22/07/2020,,,,,54,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+404,22/07/2020,,,,,49,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+377,15/07/2020,,,,,32,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+337,18/06/2020,14/07/2020,,,,25,4,1,1,1,None,QH9092,Hoằng Hóa,,VNM.57_1,38,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+340,18/06/2020,08/07/2020,,,,33,5,1,1,1,None,QH9092,Yên Thành,,VNM.41_1,40,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+384,20/07/2020,,,,,27,4,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+350,24/06/2020,08/07/2020,,,,36,5,1,1,1,None,QH9092,Hưng Hà,,VNM.55_1,34,TP. Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+380,15/07/2020,,,,,30,4,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+405,22/07/2020,,,,,55,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+338,18/06/2020,17/07/2020,,,,38,5,1,1,1,None,QH9092,Lạng Giang,,VNM.3_1,24,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+403,22/07/2020,,,,,55,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+375,15/07/2020,,,,,51,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+382,17/07/2020,,,,,64,5,1,1,0,None,IO4405,,,,,Vũng Tàu,Phường 1,Bệnh viện Lê Lợi,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+339,18/06/2020,08/07/2020,,,,37,5,1,1,1,None,QH9092,Diễn Châu,,VNM.41_1,40,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+333,12/06/2020,20/06/2020,,,,37,5,1,4,1,None,,Vũng Tàu,Phường 9,VNM.7_1,77,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+336,18/06/2020,07/07/2020,,,,29,4,1,1,1,None,QH9092,Nghi Lộc,,VNM.41_1,40,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+381,15/07/2020,,,,,55,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+374,15/07/2020,,,,,35,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+407,22/07/2020,,,,,46,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+342,18/06/2020,08/07/2020,,,,41,5,1,1,1,None,QH9092,Hương Khê,,VNM.29_1,42,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+341,18/06/2020,08/07/2020,,,,35,5,1,1,1,None,QH9092,Tứ Kỳ,,VNM.22_1,30,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+376,15/07/2020,,,,,35,5,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+406,22/07/2020,,,,,446,,1,1,0,None,IO4405,,,,,Bà Rịa,Long Tâm,Bệnh viện Đa khoa Bà Rịa,VNM.7_1,77,Nga,,,,,Russian Federation,ECS,2,RUS,643
+36,11/03/2020,10/04/2020,24/04/2020,08/05/2020,,64,5,0,3,1,"Phan Thiết, Bình Thuận",,Phan Thiết,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+42,12/03/2020,03/04/2020,,,,28,4,1,3,1,"Phan Thiết, Bình Thuận",,Phan Thiết,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+34,10/03/2020,03/04/2020,,,,51,5,0,4,1,"Phan Thiết, Bình Thuận",QR974,,,,,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+37,11/03/2020,03/04/2020,,,,37,5,0,3,1,"Phan Thiết, Bình Thuận",,Hàm Thuận Bắc,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+43,12/03/2020,03/04/2020,,,,47,5,0,3,1,"Phan Thiết, Bình Thuận",,Phan Thiết,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+38,11/03/2020,03/04/2020,,,,28,4,0,3,1,"Phan Thiết, Bình Thuận",,Phan Thiết,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+40,12/03/2020,03/04/2020,,,,2,1,0,3,1,"Phan Thiết, Bình Thuận",,Phan Thiết,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+41,12/03/2020,03/04/2020,,,,59,5,1,3,1,"Phan Thiết, Bình Thuận",,Phan Thiết,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+44,12/03/2020,10/04/2020,,,,13,2,1,3,1,None,,Hàm Thuận Bắc,,VNM.11_1,60,Phan Thiết,Phú Tài,Bệnh viện Đa khoa tỉnh Bình Thuận,VNM.11_1,60,Viet Nam,EAS,1,VNM,704,,,,,
+241,05/04/2020,19/04/2020,,,,20,3,1,1,1,None,VN0050,Quận 2,Thảo Điền,VNM.25_1,79,Bạc Liêu,Phường 3,Bệnh viện đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+155,27/03/2020,13/04/2020,,,,21,3,0,1,1,None,VN0050,Ân Thi,thôn Trung,VNM.31_1,33,Bạc Liêu,Phường 3,Bệnh viện đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+283,07/05/2020,01/06/2020,,,,20,3,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+272,07/05/2020,01/06/2020,,,,58,5,1,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+372,12/07/2020,,,,,31,5,0,1,0,None,VN5062,Mê Linh,,VNM.27_1,1,Bạc Liêu,Phường 3,Bệnh viện đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+279,07/05/2020,01/06/2020,,,,20,3,1,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+284,07/05/2020,01/06/2020,,,,30,4,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+287,07/05/2020,01/06/2020,,,,28,4,1,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+274,07/05/2020,01/06/2020,,,,.25,1,1,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+282,07/05/2020,25/05/2020,,,,37,5,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+313,15/05/2020,01/06/2020,,,,28,4,1,1,1,VN0088,VN0088,Yên Thành,,VNM.41_1,40,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+273,07/05/2020,01/06/2020,,,,30,4,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+285,07/05/2020,25/05/2020,,,,30,4,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+371,12/07/2020,,,,,36,5,0,1,0,None,VN5062,Nam Sách,,VNM.22_1,30,Bạc Liêu,Phường 3,Bệnh viện đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+277,07/05/2020,25/05/2020,,,,22,3,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+276,07/05/2020,01/06/2020,,,,36,5,1,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+156,27/03/2020,19/04/2020,,,,21,3,1,1,1,None,VN0050,TP Trà Vinh,Phường 7,VNM.59_1,84,Bạc Liêu,Phường 3,Bệnh viện đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+275,07/05/2020,01/06/2020,,,,33,5,1,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+281,07/05/2020,01/06/2020,,,,30,4,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+286,07/05/2020,25/05/2020,,,,23,3,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+288,07/05/2020,01/06/2020,,,,32,5,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+417,25/07/2020,,,,,5,1,0,1,0,None,VN5062,Thái Bình,Hoàng Diệu,VNM.55_1,34,Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+278,07/05/2020,01/06/2020,,,,50,5,0,1,1,VN0088,VN0088,,,VNM.25_1,79,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+280,07/05/2020,01/06/2020,,,,29,4,0,1,1,VN0088,VN0088,,,,,TP. Bạc Liêu,Phường 3,Bệnh viện Đa khoa tỉnh Bạc Liêu,VNM.2_1,95,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+74,18/03/2020,10/04/2020,27/04/2020,05/05/2020,,23,3,1,1,1,None,VN0018,Lâm Thao,TT. Lâm Thao,VNM.44_1,25,Bắc Ninh,Võ Cường,Bệnh viện Đa khoa tỉnh Bắc Ninh,VNM.5_1,27,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+123,23/03/2020,07/04/2020,,,,17,2,0,4,1,None,BI381,Bình Đại,,VNM.6_1,83,Bình Đại,TT. Bình Đại,Trung tâm y tế huyện Bình Đại,VNM.6_1,83,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+373,14/07/2020,,,,,53,5,1,1,0,None,VN5062,Nam Từ Liêm,Mỹ Đình,VNM.27_1,1,Cà Mau,Phường 6,Bệnh viện đa khoa tỉnh Cà Mau,VNM.13_1,96,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+154,27/03/2020,06/04/2020,,,,23,3,0,1,1,None,VN0050,TP Hạ Long,Hồng Hải,VNM.49_1,22,Ô Môn,Phước Thới,Bệnh viện Lao và Bệnh phổi Cần Thơ,VNM.12_1,92,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+145,26/03/2020,15/04/2020,,,,34,5,1,1,1,None,VN0050,Tân Phú,Sơn Kỳ,VNM.25_1,79,Ô Môn,Phước Thới,Bệnh viện Lao và Bệnh phổi Cần Thơ,VNM.12_1,92,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+268,16/04/2020,30/04/2020,,,,16,2,0,4,1,None,,Đồng Văn,Phố Là,VNM.26_1,2,Đồng Văn,TT. Đồng Văn,Bệnh viện Đa khoa huyện Đồng Văn,VNM.26_1,2,Viet Nam,EAS,1,VNM,704,,,,,
+188,29/03/2020,16/04/2020,19/04/2020,23/05/2020,,44,5,0,3,1,Trường Sinh LLP,,Chương Mỹ,Mỹ Lương,VNM.27_1,1,TP Phủ Lý ,Minh Khai ,Bệnh Viện Đa Khoa Hà Nam ,VNM.28_1,35,Viet Nam,EAS,1,VNM,704,,,,,
+168,28/03/2020,16/04/2020,,,,35,5,0,3,1,Trường Sinh LLP,,,,VNM.55_1,34,TP Phủ Lý ,Phương Mai,Bệnh viện Đa Khoa Hà Nam ,VNM.28_1,35,Viet Nam,EAS,1,VNM,704,,,,,
+251,08/04/2020,17/04/2020,,,01/05/2020,64,5,1,4,1,None,,Bình Lục,Bình Nghĩa,VNM.28_1,35,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.28_1,35,Viet Nam,EAS,1,VNM,704,,,,,
+231,03/04/2020,16/04/2020,,,,57,5,0,3,1,Trường Sinh LLP,,Na Rì,Kim Lư,VNM.4_1,6,Phủ Lý,Lương Khánh Thiện,Bệnh viện Đa khoa tỉnh Hà Nam,VNM.28_1,35,Viet Nam,EAS,1,VNM,704,,,,,
+78,19/03/2020,02/04/2020,,,,22,3,1,1,1,None,EK394,Bắc Từ Liêm,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+351,24/06/2020,29/06/2020,,,,46,5,0,1,1,None,KU1513,Như Xuân,,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+113,22/03/2020,30/03/2020,,,,18,3,0,1,1,None,VN054,Hoàn Kiếm,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+208,01/04/2020,14/04/2020,,,,38,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+21,08/03/2020,07/04/2020,,,,61,5,1,4,1,VN0054,VN0054,Ba Đình,Trúc Bạch,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+47,13/03/2020,30/03/2020,,,,43,5,0,3,1,"Trúc Bạch, Hà Nội",,Ba Đình,Trúc Bạch,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+84,19/03/2020,07/04/2020,,,,21,3,1,1,1,VN0054,VN0054,Đống Đa,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+116,23/03/2020,07/04/2020,,,,29,4,1,3,1,None,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+177,29/03/2020,14/04/2020,,,,49,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+39,12/03/2020,30/03/2020,,,,25,4,1,3,1,"Phan Thiết, Bình Thuận",,Cầu Giấy,Dịch Vọng,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+69,18/03/2020,30/03/2020,,,,30,4,1,4,1,SU290,SU290,Hai Bà Trưng,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Germany,ECS,2,DEU,276,Russian Federation,ECS,2,RUS,643
+4,30/01/2020,18/02/2020,,,,29,4,1,4,1,None,CZ8315,Tam Dương,Hợp Hòa,VNM.62_1,26,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới Trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+200,30/03/2020,07/04/2020,,,,61,5,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+267,15/04/2020,04/05/2020,,,,46,5,1,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+361,06/07/2020,20/07/2020,,,,32,5,1,1,1,None,VJ5967,Krông Pa,Phủ Túc,VNM.21_1,64,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+358,06/07/2020,20/07/2020,,,,56,5,1,1,1,None,VJ5967,Long Biên,Thượng Thanh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+50,14/03/2020,14/04/2020,29/04/2020,14/05/2020,,50,5,1,4,1,None,VN0018,Ba Đình,Trúc Bạch,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+352,24/06/2020,29/06/2020,,,,30,4,0,1,1,None,KU1513,Cẩm Thủy,,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+51,14/03/2020,30/03/2020,,,,22,3,0,1,1,None,QR968,Bắc Từ Liêm,Xuân Đỉnh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Châu Âu,,,,
+323,18/05/2020,08/06/2020,,,,19,3,0,1,1,None,VN001,Tân Bình,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+129,24/03/2020,02/04/2020,,,,20,3,1,1,1,VN0054,VN0054,Cầu Giấy,Nghĩa Tân,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+264,13/04/2020,18/05/2020,,,,24,4,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+137,25/03/2020,07/04/2020,24/04/2020,04/05/2020,,36,5,1,1,1,None,,Yên Thành,,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Germany,ECS,2,DEU,276
+28,08/03/2020,13/04/2020,,,,74,6,1,4,1,VN0054,VN0054,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+169,28/03/2020,17/04/2020,,,,49,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+383,19/07/2020,,,,,40,5,1,4,0,None,IPANEMA,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Myanmar,EAS,1,MMR,104,Japan,EAS,1,JPN,392
+110,22/03/2020,30/03/2020,,,,19,3,0,1,1,None,JL751,Đống Đa,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+72,18/03/2020,07/04/2020,,,,25,4,0,4,1,None,VN0018,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,France,ECS,2,FRA,251,France,ECS,2,FRA,251
+269,24/04/2020,11/05/2020,,,,23,3,1,1,1,None,VN311,Việt yên,Hương Mai,VNM.3_1,24,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Japan,EAS,1,JPN,392
+161,27/03/2020,05/05/2020,,,,88,6,0,3,1,Bạch Mai Hospital,,Văn Lâm,Tân Quang,VNM.31_1,33,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+355,27/06/2020,02/07/2020,,,,43,5,0,1,1,None,QH9092 ,Như Xuân,,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+15,11/02/2020,20/02/2020,,,,.25,1,0,3,1,"Sơn Lôi, Vĩnh Phúc",,Bình Xuyên,Quất Lưu,VNM.62_1,26,Đống Đa,Láng Thượng,Bệnh viện Nhi Trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+17,06/03/2020,30/03/2020,,,,26,4,0,4,1,"Trúc Bạch, Hà Nội",VN0054,Ba Đình,Trúc Bạch,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+263,13/04/2020,14/05/2020,,,,45,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+249,07/04/2020,10/04/2020,,,,55,5,1,1,1,None,,Yên Thành,Liên Thành,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+205,31/03/2020,10/04/2020,,,,37,5,1,3,1,Trường Sinh LLP,,Yên Thọ,Yên Định,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+5,30/01/2020,18/02/2020,,,,23,3,0,4,1,None,CZ8315,Bình Xuyên,Sơn Lôi,VNM.62_1,26,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+20,07/03/2020,02/04/2020,,,,27,4,1,3,1,"Trúc Bạch, Hà Nội",,,,,,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới Trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+14,09/02/2020,18/02/2020,,,,55,5,0,3,1,None,,Bình Xuyên,Sơn Lôi,VNM.62_1,26,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+186,29/03/2020,14/04/2020,,,,52,5,0,3,1,None,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,France,ECS,2,FRA,251,,,,,
+141,25/03/2020,14/05/2020,,,,29,4,0,3,1,None,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+218,01/04/2020,11/05/2020,,,,43,5,0,1,1,SU290,SU290,TP. Thái Nguyên,Phú Xá,VNM.56_1,19,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+349,19/06/2020,17/07/2020,,,,12,2,1,1,1,None,VN2,Bắc Từ Liêm,Cổ Nhuế 1,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+71,18/03/2020,30/03/2020,,,,19,3,0,1,1,None,TK164,Hai Bà Trưng,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+162,27/03/2020,08/05/2020,,,,63,5,0,3,1,Bạch Mai Hospital,,Long Biên,Thượng Thanh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+225,02/04/2020,05/05/2020,,,,35,5,1,1,1,SU290,SU290,An Dương,An Đông,VNM.23_1,31,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+85,19/03/2020,30/03/2020,,,,20,3,1,1,1,VN0054,VN0054,Ba Đình,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+29,08/03/2020,30/03/2020,,,,58,5,1,4,1,VN0054,VN0054,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+172,28/03/2020,17/04/2020,,,,35,5,0,3,1,Bạch Mai Hospital,,Quốc Oai,Quốc Oai,VNM.27_1,1,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+258,11/04/2020,25/04/2020,,,,47,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+138,25/03/2020,02/04/2020,,,,23,3,1,1,1,VN0054,VN0054,Đống Đa,Láng Hạ,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+222,02/04/2020,07/04/2020,,,,28,4,0,1,1,None,JL751,Long Biên,Phúc Lợi,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+111,22/03/2020,07/04/2020,,,,25,4,0,1,1,None,VN018,Hải Hậu,,VNM.40_1,36,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+242,06/04/2020,17/04/2020,,,,34,5,0,1,1,SU290,SU290,Cẩm Xuyên ,Cẩm Quan,VNM.29_1,42,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+209,01/04/2020,08/05/2020,,,,55,5,0,3,1,Bạch Mai Hospital,,Long Biên,Đức Giang,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+226,02/04/2020,08/05/2020,,,,22,3,1,1,1,SU290,SU290,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+196,30/03/2020,14/05/2020,,,,34,5,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+363,06/07/2020,20/07/2020,,,,33,5,1,1,1,None,VJ5967,Bình Giang,Thái Học,VNM.22_1,30,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+173,28/03/2020,17/04/2020,,,,43,5,0,1,1,None,,Phúc Yên,Cao Minh,VNM.62_1,26,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+198,30/03/2020,02/04/2020,,,,53,5,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+201,30/03/2020,05/05/2020,,,,23,3,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+140,25/03/2020,30/03/2020,,,,21,3,1,1,1,VN0054,VN0054,Tây Hồ,Quảng An,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+348,19/06/2020,29/06/2020,,,,39,5,1,1,1,None,VN2,Bắc Từ Liêm,Cổ Nhuế 1,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+56,15/03/2020,30/03/2020,,,,30,4,1,4,1,None,,Hoàn Kiếm,Hàng Đào,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+179,29/03/2020,02/04/2020,,,,62,5,0,1,1,None,EK394,Hà Đông,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Arab Emirates,MEA,4,ARE,784
+107,22/03/2020,02/04/2020,,,,25,4,0,3,1,Bạch Mai Hospital,,Thanh Xuân,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+93,21/03/2020,30/03/2020,,,,20,3,1,1,1,SU290,SU290,Đống Đa,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Hungary,ECS,2,HUN,348
+185,29/03/2020,14/05/2020,,,,38,5,1,3,1,Bạch Mai Hospital,,Hoài Đức,Đông La,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+262,13/04/2020,11/05/2020,,,,26,4,1,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+365,06/07/2020,20/07/2020,,,,36,5,1,1,1,None,VJ5967,Yên Định,Quán Lào,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+190,30/03/2020,14/04/2020,,,,49,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+259,12/04/2020,11/05/2020,,,,41,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+212,01/04/2020,08/05/2020,,,,35,5,0,1,1,SU290,SU290,Hưng Hà,Hòa Tiến,VNM.55_1,34,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+221,02/04/2020,17/04/2020,,,,24,4,0,1,1,None,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Canada,NAC,6,CAN,124
+227,02/04/2020,22/04/2020,,,,31,5,1,3,1,Trường Sinh LLP,,Long Biên,Đức Giang,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+366,06/07/2020,20/07/2020,,,,45,5,1,1,1,None,VJ5967,Lâm Thao,Thạch Sơn,VNM.44_1,25,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+94,21/03/2020,10/04/2020,,,,64,5,0,1,1,SU290,SU290,TP. Bắc Giang,Ngô Quyền,VNM.3_1,24,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Czechia,ECS,2,CZE,203
+346,19/06/2020,29/06/2020,,,,6,2,1,1,1,None,VN2,Bắc Từ Liêm,Cổ Nhuế 1,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+237,03/04/2020,10/04/2020,,,,64,5,1,4,1,None,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Sweden,ECS,2,SWE,752,,,,,
+59,16/03/2020,30/03/2020,,,,30,4,0,1,1,None,,Long Biên,Bồ Đề,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+243,06/04/2020,08/05/2020,,,,47,5,1,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+176,29/03/2020,25/04/2020,,,,38,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+319,17/05/2020,10/06/2020,,,,26,4,1,1,1,VN0062,VN0062,Kiến Thụy,,VNM.23_1,31,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+128,24/03/2020,17/04/2020,,,,20,3,1,1,1,VN0054,VN0054,Lê Chân,,VNM.23_1,31,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+220,02/04/2020,14/04/2020,,,,20,3,1,1,1,None,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+232,03/04/2020,14/04/2020,,,,67,6,1,1,1,SU290,SU290,,,VNM.7_1,77,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+163,27/03/2020,05/05/2020,,,,43,5,0,3,1,Bạch Mai Hospital,,Long Biên,Thượng Thanh,VNM.27_1,1,Long Biên,Đức Giang,Bệnh viện Đa khoa Đức Giang,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+347,19/06/2020,10/07/2020,,,,6,2,1,1,1,None,VN2,Bắc Từ Liêm,Cổ Nhuế 1,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+364,06/07/2020,,,,,29,4,1,1,0,None,VJ5967,Đông Hà,Phường 5,VNM.50_1,45,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+334,13/06/2020,16/06/2020,,,,29,4,1,2,1,None,,Bình Tân,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+24,08/03/2020,30/03/2020,,,,67,6,0,4,1,VN0054,VN0054,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Ireland,ECS,2,IRL,372,United Kingdom,ECS,2,GBR,826
+360,06/07/2020,20/07/2020,,,,34,5,1,1,1,None,VJ5967,Quảng Xương,Quảng Nhân,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+46,13/03/2020,30/03/2020,,,,30,4,0,4,1,VN0054,VN0054,Thanh Xuân,Khương Trung,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+115,23/03/2020,14/04/2020,,,,44,5,0,1,1,SU290,SU290,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Czechia,ECS,2,CZE,203
+197,30/03/2020,07/04/2020,,,,41,5,1,3,1,Bạch Mai Hospital,,Thanh Oai,Cự Khê,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+131,24/03/2020,02/04/2020,,,,23,3,1,1,1,SU290,SU290,Bình Chánh,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Spain,ECS,2,ESP,724
+245,06/04/2020,04/05/2020,,,,21,3,0,1,1,SU290,SU290,Quỳnh Lưu,Quỳnh Sơn,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Spain,ECS,2,ESP,724
+8,03/02/2020,13/02/2020,,,,29,4,0,4,1,None,CZ8315,Bình Xuyên,Gia Khánh,VNM.62_1,26,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+184,29/03/2020,22/04/2020,,,,42,5,0,3,1,Trường Sinh LLP,,Diễn Châu,Diễn Vạn,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+244,06/04/2020,14/05/2020,,,,44,5,0,1,1,SU290,SU290,Bố Trạch,Đức Trạch,VNM.46_1,44,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Germany,ECS,2,DEU,276
+250,08/04/2020,11/05/2020,,,,50,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+199,30/03/2020,14/04/2020,,,,57,5,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+413,24/07/2020,,,,,31,5,1,1,0,None,IPANEMA,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Myanmar,EAS,1,MMR,104,Japan,EAS,1,JPN,392
+139,25/03/2020,17/04/2020,,,,24,4,0,1,1,VN0054,VN0054,Hai Bà Trưng,Thanh Nhàn,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+354,27/06/2020,02/07/2020,,,,48,5,0,1,1,None,QH9092 ,Bình Chánh,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+239,04/04/2020,14/04/2020,,,,71,6,1,3,1,Bạch Mai Hospital,,Tam Dương,An Hòa,VNM.62_1,26,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+19,07/03/2020,27/05/2020,,,,64,5,0,3,1,"Trúc Bạch, Hà Nội",,Ba Đình,Trúc Bạch,VNM.27_1,1,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới Trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+9,04/02/2020,13/02/2020,,,,30,4,1,4,1,None,CZ8315,Tam Đảo,Minh Quang,VNM.62_1,26,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+148,26/03/2020,10/04/2020,,,,58,5,1,4,1,None,VN0018,Đống Đa,Ô Chợ Dừa,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,France,ECS,2,FRA,251,France,ECS,2,FRA,251
+70,18/03/2020,30/03/2020,,,,19,3,1,1,1,None,TK164,Thanh Xuân,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+261,13/04/2020,21/05/2020,,,,60,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+174,28/03/2020,17/04/2020,,,,57,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+55,15/03/2020,30/03/2020,,,,35,5,1,1,1,None,VN0018,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Germany,ECS,2,DEU,276,France,ECS,2,FRA,251
+88,20/03/2020,30/03/2020,,,,25,4,0,4,1,None,,Hà Đông,Phúc La,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+183,29/03/2020,17/04/2020,,,,43,5,0,3,1,None,,Cầu Giấy,Trung Hòa,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+219,02/04/2020,17/04/2020,,,,59,5,0,3,1,Bạch Mai Hospital,,,,VNM.31_1,33,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+175,29/03/2020,14/04/2020,,,,57,5,1,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+270,24/04/2020,18/05/2020,,,,22,3,0,1,1,None,VN311,Yên Dũng,Tiến Dũng,VNM.3_1,24,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Japan,EAS,1,JPN,392
+246,07/04/2020,22/04/2020,,,,33,5,1,1,1,SU290,SU290,Yên Thành,,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+77,19/03/2020,30/03/2020,,,,25,4,0,1,1,None,QR976,Thanh Xuân,Nhân Chính,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+217,01/04/2020,17/04/2020,,,,25,4,0,1,1,None,NH857,Nam Đàn,Khánh Sơn 2,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Japan,EAS,1,JPN,392
+324,18/05/2020,27/05/2020,,,,18,3,1,1,1,None,VN001,Tân Bình,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+147,26/03/2020,05/05/2020,,,,19,3,1,1,1,VN0054,VN0054,Cầu Giấy,Yên Hòa,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+112,22/03/2020,30/03/2020,,,,30,4,0,1,1,None,VN018,Hoàn Kiếm,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+193,30/03/2020,14/05/2020,,,,21,3,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+260,12/04/2020,08/05/2020,,,,35,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+187,29/03/2020,30/03/2020,,,,30,4,1,4,1,None,,Tây Hồ,Quảng An,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,USA,NAC,6,USA,842,United Kingdom,ECS,2,GBR,826
+255,09/04/2020,05/05/2020,,,,29,4,1,1,1,SU290,SU290,Bắc Quang,,VNM.26_1,2,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+109,22/03/2020,14/04/2020,,,,42,5,1,1,1,None,TG560,Hoàng Mai,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+27,08/03/2020,30/03/2020,,,,70,6,0,4,1,VN0054,VN0054,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+25,08/03/2020,10/04/2020,,,,50,5,0,4,1,VN0054,VN0054,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+114,23/03/2020,14/04/2020,,,,19,3,1,1,1,None,SQ176,Hoàng Mai,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Netherlands,ECS,2,NLD,528
+132,24/03/2020,02/04/2020,,,,25,4,0,1,1,SU290,SU290,Long Biên,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Spain,ECS,2,ESP,724
+233,03/04/2020,04/05/2020,,,,24,4,0,1,1,SU290,SU290,Diễn Châu,,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+344,19/06/2020,29/06/2020,,,,52,5,1,1,1,None,VN2,Cửa Lò,Nghi Thủy,VNM.41_1,40,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+254,09/04/2020,11/05/2020,,,,51,5,1,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đống Đa,Láng Thượng ,Bệnh viện thận Hà Nội ,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+345,19/06/2020,02/07/2020,,,,39,5,0,1,1,None,VN2,Bắc Từ Liêm,Cổ Nhuế 1,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+367,06/07/2020,17/07/2020,,,,26,4,1,1,1,None,VJ5967,Đông Hòa,,VNM.45_1,54,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+130,24/03/2020,30/03/2020,29/04/2020,08/05/2020,,30,4,1,1,1,SU290,SU290,Bình Chánh,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Spain,ECS,2,ESP,724
+362,06/07/2020,20/07/2020,,,,34,5,1,1,1,None,VJ5967,9,Cát Khánh,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+87,20/03/2020,14/04/2020,,,,34,5,0,3,1,Bạch Mai Hospital,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+194,30/03/2020,10/04/2020,,,,42,5,0,3,1,Trường Sinh LLP,,Đống Đa,Phương Mai,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+202,30/03/2020,10/04/2020,,,,57,5,0,3,1,Trường Sinh LLP,,Mỹ Đức,Hưng Tiến,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+108,22/03/2020,17/04/2020,,,,19,3,1,1,1,None,VN054,Cầu Giấy,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+356,06/07/2020,,,,,42,5,1,1,0,None,VJ5967,4,Phường 6,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+86,20/03/2020,10/04/2020,,,,54,5,0,3,1,Bạch Mai Hospital,,Đống Đa,Phương Mai,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+58,16/03/2020,30/03/2020,,,,26,4,0,1,1,None,,Ba Đình,Điện Biên,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+253,09/04/2020,25/04/2020,,,,41,5,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+368,06/07/2020,17/07/2020,,,,36,5,0,1,1,None,VJ5967,Bình Tân,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+214,01/04/2020,14/04/2020,,,,45,5,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+216,01/04/2020,22/04/2020,,,,48,5,0,1,1,SU290,SU290,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Germany,ECS,2,DEU,276
+26,08/03/2020,14/04/2020,,,,69,6,1,4,1,VN0054,VN0054,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+167,28/03/2020,25/04/2020,,,,20,3,0,4,1,None,,Hoàn Kiếm,Phố Hàng Chiếu,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Denmark,ECS,2,DNK,208,Denmark,ECS,2,DNK,208
+136,25/03/2020,07/04/2020,,,,23,3,0,4,1,None,,Hoàng Mai,Linh Đàm,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+213,01/04/2020,17/04/2020,,,,40,5,0,3,1,Bạch Mai Hospital,,Thanh Oai,Cự Khê,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+76,18/03/2020,02/04/2020,,,,52,5,1,4,1,None,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,France,ECS,2,FRA,251,Turkey,ECS,2,TUR,792
+215,01/04/2020,22/04/2020,,,,31,5,1,3,1,Trường Sinh LLP,,Đống Đa,Phương Mai,VNM.27_1,1,Đống Đa,Phương Đình,Bệnh viện Bệnh nhiệt đới trung ương,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+359,06/07/2020,,,,,35,5,1,1,0,None,VJ5967,Chương Mỹ,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+189,30/03/2020,14/04/2020,,,,46,5,0,3,1,Trường Sinh LLP,,Nông Cống,Tân Quang,VNM.57_1,38,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+369,06/07/2020,20/07/2020,,,,30,4,0,1,1,None,VJ5967,11,,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+63,17/03/2020,02/04/2020,,,,20,3,0,1,1,None,TG564,Cầu Giấy,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+266,14/04/2020,22/04/2020,,,,36,5,0,3,1,Bạch Mai Hospital,,Thường Tín,Dũng Tiến,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+257,10/04/2020,18/05/2020,,,,15,2,0,3,1,"Hạ Lôi, Mê Linh",,Mê Linh,Mê Linh,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+223,02/04/2020,17/04/2020,,,,29,4,0,3,1,Bạch Mai Hospital,,Hải Hậu,,VNM.40_1,36,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+191,30/03/2020,17/04/2020,,,,36,5,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+357,06/07/2020,27/07/2020,,,,55,5,1,1,1,None,VJ5967,Tân BÌnh,Phường 2,VNM.25_1,79,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Bangladesh,SAS,7,BGD,50
+192,30/03/2020,07/04/2020,,,,23,3,0,3,1,Trường Sinh LLP,,,,VNM.27_1,1,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+195,30/03/2020,25/04/2020,,,,41,5,0,3,1,Trường Sinh LLP,,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,,,,,
+256,10/04/2020,11/05/2020,,,,52,5,1,1,1,SU290,SU290,Văn Lâm,Đình Dù,VNM.31_1,33,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+343,19/06/2020,02/07/2020,,,,27,4,0,1,1,None,VN2,Cẩm Phả,Cẩm Thủy,VNM.49_1,22,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,Viet Nam,EAS,1,VNM,704,Phần Lan,,,,
+60,16/03/2020,30/03/2020,,,,29,4,1,4,1,None,VN0018,,,,,Đông Anh,Kim Chung,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,VNM.27_1,1,France,ECS,2,FRA,251,France,ECS,2,FRA,251
+210,01/04/2020,20/04/2020,,,,26,4,0,3,1,None,,Can Lộc,,VNM.29_1,42,Hương Sơn,Tây Sơn,Bệnh viện Đa Khoa Cầu Treo,VNM.29_1,42,Viet Nam,EAS,1,VNM,704,,,,,
+265,13/04/2020,07/05/2020,,,,26,4,1,2,1,None,,,,VNM.29_1,42,Hương Sơn,Cầu Treo,Bệnh viện Đa khoa Cầu Treo,VNM.29_1,42,Viet Nam,EAS,1,VNM,704,Thailand,EAS,1,THA,764
+146,26/03/2020,14/04/2020,,,,17,2,0,3,1,None,,Nghi Lộc,Nghi Thiết,VNM.41_1,40,Hương Sơn,Tây Sơn,Bệnh viện Đa khoa Cầu Treo,VNM.29_1,42,Viet Nam,EAS,1,VNM,704,,,,,
+238,04/04/2020,20/04/2020,,,,17,2,0,2,1,None,,Thạch Hà,TT. Thạch Hà,VNM.29_1,42,Hương Sơn,Tây Sơn,Bệnh viện Đa Khoa Cầu Treo,VNM.29_1,42,Viet Nam,EAS,1,VNM,704,Thailand,EAS,1,THA,764
+399,22/07/2020,,,,,25,4,1,1,0,None,VN5062,Tiên Lữ,Trung Dũng,VNM.31_1,33,Hòa Bình,Đồng Tiến,Bệnh viện Đa khoa tỉnh Hòa Bình,VNM.30_1,17,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+401,22/07/2020,,,,,24,4,1,1,0,None,VN5062,Nam Trực,Điền Xá,VNM.40_1,36,Hòa Bình,Đồng Tiến,Bệnh viện Đa khoa tỉnh Hòa Bình,VNM.30_1,17,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+398,22/07/2020,,,,,25,4,1,1,0,None,VN5062,Ý Yên,Yên Đồng,VNM.40_1,36,Hòa Bình,Đồng Tiến,Bệnh viện Đa khoa tỉnh Hòa Bình,VNM.30_1,17,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+400,22/07/2020,,,,,25,4,1,1,0,None,VN5062,Ba Vì,Tiên Phong,VNM.27_1,1,Hòa Bình,Đồng Tiến,Bệnh viện Đa khoa tỉnh Hòa Bình,VNM.30_1,17,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+314,16/05/2020,05/06/2020,,,,62,5,0,1,1,VN0062,VN0062,Thiệu Hóa,,VNM.57_1,38,TP. Hải Dương,Thanh Trung,Bệnh viện Nhiệt đới tỉnh Hải Dương,VNM.22_1,30,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+397,22/07/2020,,,,,58,5,0,1,0,None,VN1,12,Trương Mỹ Tây,,,Hải Dương,Thanh Trung,Bệnh viện Nhiệt đới tỉnh Hải Dương,VNM.22_1,30,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+73,18/03/2020,02/04/2020,,,,11,2,1,4,1,VN0054,VN0054,Thanh Miện,,VNM.22_1,30,Thanh Miện,TT. Thanh Miện,Trung tâm y tế huyện Thanh Miện,VNM.22_1,30,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+325,24/05/2020,05/06/2020,16/06/2020,,,34,5,0,1,1,VN0062,VN0062,Gia Viễn,,VNM.42_1,37,TP. Hải Dương,Thanh Trung,Bệnh viện Nhiệt đới tỉnh Hải Dương,VNM.22_1,30,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+328,30/05/2020,24/06/2020,,,,1,1,1,1,1,VN0062,VN0062,Thiệu Hóa,,VNM.57_1,38,TP. Hải Dương,Thanh Trung,Bệnh viện Nhiệt đới tỉnh Hải Dương,VNM.22_1,30,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+329,06/06/2020,22/06/2020,,,,22,3,1,1,1,VN0062,VN0062,Thanh Xuân,,VNM.27_1,1,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+79,19/03/2020,29/03/2020,,,,48,5,0,1,1,None,EK392,Đông Hải,,VNM.2_1,95,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+207,31/03/2020,18/04/2020,27/04/2020,12/05/2020,,49,5,1,3,1,Buddha Bar & Grill,,Quận 2,Thảo Điền,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Brazil,LCN,3,BRA,76,,,,,
+321,18/05/2020,10/06/2020,,,,44,5,1,1,1,VN0062,VN0062,Phú Nhuận,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+53,14/03/2020,30/03/2020,,,,53,5,1,4,1,None,QR970,Quận 1,,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,Czechia,ECS,2,CZE,203,Czechia,ECS,2,CZE,203
+119,23/03/2020,07/04/2020,,,,29,4,1,4,1,None,,Bình Thạnh,,VNM.25_1,79,Quận 7,Tân Phú,Bệnh viên Pháp Việt,VNM.25_1,79,USA,NAC,6,USA,842,,,,,
+7,02/02/2020,21/02/2020,,,,74,6,1,4,1,None,CZ660,Quận 3,Phường 5,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới TPHCM,VNM.25_1,79,USA,NAC,6,USA,842,USA,NAC,6,USA,842
+206,31/03/2020,23/04/2020,04/05/2020,,,48,5,1,3,1,Buddha Bar & Grill,,Quận 2,An Phú,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+158,27/03/2020,14/04/2020,,,,45,5,1,3,1,Buddha Bar & Grill,,Quận 2,Đường 42,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới TPHCM,VNM.25_1,79,Brazil,LCN,3,BRA,76,,,,,
+235,03/04/2020,14/04/2020,02/05/2020,,,25,4,1,3,1,Buddha Bar & Grill,,,,,,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,,,,,
+54,15/03/2020,31/03/2020,,,,34,5,1,4,1,None,,,,,,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,Latvia,ECS,2,LVA,428,Spain,ECS,2,ESP,724
+236,03/04/2020,20/04/2020,,,,26,4,0,3,1,Buddha Bar & Grill,,Quận 2,Thảo Điền,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,,,,,
+271,03/05/2020,08/06/2020,,,,37,5,1,1,1,None,AXY2504,,,,,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+224,02/04/2020,20/04/2020,27/04/2020,12/05/2020,,39,5,1,3,1,Buddha Bar & Grill,,Quận 2,Thảo Điền,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Brazil,LCN,3,BRA,76,,,,,
+171,28/03/2020,10/04/2020,,,,19,3,0,4,1,None,,Quận 10,Phường 11,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+90,20/03/2020,29/03/2020,,,,21,3,0,1,1,None,EK392,Bình Thạnh,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Spain,ECS,2,ESP,724
+204,31/03/2020,10/04/2020,05/05/2020,,,10,2,1,1,1,None,TK162,Quận 2,Cát Lái,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Czechia,ECS,2,CZE,203
+99,22/03/2020,03/04/2020,,,,29,4,1,1,1,None,AF258,Bình Thạnh,,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+120,23/03/2020,07/04/2020,,,,27,4,1,3,1,Buddha Bar & Grill,,Quận 2,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Canada,NAC,6,CAN,124,,,,,
+126,24/03/2020,08/04/2020,,,,28,4,1,3,1,Buddha Bar & Grill,,Quận 7,,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện dã chiến Cần Giờ,VNM.25_1,79,South Africa,SSF,8,ZAF,710,,,,,
+89,20/03/2020,30/03/2020,,,,22,3,0,1,1,None,NH831,Quận 7,Tân Kiểng,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Japan,EAS,1,JPN,392
+157,27/03/2020,10/04/2020,04/05/2020,,,31,5,0,3,1,Buddha Bar & Grill,,Quận 4,Phường 13,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,,,,,
+151,26/03/2020,18/04/2020,28/04/2020,12/05/2020,,45,5,0,3,1,Buddha Bar & Grill,,Quận 2,Thảo Điền,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Brazil,LCN,3,BRA,76,,,,,
+2,23/01/2020,29/01/2020,,,,28,4,1,3,1,None,,Bến Lức,Tân Bửu,VNM.39_1,80,Quận 5,Phường 12,Bệnh viện Chợ Rẫy,VNM.25_1,79,China,EAS,1,CHN,156,,,,,
+125,24/03/2020,08/04/2020,,,,22,3,0,3,1,Buddha Bar & Grill,,Quận 7,,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện dã chiến Cần Giờ,VNM.25_1,79,South Africa,SSF,8,ZAF,710,,,,,
+32,10/03/2020,31/03/2020,,,,24,4,0,3,1,None,,,,,,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới TPHCM,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+203,30/03/2020,09/04/2020,,,,35,5,0,1,1,None,TK162,,,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Greece,ECS,2,GRC,300
+66,17/03/2020,29/03/2020,,,,21,3,0,1,1,None,BR395,Quận 7,Phú Mỹ Hưng,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Canada,NAC,6,CAN,124
+97,22/03/2020,18/04/2020,,,,34,5,1,3,1,Buddha Bar & Grill,,Quận 4,,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,,,,,
+353,26/06/2020,10/07/2020,,,,31,5,1,1,1,None,VN9674,Thạch Thất,,VNM.27_1,1,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Cameroon,SSF,8,CMR,120
+160,27/03/2020,07/04/2020,,,,30,4,0,3,1,None,,TP Bảo Lộc,Lộc Phát,VNM.37_1,68,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+143,26/03/2020,07/04/2020,,,,58,5,0,1,1,None,BR395,Tân Phú,Tân Sơn Nhì,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,South Africa,SSF,8,ZAF,710,USA,NAC,6,USA,842
+45,13/03/2020,01/04/2020,,,,25,4,1,3,1,"Phan Thiết, Bình Thuận",,Tân Bình,Phường 7,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+100,22/03/2020,03/04/2020,,,,55,5,1,4,1,None,AK524,Quận 8,,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+92,21/03/2020,14/04/2020,30/04/2020,19/05/2020,,21,3,1,1,1,None,QR970,Đà Lạt,Phường 9,VNM.37_1,68,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+150,26/03/2020,07/04/2020,,,,55,5,1,4,1,None,BR395,Quận 1,Tân Định,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+152,26/03/2020,08/04/2020,,,,27,4,0,3,1,Buddha Bar & Grill,,Tân Phú,Tây Thạnh,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+322,18/05/2020,19/06/2020,,,,31,5,1,1,1,VN0062,VN0062,Phú Nhuận,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+142,26/03/2020,07/04/2020,,,,26,4,1,1,1,None,BR395,Bình Chánh,Tân Túc,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện dã chiến Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+82,19/03/2020,04/04/2020,,,,16,2,0,1,1,None,EK364,Quận 5,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+1,23/01/2020,11/02/2020,,,,66,6,1,4,1,None,,Bến Lức,Tân Bửu,VNM.39_1,80,Quận 5,Phường 12,Bệnh viện Chợ Rẫy,VNM.25_1,79,China,EAS,1,CHN,156,China,EAS,1,CHN,156
+124,24/03/2020,14/04/2020,02/05/2020,,,52,5,1,3,1,Buddha Bar & Grill,,Quận 2,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Brazil,LCN,3,BRA,76,,,,,
+75,18/03/2020,30/03/2020,,,,40,5,0,1,1,None,VN0050,Quận 2,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+326,25/05/2020,09/06/2020,29/06/2020,,,20,3,0,1,1,None,VN008,Bình Thạnh,Phường 19,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+83,19/03/2020,04/04/2020,,,,50,5,0,1,1,None,TK162,Bình Thạnh,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,USA,NAC,6,USA,842,Turkey,ECS,2,TUR,792
+127,24/03/2020,14/04/2020,,,,23,3,1,3,1,Buddha Bar & Grill,,Tân Phú,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+121,23/03/2020,03/04/2020,,,,58,5,1,1,1,None,NH831,Tân Bình,,VNM.25_1,79,Cần Giờ,Cần Thạnh,Bệnh viện dã chiến Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+159,27/03/2020,07/04/2020,,,,33,5,1,3,1,Buddha Bar & Grill,,Quận 2,Thạnh Mỹ Lợi,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới TPHCM,VNM.25_1,79,Brazil,LCN,3,BRA,76,,,,,
+64,17/03/2020,01/04/2020,,,,36,5,0,1,1,None,EK392,Quận 8,Phường 2,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Switzerland,ECS,2,CHE,757
+153,26/03/2020,08/04/2020,,,,60,5,0,1,1,None,VN772,Hải Châu,,VNM.19_1,48,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Australia,EAS,1,AUS,36
+80,19/03/2020,04/04/2020,,,,18,3,1,1,1,None,EK392,Đông Hải,,VNM.2_1,95,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+234,03/04/2020,09/04/2020,,,,69,6,0,1,1,None,VN2106,Buôn Đôn,,VNM.15_1,66,Cần Giờ,Cần Thạnh,Bệnh viện điều trị COVID-19 Cần Giờ,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+98,22/03/2020,07/04/2020,,,,34,5,1,3,1,Buddha Bar & Grill,,Quận 4,,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,,,,,
+48,14/03/2020,01/04/2020,,,,31,5,1,3,1,"Phan Thiết, Bình Thuận",,Quận 10,Phường 14,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+91,20/03/2020,06/07/2020,,,,43,5,1,4,1,Buddha Bar & Grill,,Quận 2,Thảo Điền,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+65,17/03/2020,01/04/2020,04/05/2020,,,28,4,0,3,1,"Phan Thiết, Bình Thuận",,Quận Gò Vấp,Phường 7,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,,,,,
+96,22/03/2020,07/04/2020,,,,21,3,0,1,1,None,EK392,Quận 8,,VNM.25_1,79,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới Trung Ương TPHCM,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+248,07/04/2020,21/04/2020,,,,20,3,1,1,1,None,JL079,,,,,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+335,17/06/2020,01/07/2020,,,,24,4,1,1,1,None,QH9092,Đại Từ,Khôi Kỳ,VNM.56_1,19,Quận 5,Phường 1,Bệnh viện Bệnh nhiệt đới TPHCM,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,Kuwait,MEA,4,KWT,414
+81,19/03/2020,04/04/2020,,,,20,3,1,1,1,None,AF258,Kon Plông,,VNM.34_1,62,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+95,22/03/2020,07/04/2020,,,,20,3,1,1,1,None,AF258,Gò Vấp,,VNM.25_1,79,Củ Chi,Nhuận Đức,Bệnh viện Dã chiến Củ Chi,VNM.25_1,79,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+6,01/02/2020,04/02/2020,,,,25,4,0,3,1,"Sơn Lôi, Vĩnh Phúc",,Vạn Ninh,Vạn Lương,VNM.32_1,56,Diên Khánh,Diên An,Bệnh viện Nhiệt đới tỉnh Khánh Hòa,VNM.32_1,56,Viet Nam,EAS,1,VNM,704,,,,,
+409,23/07/2020,,,,,37,5,0,1,0,None,QH9461,,,,,Phú Quốc,Dương Đông,Trung tâm Y tế huyện Phú Quốc,VNM.33_1,91,Philippines,EAS,1,PHL,608,Rep. of Korea,EAS,1,KOR,410
+133,24/03/2020,17/04/2020,,,,66,6,0,3,1,Bạch Mai Hospital,,TP. Lai Châu,Tân Phong,VNM.36_1,12,TP. Lai Châu,Tân Phong,Bệnh viện Đa khoa tỉnh Lai Châu,VNM.36_1,12,Viet Nam,EAS,1,VNM,704,,,,,
+412,23/07/2020,,,,,49,5,1,1,0,None,VN5062,Đồng Hới,Nam Lý,VNM.46_1,44,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Nga,,,,,,,,,
+387,21/07/2020,,,,,25,4,1,1,0,None,VN5062,Giao Thủy,Giao Thịnh,VNM.40_1,36,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+386,21/07/2020,,,,,53,5,1,1,0,None,VN5062,Phủ Lý,Thanh Tuyền,VNM.28_1,35,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+388,21/07/2020,,,,,24,4,1,1,0,None,VN5062,Cửa Lò,,VNM.41_1,40,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+410,23/07/2020,,,,,225,,1,1,0,None,VN5062,Tiên Lữ,Thụy Lôi,VNM.31_1,33,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Nga,,,,,,,,,
+411,23/07/2020,,,,,30,4,0,1,0,None,VN5062,Việt Trì,Dữu Lận,VNM.44_1,25,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Nga,,,,,,,,,
+385,21/07/2020,,,,,51,5,0,1,0,None,VN5062,Phủ Lý,Thanh Tuyền,VNM.28_1,35,Nam Định,Phường Ngô Quyền,Bệnh viện Đa khoa Nam Định,VNM.40_1,36,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+228,03/04/2020,20/04/2020,,,,29,4,1,1,1,None,,,,VNM.3_1,24,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,,,,,
+389,21/07/2020,,,,,34,5,1,1,0,None,VN5062,Hoằng Hóa,Hoằng Quỳ,VNM.57_1,38,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+211,01/04/2020,16/04/2020,,,,22,3,0,1,1,None,,Đống Đa,Láng Thượng,VNM.27_1,1,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,USA,NAC,6,USA,842
+394,21/07/2020,,,,,25,4,1,1,0,None,VN5062,Trực Ninh,Phương Định,VNM.40_1,36,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+396,21/07/2020,,,,,38,5,1,1,0,None,VN5062,Cam Ranh,Cam Nghĩa,VNM.32_1,56,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+165,28/03/2020,20/04/2020,,,,58,5,1,1,1,VN0054,VN0054,Đông Anh,Tiên Dương,VNM.27_1,1,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+181,29/03/2020,20/04/2020,,,,33,5,1,1,1,None,TG564,,,VNM.27_1,1,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Thailand,EAS,1,THA,764
+415,25/07/2020,,,,,25,4,1,1,0,None,VN5062,Việt Yên,Ninh Sơn,VNM.3_1,24,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+230,03/04/2020,20/04/2020,,,,28,4,0,1,1,None,,,,VNM.29_1,42,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,,,,,
+180,29/03/2020,20/04/2020,,,,27,4,0,1,1,None,,Mỹ Đức,Hợp Thành,VNM.27_1,1,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,France,ECS,2,FRA,251
+391,21/07/2020,,,,,24,4,1,1,0,None,VN5062,Tiên Lãng,Cấp Tiến,VNM.23_1,31,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+166,28/03/2020,04/05/2020,,,,25,4,0,1,1,None,TG564,Lục Nam,Đông Phú,VNM.3_1,24,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Thailand,EAS,1,THA,764
+229,03/04/2020,17/04/2020,,,,30,4,0,1,1,None,,,,VNM.29_1,42,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,,,,,
+240,04/04/2020,20/04/2020,,,,29,4,0,3,1,None,,Lục Nam,,VNM.3_1,24,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Thailand,EAS,1,THA,764
+164,28/03/2020,20/04/2020,,,,23,3,1,1,1,VN0054,VN0054,Rạch Giá,,VNM.33_1,91,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+182,29/03/2020,20/04/2020,,,,19,3,0,1,1,None,VN618,,,VNM.27_1,1,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Switzerland,ECS,2,CHE,757
+18,07/03/2020,20/03/2020,,,,27,4,1,1,1,None,VJ981,,,VNM.55_1,34,Ninh Bình,Tuệ Tĩnh,Bệnh viện Đa khoa tỉnh Ninh Bình,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Rep. of Korea,EAS,1,KOR,410
+390,21/07/2020,,,,,41,5,1,1,0,None,VN5062,Nha Trang,Phước Hải,VNM.32_1,56,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+392,21/07/2020,,,,,24,4,0,1,0,None,VN5062,Hưng Hòa,Độc Lập,VNM.55_1,34,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+393,21/07/2020,,,,,26,4,1,1,0,None,VN5062,Vũ Thư,Trung An,VNM.55_1,34,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+395,21/07/2020,,,,,26,4,1,1,0,None,VN5062,Ứng Hòa,Hồng Quang,VNM.27_1,1,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+170,28/03/2020,04/05/2020,,,,27,4,1,3,1,Bạch Mai Hospital,,Kim Sơn,Định Hóa,VNM.42_1,37,Kim Sơn,Phát Diệm,Bệnh viện Đa khoa huyện Kim Sơn,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,,,,,
+414,25/07/2020,,,,,34,5,1,1,0,None,VN5062,Kiến Thụy,Đại Hợp,VNM.23_1,31,Hoa Lư,Ninh Thắng,Phòng khám Đa khoa khu vực Cầu Yên,VNM.42_1,37,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+61,16/03/2020,01/04/2020,,,,42,5,1,4,1,None,,Thuận Nam,Phước Nam,VNM.43_1,58,Phan Rang - Tháp Chàm,Văn Hải,Bệnh viện Đa khoa tỉnh Ninh Thuận,VNM.43_1,58,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+67,18/03/2020,01/04/2020,,,,36,5,1,4,1,None,,Thuận Nam,Phước Nam,VNM.43_1,58,Phan Rang - Tháp Chàm,Văn Hải,Bệnh viện Đa khoa tỉnh Ninh Thuận,VNM.43_1,58,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+31,09/03/2020,07/04/2020,,,,49,5,1,4,1,VN0054,VN0054,,,,,Đại Lộc,Ái Nghĩa,Bệnh viện Bắc Quảng Nam,VNM.47_1,49,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+57,15/03/2020,05/04/2020,,,,66,6,1,4,1,None,,,,,,,,Bệnh viện đa khoa Trung ương Quảng Nam,VNM.47_1,49,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+330,08/06/2020,21/07/2020,,,,28,4,0,1,1,None,VN319,Cẩm Xuyên,Cẩm Nam,VNM.29_1,42,Núi Thành,Tam Hiệp,Bệnh viện Đa khoa Trung ương Quảng Nam,VNM.47_1,49,Viet Nam,EAS,1,VNM,704,Mexico,LCN,3,MEX,484
+331,08/06/2020,14/07/2020,,,,47,5,0,1,1,None,VN319,5,Phường 12,VNM.25_1,79,Núi Thành,Tam Hiệp,Bệnh viện Đa khoa Trung ương Quảng Nam,VNM.47_1,49,Viet Nam,EAS,1,VNM,704,Mexico,LCN,3,MEX,484
+419,26/07/2020,,,,,17,2,1,3,0,None,,Quảng Ngãi,Phường Quảng Phú,VNM.48_1,51,Bình Sơn,Bình Hải,Trung tâm Y tế huyện Bình Sơn - Cơ sở 2,VNM.48_1,51,Viet Nam,EAS,1,VNM,704,,,,,
+370,11/07/2020,,,,,29,4,1,1,0,None,,,,,,Bình Sơn,Bình Hải,Trung tâm Y tế huyện Bình Sơn - Cơ sở 2,VNM.48_1,51,Serbia,ECS,2,SRB,688,Oman,MEA,4,OMN,512
+52,14/03/2020,16/04/2020,21/04/2020,27/05/2020,,24,4,0,4,1,VN0054,VN0054,Hạ Long,Hồng Hải,VNM.49_1,22,Hạ Long,Hà Khánh,Bệnh viện dã chiến cơ sở 2 Quảng Ninh,VNM.49_1,22,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+62,17/03/2020,30/03/2020,,,,18,3,1,1,1,None,,Hoàn Kiếm,,VNM.27_1,1,Uông Bí,Thanh Sơn,Bệnh viện Việt Nam Thụy Điển,VNM.49_1,22,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+149,26/03/2020,16/04/2020,21/04/2020,22/05/2020,,40,5,1,1,1,None,VN36,Long Biên,,VNM.27_1,1,Hạ Long,Hà Khánh,Bệnh viện dã chiến cơ sở 2 Quảng Ninh,VNM.49_1,22,Viet Nam,EAS,1,VNM,704,Germany,ECS,2,DEU,276
+3,30/01/2020,03/02/2020,,,,25,4,0,4,1,None,CZ8315,Yên Định,Định Hòa,VNM.57_1,38,TP. Thanh Hóa,Tân Sơn,Bệnh viện Đa khoa tỉnh Thanh Hóa,VNM.57_1,38,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+134,24/03/2020,14/05/2020,,,,10,2,1,1,1,None,,Thạch Thất,,VNM.27_1,1,Bỉm Sơn,Lam Sơn,Bệnh viện Đa khoa Bỉm Sơn,VNM.57_1,38,Viet Nam,EAS,1,VNM,704,,,,,
+295,15/05/2020,27/05/2020,,,,26,4,1,1,1,VN0062,VN0062,Long Điền,,VNM.7_1,77,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+300,15/05/2020,08/06/2020,,,,26,4,1,1,1,VN0062,VN0062,Vũ Thư,,VNM.55_1,34,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+306,15/05/2020,08/06/2020,,,,25,4,1,1,1,VN0062,VN0062,Giao Thủy,,VNM.40_1,36,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+310,15/05/2020,08/06/2020,,,,26,4,1,1,1,VN0062,VN0062,Cam Lâm,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+304,15/05/2020,08/06/2020,,,,47,5,1,1,1,VN0062,VN0062,Vĩnh Yên,,VNM.62_1,26,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+317,16/05/2020,03/06/2020,,,,29,4,1,1,1,VN0062,VN0062,Diên Khánh,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+301,15/05/2020,16/06/2020,,,,29,4,1,1,1,VN0062,VN0062,Đồng Hỷ,,VNM.56_1,19,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+298,15/05/2020,12/06/2020,,,,29,4,1,1,1,VN0062,VN0062,Vũ Thư,,VNM.55_1,34,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+299,15/05/2020,02/06/2020,,,,35,5,1,1,1,VN0062,VN0062,Gia Viễn,,VNM.42_1,37,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+293,15/05/2020,05/06/2020,,,,30,4,1,1,1,VN0062,VN0062,Tân Kỳ,,VNM.41_1,40,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+312,15/05/2020,25/05/2020,,,,40,5,0,1,1,VN0062,VN0062,Ba Đình,,VNM.27_1,1,TP. Thái Bình,Lý Bôn,Bệnh viện số 2 tỉnh Quảng Ninh,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+307,15/05/2020,02/06/2020,,,,30,4,1,1,1,VN0062,VN0062,Kỳ Anh,,VNM.29_1,42,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+327,26/05/2020,08/06/2020,,,,31,5,1,1,1,VN0062,VN0062,Nam Định,Nam Vân,VNM.40_1,36,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+291,15/05/2020,27/05/2020,,,,24,4,1,1,1,VN0062,VN0062,Đông Hòa,,VNM.45_1,54,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+289,15/05/2020,08/06/2020,,,,25,4,1,1,1,VN0062,VN0062,Kim Động,,VNM.31_1,33,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+297,15/05/2020,12/06/2020,,,,30,4,1,1,1,VN0062,VN0062,Lê Chân,,VNM.23_1,31,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+290,15/05/2020,10/06/2020,,,,40,5,1,1,1,VN0062,VN0062,Hải An,,VNM.23_1,31,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+318,16/05/2020,03/06/2020,,,,41,5,0,1,1,VN0062,VN0062,Thanh Hóa,,VNM.57_1,38,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+308,15/05/2020,27/05/2020,,,,42,5,1,1,1,VN0062,VN0062,Hải An,,VNM.23_1,31,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+292,15/05/2020,26/06/2020,,,,27,4,1,1,1,VN0062,VN0062,Cam Ranh,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+302,15/05/2020,05/06/2020,,,,25,4,1,1,1,VN0062,VN0062,Vĩnh Bảo,,VNM.23_1,31,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+303,15/05/2020,11/06/2020,,,,48,5,1,1,1,VN0062,VN0062,Cam Ranh,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+294,15/05/2020,02/06/2020,,,,29,4,1,1,1,VN0062,VN0062,Kiến Xương,,VNM.55_1,34,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+305,15/05/2020,03/06/2020,,,,36,5,1,1,1,VN0062,VN0062,Cam Lâm,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+320,17/05/2020,05/06/2020,,,,29,4,1,1,1,VN0062,VN0062,Hải Hậu,,VNM.40_1,36,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+296,15/05/2020,08/06/2020,,,,45,5,1,1,1,VN0062,VN0062,Nha Trang,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+311,15/05/2020,02/06/2020,,,,26,4,1,1,1,VN0062,VN0062,Yên Thành,,VNM.41_1,40,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+309,15/05/2020,03/06/2020,,,,30,4,1,1,1,VN0062,VN0062,Cam Ranh,,VNM.32_1,56,TP. Thái Bình,Lý Bôn,Bệnh viện Đa khoa tỉnh Thái Bình,VNM.55_1,34,Viet Nam,EAS,1,VNM,704,Russian Federation,ECS,2,RUS,643
+178,29/03/2020,11/05/2020,,,,44,5,0,3,1,Trường Sinh LLP,,Đại Từ,Phú Thịnh,VNM.56_1,19,Thái Nguyên,Tân Thịnh,Bệnh viện Lao và Bệnh phổi Thái Nguyên,VNM.56_1,19,Viet Nam,EAS,1,VNM,704,,,,,
+33,10/03/2020,29/03/2020,,,,58,5,1,4,1,None,,Hội An,,VNM.47_1,49,Phong Điền,Phong An,Bệnh viện Trung ương Huế cơ sở 2,VNM.54_1,46,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+30,08/03/2020,07/04/2020,,,,66,6,0,4,1,VN0054,VN0054,,,,,Phong Điền,Phong An,Bệnh viên Trung ương Huế cơ sở 2,VNM.54_1,46,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+49,14/03/2020,31/03/2020,,,,71,6,1,4,1,VN0054,VN0054,,,,,Phong Điền,Phong An,Bệnh viên Trung ương Huế cơ sở 2,VNM.54_1,46,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+106,22/03/2020,17/04/2020,,,,20,3,0,1,1,None,AK575,Châu Phú,,VNM.1_1,89,Châu Thành,Lương Hòa,Bệnh viện Phổi Trà Vinh,VNM.59_1,84,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+144,26/03/2020,17/04/2020,,,,22,3,1,1,1,None,VN0050,Phú Nhuận,Phường 14,VNM.25_1,79,Châu Thành,Lương Hòa,Bệnh viện Phổi Trà Vinh,VNM.59_1,84,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+105,22/03/2020,17/04/2020,,,,35,5,0,1,1,None,AK575,Chợ Mới,,VNM.1_1,89,Châu Thành,Lương Hòa,Bệnh viện Phổi Trà Vinh,VNM.59_1,84,Viet Nam,EAS,1,VNM,704,Malaysia,EAS,1,MYS,458
+252,09/04/2020,22/04/2020,,,,6,2,1,2,1,None,,Quận 5,Phường 12,VNM.25_1,79,TP. Tây Ninh,Phường 3,Bệnh viện Đa khoa Tây Ninh,VNM.53_1,72,Viet Nam,EAS,1,VNM,704,Cambodia,EAS,1,KHM,116
+118,23/03/2020,06/04/2020,,,,23,3,0,2,1,None,,Châu Phú,,VNM.1_1,89,Tây Ninh,Phường 3,Bệnh viện Đa khoa tỉnh Tây Ninh,VNM.53_1,72,Viet Nam,EAS,1,VNM,704,Cambodia,EAS,1,KHM,116
+315,16/05/2020,16/05/2020,,,,39,5,1,2,1,None,,Tân Châu,Tân Thành,VNM.53_1,72,TP. Tây Ninh,Phường 3,Bệnh viện Đa khoa Tây Ninh,VNM.53_1,72,Viet Nam,EAS,1,VNM,704,Cambodia,EAS,1,KHM,116
+117,23/03/2020,06/04/2020,,,,30,4,1,2,1,None,,Tân Hưng,,VNM.39_1,80,Tây Ninh,Phường 3,Bệnh viện Đa khoa tỉnh Tây Ninh,VNM.53_1,72,Viet Nam,EAS,1,VNM,704,Cambodia,EAS,1,KHM,116
+10,04/02/2020,13/02/2020,,,,42,5,0,3,1,"Sơn Lôi, Vĩnh Phúc",,Bình Xuyên,Sơn Lôi,VNM.62_1,26,Bình Xuyên,Minh Quang,Phòng khám Đa khoa khu vực Quảng Hà,VNM.62_1,26,Viet Nam,EAS,1,VNM,704,,,,,
+13,07/02/2020,13/02/2020,,,,29,4,0,4,1,"Sơn Lôi, Vĩnh Phúc",CZ8315,Bình Xuyên,Thiện Kế,VNM.62_1,26,Bình Xuyên,Minh Quang,Phòng khám Đa khoa khu vực Quảng Hà,VNM.62_1,26,Viet Nam,EAS,1,VNM,704,China,EAS,1,CHN,156
+16,13/02/2020,26/02/2020,,,,50,5,1,3,1,"Sơn Lôi, Vĩnh Phúc",,Bình Xuyên,Sơn Lôi,VNM.62_1,26,Bình Xuyên,Minh Quang,Phòng khám Đa khoa khu vực Quảng Hà,VNM.62_1,26,Viet Nam,EAS,1,VNM,704,,,,,
+12,06/02/2020,13/02/2020,,,,16,2,0,3,1,"Sơn Lôi, Vĩnh Phúc",,Bình Xuyên,Sơn Lôi,VNM.62_1,26,Bình Xuyên,Minh Quang,Phòng khám Đa khoa khu vực Quảng Hà,VNM.62_1,26,Viet Nam,EAS,1,VNM,704,,,,,
+11,06/02/2020,13/02/2020,,,,49,5,0,3,1,"Sơn Lôi, Vĩnh Phúc",,Bình Xuyên,Sơn Lôi,VNM.62_1,26,Bình Xuyên,Minh Quang,Phòng khám Đa khoa khu vực Quảng Hà,VNM.62_1,26,Viet Nam,EAS,1,VNM,704,,,,,
+416,25/07/2020,,,,,57,5,1,3,0,None,,Liên Chiểu,Hòa Khánh Bắc,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+23,08/03/2020,27/03/2020,,,,66,6,1,4,1,VN0054,VN0054,,,,,Hải Châu,Đà Nẵng,Bệnh viện Đa khoa Đà Nẵng,VNM.19_1,48,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+122,23/03/2020,06/04/2020,,,,24,4,0,1,1,None,TG947,Can Lộc,,VNM.29_1,42,Hải Châu,Thạch Thang,Bệnh viện Đa khoa Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,Thailand,EAS,1,THA,764
+135,25/03/2020,10/04/2020,,,,27,4,0,1,1,None,PG947,Lê Chân,,VNM.23_1,31,Hải Châu,Thạch Trang,Bệnh viện Đa khoa Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,Denmark,ECS,2,DNK,208
+429,27/07/2020,,,,,53,5,0,3,0,None,,Liên Chiểu,Hòa Hiệp Bắc,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+22,08/03/2020,30/03/2020,11/04/2020,,,60,5,1,4,1,VN0054,VN0054,,,,,Hải Châu,Đà Nẵng,Bệnh viện Đa khoa Đà Nẵng,VNM.19_1,48,United Kingdom,ECS,2,GBR,826,United Kingdom,ECS,2,GBR,826
+427,27/07/2020,,,,,45,5,1,3,0,None,,Hòa Vang,Hòa Phú,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+35,11/03/2020,27/03/2020,,,,29,4,0,3,1,None,,,,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+418,25/07/2020,,,,,61,5,1,3,0,None,,Hải Châu,Phường Thanh Bình,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+68,18/03/2020,04/04/2020,,,,41,5,1,1,1,None,MI632,,,VNM.19_1,48,Sơn Trà,An Hải Bắc,Bệnh viện 199 - Bộ Công An,VNM.19_1,48,USA,NAC,6,USA,842,Netherlands,ECS,2,NLD,528
+424,27/07/2020,,,,,58,5,0,3,0,None,,Thanh Khê,Hòa Khê,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+428,27/07/2020,,,,,70,6,1,3,0,None,,Hội An,Minh An,VNM.47_1,49,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+425,27/07/2020,,,,,24,4,0,3,0,None,,Điện Bàn,Điện Hòa,VNM.47_1,49,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+426,27/07/2020,,,,,62,5,0,3,0,None,,Hòa Vang,Hòa Khương,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+422,27/07/2020,,,,,63,5,1,3,0,None,,Liên Chiểu,Hòa Minh,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+430,27/07/2020,,,,,33,5,0,3,0,None,,Liên Chiểu,Hòa Khánh Nam,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+423,27/07/2020,,,,,41,5,0,3,0,None,,Hòa Vang,Hòa Châu,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+420,26/07/2020,,,,,71,6,0,3,0,None,,Hải Châu,Phường Hòa Cường Nam,VNM.19_1,48,Hải Châu,Tạch Thang,Bệnh viện C Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+431,27/07/2020,,,,,55,5,1,3,0,None,,Liên Chiểu,Hòa Khánh Bắc,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+421,27/07/2020,,,,,26,4,1,3,0,None,,Thanh Khê,Tam Thuận,VNM.19_1,48,Hải Châu,Thạch Thang,Bệnh viện Đà Nẵng,VNM.19_1,48,Viet Nam,EAS,1,VNM,704,,,,,
+247,07/04/2020,24/04/2020,,,,28,4,1,3,1,Buddha Bar & Grill,,Bình Thạnh,Phường 1,VNM.25_1,79,Long Thành,Phước Tân,Bệnh viện Phổi Đồng Nai,VNM.17_1,75,Viet Nam,EAS,1,VNM,704,,,,,
+103,22/03/2020,07/04/2020,,,,22,3,1,1,1,None,VN0050,Phú Nhuận,,VNM.25_1,79,Sa Đéc,Phường 2,Bệnh viện Đa khoa Sa Đéc,VNM.18_1,87,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+102,22/03/2020,07/04/2020,,,,9,2,0,1,1,None,VN0050,Hoàn Kiếm,,VNM.27_1,1,Sa Đéc,Phường 2,Bệnh viện Đa khoa Sa Đéc,VNM.18_1,87,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+104,22/03/2020,07/04/2020,,,,33,5,0,1,1,None,VN0050,Quận 12,,VNM.25_1,79,Sa Đéc,Phường 2,Bệnh viện Đa khoa Sa Đéc,VNM.18_1,87,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+101,22/03/2020,07/04/2020,,,,26,4,0,1,1,None,VN0050,TP. Vũng Tàu,,VNM.7_1,77,Sa Đéc,Phường 2,Bệnh viện Đa khoa Sa Đéc,VNM.18_1,87,Viet Nam,EAS,1,VNM,704,United Kingdom,ECS,2,GBR,826
+316,16/05/2020,01/06/2020,,,,19,3,1,1,1,None,QH9352,,,VNM.19_1,48,TP. Sa Đéc,Phường 2,Bệnh viện Đa khoa Sa Đéc,VNM.18_1,87,Viet Nam,EAS,1,VNM,704,Philippines,EAS,1,PHL,608
+332,08/06/2020,10/07/2020,,,,18,3,1,4,1,None,,Hồng Ngự,Thường Phước,VNM.18_1,87,Hồng Ngự,,Trung tâm Y tế huyện Hồng Ngự,VNM.18_1,87,Viet Nam,EAS,1,VNM,704,Cambodia,EAS,1,KHM,116
